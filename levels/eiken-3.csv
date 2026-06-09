@@ -1,11 +1,81 @@
 id,axis,level_id,spelling,translation,example,example_translation
-eiken-3-abroad,eiken,eiken-3,abroad,海外へ,My sister wants to study abroad.,姉は海外で勉強したがっています。
-eiken-3-culture,eiken,eiken-3,culture,文化,We learned about Japanese culture.,私たちは日本文化について学びました。
-eiken-3-environment,eiken,eiken-3,environment,環境,We should protect the environment.,私たちは環境を守るべきです。
-eiken-3-habit,eiken,eiken-3,habit,習慣,Reading before bed is a good habit.,寝る前の読書は良い習慣です。
-eiken-3-invite,eiken,eiken-3,invite,招待する,I will invite Ken to the party.,ケンをパーティーに招待します。
-eiken-3-neighbor,eiken,eiken-3,neighbor,隣人,Our neighbor has a small dog.,私たちの隣人は小さな犬を飼っています。
-eiken-3-practice,eiken,eiken-3,practice,練習する,She practices tennis after school.,彼女は放課後にテニスを練習します。
-eiken-3-promise,eiken,eiken-3,promise,約束する,I promise to call you tonight.,今夜あなたに電話すると約束します。
-eiken-3-suddenly,eiken,eiken-3,suddenly,突然,It suddenly started to rain.,突然雨が降り始めました。
-eiken-3-traffic,eiken,eiken-3,traffic,交通,Traffic is heavy this morning.,今朝は交通量が多いです。
+eiken-3-abroad,eiken,eiken-3,abroad,海外へ,She answered abroad during the interview.,彼女は面接で海外へ答えました。
+eiken-3-culture,eiken,eiken-3,culture,文化,Students discussed the culture in class.,生徒たちは授業で文化について話し合いました。
+eiken-3-environment,eiken,eiken-3,environment,環境,Students discussed the environment in class.,生徒たちは授業で環境について話し合いました。
+eiken-3-habit,eiken,eiken-3,habit,習慣,Students discussed the habit in class.,生徒たちは授業で習慣について話し合いました。
+eiken-3-invite,eiken,eiken-3,invite,招待する,People can invite the problem through careful action.,人々は慎重な行動でその問題を招待することができます。
+eiken-3-neighbor,eiken,eiken-3,neighbor,隣人,Students discussed the neighbor in class.,生徒たちは授業で隣人について話し合いました。
+eiken-3-practice,eiken,eiken-3,practice,練習する,People can practice the problem through careful action.,人々は慎重な行動でその問題を練習することができます。
+eiken-3-promise,eiken,eiken-3,promise,約束する,People can promise the problem through careful action.,人々は慎重な行動でその問題を約束することができます。
+eiken-3-suddenly,eiken,eiken-3,suddenly,突然,She answered suddenly during the interview.,彼女は面接で突然答えました。
+eiken-3-traffic,eiken,eiken-3,traffic,交通,Students discussed the traffic in class.,生徒たちは授業で交通について話し合いました。
+eiken-3-accident,eiken,eiken-3,accident,事故,Students discussed the accident in class.,生徒たちは授業で事故について話し合いました。
+eiken-3-advice,eiken,eiken-3,advice,助言,Students discussed the advice in class.,生徒たちは授業で助言について話し合いました。
+eiken-3-airport,eiken,eiken-3,airport,空港,Students discussed the airport in class.,生徒たちは授業で空港について話し合いました。
+eiken-3-answer,eiken,eiken-3,answer,答え,Students discussed the answer in class.,生徒たちは授業で答えについて話し合いました。
+eiken-3-birthday,eiken,eiken-3,birthday,誕生日,Students discussed the birthday in class.,生徒たちは授業で誕生日について話し合いました。
+eiken-3-bridge,eiken,eiken-3,bridge,橋,Students discussed the bridge in class.,生徒たちは授業で橋について話し合いました。
+eiken-3-camera,eiken,eiken-3,camera,カメラ,Students discussed the camera in class.,生徒たちは授業でカメラについて話し合いました。
+eiken-3-chance,eiken,eiken-3,chance,機会,Students discussed the chance in class.,生徒たちは授業で機会について話し合いました。
+eiken-3-classroom,eiken,eiken-3,classroom,教室,Students discussed the classroom in class.,生徒たちは授業で教室について話し合いました。
+eiken-3-club,eiken,eiken-3,club,部活動,Students discussed the club in class.,生徒たちは授業で部活動について話し合いました。
+eiken-3-college,eiken,eiken-3,college,大学,Students discussed the college in class.,生徒たちは授業で大学について話し合いました。
+eiken-3-country,eiken,eiken-3,country,国,Students discussed the country in class.,生徒たちは授業で国について話し合いました。
+eiken-3-doctor,eiken,eiken-3,doctor,医師,Students discussed the doctor in class.,生徒たちは授業で医師について話し合いました。
+eiken-3-dream,eiken,eiken-3,dream,夢,Students discussed the dream in class.,生徒たちは授業で夢について話し合いました。
+eiken-3-event,eiken,eiken-3,event,行事,Students discussed the event in class.,生徒たちは授業で行事について話し合いました。
+eiken-3-festival,eiken,eiken-3,festival,祭り,Students discussed the festival in class.,生徒たちは授業で祭りについて話し合いました。
+eiken-3-future,eiken,eiken-3,future,将来,Students discussed the future in class.,生徒たちは授業で将来について話し合いました。
+eiken-3-garbage,eiken,eiken-3,garbage,ごみ,Students discussed the garbage in class.,生徒たちは授業でごみについて話し合いました。
+eiken-3-garden,eiken,eiken-3,garden,庭,Students discussed the garden in class.,生徒たちは授業で庭について話し合いました。
+eiken-3-health,eiken,eiken-3,health,健康,Students discussed the health in class.,生徒たちは授業で健康について話し合いました。
+eiken-3-hobby,eiken,eiken-3,hobby,趣味,Students discussed the hobby in class.,生徒たちは授業で趣味について話し合いました。
+eiken-3-holiday,eiken,eiken-3,holiday,休日,Students discussed the holiday in class.,生徒たちは授業で休日について話し合いました。
+eiken-3-hospital,eiken,eiken-3,hospital,病院,Students discussed the hospital in class.,生徒たちは授業で病院について話し合いました。
+eiken-3-island,eiken,eiken-3,island,島,Students discussed the island in class.,生徒たちは授業で島について話し合いました。
+eiken-3-kitchen,eiken,eiken-3,kitchen,台所,Students discussed the kitchen in class.,生徒たちは授業で台所について話し合いました。
+eiken-3-library,eiken,eiken-3,library,図書館,Students discussed the library in class.,生徒たちは授業で図書館について話し合いました。
+eiken-3-message,eiken,eiken-3,message,伝言,Students discussed the message in class.,生徒たちは授業で伝言について話し合いました。
+eiken-3-museum,eiken,eiken-3,museum,博物館,Students discussed the museum in class.,生徒たちは授業で博物館について話し合いました。
+eiken-3-nature,eiken,eiken-3,nature,自然,Students discussed the nature in class.,生徒たちは授業で自然について話し合いました。
+eiken-3-noise,eiken,eiken-3,noise,騒音,Students discussed the noise in class.,生徒たちは授業で騒音について話し合いました。
+eiken-3-opinion,eiken,eiken-3,opinion,意見,Students discussed the opinion in class.,生徒たちは授業で意見について話し合いました。
+eiken-3-picnic,eiken,eiken-3,picnic,ピクニック,Students discussed the picnic in class.,生徒たちは授業でピクニックについて話し合いました。
+eiken-3-plan,eiken,eiken-3,plan,計画,Students discussed the plan in class.,生徒たちは授業で計画について話し合いました。
+eiken-3-problem,eiken,eiken-3,problem,問題,Students discussed the problem in class.,生徒たちは授業で問題について話し合いました。
+eiken-3-question,eiken,eiken-3,question,質問,Students discussed the question in class.,生徒たちは授業で質問について話し合いました。
+eiken-3-reason,eiken,eiken-3,reason,理由,Students discussed the reason in class.,生徒たちは授業で理由について話し合いました。
+eiken-3-restaurant,eiken,eiken-3,restaurant,レストラン,Students discussed the restaurant in class.,生徒たちは授業でレストランについて話し合いました。
+eiken-3-rule,eiken,eiken-3,rule,規則,Students discussed the rule in class.,生徒たちは授業で規則について話し合いました。
+eiken-3-season,eiken,eiken-3,season,季節,Students discussed the season in class.,生徒たちは授業で季節について話し合いました。
+eiken-3-station,eiken,eiken-3,station,駅,Students discussed the station in class.,生徒たちは授業で駅について話し合いました。
+eiken-3-ticket,eiken,eiken-3,ticket,切符,Students discussed the ticket in class.,生徒たちは授業で切符について話し合いました。
+eiken-3-trip,eiken,eiken-3,trip,旅行,Students discussed the trip in class.,生徒たちは授業で旅行について話し合いました。
+eiken-3-village,eiken,eiken-3,village,村,Students discussed the village in class.,生徒たちは授業で村について話し合いました。
+eiken-3-volunteer,eiken,eiken-3,volunteer,ボランティア,Students discussed the volunteer in class.,生徒たちは授業でボランティアについて話し合いました。
+eiken-3-weather,eiken,eiken-3,weather,天気,Students discussed the weather in class.,生徒たちは授業で天気について話し合いました。
+eiken-3-weekend,eiken,eiken-3,weekend,週末,Students discussed the weekend in class.,生徒たちは授業で週末について話し合いました。
+eiken-3-activity,eiken,eiken-3,activity,活動,Students discussed the activity in class.,生徒たちは授業で活動について話し合いました。
+eiken-3-beautiful,eiken,eiken-3,beautiful,美しい,The topic was beautiful for many students.,その話題は多くの生徒にとって美しいでした。
+eiken-3-careful,eiken,eiken-3,careful,注意深い,The topic was careful for many students.,その話題は多くの生徒にとって注意深いでした。
+eiken-3-clean,eiken,eiken-3,clean,清潔な,The topic was clean for many students.,その話題は多くの生徒にとって清潔なでした。
+eiken-3-famous,eiken,eiken-3,famous,有名な,The topic was famous for many students.,その話題は多くの生徒にとって有名なでした。
+eiken-3-favorite,eiken,eiken-3,favorite,お気に入りの,The topic was favorite for many students.,その話題は多くの生徒にとってお気に入りのでした。
+eiken-3-friendly,eiken,eiken-3,friendly,親しみやすい,The topic was friendly for many students.,その話題は多くの生徒にとって親しみやすいでした。
+eiken-3-important,eiken,eiken-3,important,重要な,The topic was important for many students.,その話題は多くの生徒にとって重要なでした。
+eiken-3-interested,eiken,eiken-3,interested,興味がある,The topic was interested for many students.,その話題は多くの生徒にとって興味があるでした。
+eiken-3-kind,eiken,eiken-3,kind,親切な,The topic was kind for many students.,その話題は多くの生徒にとって親切なでした。
+eiken-3-popular,eiken,eiken-3,popular,人気のある,The topic was popular for many students.,その話題は多くの生徒にとって人気のあるでした。
+eiken-3-quiet,eiken,eiken-3,quiet,静かな,The topic was quiet for many students.,その話題は多くの生徒にとって静かなでした。
+eiken-3-simple,eiken,eiken-3,simple,簡単な,The topic was simple for many students.,その話題は多くの生徒にとって簡単なでした。
+eiken-3-useful,eiken,eiken-3,useful,役に立つ,The topic was useful for many students.,その話題は多くの生徒にとって役に立つでした。
+eiken-3-visit,eiken,eiken-3,visit,訪れる,People can visit the problem through careful action.,人々は慎重な行動でその問題を訪れることができます。
+eiken-3-borrow,eiken,eiken-3,borrow,借りる,People can borrow the problem through careful action.,人々は慎重な行動でその問題を借りることができます。
+eiken-3-choose,eiken,eiken-3,choose,選ぶ,People can choose the problem through careful action.,人々は慎重な行動でその問題を選ぶことができます。
+eiken-3-collect,eiken,eiken-3,collect,集める,People can collect the problem through careful action.,人々は慎重な行動でその問題を集めることができます。
+eiken-3-decide,eiken,eiken-3,decide,決める,People can decide the problem through careful action.,人々は慎重な行動でその問題を決めることができます。
+eiken-3-enjoy,eiken,eiken-3,enjoy,楽しむ,People can enjoy the problem through careful action.,人々は慎重な行動でその問題を楽しむことができます。
+eiken-3-explain,eiken,eiken-3,explain,説明する,People can explain the problem through careful action.,人々は慎重な行動でその問題を説明することができます。
+eiken-3-join,eiken,eiken-3,join,参加する,People can join the problem through careful action.,人々は慎重な行動でその問題を参加することができます。
+eiken-3-learn,eiken,eiken-3,learn,学ぶ,People can learn the problem through careful action.,人々は慎重な行動でその問題を学ぶことができます。
+eiken-3-protect,eiken,eiken-3,protect,守る,People can protect the problem through careful action.,人々は慎重な行動でその問題を守ることができます。

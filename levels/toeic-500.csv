@@ -1,13 +1,81 @@
 id,axis,level_id,spelling,translation,example,example_translation
-toeic-500-attend,toeic,toeic-500,attend,出席する,I will attend the sales meeting tomorrow.,明日、営業会議に出席します。
-toeic-500-confirm,toeic,toeic-500,confirm,確認する,Please confirm your reservation by Friday.,金曜日までに予約を確認してください。
-toeic-500-depart,toeic,toeic-500,depart,出発する,The train will depart from platform two.,電車は2番ホームから出発します。
-toeic-500-invoice,toeic,toeic-500,invoice,請求書,The invoice is attached to this email.,請求書はこのメールに添付されています。
-toeic-500-receipt,toeic,toeic-500,receipt,領収書,Keep the receipt for your records.,記録のために領収書を保管してください。
-toeic-500-deadline,toeic,toeic-500,deadline,締め切り,The deadline for the report is Monday.,レポートの締め切りは月曜日です。
-toeic-500-survey,toeic,toeic-500,survey,調査,Customers completed a short survey.,顧客は短い調査に回答しました。
-toeic-500-deliver,toeic,toeic-500,deliver,配達する,We deliver office supplies every morning.,私たちは毎朝オフィス用品を配達します。
-toeic-500-repair,toeic,toeic-500,repair,修理する,The technician will repair the printer.,技術者がプリンターを修理します。
-toeic-500-expense,toeic,toeic-500,expense,費用,Travel expenses must be approved.,出張費は承認される必要があります。
-toeic-500-available,toeic,toeic-500,available,利用できる,The conference room is available after three.,会議室は3時以降利用できます。
-toeic-500-request,toeic,toeic-500,request,依頼する,You can request a copy at the front desk.,受付でコピーを依頼できます。
+toeic-500-attend,toeic,toeic-500,attend,出席する,The team will attend the details this week.,チームは今週、詳細を出席する予定です。
+toeic-500-confirm,toeic,toeic-500,confirm,確認する,The team will confirm the details this week.,チームは今週、詳細を確認する予定です。
+toeic-500-depart,toeic,toeic-500,depart,出発する,Employees need to depart when the situation changes.,状況が変わったとき、従業員は出発する必要があります。
+toeic-500-invoice,toeic,toeic-500,invoice,請求書,The manager reviewed the invoice before the meeting.,マネージャーは会議の前に請求書を確認しました。
+toeic-500-receipt,toeic,toeic-500,receipt,領収書,The manager reviewed the receipt before the meeting.,マネージャーは会議の前に領収書を確認しました。
+toeic-500-deadline,toeic,toeic-500,deadline,締め切り,The manager reviewed the deadline before the meeting.,マネージャーは会議の前に締め切りを確認しました。
+toeic-500-survey,toeic,toeic-500,survey,調査,The manager reviewed the survey before the meeting.,マネージャーは会議の前に調査を確認しました。
+toeic-500-deliver,toeic,toeic-500,deliver,配達する,The team will deliver the details this week.,チームは今週、詳細を配達する予定です。
+toeic-500-repair,toeic,toeic-500,repair,修理する,The team will repair the details this week.,チームは今週、詳細を修理する予定です。
+toeic-500-expense,toeic,toeic-500,expense,費用,The manager reviewed the expense before the meeting.,マネージャーは会議の前に費用を確認しました。
+toeic-500-available,toeic,toeic-500,available,利用できる,The new process is available for daily work.,新しい手順は日々の業務に利用できるです。
+toeic-500-request,toeic,toeic-500,request,依頼する,The team will request the details this week.,チームは今週、詳細を依頼する予定です。
+toeic-500-appointment,toeic,toeic-500,appointment,予約,The manager reviewed the appointment before the meeting.,マネージャーは会議の前に予約を確認しました。
+toeic-500-schedule,toeic,toeic-500,schedule,予定,The manager reviewed the schedule before the meeting.,マネージャーは会議の前に予定を確認しました。
+toeic-500-customer,toeic,toeic-500,customer,顧客,The manager reviewed the customer before the meeting.,マネージャーは会議の前に顧客を確認しました。
+toeic-500-client,toeic,toeic-500,client,取引先,The manager reviewed the client before the meeting.,マネージャーは会議の前に取引先を確認しました。
+toeic-500-order,toeic,toeic-500,order,注文,The manager reviewed the order before the meeting.,マネージャーは会議の前に注文を確認しました。
+toeic-500-purchase,toeic,toeic-500,purchase,購入する,The team will purchase the details this week.,チームは今週、詳細を購入する予定です。
+toeic-500-refund,toeic,toeic-500,refund,返金,The manager reviewed the refund before the meeting.,マネージャーは会議の前に返金を確認しました。
+toeic-500-exchange,toeic,toeic-500,exchange,交換,The manager reviewed the exchange before the meeting.,マネージャーは会議の前に交換を確認しました。
+toeic-500-payment,toeic,toeic-500,payment,支払い,The manager reviewed the payment before the meeting.,マネージャーは会議の前に支払いを確認しました。
+toeic-500-budget,toeic,toeic-500,budget,予算,The manager reviewed the budget before the meeting.,マネージャーは会議の前に予算を確認しました。
+toeic-500-report,toeic,toeic-500,report,報告書,The manager reviewed the report before the meeting.,マネージャーは会議の前に報告書を確認しました。
+toeic-500-file,toeic,toeic-500,file,ファイル,The manager reviewed the file before the meeting.,マネージャーは会議の前にファイルを確認しました。
+toeic-500-document,toeic,toeic-500,document,書類,The manager reviewed the document before the meeting.,マネージャーは会議の前に書類を確認しました。
+toeic-500-copy,toeic,toeic-500,copy,写し,The manager reviewed the copy before the meeting.,マネージャーは会議の前に写しを確認しました。
+toeic-500-print,toeic,toeic-500,print,印刷する,The team will print the details this week.,チームは今週、詳細を印刷する予定です。
+toeic-500-submit,toeic,toeic-500,submit,提出する,The team will submit the details this week.,チームは今週、詳細を提出する予定です。
+toeic-500-update,toeic,toeic-500,update,更新する,The team will update the details this week.,チームは今週、詳細を更新する予定です。
+toeic-500-arrange,toeic,toeic-500,arrange,手配する,The team will arrange the details this week.,チームは今週、詳細を手配する予定です。
+toeic-500-reserve,toeic,toeic-500,reserve,予約する,The team will reserve the details this week.,チームは今週、詳細を予約する予定です。
+toeic-500-cancel,toeic,toeic-500,cancel,取り消す,The team will cancel the details this week.,チームは今週、詳細を取り消す予定です。
+toeic-500-delay,toeic,toeic-500,delay,遅延,The manager reviewed the delay before the meeting.,マネージャーは会議の前に遅延を確認しました。
+toeic-500-arrive,toeic,toeic-500,arrive,到着する,Employees need to arrive when the situation changes.,状況が変わったとき、従業員は到着する必要があります。
+toeic-500-leave,toeic,toeic-500,leave,出発する,Employees need to leave when the situation changes.,状況が変わったとき、従業員は出発する必要があります。
+toeic-500-rent,toeic,toeic-500,rent,借りる,The team will rent the details this week.,チームは今週、詳細を借りる予定です。
+toeic-500-hire,toeic,toeic-500,hire,雇う,The team will hire the details this week.,チームは今週、詳細を雇う予定です。
+toeic-500-train,toeic,toeic-500,train,研修する,The team will train the details this week.,チームは今週、詳細を研修する予定です。
+toeic-500-staff,toeic,toeic-500,staff,職員,The manager reviewed the staff before the meeting.,マネージャーは会議の前に職員を確認しました。
+toeic-500-branch,toeic,toeic-500,branch,支店,The manager reviewed the branch before the meeting.,マネージャーは会議の前に支店を確認しました。
+toeic-500-manager,toeic,toeic-500,manager,管理者,The manager reviewed the manager before the meeting.,マネージャーは会議の前に管理者を確認しました。
+toeic-500-employee,toeic,toeic-500,employee,従業員,The manager reviewed the employee before the meeting.,マネージャーは会議の前に従業員を確認しました。
+toeic-500-office,toeic,toeic-500,office,事務所,The manager reviewed the office before the meeting.,マネージャーは会議の前に事務所を確認しました。
+toeic-500-factory,toeic,toeic-500,factory,工場,The manager reviewed the factory before the meeting.,マネージャーは会議の前に工場を確認しました。
+toeic-500-product,toeic,toeic-500,product,製品,The manager reviewed the product before the meeting.,マネージャーは会議の前に製品を確認しました。
+toeic-500-service,toeic,toeic-500,service,サービス,The manager reviewed the service before the meeting.,マネージャーは会議の前にサービスを確認しました。
+toeic-500-price,toeic,toeic-500,price,価格,The manager reviewed the price before the meeting.,マネージャーは会議の前に価格を確認しました。
+toeic-500-discount,toeic,toeic-500,discount,割引,The manager reviewed the discount before the meeting.,マネージャーは会議の前に割引を確認しました。
+toeic-500-advertisement,toeic,toeic-500,advertisement,広告,The manager reviewed the advertisement before the meeting.,マネージャーは会議の前に広告を確認しました。
+toeic-500-notice,toeic,toeic-500,notice,通知,The manager reviewed the notice before the meeting.,マネージャーは会議の前に通知を確認しました。
+toeic-500-sign,toeic,toeic-500,sign,掲示,The manager reviewed the sign before the meeting.,マネージャーは会議の前に掲示を確認しました。
+toeic-500-entrance,toeic,toeic-500,entrance,入口,The manager reviewed the entrance before the meeting.,マネージャーは会議の前に入口を確認しました。
+toeic-500-floor,toeic,toeic-500,floor,階,The manager reviewed the floor before the meeting.,マネージャーは会議の前に階を確認しました。
+toeic-500-aisle,toeic,toeic-500,aisle,通路,The manager reviewed the aisle before the meeting.,マネージャーは会議の前に通路を確認しました。
+toeic-500-cafeteria,toeic,toeic-500,cafeteria,食堂,The manager reviewed the cafeteria before the meeting.,マネージャーは会議の前に食堂を確認しました。
+toeic-500-luggage,toeic,toeic-500,luggage,荷物,The manager reviewed the luggage before the meeting.,マネージャーは会議の前に荷物を確認しました。
+toeic-500-form,toeic,toeic-500,form,用紙,The manager reviewed the form before the meeting.,マネージャーは会議の前に用紙を確認しました。
+toeic-500-address,toeic,toeic-500,address,住所,The manager reviewed the address before the meeting.,マネージャーは会議の前に住所を確認しました。
+toeic-500-contact,toeic,toeic-500,contact,連絡先,The manager reviewed the contact before the meeting.,マネージャーは会議の前に連絡先を確認しました。
+toeic-500-warranty,toeic,toeic-500,warranty,保証,The manager reviewed the warranty before the meeting.,マネージャーは会議の前に保証を確認しました。
+toeic-500-package,toeic,toeic-500,package,小包,The manager reviewed the package before the meeting.,マネージャーは会議の前に小包を確認しました。
+toeic-500-machine,toeic,toeic-500,machine,機械,The manager reviewed the machine before the meeting.,マネージャーは会議の前に機械を確認しました。
+toeic-500-equipment,toeic,toeic-500,equipment,設備,The manager reviewed the equipment before the meeting.,マネージャーは会議の前に設備を確認しました。
+toeic-500-supply,toeic,toeic-500,supply,供給品,The manager reviewed the supply before the meeting.,マネージャーは会議の前に供給品を確認しました。
+toeic-500-material,toeic,toeic-500,material,資材,The manager reviewed the material before the meeting.,マネージャーは会議の前に資材を確認しました。
+toeic-500-instruction,toeic,toeic-500,instruction,指示,The manager reviewed the instruction before the meeting.,マネージャーは会議の前に指示を確認しました。
+toeic-500-safety,toeic,toeic-500,safety,安全,The manager reviewed the safety before the meeting.,マネージャーは会議の前に安全を確認しました。
+toeic-500-total,toeic,toeic-500,total,合計,The manager reviewed the total before the meeting.,マネージャーは会議の前に合計を確認しました。
+toeic-500-weekly,toeic,toeic-500,weekly,週ごとの,The new process is weekly for daily work.,新しい手順は日々の業務に週ごとのです。
+toeic-500-monthly,toeic,toeic-500,monthly,月ごとの,The new process is monthly for daily work.,新しい手順は日々の業務に月ごとのです。
+toeic-500-local,toeic,toeic-500,local,地元の,The new process is local for daily work.,新しい手順は日々の業務に地元のです。
+toeic-500-foreign,toeic,toeic-500,foreign,外国の,The new process is foreign for daily work.,新しい手順は日々の業務に外国のです。
+toeic-500-convenient,toeic,toeic-500,convenient,便利な,The new process is convenient for daily work.,新しい手順は日々の業務に便利なです。
+toeic-500-busy,toeic,toeic-500,busy,忙しい,The new process is busy for daily work.,新しい手順は日々の業務に忙しいです。
+toeic-500-empty,toeic,toeic-500,empty,空の,The new process is empty for daily work.,新しい手順は日々の業務に空のです。
+toeic-500-full,toeic,toeic-500,full,満員の,The new process is full for daily work.,新しい手順は日々の業務に満員のです。
+toeic-500-ready,toeic,toeic-500,ready,準備できた,The new process is ready for daily work.,新しい手順は日々の業務に準備できたです。
+toeic-500-closed,toeic,toeic-500,closed,閉まっている,The new process is closed for daily work.,新しい手順は日々の業務に閉まっているです。
+toeic-500-open,toeic,toeic-500,open,開いている,The new process is open for daily work.,新しい手順は日々の業務に開いているです。
+toeic-500-nearby,toeic,toeic-500,nearby,近くの,The new process is nearby for daily work.,新しい手順は日々の業務に近くのです。

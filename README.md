@@ -16,6 +16,12 @@ This repository hosts public CSV files consumed by the WordGate iOS app.
 
 Each level is published as a standalone CSV under `levels/`.
 
+Each level currently contains 80 original entries. Run this command after editing the generator:
+
+```bash
+python3 VocabularyCSV/generate_vocabulary_csv.py
+```
+
 The app downloads:
 
 ```text

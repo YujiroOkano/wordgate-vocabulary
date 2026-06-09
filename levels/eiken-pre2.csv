@@ -1,11 +1,81 @@
 id,axis,level_id,spelling,translation,example,example_translation
-eiken-pre2-affect,eiken,eiken-pre2,affect,影響を与える,Weather can affect our mood.,天気は私たちの気分に影響を与えることがあります。
-eiken-pre2-benefit,eiken,eiken-pre2,benefit,利益,Exercise has many health benefits.,運動には多くの健康上の利益があります。
-eiken-pre2-community,eiken,eiken-pre2,community,地域社会,The community cleaned the park.,地域社会が公園を清掃しました。
-eiken-pre2-consider,eiken,eiken-pre2,consider,よく考える,Please consider my idea.,私の考えをよく考えてください。
-eiken-pre2-efficient,eiken,eiken-pre2,efficient,効率的な,This machine is very efficient.,この機械はとても効率的です。
-eiken-pre2-factor,eiken,eiken-pre2,factor,要因,Price is an important factor.,価格は重要な要因です。
-eiken-pre2-opinion,eiken,eiken-pre2,opinion,意見,Everyone has a different opinion.,誰もが異なる意見を持っています。
-eiken-pre2-provide,eiken,eiken-pre2,provide,提供する,The school provides lunch.,学校は昼食を提供します。
-eiken-pre2-reduce,eiken,eiken-pre2,reduce,減らす,We need to reduce food waste.,食品ロスを減らす必要があります。
-eiken-pre2-solution,eiken,eiken-pre2,solution,解決策,We found a solution to the problem.,私たちはその問題の解決策を見つけました。
+eiken-pre2-affect,eiken,eiken-pre2,affect,影響を与える,People can affect the problem through careful action.,人々は慎重な行動でその問題を影響を与えることができます。
+eiken-pre2-benefit,eiken,eiken-pre2,benefit,利益,Students discussed the benefit in class.,生徒たちは授業で利益について話し合いました。
+eiken-pre2-community,eiken,eiken-pre2,community,地域社会,Students discussed the community in class.,生徒たちは授業で地域社会について話し合いました。
+eiken-pre2-consider,eiken,eiken-pre2,consider,よく考える,People can consider the problem through careful action.,人々は慎重な行動でその問題をよく考えることができます。
+eiken-pre2-efficient,eiken,eiken-pre2,efficient,効率的な,The topic was efficient for many students.,その話題は多くの生徒にとって効率的なでした。
+eiken-pre2-factor,eiken,eiken-pre2,factor,要因,Students discussed the factor in class.,生徒たちは授業で要因について話し合いました。
+eiken-pre2-provide,eiken,eiken-pre2,provide,提供する,People can provide the problem through careful action.,人々は慎重な行動でその問題を提供することができます。
+eiken-pre2-reduce,eiken,eiken-pre2,reduce,減らす,People can reduce the problem through careful action.,人々は慎重な行動でその問題を減らすことができます。
+eiken-pre2-solution,eiken,eiken-pre2,solution,解決策,Students discussed the solution in class.,生徒たちは授業で解決策について話し合いました。
+eiken-pre2-actually,eiken,eiken-pre2,actually,実際に,She answered actually during the interview.,彼女は面接で実際に答えました。
+eiken-pre2-advantage,eiken,eiken-pre2,advantage,利点,Students discussed the advantage in class.,生徒たちは授業で利点について話し合いました。
+eiken-pre2-article,eiken,eiken-pre2,article,記事,Students discussed the article in class.,生徒たちは授業で記事について話し合いました。
+eiken-pre2-behavior,eiken,eiken-pre2,behavior,行動,Students discussed the behavior in class.,生徒たちは授業で行動について話し合いました。
+eiken-pre2-communication,eiken,eiken-pre2,communication,意思疎通,Students discussed the communication in class.,生徒たちは授業で意思疎通について話し合いました。
+eiken-pre2-comparison,eiken,eiken-pre2,comparison,比較,Students discussed the comparison in class.,生徒たちは授業で比較について話し合いました。
+eiken-pre2-condition,eiken,eiken-pre2,condition,状態,Students discussed the condition in class.,生徒たちは授業で状態について話し合いました。
+eiken-pre2-confidence,eiken,eiken-pre2,confidence,自信,Students discussed the confidence in class.,生徒たちは授業で自信について話し合いました。
+eiken-pre2-custom,eiken,eiken-pre2,custom,習慣,Students discussed the custom in class.,生徒たちは授業で習慣について話し合いました。
+eiken-pre2-development,eiken,eiken-pre2,development,発展,Students discussed the development in class.,生徒たちは授業で発展について話し合いました。
+eiken-pre2-education,eiken,eiken-pre2,education,教育,Students discussed the education in class.,生徒たちは授業で教育について話し合いました。
+eiken-pre2-experience,eiken,eiken-pre2,experience,経験,Students discussed the experience in class.,生徒たちは授業で経験について話し合いました。
+eiken-pre2-generation,eiken,eiken-pre2,generation,世代,Students discussed the generation in class.,生徒たちは授業で世代について話し合いました。
+eiken-pre2-government,eiken,eiken-pre2,government,政府,Students discussed the government in class.,生徒たちは授業で政府について話し合いました。
+eiken-pre2-information,eiken,eiken-pre2,information,情報,Students discussed the information in class.,生徒たちは授業で情報について話し合いました。
+eiken-pre2-knowledge,eiken,eiken-pre2,knowledge,知識,Students discussed the knowledge in class.,生徒たちは授業で知識について話し合いました。
+eiken-pre2-population,eiken,eiken-pre2,population,人口,Students discussed the population in class.,生徒たちは授業で人口について話し合いました。
+eiken-pre2-purpose,eiken,eiken-pre2,purpose,目的,Students discussed the purpose in class.,生徒たちは授業で目的について話し合いました。
+eiken-pre2-research,eiken,eiken-pre2,research,研究,Students discussed the research in class.,生徒たちは授業で研究について話し合いました。
+eiken-pre2-responsibility,eiken,eiken-pre2,responsibility,責任,Students discussed the responsibility in class.,生徒たちは授業で責任について話し合いました。
+eiken-pre2-society,eiken,eiken-pre2,society,社会,Students discussed the society in class.,生徒たちは授業で社会について話し合いました。
+eiken-pre2-technology,eiken,eiken-pre2,technology,技術,Students discussed the technology in class.,生徒たちは授業で技術について話し合いました。
+eiken-pre2-tradition,eiken,eiken-pre2,tradition,伝統,Students discussed the tradition in class.,生徒たちは授業で伝統について話し合いました。
+eiken-pre2-waste,eiken,eiken-pre2,waste,廃棄物,Students discussed the waste in class.,生徒たちは授業で廃棄物について話し合いました。
+eiken-pre2-ability,eiken,eiken-pre2,ability,能力,Students discussed the ability in class.,生徒たちは授業で能力について話し合いました。
+eiken-pre2-challenge,eiken,eiken-pre2,challenge,課題,Students discussed the challenge in class.,生徒たちは授業で課題について話し合いました。
+eiken-pre2-opportunity,eiken,eiken-pre2,opportunity,機会,Students discussed the opportunity in class.,生徒たちは授業で機会について話し合いました。
+eiken-pre2-relationship,eiken,eiken-pre2,relationship,関係,Students discussed the relationship in class.,生徒たちは授業で関係について話し合いました。
+eiken-pre2-skill,eiken,eiken-pre2,skill,技能,Students discussed the skill in class.,生徒たちは授業で技能について話し合いました。
+eiken-pre2-support,eiken,eiken-pre2,support,支援,Students discussed the support in class.,生徒たちは授業で支援について話し合いました。
+eiken-pre2-allow,eiken,eiken-pre2,allow,許す,People can allow the problem through careful action.,人々は慎重な行動でその問題を許すことができます。
+eiken-pre2-avoid,eiken,eiken-pre2,avoid,避ける,People can avoid the problem through careful action.,人々は慎重な行動でその問題を避けることができます。
+eiken-pre2-continue,eiken,eiken-pre2,continue,続く,The situation may continue over time.,状況は時間とともに続くかもしれません。
+eiken-pre2-create,eiken,eiken-pre2,create,作り出す,People can create the problem through careful action.,人々は慎重な行動でその問題を作り出すことができます。
+eiken-pre2-depend,eiken,eiken-pre2,depend,依存する,The situation may depend over time.,状況は時間とともに依存するかもしれません。
+eiken-pre2-describe,eiken,eiken-pre2,describe,説明する,People can describe the problem through careful action.,人々は慎重な行動でその問題を説明することができます。
+eiken-pre2-discover,eiken,eiken-pre2,discover,発見する,People can discover the problem through careful action.,人々は慎重な行動でその問題を発見することができます。
+eiken-pre2-discuss,eiken,eiken-pre2,discuss,話し合う,People can discuss the problem through careful action.,人々は慎重な行動でその問題を話し合うことができます。
+eiken-pre2-encourage,eiken,eiken-pre2,encourage,励ます,People can encourage the problem through careful action.,人々は慎重な行動でその問題を励ますことができます。
+eiken-pre2-increase,eiken,eiken-pre2,increase,増える,The situation may increase over time.,状況は時間とともに増えるかもしれません。
+eiken-pre2-introduce,eiken,eiken-pre2,introduce,紹介する,People can introduce the problem through careful action.,人々は慎重な行動でその問題を紹介することができます。
+eiken-pre2-offer,eiken,eiken-pre2,offer,提供する,People can offer the problem through careful action.,人々は慎重な行動でその問題を提供することができます。
+eiken-pre2-prepare,eiken,eiken-pre2,prepare,準備する,People can prepare the problem through careful action.,人々は慎重な行動でその問題を準備することができます。
+eiken-pre2-receive,eiken,eiken-pre2,receive,受け取る,People can receive the problem through careful action.,人々は慎重な行動でその問題を受け取ることができます。
+eiken-pre2-recycle,eiken,eiken-pre2,recycle,リサイクルする,People can recycle the problem through careful action.,人々は慎重な行動でその問題をリサイクルすることができます。
+eiken-pre2-share,eiken,eiken-pre2,share,共有する,People can share the problem through careful action.,人々は慎重な行動でその問題を共有することができます。
+eiken-pre2-succeed,eiken,eiken-pre2,succeed,成功する,The situation may succeed over time.,状況は時間とともに成功するかもしれません。
+eiken-pre2-understand,eiken,eiken-pre2,understand,理解する,People can understand the problem through careful action.,人々は慎重な行動でその問題を理解することができます。
+eiken-pre2-improve,eiken,eiken-pre2,improve,改善する,People can improve the problem through careful action.,人々は慎重な行動でその問題を改善することができます。
+eiken-pre2-produce,eiken,eiken-pre2,produce,生産する,People can produce the problem through careful action.,人々は慎重な行動でその問題を生産することができます。
+eiken-pre2-active,eiken,eiken-pre2,active,活発な,The topic was active for many students.,その話題は多くの生徒にとって活発なでした。
+eiken-pre2-common,eiken,eiken-pre2,common,一般的な,The topic was common for many students.,その話題は多くの生徒にとって一般的なでした。
+eiken-pre2-correct,eiken,eiken-pre2,correct,正しい,The topic was correct for many students.,その話題は多くの生徒にとって正しいでした。
+eiken-pre2-effective,eiken,eiken-pre2,effective,効果的な,The topic was effective for many students.,その話題は多くの生徒にとって効果的なでした。
+eiken-pre2-necessary,eiken,eiken-pre2,necessary,必要な,The topic was necessary for many students.,その話題は多くの生徒にとって必要なでした。
+eiken-pre2-natural,eiken,eiken-pre2,natural,自然な,The topic was natural for many students.,その話題は多くの生徒にとって自然なでした。
+eiken-pre2-possible,eiken,eiken-pre2,possible,可能な,The topic was possible for many students.,その話題は多くの生徒にとって可能なでした。
+eiken-pre2-public,eiken,eiken-pre2,public,公共の,The topic was public for many students.,その話題は多くの生徒にとって公共のでした。
+eiken-pre2-serious,eiken,eiken-pre2,serious,深刻な,The topic was serious for many students.,その話題は多くの生徒にとって深刻なでした。
+eiken-pre2-similar,eiken,eiken-pre2,similar,似ている,The topic was similar for many students.,その話題は多くの生徒にとって似ているでした。
+eiken-pre2-social,eiken,eiken-pre2,social,社会の,The topic was social for many students.,その話題は多くの生徒にとって社会のでした。
+eiken-pre2-traditional,eiken,eiken-pre2,traditional,伝統的な,The topic was traditional for many students.,その話題は多くの生徒にとって伝統的なでした。
+eiken-pre2-recently,eiken,eiken-pre2,recently,最近,She answered recently during the interview.,彼女は面接で最近答えました。
+eiken-pre2-especially,eiken,eiken-pre2,especially,特に,She answered especially during the interview.,彼女は面接で特に答えました。
+eiken-pre2-probably,eiken,eiken-pre2,probably,おそらく,She answered probably during the interview.,彼女は面接でおそらく答えました。
+eiken-pre2-clearly,eiken,eiken-pre2,clearly,はっきりと,She answered clearly during the interview.,彼女は面接ではっきりと答えました。
+eiken-pre2-gradually,eiken,eiken-pre2,gradually,徐々に,She answered gradually during the interview.,彼女は面接で徐々に答えました。
+eiken-pre2-global,eiken,eiken-pre2,global,世界的な,The topic was global for many students.,その話題は多くの生徒にとって世界的なでした。
+eiken-pre2-available,eiken,eiken-pre2,available,利用できる,The topic was available for many students.,その話題は多くの生徒にとって利用できるでした。
+eiken-pre2-independent,eiken,eiken-pre2,independent,自立した,The topic was independent for many students.,その話題は多くの生徒にとって自立したでした。
+eiken-pre2-regularly,eiken,eiken-pre2,regularly,定期的に,She answered regularly during the interview.,彼女は面接で定期的に答えました。

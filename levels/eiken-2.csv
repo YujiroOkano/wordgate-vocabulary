@@ -1,11 +1,81 @@
 id,axis,level_id,spelling,translation,example,example_translation
-eiken-2-acquire,eiken,eiken-2,acquire,習得する,It takes time to acquire a new language.,新しい言語を習得するには時間がかかります。
-eiken-2-alternative,eiken,eiken-2,alternative,代替案,We need an alternative plan.,代替案が必要です。
-eiken-2-analyze,eiken,eiken-2,analyze,分析する,Students analyze the survey results.,学生は調査結果を分析します。
-eiken-2-contribute,eiken,eiken-2,contribute,貢献する,Volunteers contribute to the local community.,ボランティアは地域社会に貢献します。
-eiken-2-estimate,eiken,eiken-2,estimate,見積もる,They estimated the cost of repairs.,彼らは修理費を見積もりました。
-eiken-2-impact,eiken,eiken-2,impact,影響,The policy had a strong impact.,その政策は強い影響を与えました。
-eiken-2-maintain,eiken,eiken-2,maintain,維持する,We should maintain a healthy lifestyle.,健康的な生活習慣を維持すべきです。
-eiken-2-perspective,eiken,eiken-2,perspective,視点,Try to see the issue from another perspective.,別の視点からその問題を見てみてください。
-eiken-2-resource,eiken,eiken-2,resource,資源,Water is a valuable resource.,水は貴重な資源です。
-eiken-2-significant,eiken,eiken-2,significant,重要な,The discovery was significant.,その発見は重要でした。
+eiken-2-acquire,eiken,eiken-2,acquire,習得する,People can acquire the problem through careful action.,人々は慎重な行動でその問題を習得することができます。
+eiken-2-alternative,eiken,eiken-2,alternative,代替案,Students discussed the alternative in class.,生徒たちは授業で代替案について話し合いました。
+eiken-2-analyze,eiken,eiken-2,analyze,分析する,People can analyze the problem through careful action.,人々は慎重な行動でその問題を分析することができます。
+eiken-2-contribute,eiken,eiken-2,contribute,貢献する,People can contribute the problem through careful action.,人々は慎重な行動でその問題を貢献することができます。
+eiken-2-estimate,eiken,eiken-2,estimate,見積もる,People can estimate the problem through careful action.,人々は慎重な行動でその問題を見積もることができます。
+eiken-2-impact,eiken,eiken-2,impact,影響,Students discussed the impact in class.,生徒たちは授業で影響について話し合いました。
+eiken-2-maintain,eiken,eiken-2,maintain,維持する,People can maintain the problem through careful action.,人々は慎重な行動でその問題を維持することができます。
+eiken-2-perspective,eiken,eiken-2,perspective,視点,Students discussed the perspective in class.,生徒たちは授業で視点について話し合いました。
+eiken-2-resource,eiken,eiken-2,resource,資源,Students discussed the resource in class.,生徒たちは授業で資源について話し合いました。
+eiken-2-significant,eiken,eiken-2,significant,重要な,The topic was significant for many students.,その話題は多くの生徒にとって重要なでした。
+eiken-2-access,eiken,eiken-2,access,利用機会,Students discussed the access in class.,生徒たちは授業で利用機会について話し合いました。
+eiken-2-agriculture,eiken,eiken-2,agriculture,農業,Students discussed the agriculture in class.,生徒たちは授業で農業について話し合いました。
+eiken-2-aspect,eiken,eiken-2,aspect,側面,Students discussed the aspect in class.,生徒たちは授業で側面について話し合いました。
+eiken-2-assumption,eiken,eiken-2,assumption,仮定,Students discussed the assumption in class.,生徒たちは授業で仮定について話し合いました。
+eiken-2-climate,eiken,eiken-2,climate,気候,Students discussed the climate in class.,生徒たちは授業で気候について話し合いました。
+eiken-2-consequence,eiken,eiken-2,consequence,結果,Students discussed the consequence in class.,生徒たちは授業で結果について話し合いました。
+eiken-2-economy,eiken,eiken-2,economy,経済,Students discussed the economy in class.,生徒たちは授業で経済について話し合いました。
+eiken-2-employment,eiken,eiken-2,employment,雇用,Students discussed the employment in class.,生徒たちは授業で雇用について話し合いました。
+eiken-2-evidence,eiken,eiken-2,evidence,証拠,Students discussed the evidence in class.,生徒たちは授業で証拠について話し合いました。
+eiken-2-habitat,eiken,eiken-2,habitat,生息地,Students discussed the habitat in class.,生徒たちは授業で生息地について話し合いました。
+eiken-2-income,eiken,eiken-2,income,収入,Students discussed the income in class.,生徒たちは授業で収入について話し合いました。
+eiken-2-industry,eiken,eiken-2,industry,産業,Students discussed the industry in class.,生徒たちは授業で産業について話し合いました。
+eiken-2-issue,eiken,eiken-2,issue,問題,Students discussed the issue in class.,生徒たちは授業で問題について話し合いました。
+eiken-2-majority,eiken,eiken-2,majority,大多数,Students discussed the majority in class.,生徒たちは授業で大多数について話し合いました。
+eiken-2-method,eiken,eiken-2,method,方法,Students discussed the method in class.,生徒たちは授業で方法について話し合いました。
+eiken-2-minority,eiken,eiken-2,minority,少数派,Students discussed the minority in class.,生徒たちは授業で少数派について話し合いました。
+eiken-2-policy,eiken,eiken-2,policy,政策,Students discussed the policy in class.,生徒たちは授業で政策について話し合いました。
+eiken-2-pollution,eiken,eiken-2,pollution,汚染,Students discussed the pollution in class.,生徒たちは授業で汚染について話し合いました。
+eiken-2-poverty,eiken,eiken-2,poverty,貧困,Students discussed the poverty in class.,生徒たちは授業で貧困について話し合いました。
+eiken-2-quality,eiken,eiken-2,quality,質,Students discussed the quality in class.,生徒たちは授業で質について話し合いました。
+eiken-2-region,eiken,eiken-2,region,地域,Students discussed the region in class.,生徒たちは授業で地域について話し合いました。
+eiken-2-risk,eiken,eiken-2,risk,危険,Students discussed the risk in class.,生徒たちは授業で危険について話し合いました。
+eiken-2-shortage,eiken,eiken-2,shortage,不足,Students discussed the shortage in class.,生徒たちは授業で不足について話し合いました。
+eiken-2-source,eiken,eiken-2,source,源,Students discussed the source in class.,生徒たちは授業で源について話し合いました。
+eiken-2-trend,eiken,eiken-2,trend,傾向,Students discussed the trend in class.,生徒たちは授業で傾向について話し合いました。
+eiken-2-value,eiken,eiken-2,value,価値,Students discussed the value in class.,生徒たちは授業で価値について話し合いました。
+eiken-2-vehicle,eiken,eiken-2,vehicle,乗り物,Students discussed the vehicle in class.,生徒たちは授業で乗り物について話し合いました。
+eiken-2-welfare,eiken,eiken-2,welfare,福祉,Students discussed the welfare in class.,生徒たちは授業で福祉について話し合いました。
+eiken-2-adapt,eiken,eiken-2,adapt,適応する,The situation may adapt over time.,状況は時間とともに適応するかもしれません。
+eiken-2-adopt,eiken,eiken-2,adopt,採用する,People can adopt the problem through careful action.,人々は慎重な行動でその問題を採用することができます。
+eiken-2-compare,eiken,eiken-2,compare,比較する,People can compare the problem through careful action.,人々は慎重な行動でその問題を比較することができます。
+eiken-2-conduct,eiken,eiken-2,conduct,実施する,People can conduct the problem through careful action.,人々は慎重な行動でその問題を実施することができます。
+eiken-2-connect,eiken,eiken-2,connect,つなぐ,People can connect the problem through careful action.,人々は慎重な行動でその問題をつなぐことができます。
+eiken-2-consume,eiken,eiken-2,consume,消費する,People can consume the problem through careful action.,人々は慎重な行動でその問題を消費することができます。
+eiken-2-debate,eiken,eiken-2,debate,討論する,People can debate the problem through careful action.,人々は慎重な行動でその問題を討論することができます。
+eiken-2-define,eiken,eiken-2,define,定義する,People can define the problem through careful action.,人々は慎重な行動でその問題を定義することができます。
+eiken-2-demand,eiken,eiken-2,demand,要求する,People can demand the problem through careful action.,人々は慎重な行動でその問題を要求することができます。
+eiken-2-develop,eiken,eiken-2,develop,発展させる,People can develop the problem through careful action.,人々は慎重な行動でその問題を発展させることができます。
+eiken-2-examine,eiken,eiken-2,examine,調査する,People can examine the problem through careful action.,人々は慎重な行動でその問題を調査することができます。
+eiken-2-exist,eiken,eiken-2,exist,存在する,The situation may exist over time.,状況は時間とともに存在するかもしれません。
+eiken-2-focus,eiken,eiken-2,focus,集中する,The situation may focus over time.,状況は時間とともに集中するかもしれません。
+eiken-2-ignore,eiken,eiken-2,ignore,無視する,People can ignore the problem through careful action.,人々は慎重な行動でその問題を無視することができます。
+eiken-2-manage,eiken,eiken-2,manage,管理する,People can manage the problem through careful action.,人々は慎重な行動でその問題を管理することができます。
+eiken-2-observe,eiken,eiken-2,observe,観察する,People can observe the problem through careful action.,人々は慎重な行動でその問題を観察することができます。
+eiken-2-occur,eiken,eiken-2,occur,起こる,The situation may occur over time.,状況は時間とともに起こるかもしれません。
+eiken-2-prevent,eiken,eiken-2,prevent,防ぐ,People can prevent the problem through careful action.,人々は慎重な行動でその問題を防ぐことができます。
+eiken-2-publish,eiken,eiken-2,publish,出版する,People can publish the problem through careful action.,人々は慎重な行動でその問題を出版することができます。
+eiken-2-require,eiken,eiken-2,require,必要とする,People can require the problem through careful action.,人々は慎重な行動でその問題を必要とすることができます。
+eiken-2-respond,eiken,eiken-2,respond,反応する,The situation may respond over time.,状況は時間とともに反応するかもしれません。
+eiken-2-seek,eiken,eiken-2,seek,求める,People can seek the problem through careful action.,人々は慎重な行動でその問題を求めることができます。
+eiken-2-support,eiken,eiken-2,support,支える,People can support the problem through careful action.,人々は慎重な行動でその問題を支えることができます。
+eiken-2-achieve,eiken,eiken-2,achieve,達成する,People can achieve the problem through careful action.,人々は慎重な行動でその問題を達成することができます。
+eiken-2-complex,eiken,eiken-2,complex,複雑な,The topic was complex for many students.,その話題は多くの生徒にとって複雑なでした。
+eiken-2-current,eiken,eiken-2,current,現在の,The topic was current for many students.,その話題は多くの生徒にとって現在のでした。
+eiken-2-economic,eiken,eiken-2,economic,経済の,The topic was economic for many students.,その話題は多くの生徒にとって経済のでした。
+eiken-2-environmental,eiken,eiken-2,environmental,環境の,The topic was environmental for many students.,その話題は多くの生徒にとって環境のでした。
+eiken-2-essential,eiken,eiken-2,essential,不可欠な,The topic was essential for many students.,その話題は多くの生徒にとって不可欠なでした。
+eiken-2-individual,eiken,eiken-2,individual,個々の,The topic was individual for many students.,その話題は多くの生徒にとって個々のでした。
+eiken-2-likely,eiken,eiken-2,likely,ありそうな,The topic was likely for many students.,その話題は多くの生徒にとってありそうなでした。
+eiken-2-major,eiken,eiken-2,major,主要な,The topic was major for many students.,その話題は多くの生徒にとって主要なでした。
+eiken-2-modern,eiken,eiken-2,modern,現代の,The topic was modern for many students.,その話題は多くの生徒にとって現代のでした。
+eiken-2-particular,eiken,eiken-2,particular,特定の,The topic was particular for many students.,その話題は多くの生徒にとって特定のでした。
+eiken-2-private,eiken,eiken-2,private,私的な,The topic was private for many students.,その話題は多くの生徒にとって私的なでした。
+eiken-2-rapid,eiken,eiken-2,rapid,急速な,The topic was rapid for many students.,その話題は多くの生徒にとって急速なでした。
+eiken-2-recent,eiken,eiken-2,recent,最近の,The topic was recent for many students.,その話題は多くの生徒にとって最近のでした。
+eiken-2-various,eiken,eiken-2,various,さまざまな,The topic was various for many students.,その話題は多くの生徒にとってさまざまなでした。
+eiken-2-widely,eiken,eiken-2,widely,広く,She answered widely during the interview.,彼女は面接で広く答えました。
+eiken-2-directly,eiken,eiken-2,directly,直接に,She answered directly during the interview.,彼女は面接で直接に答えました。
+eiken-2-generally,eiken,eiken-2,generally,一般に,She answered generally during the interview.,彼女は面接で一般に答えました。
+eiken-2-eventually,eiken,eiken-2,eventually,最終的に,She answered eventually during the interview.,彼女は面接で最終的に答えました。

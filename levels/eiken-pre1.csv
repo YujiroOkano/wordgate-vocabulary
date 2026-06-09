@@ -1,11 +1,81 @@
 id,axis,level_id,spelling,translation,example,example_translation
-eiken-pre1-ambiguous,eiken,eiken-pre1,ambiguous,曖昧な,The instructions were ambiguous.,その指示は曖昧でした。
-eiken-pre1-coherent,eiken,eiken-pre1,coherent,一貫した,She gave a coherent explanation.,彼女は一貫した説明をしました。
-eiken-pre1-deteriorate,eiken,eiken-pre1,deteriorate,悪化する,The building began to deteriorate.,その建物は悪化し始めました。
-eiken-pre1-elaborate,eiken,eiken-pre1,elaborate,詳しく述べる,Could you elaborate on your proposal?,提案について詳しく述べていただけますか。
-eiken-pre1-impose,eiken,eiken-pre1,impose,課す,The city imposed new parking rules.,市は新しい駐車規則を課しました。
-eiken-pre1-inevitable,eiken,eiken-pre1,inevitable,避けられない,Some change is inevitable.,ある程度の変化は避けられません。
-eiken-pre1-notion,eiken,eiken-pre1,notion,概念,The notion of fairness is complex.,公平性という概念は複雑です。
-eiken-pre1-preliminary,eiken,eiken-pre1,preliminary,予備的な,Preliminary results were encouraging.,予備的な結果は有望でした。
-eiken-pre1-undermine,eiken,eiken-pre1,undermine,弱体化させる,Rumors can undermine trust.,うわさは信頼を弱体化させることがあります。
-eiken-pre1-viable,eiken,eiken-pre1,viable,実行可能な,This is a viable solution.,これは実行可能な解決策です。
+eiken-pre1-ambiguous,eiken,eiken-pre1,ambiguous,曖昧な,The topic was ambiguous for many students.,その話題は多くの生徒にとって曖昧なでした。
+eiken-pre1-coherent,eiken,eiken-pre1,coherent,一貫した,The topic was coherent for many students.,その話題は多くの生徒にとって一貫したでした。
+eiken-pre1-deteriorate,eiken,eiken-pre1,deteriorate,悪化する,The situation may deteriorate over time.,状況は時間とともに悪化するかもしれません。
+eiken-pre1-elaborate,eiken,eiken-pre1,elaborate,詳しく述べる,People can elaborate the problem through careful action.,人々は慎重な行動でその問題を詳しく述べることができます。
+eiken-pre1-impose,eiken,eiken-pre1,impose,課す,People can impose the problem through careful action.,人々は慎重な行動でその問題を課すことができます。
+eiken-pre1-inevitable,eiken,eiken-pre1,inevitable,避けられない,The topic was inevitable for many students.,その話題は多くの生徒にとって避けられないでした。
+eiken-pre1-notion,eiken,eiken-pre1,notion,概念,Students discussed the notion in class.,生徒たちは授業で概念について話し合いました。
+eiken-pre1-preliminary,eiken,eiken-pre1,preliminary,予備的な,The topic was preliminary for many students.,その話題は多くの生徒にとって予備的なでした。
+eiken-pre1-undermine,eiken,eiken-pre1,undermine,弱体化させる,People can undermine the problem through careful action.,人々は慎重な行動でその問題を弱体化させることができます。
+eiken-pre1-viable,eiken,eiken-pre1,viable,実行可能な,The topic was viable for many students.,その話題は多くの生徒にとって実行可能なでした。
+eiken-pre1-abstract,eiken,eiken-pre1,abstract,抽象的な,The topic was abstract for many students.,その話題は多くの生徒にとって抽象的なでした。
+eiken-pre1-adversity,eiken,eiken-pre1,adversity,逆境,Students discussed the adversity in class.,生徒たちは授業で逆境について話し合いました。
+eiken-pre1-allocation,eiken,eiken-pre1,allocation,配分,Students discussed the allocation in class.,生徒たちは授業で配分について話し合いました。
+eiken-pre1-bias,eiken,eiken-pre1,bias,偏見,Students discussed the bias in class.,生徒たちは授業で偏見について話し合いました。
+eiken-pre1-burden,eiken,eiken-pre1,burden,負担,Students discussed the burden in class.,生徒たちは授業で負担について話し合いました。
+eiken-pre1-consensus,eiken,eiken-pre1,consensus,合意,Students discussed the consensus in class.,生徒たちは授業で合意について話し合いました。
+eiken-pre1-controversy,eiken,eiken-pre1,controversy,論争,Students discussed the controversy in class.,生徒たちは授業で論争について話し合いました。
+eiken-pre1-deficiency,eiken,eiken-pre1,deficiency,不足,Students discussed the deficiency in class.,生徒たちは授業で不足について話し合いました。
+eiken-pre1-disparity,eiken,eiken-pre1,disparity,格差,Students discussed the disparity in class.,生徒たちは授業で格差について話し合いました。
+eiken-pre1-domain,eiken,eiken-pre1,domain,領域,Students discussed the domain in class.,生徒たちは授業で領域について話し合いました。
+eiken-pre1-emission,eiken,eiken-pre1,emission,排出,Students discussed the emission in class.,生徒たちは授業で排出について話し合いました。
+eiken-pre1-incentive,eiken,eiken-pre1,incentive,動機づけ,Students discussed the incentive in class.,生徒たちは授業で動機づけについて話し合いました。
+eiken-pre1-infrastructure,eiken,eiken-pre1,infrastructure,インフラ,Students discussed the infrastructure in class.,生徒たちは授業でインフラについて話し合いました。
+eiken-pre1-innovation,eiken,eiken-pre1,innovation,革新,Students discussed the innovation in class.,生徒たちは授業で革新について話し合いました。
+eiken-pre1-integrity,eiken,eiken-pre1,integrity,誠実さ,Students discussed the integrity in class.,生徒たちは授業で誠実さについて話し合いました。
+eiken-pre1-legislation,eiken,eiken-pre1,legislation,法律制定,Students discussed the legislation in class.,生徒たちは授業で法律制定について話し合いました。
+eiken-pre1-phenomenon,eiken,eiken-pre1,phenomenon,現象,Students discussed the phenomenon in class.,生徒たちは授業で現象について話し合いました。
+eiken-pre1-premise,eiken,eiken-pre1,premise,前提,Students discussed the premise in class.,生徒たちは授業で前提について話し合いました。
+eiken-pre1-priority,eiken,eiken-pre1,priority,優先事項,Students discussed the priority in class.,生徒たちは授業で優先事項について話し合いました。
+eiken-pre1-resilience,eiken,eiken-pre1,resilience,回復力,Students discussed the resilience in class.,生徒たちは授業で回復力について話し合いました。
+eiken-pre1-scrutiny,eiken,eiken-pre1,scrutiny,精査,Students discussed the scrutiny in class.,生徒たちは授業で精査について話し合いました。
+eiken-pre1-sovereignty,eiken,eiken-pre1,sovereignty,主権,Students discussed the sovereignty in class.,生徒たちは授業で主権について話し合いました。
+eiken-pre1-transition,eiken,eiken-pre1,transition,移行,Students discussed the transition in class.,生徒たちは授業で移行について話し合いました。
+eiken-pre1-transparency,eiken,eiken-pre1,transparency,透明性,Students discussed the transparency in class.,生徒たちは授業で透明性について話し合いました。
+eiken-pre1-advocate,eiken,eiken-pre1,advocate,主張する,People can advocate the problem through careful action.,人々は慎重な行動でその問題を主張することができます。
+eiken-pre1-clarify,eiken,eiken-pre1,clarify,明確にする,People can clarify the problem through careful action.,人々は慎重な行動でその問題を明確にすることができます。
+eiken-pre1-compensate,eiken,eiken-pre1,compensate,補償する,People can compensate the problem through careful action.,人々は慎重な行動でその問題を補償することができます。
+eiken-pre1-comprise,eiken,eiken-pre1,comprise,構成する,People can comprise the problem through careful action.,人々は慎重な行動でその問題を構成することができます。
+eiken-pre1-contradict,eiken,eiken-pre1,contradict,矛盾する,People can contradict the problem through careful action.,人々は慎重な行動でその問題を矛盾することができます。
+eiken-pre1-cultivate,eiken,eiken-pre1,cultivate,育む,People can cultivate the problem through careful action.,人々は慎重な行動でその問題を育むことができます。
+eiken-pre1-diminish,eiken,eiken-pre1,diminish,減少する,The situation may diminish over time.,状況は時間とともに減少するかもしれません。
+eiken-pre1-enforce,eiken,eiken-pre1,enforce,施行する,People can enforce the problem through careful action.,人々は慎重な行動でその問題を施行することができます。
+eiken-pre1-enhance,eiken,eiken-pre1,enhance,高める,People can enhance the problem through careful action.,人々は慎重な行動でその問題を高めることができます。
+eiken-pre1-fluctuate,eiken,eiken-pre1,fluctuate,変動する,The situation may fluctuate over time.,状況は時間とともに変動するかもしれません。
+eiken-pre1-justify,eiken,eiken-pre1,justify,正当化する,People can justify the problem through careful action.,人々は慎重な行動でその問題を正当化することができます。
+eiken-pre1-manipulate,eiken,eiken-pre1,manipulate,操作する,People can manipulate the problem through careful action.,人々は慎重な行動でその問題を操作することができます。
+eiken-pre1-perceive,eiken,eiken-pre1,perceive,認識する,People can perceive the problem through careful action.,人々は慎重な行動でその問題を認識することができます。
+eiken-pre1-prohibit,eiken,eiken-pre1,prohibit,禁止する,People can prohibit the problem through careful action.,人々は慎重な行動でその問題を禁止することができます。
+eiken-pre1-reinforce,eiken,eiken-pre1,reinforce,強化する,People can reinforce the problem through careful action.,人々は慎重な行動でその問題を強化することができます。
+eiken-pre1-restore,eiken,eiken-pre1,restore,回復する,People can restore the problem through careful action.,人々は慎重な行動でその問題を回復することができます。
+eiken-pre1-sustain,eiken,eiken-pre1,sustain,維持する,People can sustain the problem through careful action.,人々は慎重な行動でその問題を維持することができます。
+eiken-pre1-tolerate,eiken,eiken-pre1,tolerate,許容する,People can tolerate the problem through careful action.,人々は慎重な行動でその問題を許容することができます。
+eiken-pre1-transform,eiken,eiken-pre1,transform,変える,People can transform the problem through careful action.,人々は慎重な行動でその問題を変えることができます。
+eiken-pre1-yield,eiken,eiken-pre1,yield,生み出す,People can yield the problem through careful action.,人々は慎重な行動でその問題を生み出すことができます。
+eiken-pre1-arbitrary,eiken,eiken-pre1,arbitrary,恣意的な,The topic was arbitrary for many students.,その話題は多くの生徒にとって恣意的なでした。
+eiken-pre1-chronic,eiken,eiken-pre1,chronic,慢性的な,The topic was chronic for many students.,その話題は多くの生徒にとって慢性的なでした。
+eiken-pre1-compatible,eiken,eiken-pre1,compatible,相性がよい,The topic was compatible for many students.,その話題は多くの生徒にとって相性がよいでした。
+eiken-pre1-compelling,eiken,eiken-pre1,compelling,説得力のある,The topic was compelling for many students.,その話題は多くの生徒にとって説得力のあるでした。
+eiken-pre1-credible,eiken,eiken-pre1,credible,信頼できる,The topic was credible for many students.,その話題は多くの生徒にとって信頼できるでした。
+eiken-pre1-crucial,eiken,eiken-pre1,crucial,極めて重要な,The topic was crucial for many students.,その話題は多くの生徒にとって極めて重要なでした。
+eiken-pre1-deliberate,eiken,eiken-pre1,deliberate,意図的な,The topic was deliberate for many students.,その話題は多くの生徒にとって意図的なでした。
+eiken-pre1-diverse,eiken,eiken-pre1,diverse,多様な,The topic was diverse for many students.,その話題は多くの生徒にとって多様なでした。
+eiken-pre1-empirical,eiken,eiken-pre1,empirical,経験に基づく,The topic was empirical for many students.,その話題は多くの生徒にとって経験に基づくでした。
+eiken-pre1-ethical,eiken,eiken-pre1,ethical,倫理的な,The topic was ethical for many students.,その話題は多くの生徒にとって倫理的なでした。
+eiken-pre1-fundamental,eiken,eiken-pre1,fundamental,根本的な,The topic was fundamental for many students.,その話題は多くの生徒にとって根本的なでした。
+eiken-pre1-implicit,eiken,eiken-pre1,implicit,暗黙の,The topic was implicit for many students.,その話題は多くの生徒にとって暗黙のでした。
+eiken-pre1-marginal,eiken,eiken-pre1,marginal,わずかな,The topic was marginal for many students.,その話題は多くの生徒にとってわずかなでした。
+eiken-pre1-mutual,eiken,eiken-pre1,mutual,相互の,The topic was mutual for many students.,その話題は多くの生徒にとって相互のでした。
+eiken-pre1-persistent,eiken,eiken-pre1,persistent,持続的な,The topic was persistent for many students.,その話題は多くの生徒にとって持続的なでした。
+eiken-pre1-plausible,eiken,eiken-pre1,plausible,もっともらしい,The topic was plausible for many students.,その話題は多くの生徒にとってもっともらしいでした。
+eiken-pre1-practical,eiken,eiken-pre1,practical,実用的な,The topic was practical for many students.,その話題は多くの生徒にとって実用的なでした。
+eiken-pre1-prominent,eiken,eiken-pre1,prominent,著名な,The topic was prominent for many students.,その話題は多くの生徒にとって著名なでした。
+eiken-pre1-rational,eiken,eiken-pre1,rational,合理的な,The topic was rational for many students.,その話題は多くの生徒にとって合理的なでした。
+eiken-pre1-reluctant,eiken,eiken-pre1,reluctant,気が進まない,The topic was reluctant for many students.,その話題は多くの生徒にとって気が進まないでした。
+eiken-pre1-subtle,eiken,eiken-pre1,subtle,微妙な,The topic was subtle for many students.,その話題は多くの生徒にとって微妙なでした。
+eiken-pre1-unprecedented,eiken,eiken-pre1,unprecedented,前例のない,The topic was unprecedented for many students.,その話題は多くの生徒にとって前例のないでした。
+eiken-pre1-vulnerable,eiken,eiken-pre1,vulnerable,弱い立場の,The topic was vulnerable for many students.,その話題は多くの生徒にとって弱い立場のでした。
+eiken-pre1-consequently,eiken,eiken-pre1,consequently,その結果,She answered consequently during the interview.,彼女は面接でその結果答えました。
+eiken-pre1-deliberately,eiken,eiken-pre1,deliberately,意図的に,She answered deliberately during the interview.,彼女は面接で意図的に答えました。
+eiken-pre1-virtually,eiken,eiken-pre1,virtually,事実上,She answered virtually during the interview.,彼女は面接で事実上答えました。
