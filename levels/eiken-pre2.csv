@@ -1,81 +1,501 @@
 id,axis,level_id,spelling,translation,example,example_translation
-eiken-pre2-affect,eiken,eiken-pre2,affect,影響を与える,People can affect the problem through careful action.,人々は慎重な行動でその問題を影響を与えることができます。
-eiken-pre2-benefit,eiken,eiken-pre2,benefit,利益,Students discussed the benefit in class.,生徒たちは授業で利益について話し合いました。
-eiken-pre2-community,eiken,eiken-pre2,community,地域社会,Students discussed the community in class.,生徒たちは授業で地域社会について話し合いました。
-eiken-pre2-consider,eiken,eiken-pre2,consider,よく考える,People can consider the problem through careful action.,人々は慎重な行動でその問題をよく考えることができます。
-eiken-pre2-efficient,eiken,eiken-pre2,efficient,効率的な,The topic was efficient for many students.,その話題は多くの生徒にとって効率的なでした。
-eiken-pre2-factor,eiken,eiken-pre2,factor,要因,Students discussed the factor in class.,生徒たちは授業で要因について話し合いました。
-eiken-pre2-provide,eiken,eiken-pre2,provide,提供する,People can provide the problem through careful action.,人々は慎重な行動でその問題を提供することができます。
-eiken-pre2-reduce,eiken,eiken-pre2,reduce,減らす,People can reduce the problem through careful action.,人々は慎重な行動でその問題を減らすことができます。
-eiken-pre2-solution,eiken,eiken-pre2,solution,解決策,Students discussed the solution in class.,生徒たちは授業で解決策について話し合いました。
-eiken-pre2-actually,eiken,eiken-pre2,actually,実際に,She answered actually during the interview.,彼女は面接で実際に答えました。
-eiken-pre2-advantage,eiken,eiken-pre2,advantage,利点,Students discussed the advantage in class.,生徒たちは授業で利点について話し合いました。
-eiken-pre2-article,eiken,eiken-pre2,article,記事,Students discussed the article in class.,生徒たちは授業で記事について話し合いました。
-eiken-pre2-behavior,eiken,eiken-pre2,behavior,行動,Students discussed the behavior in class.,生徒たちは授業で行動について話し合いました。
-eiken-pre2-communication,eiken,eiken-pre2,communication,意思疎通,Students discussed the communication in class.,生徒たちは授業で意思疎通について話し合いました。
-eiken-pre2-comparison,eiken,eiken-pre2,comparison,比較,Students discussed the comparison in class.,生徒たちは授業で比較について話し合いました。
-eiken-pre2-condition,eiken,eiken-pre2,condition,状態,Students discussed the condition in class.,生徒たちは授業で状態について話し合いました。
-eiken-pre2-confidence,eiken,eiken-pre2,confidence,自信,Students discussed the confidence in class.,生徒たちは授業で自信について話し合いました。
-eiken-pre2-custom,eiken,eiken-pre2,custom,習慣,Students discussed the custom in class.,生徒たちは授業で習慣について話し合いました。
-eiken-pre2-development,eiken,eiken-pre2,development,発展,Students discussed the development in class.,生徒たちは授業で発展について話し合いました。
-eiken-pre2-education,eiken,eiken-pre2,education,教育,Students discussed the education in class.,生徒たちは授業で教育について話し合いました。
-eiken-pre2-experience,eiken,eiken-pre2,experience,経験,Students discussed the experience in class.,生徒たちは授業で経験について話し合いました。
-eiken-pre2-generation,eiken,eiken-pre2,generation,世代,Students discussed the generation in class.,生徒たちは授業で世代について話し合いました。
-eiken-pre2-government,eiken,eiken-pre2,government,政府,Students discussed the government in class.,生徒たちは授業で政府について話し合いました。
-eiken-pre2-information,eiken,eiken-pre2,information,情報,Students discussed the information in class.,生徒たちは授業で情報について話し合いました。
-eiken-pre2-knowledge,eiken,eiken-pre2,knowledge,知識,Students discussed the knowledge in class.,生徒たちは授業で知識について話し合いました。
-eiken-pre2-population,eiken,eiken-pre2,population,人口,Students discussed the population in class.,生徒たちは授業で人口について話し合いました。
-eiken-pre2-purpose,eiken,eiken-pre2,purpose,目的,Students discussed the purpose in class.,生徒たちは授業で目的について話し合いました。
-eiken-pre2-research,eiken,eiken-pre2,research,研究,Students discussed the research in class.,生徒たちは授業で研究について話し合いました。
-eiken-pre2-responsibility,eiken,eiken-pre2,responsibility,責任,Students discussed the responsibility in class.,生徒たちは授業で責任について話し合いました。
-eiken-pre2-society,eiken,eiken-pre2,society,社会,Students discussed the society in class.,生徒たちは授業で社会について話し合いました。
-eiken-pre2-technology,eiken,eiken-pre2,technology,技術,Students discussed the technology in class.,生徒たちは授業で技術について話し合いました。
-eiken-pre2-tradition,eiken,eiken-pre2,tradition,伝統,Students discussed the tradition in class.,生徒たちは授業で伝統について話し合いました。
-eiken-pre2-waste,eiken,eiken-pre2,waste,廃棄物,Students discussed the waste in class.,生徒たちは授業で廃棄物について話し合いました。
-eiken-pre2-ability,eiken,eiken-pre2,ability,能力,Students discussed the ability in class.,生徒たちは授業で能力について話し合いました。
-eiken-pre2-challenge,eiken,eiken-pre2,challenge,課題,Students discussed the challenge in class.,生徒たちは授業で課題について話し合いました。
-eiken-pre2-opportunity,eiken,eiken-pre2,opportunity,機会,Students discussed the opportunity in class.,生徒たちは授業で機会について話し合いました。
-eiken-pre2-relationship,eiken,eiken-pre2,relationship,関係,Students discussed the relationship in class.,生徒たちは授業で関係について話し合いました。
-eiken-pre2-skill,eiken,eiken-pre2,skill,技能,Students discussed the skill in class.,生徒たちは授業で技能について話し合いました。
-eiken-pre2-support,eiken,eiken-pre2,support,支援,Students discussed the support in class.,生徒たちは授業で支援について話し合いました。
-eiken-pre2-allow,eiken,eiken-pre2,allow,許す,People can allow the problem through careful action.,人々は慎重な行動でその問題を許すことができます。
-eiken-pre2-avoid,eiken,eiken-pre2,avoid,避ける,People can avoid the problem through careful action.,人々は慎重な行動でその問題を避けることができます。
-eiken-pre2-continue,eiken,eiken-pre2,continue,続く,The situation may continue over time.,状況は時間とともに続くかもしれません。
-eiken-pre2-create,eiken,eiken-pre2,create,作り出す,People can create the problem through careful action.,人々は慎重な行動でその問題を作り出すことができます。
-eiken-pre2-depend,eiken,eiken-pre2,depend,依存する,The situation may depend over time.,状況は時間とともに依存するかもしれません。
-eiken-pre2-describe,eiken,eiken-pre2,describe,説明する,People can describe the problem through careful action.,人々は慎重な行動でその問題を説明することができます。
-eiken-pre2-discover,eiken,eiken-pre2,discover,発見する,People can discover the problem through careful action.,人々は慎重な行動でその問題を発見することができます。
-eiken-pre2-discuss,eiken,eiken-pre2,discuss,話し合う,People can discuss the problem through careful action.,人々は慎重な行動でその問題を話し合うことができます。
-eiken-pre2-encourage,eiken,eiken-pre2,encourage,励ます,People can encourage the problem through careful action.,人々は慎重な行動でその問題を励ますことができます。
-eiken-pre2-increase,eiken,eiken-pre2,increase,増える,The situation may increase over time.,状況は時間とともに増えるかもしれません。
-eiken-pre2-introduce,eiken,eiken-pre2,introduce,紹介する,People can introduce the problem through careful action.,人々は慎重な行動でその問題を紹介することができます。
-eiken-pre2-offer,eiken,eiken-pre2,offer,提供する,People can offer the problem through careful action.,人々は慎重な行動でその問題を提供することができます。
-eiken-pre2-prepare,eiken,eiken-pre2,prepare,準備する,People can prepare the problem through careful action.,人々は慎重な行動でその問題を準備することができます。
-eiken-pre2-receive,eiken,eiken-pre2,receive,受け取る,People can receive the problem through careful action.,人々は慎重な行動でその問題を受け取ることができます。
-eiken-pre2-recycle,eiken,eiken-pre2,recycle,リサイクルする,People can recycle the problem through careful action.,人々は慎重な行動でその問題をリサイクルすることができます。
-eiken-pre2-share,eiken,eiken-pre2,share,共有する,People can share the problem through careful action.,人々は慎重な行動でその問題を共有することができます。
-eiken-pre2-succeed,eiken,eiken-pre2,succeed,成功する,The situation may succeed over time.,状況は時間とともに成功するかもしれません。
-eiken-pre2-understand,eiken,eiken-pre2,understand,理解する,People can understand the problem through careful action.,人々は慎重な行動でその問題を理解することができます。
-eiken-pre2-improve,eiken,eiken-pre2,improve,改善する,People can improve the problem through careful action.,人々は慎重な行動でその問題を改善することができます。
-eiken-pre2-produce,eiken,eiken-pre2,produce,生産する,People can produce the problem through careful action.,人々は慎重な行動でその問題を生産することができます。
-eiken-pre2-active,eiken,eiken-pre2,active,活発な,The topic was active for many students.,その話題は多くの生徒にとって活発なでした。
-eiken-pre2-common,eiken,eiken-pre2,common,一般的な,The topic was common for many students.,その話題は多くの生徒にとって一般的なでした。
-eiken-pre2-correct,eiken,eiken-pre2,correct,正しい,The topic was correct for many students.,その話題は多くの生徒にとって正しいでした。
-eiken-pre2-effective,eiken,eiken-pre2,effective,効果的な,The topic was effective for many students.,その話題は多くの生徒にとって効果的なでした。
-eiken-pre2-necessary,eiken,eiken-pre2,necessary,必要な,The topic was necessary for many students.,その話題は多くの生徒にとって必要なでした。
-eiken-pre2-natural,eiken,eiken-pre2,natural,自然な,The topic was natural for many students.,その話題は多くの生徒にとって自然なでした。
-eiken-pre2-possible,eiken,eiken-pre2,possible,可能な,The topic was possible for many students.,その話題は多くの生徒にとって可能なでした。
-eiken-pre2-public,eiken,eiken-pre2,public,公共の,The topic was public for many students.,その話題は多くの生徒にとって公共のでした。
-eiken-pre2-serious,eiken,eiken-pre2,serious,深刻な,The topic was serious for many students.,その話題は多くの生徒にとって深刻なでした。
-eiken-pre2-similar,eiken,eiken-pre2,similar,似ている,The topic was similar for many students.,その話題は多くの生徒にとって似ているでした。
-eiken-pre2-social,eiken,eiken-pre2,social,社会の,The topic was social for many students.,その話題は多くの生徒にとって社会のでした。
-eiken-pre2-traditional,eiken,eiken-pre2,traditional,伝統的な,The topic was traditional for many students.,その話題は多くの生徒にとって伝統的なでした。
-eiken-pre2-recently,eiken,eiken-pre2,recently,最近,She answered recently during the interview.,彼女は面接で最近答えました。
-eiken-pre2-especially,eiken,eiken-pre2,especially,特に,She answered especially during the interview.,彼女は面接で特に答えました。
-eiken-pre2-probably,eiken,eiken-pre2,probably,おそらく,She answered probably during the interview.,彼女は面接でおそらく答えました。
-eiken-pre2-clearly,eiken,eiken-pre2,clearly,はっきりと,She answered clearly during the interview.,彼女は面接ではっきりと答えました。
-eiken-pre2-gradually,eiken,eiken-pre2,gradually,徐々に,She answered gradually during the interview.,彼女は面接で徐々に答えました。
-eiken-pre2-global,eiken,eiken-pre2,global,世界的な,The topic was global for many students.,その話題は多くの生徒にとって世界的なでした。
-eiken-pre2-available,eiken,eiken-pre2,available,利用できる,The topic was available for many students.,その話題は多くの生徒にとって利用できるでした。
-eiken-pre2-independent,eiken,eiken-pre2,independent,自立した,The topic was independent for many students.,その話題は多くの生徒にとって自立したでした。
-eiken-pre2-regularly,eiken,eiken-pre2,regularly,定期的に,She answered regularly during the interview.,彼女は面接で定期的に答えました。
+eiken-pre2-affect,eiken,eiken-pre2,affect,影響を与える,"Students learned ""affect"" while reading the article.",生徒たちは記事を読みながら「影響を与える」を学びました。
+eiken-pre2-benefit,eiken,eiken-pre2,benefit,利益,"The speaker used ""benefit"" to explain the idea.",話し手は考えを説明するために「利益」を使いました。
+eiken-pre2-community,eiken,eiken-pre2,community,地域社会,"This passage includes ""community"" as an important word.",この文章には重要語として「地域社会」が含まれています。
+eiken-pre2-consider,eiken,eiken-pre2,consider,よく考える,"The class discussed ""consider"" during the lesson.",その授業では「よく考える」について話し合いました。
+eiken-pre2-efficient,eiken,eiken-pre2,efficient,効率的な,"Learners should understand ""efficient"" in context.",学習者は文脈の中で「効率的な」を理解する必要があります。
+eiken-pre2-factor,eiken,eiken-pre2,factor,要因,"Students learned ""factor"" while reading the article.",生徒たちは記事を読みながら「要因」を学びました。
+eiken-pre2-provide,eiken,eiken-pre2,provide,提供する,"The speaker used ""provide"" to explain the idea.",話し手は考えを説明するために「提供する」を使いました。
+eiken-pre2-reduce,eiken,eiken-pre2,reduce,減らす,"This passage includes ""reduce"" as an important word.",この文章には重要語として「減らす」が含まれています。
+eiken-pre2-solution,eiken,eiken-pre2,solution,解決策,"The class discussed ""solution"" during the lesson.",その授業では「解決策」について話し合いました。
+eiken-pre2-actually,eiken,eiken-pre2,actually,実際に,"Learners should understand ""actually"" in context.",学習者は文脈の中で「実際に」を理解する必要があります。
+eiken-pre2-advantage,eiken,eiken-pre2,advantage,利点,"Students learned ""advantage"" while reading the article.",生徒たちは記事を読みながら「利点」を学びました。
+eiken-pre2-article,eiken,eiken-pre2,article,記事,"The speaker used ""article"" to explain the idea.",話し手は考えを説明するために「記事」を使いました。
+eiken-pre2-behavior,eiken,eiken-pre2,behavior,行動,"This passage includes ""behavior"" as an important word.",この文章には重要語として「行動」が含まれています。
+eiken-pre2-communication,eiken,eiken-pre2,communication,意思疎通,"The class discussed ""communication"" during the lesson.",その授業では「意思疎通」について話し合いました。
+eiken-pre2-comparison,eiken,eiken-pre2,comparison,比較,"Learners should understand ""comparison"" in context.",学習者は文脈の中で「比較」を理解する必要があります。
+eiken-pre2-condition,eiken,eiken-pre2,condition,状態,"Students learned ""condition"" while reading the article.",生徒たちは記事を読みながら「状態」を学びました。
+eiken-pre2-confidence,eiken,eiken-pre2,confidence,自信,"The speaker used ""confidence"" to explain the idea.",話し手は考えを説明するために「自信」を使いました。
+eiken-pre2-custom,eiken,eiken-pre2,custom,習慣,"This passage includes ""custom"" as an important word.",この文章には重要語として「習慣」が含まれています。
+eiken-pre2-development,eiken,eiken-pre2,development,発展,"The class discussed ""development"" during the lesson.",その授業では「発展」について話し合いました。
+eiken-pre2-education,eiken,eiken-pre2,education,教育,"Learners should understand ""education"" in context.",学習者は文脈の中で「教育」を理解する必要があります。
+eiken-pre2-experience,eiken,eiken-pre2,experience,経験,"Students learned ""experience"" while reading the article.",生徒たちは記事を読みながら「経験」を学びました。
+eiken-pre2-generation,eiken,eiken-pre2,generation,世代,"The speaker used ""generation"" to explain the idea.",話し手は考えを説明するために「世代」を使いました。
+eiken-pre2-government,eiken,eiken-pre2,government,政府,"This passage includes ""government"" as an important word.",この文章には重要語として「政府」が含まれています。
+eiken-pre2-information,eiken,eiken-pre2,information,情報,"The class discussed ""information"" during the lesson.",その授業では「情報」について話し合いました。
+eiken-pre2-knowledge,eiken,eiken-pre2,knowledge,知識,"Learners should understand ""knowledge"" in context.",学習者は文脈の中で「知識」を理解する必要があります。
+eiken-pre2-population,eiken,eiken-pre2,population,人口,"Students learned ""population"" while reading the article.",生徒たちは記事を読みながら「人口」を学びました。
+eiken-pre2-purpose,eiken,eiken-pre2,purpose,目的,"The speaker used ""purpose"" to explain the idea.",話し手は考えを説明するために「目的」を使いました。
+eiken-pre2-research,eiken,eiken-pre2,research,研究,"This passage includes ""research"" as an important word.",この文章には重要語として「研究」が含まれています。
+eiken-pre2-responsibility,eiken,eiken-pre2,responsibility,責任,"The class discussed ""responsibility"" during the lesson.",その授業では「責任」について話し合いました。
+eiken-pre2-society,eiken,eiken-pre2,society,社会,"Learners should understand ""society"" in context.",学習者は文脈の中で「社会」を理解する必要があります。
+eiken-pre2-technology,eiken,eiken-pre2,technology,技術,"Students learned ""technology"" while reading the article.",生徒たちは記事を読みながら「技術」を学びました。
+eiken-pre2-tradition,eiken,eiken-pre2,tradition,伝統,"The speaker used ""tradition"" to explain the idea.",話し手は考えを説明するために「伝統」を使いました。
+eiken-pre2-waste,eiken,eiken-pre2,waste,廃棄物,"This passage includes ""waste"" as an important word.",この文章には重要語として「廃棄物」が含まれています。
+eiken-pre2-ability,eiken,eiken-pre2,ability,能力,"The class discussed ""ability"" during the lesson.",その授業では「能力」について話し合いました。
+eiken-pre2-challenge,eiken,eiken-pre2,challenge,課題,"Learners should understand ""challenge"" in context.",学習者は文脈の中で「課題」を理解する必要があります。
+eiken-pre2-opportunity,eiken,eiken-pre2,opportunity,機会,"Students learned ""opportunity"" while reading the article.",生徒たちは記事を読みながら「機会」を学びました。
+eiken-pre2-relationship,eiken,eiken-pre2,relationship,関係,"The speaker used ""relationship"" to explain the idea.",話し手は考えを説明するために「関係」を使いました。
+eiken-pre2-skill,eiken,eiken-pre2,skill,技能,"This passage includes ""skill"" as an important word.",この文章には重要語として「技能」が含まれています。
+eiken-pre2-support,eiken,eiken-pre2,support,支援,"The class discussed ""support"" during the lesson.",その授業では「支援」について話し合いました。
+eiken-pre2-allow,eiken,eiken-pre2,allow,許す,"Learners should understand ""allow"" in context.",学習者は文脈の中で「許す」を理解する必要があります。
+eiken-pre2-avoid,eiken,eiken-pre2,avoid,避ける,"Students learned ""avoid"" while reading the article.",生徒たちは記事を読みながら「避ける」を学びました。
+eiken-pre2-continue,eiken,eiken-pre2,continue,続く,"The speaker used ""continue"" to explain the idea.",話し手は考えを説明するために「続く」を使いました。
+eiken-pre2-create,eiken,eiken-pre2,create,作り出す,"This passage includes ""create"" as an important word.",この文章には重要語として「作り出す」が含まれています。
+eiken-pre2-depend,eiken,eiken-pre2,depend,依存する,"The class discussed ""depend"" during the lesson.",その授業では「依存する」について話し合いました。
+eiken-pre2-describe,eiken,eiken-pre2,describe,説明する,"Learners should understand ""describe"" in context.",学習者は文脈の中で「説明する」を理解する必要があります。
+eiken-pre2-discover,eiken,eiken-pre2,discover,発見する,"Students learned ""discover"" while reading the article.",生徒たちは記事を読みながら「発見する」を学びました。
+eiken-pre2-discuss,eiken,eiken-pre2,discuss,話し合う,"The speaker used ""discuss"" to explain the idea.",話し手は考えを説明するために「話し合う」を使いました。
+eiken-pre2-encourage,eiken,eiken-pre2,encourage,励ます,"This passage includes ""encourage"" as an important word.",この文章には重要語として「励ます」が含まれています。
+eiken-pre2-increase,eiken,eiken-pre2,increase,増える,"The class discussed ""increase"" during the lesson.",その授業では「増える」について話し合いました。
+eiken-pre2-introduce,eiken,eiken-pre2,introduce,紹介する,"Learners should understand ""introduce"" in context.",学習者は文脈の中で「紹介する」を理解する必要があります。
+eiken-pre2-offer,eiken,eiken-pre2,offer,提供する,"Students learned ""offer"" while reading the article.",生徒たちは記事を読みながら「提供する」を学びました。
+eiken-pre2-prepare,eiken,eiken-pre2,prepare,準備する,"The speaker used ""prepare"" to explain the idea.",話し手は考えを説明するために「準備する」を使いました。
+eiken-pre2-receive,eiken,eiken-pre2,receive,受け取る,"This passage includes ""receive"" as an important word.",この文章には重要語として「受け取る」が含まれています。
+eiken-pre2-recycle,eiken,eiken-pre2,recycle,リサイクルする,"The class discussed ""recycle"" during the lesson.",その授業では「リサイクルする」について話し合いました。
+eiken-pre2-share,eiken,eiken-pre2,share,共有する,"Learners should understand ""share"" in context.",学習者は文脈の中で「共有する」を理解する必要があります。
+eiken-pre2-succeed,eiken,eiken-pre2,succeed,成功する,"Students learned ""succeed"" while reading the article.",生徒たちは記事を読みながら「成功する」を学びました。
+eiken-pre2-understand,eiken,eiken-pre2,understand,理解する,"The speaker used ""understand"" to explain the idea.",話し手は考えを説明するために「理解する」を使いました。
+eiken-pre2-improve,eiken,eiken-pre2,improve,改善する,"This passage includes ""improve"" as an important word.",この文章には重要語として「改善する」が含まれています。
+eiken-pre2-produce,eiken,eiken-pre2,produce,生産する,"The class discussed ""produce"" during the lesson.",その授業では「生産する」について話し合いました。
+eiken-pre2-active,eiken,eiken-pre2,active,活発な,"Learners should understand ""active"" in context.",学習者は文脈の中で「活発な」を理解する必要があります。
+eiken-pre2-common,eiken,eiken-pre2,common,一般的な,"Students learned ""common"" while reading the article.",生徒たちは記事を読みながら「一般的な」を学びました。
+eiken-pre2-correct,eiken,eiken-pre2,correct,正しい,"The speaker used ""correct"" to explain the idea.",話し手は考えを説明するために「正しい」を使いました。
+eiken-pre2-effective,eiken,eiken-pre2,effective,効果的な,"This passage includes ""effective"" as an important word.",この文章には重要語として「効果的な」が含まれています。
+eiken-pre2-necessary,eiken,eiken-pre2,necessary,必要な,"The class discussed ""necessary"" during the lesson.",その授業では「必要な」について話し合いました。
+eiken-pre2-natural,eiken,eiken-pre2,natural,自然な,"Learners should understand ""natural"" in context.",学習者は文脈の中で「自然な」を理解する必要があります。
+eiken-pre2-possible,eiken,eiken-pre2,possible,可能な,"Students learned ""possible"" while reading the article.",生徒たちは記事を読みながら「可能な」を学びました。
+eiken-pre2-public,eiken,eiken-pre2,public,公共の,"The speaker used ""public"" to explain the idea.",話し手は考えを説明するために「公共の」を使いました。
+eiken-pre2-serious,eiken,eiken-pre2,serious,深刻な,"This passage includes ""serious"" as an important word.",この文章には重要語として「深刻な」が含まれています。
+eiken-pre2-similar,eiken,eiken-pre2,similar,似ている,"The class discussed ""similar"" during the lesson.",その授業では「似ている」について話し合いました。
+eiken-pre2-social,eiken,eiken-pre2,social,社会の,"Learners should understand ""social"" in context.",学習者は文脈の中で「社会の」を理解する必要があります。
+eiken-pre2-traditional,eiken,eiken-pre2,traditional,伝統的な,"Students learned ""traditional"" while reading the article.",生徒たちは記事を読みながら「伝統的な」を学びました。
+eiken-pre2-recently,eiken,eiken-pre2,recently,最近,"The speaker used ""recently"" to explain the idea.",話し手は考えを説明するために「最近」を使いました。
+eiken-pre2-especially,eiken,eiken-pre2,especially,特に,"This passage includes ""especially"" as an important word.",この文章には重要語として「特に」が含まれています。
+eiken-pre2-probably,eiken,eiken-pre2,probably,おそらく,"The class discussed ""probably"" during the lesson.",その授業では「おそらく」について話し合いました。
+eiken-pre2-clearly,eiken,eiken-pre2,clearly,はっきりと,"Learners should understand ""clearly"" in context.",学習者は文脈の中で「はっきりと」を理解する必要があります。
+eiken-pre2-gradually,eiken,eiken-pre2,gradually,徐々に,"Students learned ""gradually"" while reading the article.",生徒たちは記事を読みながら「徐々に」を学びました。
+eiken-pre2-global,eiken,eiken-pre2,global,世界的な,"The speaker used ""global"" to explain the idea.",話し手は考えを説明するために「世界的な」を使いました。
+eiken-pre2-available,eiken,eiken-pre2,available,利用できる,"This passage includes ""available"" as an important word.",この文章には重要語として「利用できる」が含まれています。
+eiken-pre2-independent,eiken,eiken-pre2,independent,自立した,"The class discussed ""independent"" during the lesson.",その授業では「自立した」について話し合いました。
+eiken-pre2-regularly,eiken,eiken-pre2,regularly,定期的に,"Learners should understand ""regularly"" in context.",学習者は文脈の中で「定期的に」を理解する必要があります。
+eiken-pre2-feedback,eiken,eiken-pre2,feedback,フィードバック,"Students learned ""feedback"" while reading the article.",生徒たちは記事を読みながら「フィードバック」を学びました。
+eiken-pre2-analyst,eiken,eiken-pre2,analyst,"分析者,解説者","The speaker used ""analyst"" to explain the idea.","話し手は考えを説明するために「分析者,解説者」を使いました。"
+eiken-pre2-civilization,eiken,eiken-pre2,civilization,文明,"This passage includes ""civilization"" as an important word.",この文章には重要語として「文明」が含まれています。
+eiken-pre2-democracy,eiken,eiken-pre2,democracy,"民主政治,民主主義,民主政体,民主社会","The class discussed ""democracy"" during the lesson.","その授業では「民主政治,民主主義,民主政体,民主社会」について話し合いました。"
+eiken-pre2-socialist,eiken,eiken-pre2,socialist,社会主義者,"Learners should understand ""socialist"" in context.",学習者は文脈の中で「社会主義者」を理解する必要があります。
+eiken-pre2-concept,eiken,eiken-pre2,concept,"概念,観念,概念","Students learned ""concept"" while reading the article.","生徒たちは記事を読みながら「概念,観念,概念」を学びました。"
+eiken-pre2-racism,eiken,eiken-pre2,racism,"民族主義,民族的優越感","The speaker used ""racism"" to explain the idea.","話し手は考えを説明するために「民族主義,民族的優越感」を使いました。"
+eiken-pre2-reaction,eiken,eiken-pre2,reaction,反応,"This passage includes ""reaction"" as an important word.",この文章には重要語として「反応」が含まれています。
+eiken-pre2-violation,eiken,eiken-pre2,violation,"違反,無視","The class discussed ""violation"" during the lesson.","その授業では「違反,無視」について話し合いました。"
+eiken-pre2-consequence,eiken,eiken-pre2,consequence,"結果,成り行き","Learners should understand ""consequence"" in context.","学習者は文脈の中で「結果,成り行き」を理解する必要があります。"
+eiken-pre2-obligation,eiken,eiken-pre2,obligation,"義務,約束","Students learned ""obligation"" while reading the article.","生徒たちは記事を読みながら「義務,約束」を学びました。"
+eiken-pre2-probability,eiken,eiken-pre2,probability,"ありそうなこと,起こりそうなこと,見込み,公算","The speaker used ""probability"" to explain the idea.","話し手は考えを説明するために「ありそうなこと,起こりそうなこと,見込み,公算」を使いました。"
+eiken-pre2-economics,eiken,eiken-pre2,economics,経済学,"This passage includes ""economics"" as an important word.",この文章には重要語として「経済学」が含まれています。
+eiken-pre2-resource,eiken,eiken-pre2,resource,"資源,物資,資産,財源","The class discussed ""resource"" during the lesson.","その授業では「資源,物資,資産,財源」について話し合いました。"
+eiken-pre2-valid,eiken,eiken-pre2,valid,"妥当な,しっかりした根拠のある","Learners should understand ""valid"" in context.","学習者は文脈の中で「妥当な,しっかりした根拠のある」を理解する必要があります。"
+eiken-pre2-engage,eiken,eiken-pre2,engage,雇う,"Students learned ""engage"" while reading the article.",生徒たちは記事を読みながら「雇う」を学びました。
+eiken-pre2-terrorist,eiken,eiken-pre2,terrorist,"テロリスト,暴力主義者,恐怖政治家","The speaker used ""terrorist"" to explain the idea.","話し手は考えを説明するために「テロリスト,暴力主義者,恐怖政治家」を使いました。"
+eiken-pre2-technique,eiken,eiken-pre2,technique,"技巧,技術","This passage includes ""technique"" as an important word.","この文章には重要語として「技巧,技術」が含まれています。"
+eiken-pre2-ethnic,eiken,eiken-pre2,ethnic,民族の,"The class discussed ""ethnic"" during the lesson.",その授業では「民族の」について話し合いました。
+eiken-pre2-genius,eiken,eiken-pre2,genius,天才,"Learners should understand ""genius"" in context.",学習者は文脈の中で「天才」を理解する必要があります。
+eiken-pre2-philosophy,eiken,eiken-pre2,philosophy,哲学,"Students learned ""philosophy"" while reading the article.",生徒たちは記事を読みながら「哲学」を学びました。
+eiken-pre2-disorder,eiken,eiken-pre2,disorder,"無秩序,混乱,乱雑","The speaker used ""disorder"" to explain the idea.","話し手は考えを説明するために「無秩序,混乱,乱雑」を使いました。"
+eiken-pre2-psychology,eiken,eiken-pre2,psychology,心理学,"This passage includes ""psychology"" as an important word.",この文章には重要語として「心理学」が含まれています。
+eiken-pre2-vietnam,eiken,eiken-pre2,vietnam,ベトナム = Viet Nam,"The class discussed ""vietnam"" during the lesson.",その授業では「ベトナム = Viet Nam」について話し合いました。
+eiken-pre2-regime,eiken,eiken-pre2,regime,政治体制,"Learners should understand ""regime"" in context.",学習者は文脈の中で「政治体制」を理解する必要があります。
+eiken-pre2-reform,eiken,eiken-pre2,reform,"編成し直す,再び作る","Students learned ""reform"" while reading the article.","生徒たちは記事を読みながら「編成し直す,再び作る」を学びました。"
+eiken-pre2-empire,eiken,eiken-pre2,empire,帝国,"The speaker used ""empire"" to explain the idea.",話し手は考えを説明するために「帝国」を使いました。
+eiken-pre2-nazi,eiken,eiken-pre2,nazi,ナチ党員,"This passage includes ""nazi"" as an important word.",この文章には重要語として「ナチ党員」が含まれています。
+eiken-pre2-ban,eiken,eiken-pre2,ban,"禁止,禁制","The class discussed ""ban"" during the lesson.","その授業では「禁止,禁制」について話し合いました。"
+eiken-pre2-moderate,eiken,eiken-pre2,moderate,"適度の,度を越さない","Learners should understand ""moderate"" in context.","学習者は文脈の中で「適度の,度を越さない」を理解する必要があります。"
+eiken-pre2-psychological,eiken,eiken-pre2,psychological,"心理学の,心理学的な","Students learned ""psychological"" while reading the article.","生徒たちは記事を読みながら「心理学の,心理学的な」を学びました。"
+eiken-pre2-academic,eiken,eiken-pre2,academic,"学問の,学術的な,教育の","The speaker used ""academic"" to explain the idea.","話し手は考えを説明するために「学問の,学術的な,教育の」を使いました。"
+eiken-pre2-educational,eiken,eiken-pre2,educational,"教育の,教育に関する","This passage includes ""educational"" as an important word.","この文章には重要語として「教育の,教育に関する」が含まれています。"
+eiken-pre2-crisis,eiken,eiken-pre2,crisis,"重大な事態,難局,危機","The class discussed ""crisis"" during the lesson.","その授業では「重大な事態,難局,危機」について話し合いました。"
+eiken-pre2-liberal,eiken,eiken-pre2,liberal,自由主義の,"Learners should understand ""liberal"" in context.",学習者は文脈の中で「自由主義の」を理解する必要があります。
+eiken-pre2-advocate,eiken,eiken-pre2,advocate,"を弁護して言う,主唱する","Students learned ""advocate"" while reading the article.","生徒たちは記事を読みながら「を弁護して言う,主唱する」を学びました。"
+eiken-pre2-legally,eiken,eiken-pre2,legally,"法律上,法律的に","The speaker used ""legally"" to explain the idea.","話し手は考えを説明するために「法律上,法律的に」を使いました。"
+eiken-pre2-diagnosis,eiken,eiken-pre2,diagnosis,診断,"This passage includes ""diagnosis"" as an important word.",この文章には重要語として「診断」が含まれています。
+eiken-pre2-environmental,eiken,eiken-pre2,environmental,環境の,"The class discussed ""environmental"" during the lesson.",その授業では「環境の」について話し合いました。
+eiken-pre2-situated,eiken,eiken-pre2,situated,位置している,"Learners should understand ""situated"" in context.",学習者は文脈の中で「位置している」を理解する必要があります。
+eiken-pre2-van,eiken,eiken-pre2,van,"有蓋トラック,ほろつきトラック","Students learned ""van"" while reading the article.","生徒たちは記事を読みながら「有蓋トラック,ほろつきトラック」を学びました。"
+eiken-pre2-marketing,eiken,eiken-pre2,marketing,市場での売買,"The speaker used ""marketing"" to explain the idea.",話し手は考えを説明するために「市場での売買」を使いました。
+eiken-pre2-trouble,eiken,eiken-pre2,trouble,"苦難,心配,悩み","This passage includes ""trouble"" as an important word.","この文章には重要語として「苦難,心配,悩み」が含まれています。"
+eiken-pre2-exhibit,eiken,eiken-pre2,exhibit,"を表す,示す","The class discussed ""exhibit"" during the lesson.","その授業では「を表す,示す」について話し合いました。"
+eiken-pre2-institute,eiken,eiken-pre2,institute,"を設ける,設立する,制定する","Learners should understand ""institute"" in context.","学習者は文脈の中で「を設ける,設立する,制定する」を理解する必要があります。"
+eiken-pre2-bacon,eiken,eiken-pre2,bacon,ベーコン,"Students learned ""bacon"" while reading the article.",生徒たちは記事を読みながら「ベーコン」を学びました。
+eiken-pre2-abstract,eiken,eiken-pre2,abstract,抽象的な,"The speaker used ""abstract"" to explain the idea.",話し手は考えを説明するために「抽象的な」を使いました。
+eiken-pre2-activist,eiken,eiken-pre2,activist,"積極行動主義者,実践主義者","This passage includes ""activist"" as an important word.","この文章には重要語として「積極行動主義者,実践主義者」が含まれています。"
+eiken-pre2-technological,eiken,eiken-pre2,technological,科学技術の,"The class discussed ""technological"" during the lesson.",その授業では「科学技術の」について話し合いました。
+eiken-pre2-machinery,eiken,eiken-pre2,machinery,機械,"Learners should understand ""machinery"" in context.",学習者は文脈の中で「機械」を理解する必要があります。
+eiken-pre2-construct,eiken,eiken-pre2,construct,"組み立てる,建造する,建設する","Students learned ""construct"" while reading the article.","生徒たちは記事を読みながら「組み立てる,建造する,建設する」を学びました。"
+eiken-pre2-minority,eiken,eiken-pre2,minority,"少数,半数以下","The speaker used ""minority"" to explain the idea.","話し手は考えを説明するために「少数,半数以下」を使いました。"
+eiken-pre2-institution,eiken,eiken-pre2,institution,"設立,制定,開始","This passage includes ""institution"" as an important word.","この文章には重要語として「設立,制定,開始」が含まれています。"
+eiken-pre2-entrance,eiken,eiken-pre2,entrance,"入り口,玄関","The class discussed ""entrance"" during the lesson.","その授業では「入り口,玄関」について話し合いました。"
+eiken-pre2-establishment,eiken,eiken-pre2,establishment,"設立,設置","Learners should understand ""establishment"" in context.","学習者は文脈の中で「設立,設置」を理解する必要があります。"
+eiken-pre2-enforcement,eiken,eiken-pre2,enforcement,"実施,施行","Students learned ""enforcement"" while reading the article.","生徒たちは記事を読みながら「実施,施行」を学びました。"
+eiken-pre2-sequence,eiken,eiken-pre2,sequence,"連続,続き","The speaker used ""sequence"" to explain the idea.","話し手は考えを説明するために「連続,続き」を使いました。"
+eiken-pre2-assessment,eiken,eiken-pre2,assessment,"評価,査定","This passage includes ""assessment"" as an important word.","この文章には重要語として「評価,査定」が含まれています。"
+eiken-pre2-conservation,eiken,eiken-pre2,conservation,"保存,保護","The class discussed ""conservation"" during the lesson.","その授業では「保存,保護」について話し合いました。"
+eiken-pre2-innovation,eiken,eiken-pre2,innovation,"革新,刷新","Learners should understand ""innovation"" in context.","学習者は文脈の中で「革新,刷新」を理解する必要があります。"
+eiken-pre2-document,eiken,eiken-pre2,document,"文書,書類","Students learned ""document"" while reading the article.","生徒たちは記事を読みながら「文書,書類」を学びました。"
+eiken-pre2-convention,eiken,eiken-pre2,convention,"会議,協議会","The speaker used ""convention"" to explain the idea.","話し手は考えを説明するために「会議,協議会」を使いました。"
+eiken-pre2-equity,eiken,eiken-pre2,equity,"公平,公正,無私","This passage includes ""equity"" as an important word.","この文章には重要語として「公平,公正,無私」が含まれています。"
+eiken-pre2-legislation,eiken,eiken-pre2,legislation,"立法,法律制定","The class discussed ""legislation"" during the lesson.","その授業では「立法,法律制定」について話し合いました。"
+eiken-pre2-revolution,eiken,eiken-pre2,revolution,革命,"Learners should understand ""revolution"" in context.",学習者は文脈の中で「革命」を理解する必要があります。
+eiken-pre2-constitution,eiken,eiken-pre2,constitution,"構成,構造","Students learned ""constitution"" while reading the article.","生徒たちは記事を読みながら「構成,構造」を学びました。"
+eiken-pre2-equality,eiken,eiken-pre2,equality,"等しいこと,均等","The speaker used ""equality"" to explain the idea.","話し手は考えを説明するために「等しいこと,均等」を使いました。"
+eiken-pre2-federation,eiken,eiken-pre2,federation,"連合,連盟","This passage includes ""federation"" as an important word.","この文章には重要語として「連合,連盟」が含まれています。"
+eiken-pre2-instrument,eiken,eiken-pre2,instrument,"器具,器械,計器・楽器)","The class discussed ""instrument"" during the lesson.","その授業では「器具,器械,計器・楽器)」について話し合いました。"
+eiken-pre2-resolution,eiken,eiken-pre2,resolution,決心すること,"Learners should understand ""resolution"" in context.",学習者は文脈の中で「決心すること」を理解する必要があります。
+eiken-pre2-terrorism,eiken,eiken-pre2,terrorism,"行為,テロ","Students learned ""terrorism"" while reading the article.","生徒たちは記事を読みながら「行為,テロ」を学びました。"
+eiken-pre2-finance,eiken,eiken-pre2,finance,"財政,財務,財政学","The speaker used ""finance"" to explain the idea.","話し手は考えを説明するために「財政,財務,財政学」を使いました。"
+eiken-pre2-classification,eiken,eiken-pre2,classification,分類,"This passage includes ""classification"" as an important word.",この文章には重要語として「分類」が含まれています。
+eiken-pre2-investigation,eiken,eiken-pre2,investigation,"調査,取り調べ,研究","The class discussed ""investigation"" during the lesson.","その授業では「調査,取り調べ,研究」について話し合いました。"
+eiken-pre2-influence,eiken,eiken-pre2,influence,"影響,感化,効力","Learners should understand ""influence"" in context.","学習者は文脈の中で「影響,感化,効力」を理解する必要があります。"
+eiken-pre2-determination,eiken,eiken-pre2,determination,"決心,決意,決断力","Students learned ""determination"" while reading the article.","生徒たちは記事を読みながら「決心,決意,決断力」を学びました。"
+eiken-pre2-option,eiken,eiken-pre2,option,"選択すること,選択の権利","The speaker used ""option"" to explain the idea.","話し手は考えを説明するために「選択すること,選択の権利」を使いました。"
+eiken-pre2-instruction,eiken,eiken-pre2,instruction,"教育,教授","This passage includes ""instruction"" as an important word.","この文章には重要語として「教育,教授」が含まれています。"
+eiken-pre2-observation,eiken,eiken-pre2,observation,観察すること,"The class discussed ""observation"" during the lesson.",その授業では「観察すること」について話し合いました。
+eiken-pre2-preference,eiken,eiken-pre2,preference,好み,"Learners should understand ""preference"" in context.",学習者は文脈の中で「好み」を理解する必要があります。
+eiken-pre2-assumption,eiken,eiken-pre2,assumption,引き受けること,"Students learned ""assumption"" while reading the article.",生徒たちは記事を読みながら「引き受けること」を学びました。
+eiken-pre2-ignorance,eiken,eiken-pre2,ignorance,"無学,無知,無教育","The speaker used ""ignorance"" to explain the idea.","話し手は考えを説明するために「無学,無知,無教育」を使いました。"
+eiken-pre2-disappointment,eiken,eiken-pre2,disappointment,"失望,落胆,期待はずれ","This passage includes ""disappointment"" as an important word.","この文章には重要語として「失望,落胆,期待はずれ」が含まれています。"
+eiken-pre2-prescription,eiken,eiken-pre2,prescription,指示すること,"The class discussed ""prescription"" during the lesson.",その授業では「指示すること」について話し合いました。
+eiken-pre2-rehabilitation,eiken,eiken-pre2,rehabilitation,"社会復帰,リハビリテーション","Learners should understand ""rehabilitation"" in context.","学習者は文脈の中で「社会復帰,リハビリテーション」を理解する必要があります。"
+eiken-pre2-capitalism,eiken,eiken-pre2,capitalism,資本主義,"Students learned ""capitalism"" while reading the article.",生徒たちは記事を読みながら「資本主義」を学びました。
+eiken-pre2-frustration,eiken,eiken-pre2,frustration,"失敗,ざ折,落胆,失意","The speaker used ""frustration"" to explain the idea.","話し手は考えを説明するために「失敗,ざ折,落胆,失意」を使いました。"
+eiken-pre2-decent,eiken,eiken-pre2,decent,"きちんとした,ふさわしい","This passage includes ""decent"" as an important word.","この文章には重要語として「きちんとした,ふさわしい」が含まれています。"
+eiken-pre2-mexican,eiken,eiken-pre2,mexican,メキシコの,"The class discussed ""mexican"" during the lesson.",その授業では「メキシコの」について話し合いました。
+eiken-pre2-obtain,eiken,eiken-pre2,obtain,"得る,手に入れる","Learners should understand ""obtain"" in context.","学習者は文脈の中で「得る,手に入れる」を理解する必要があります。"
+eiken-pre2-bench,eiken,eiken-pre2,bench,"ベンチ,長いす","Students learned ""bench"" while reading the article.","生徒たちは記事を読みながら「ベンチ,長いす」を学びました。"
+eiken-pre2-racist,eiken,eiken-pre2,racist,民族主義者,"The speaker used ""racist"" to explain the idea.",話し手は考えを説明するために「民族主義者」を使いました。
+eiken-pre2-subsequent,eiken,eiken-pre2,subsequent,"後の,次の,続いて起こる","This passage includes ""subsequent"" as an important word.","この文章には重要語として「後の,次の,続いて起こる」が含まれています。"
+eiken-pre2-romantic,eiken,eiken-pre2,romantic,"ロマンチックな,伝奇物語的な,小説にありそうな","The class discussed ""romantic"" during the lesson.","その授業では「ロマンチックな,伝奇物語的な,小説にありそうな」について話し合いました。"
+eiken-pre2-pen,eiken,eiken-pre2,pen,International Association of Poets...,"Learners should understand ""pen"" in context.",学習者は文脈の中で「International Association of Poets...」を理解する必要があります。
+eiken-pre2-agriculture,eiken,eiken-pre2,agriculture,"農業,農学","Students learned ""agriculture"" while reading the article.","生徒たちは記事を読みながら「農業,農学」を学びました。"
+eiken-pre2-procedure,eiken,eiken-pre2,procedure,"進行,進展","The speaker used ""procedure"" to explain the idea.","話し手は考えを説明するために「進行,進展」を使いました。"
+eiken-pre2-seed,eiken,eiken-pre2,seed,"種,種子","This passage includes ""seed"" as an important word.","この文章には重要語として「種,種子」が含まれています。"
+eiken-pre2-spell,eiken,eiken-pre2,spell,"をつづる,のつづりを言う ・のつづりである・ ・…を招く,意味する・...","The class discussed ""spell"" during the lesson.","その授業では「をつづる,のつづりを言う ・のつづりである・ ・…を招く,意味する・...」について話し合いました。"
+eiken-pre2-assault,eiken,eiken-pre2,assault,"的な意で)襲うこと,強襲,攻撃","Learners should understand ""assault"" in context.","学習者は文脈の中で「的な意で)襲うこと,強襲,攻撃」を理解する必要があります。"
+eiken-pre2-rating,eiken,eiken-pre2,rating,"格づけ,評価","Students learned ""rating"" while reading the article.","生徒たちは記事を読みながら「格づけ,評価」を学びました。"
+eiken-pre2-privacy,eiken,eiken-pre2,privacy,"他人から干渉されない状態,プライバシー","The speaker used ""privacy"" to explain the idea.","話し手は考えを説明するために「他人から干渉されない状態,プライバシー」を使いました。"
+eiken-pre2-strip,eiken,eiken-pre2,strip,裸にする,"This passage includes ""strip"" as an important word.",この文章には重要語として「裸にする」が含まれています。
+eiken-pre2-soldier,eiken,eiken-pre2,soldier,"軍人,下士官,兵士","The class discussed ""soldier"" during the lesson.","その授業では「軍人,下士官,兵士」について話し合いました。"
+eiken-pre2-fancy,eiken,eiken-pre2,fancy,"空想,想像","Learners should understand ""fancy"" in context.","学習者は文脈の中で「空想,想像」を理解する必要があります。"
+eiken-pre2-ought,eiken,eiken-pre2,ought,"すべきである,するのが当然である","Students learned ""ought"" while reading the article.","生徒たちは記事を読みながら「すべきである,するのが当然である」を学びました。"
+eiken-pre2-outcome,eiken,eiken-pre2,outcome,"結果,成り行き","The speaker used ""outcome"" to explain the idea.","話し手は考えを説明するために「結果,成り行き」を使いました。"
+eiken-pre2-establish,eiken,eiken-pre2,establish,"設立する,創設する","This passage includes ""establish"" as an important word.","この文章には重要語として「設立する,創設する」が含まれています。"
+eiken-pre2-stretch,eiken,eiken-pre2,stretch,をいっぱいに伸ばす,"The class discussed ""stretch"" during the lesson.",その授業では「をいっぱいに伸ばす」について話し合いました。
+eiken-pre2-liberty,eiken,eiken-pre2,liberty,"自由,独立,解放","Learners should understand ""liberty"" in context.","学習者は文脈の中で「自由,独立,解放」を理解する必要があります。"
+eiken-pre2-principle,eiken,eiken-pre2,principle,"原理,原則","Students learned ""principle"" while reading the article.","生徒たちは記事を読みながら「原理,原則」を学びました。"
+eiken-pre2-progressive,eiken,eiken-pre2,progressive,"前進する,進んで行く","The speaker used ""progressive"" to explain the idea.","話し手は考えを説明するために「前進する,進んで行く」を使いました。"
+eiken-pre2-consistent,eiken,eiken-pre2,consistent,矛盾のない,"This passage includes ""consistent"" as an important word.",この文章には重要語として「矛盾のない」が含まれています。
+eiken-pre2-pretend,eiken,eiken-pre2,pretend,"のふりをする,に見せかける","The class discussed ""pretend"" during the lesson.","その授業では「のふりをする,に見せかける」について話し合いました。"
+eiken-pre2-russell,eiken,eiken-pre2,russell,ラッセル,"Learners should understand ""russell"" in context.",学習者は文脈の中で「ラッセル」を理解する必要があります。
+eiken-pre2-historic,eiken,eiken-pre2,historic,"歴史に残る,歴史的,歴史上有名な","Students learned ""historic"" while reading the article.","生徒たちは記事を読みながら「歴史に残る,歴史的,歴史上有名な」を学びました。"
+eiken-pre2-communist,eiken,eiken-pre2,communist,共産主義者,"The speaker used ""communist"" to explain the idea.",話し手は考えを説明するために「共産主義者」を使いました。
+eiken-pre2-eve,eiken,eiken-pre2,eve,"イブ,エバ","This passage includes ""eve"" as an important word.","この文章には重要語として「イブ,エバ」が含まれています。"
+eiken-pre2-operate,eiken,eiken-pre2,operate,"動く,作動する","The class discussed ""operate"" during the lesson.","その授業では「動く,作動する」について話し合いました。"
+eiken-pre2-neighborhood,eiken,eiken-pre2,neighborhood,"近所,近隣","Learners should understand ""neighborhood"" in context.","学習者は文脈の中で「近所,近隣」を理解する必要があります。"
+eiken-pre2-engineer,eiken,eiken-pre2,engineer,"技師,技術家","Students learned ""engineer"" while reading the article.","生徒たちは記事を読みながら「技師,技術家」を学びました。"
+eiken-pre2-investigate,eiken,eiken-pre2,investigate,"を調べる,研究する","The speaker used ""investigate"" to explain the idea.","話し手は考えを説明するために「を調べる,研究する」を使いました。"
+eiken-pre2-laboratory,eiken,eiken-pre2,laboratory,"実験室,研究室,試験室","This passage includes ""laboratory"" as an important word.","この文章には重要語として「実験室,研究室,試験室」が含まれています。"
+eiken-pre2-ruin,eiken,eiken-pre2,ruin,"破滅,崩壊,没落","The class discussed ""ruin"" during the lesson.","その授業では「破滅,崩壊,没落」について話し合いました。"
+eiken-pre2-witness,eiken,eiken-pre2,witness,目撃者,"Learners should understand ""witness"" in context.",学習者は文脈の中で「目撃者」を理解する必要があります。
+eiken-pre2-collective,eiken,eiken-pre2,collective,"集めた,収集された","Students learned ""collective"" while reading the article.","生徒たちは記事を読みながら「集めた,収集された」を学びました。"
+eiken-pre2-craft,eiken,eiken-pre2,craft,"技能,技巧","The speaker used ""craft"" to explain the idea.","話し手は考えを説明するために「技能,技巧」を使いました。"
+eiken-pre2-battery,eiken,eiken-pre2,battery,砲兵中隊,"This passage includes ""battery"" as an important word.",この文章には重要語として「砲兵中隊」が含まれています。
+eiken-pre2-seal,eiken,eiken-pre2,seal,アザラシ,"The class discussed ""seal"" during the lesson.",その授業では「アザラシ」について話し合いました。
+eiken-pre2-secondary,eiken,eiken-pre2,secondary,"第2の,2番目の","Learners should understand ""secondary"" in context.","学習者は文脈の中で「第2の,2番目の」を理解する必要があります。"
+eiken-pre2-educated,eiken,eiken-pre2,educated,教育のある,"Students learned ""educated"" while reading the article.",生徒たちは記事を読みながら「教育のある」を学びました。
+eiken-pre2-loop,eiken,eiken-pre2,loop,輪・輪状のもの,"The speaker used ""loop"" to explain the idea.",話し手は考えを説明するために「輪・輪状のもの」を使いました。
+eiken-pre2-constant,eiken,eiken-pre2,constant,"不変の,一定の","This passage includes ""constant"" as an important word.","この文章には重要語として「不変の,一定の」が含まれています。"
+eiken-pre2-championship,eiken,eiken-pre2,championship,優勝者の地位,"The class discussed ""championship"" during the lesson.",その授業では「優勝者の地位」について話し合いました。
+eiken-pre2-intent,eiken,eiken-pre2,intent,"意図,目的","Learners should understand ""intent"" in context.","学習者は文脈の中で「意図,目的」を理解する必要があります。"
+eiken-pre2-attend,eiken,eiken-pre2,attend,"出席する,参列する,に通う","Students learned ""attend"" while reading the article.","生徒たちは記事を読みながら「出席する,参列する,に通う」を学びました。"
+eiken-pre2-severe,eiken,eiken-pre2,severe,"厳しい,厳格な","The speaker used ""severe"" to explain the idea.","話し手は考えを説明するために「厳しい,厳格な」を使いました。"
+eiken-pre2-expert,eiken,eiken-pre2,expert,"専門家,熟練者,大家","This passage includes ""expert"" as an important word.","この文章には重要語として「専門家,熟練者,大家」が含まれています。"
+eiken-pre2-passage,eiken,eiken-pre2,passage,"節,句","The class discussed ""passage"" during the lesson.","その授業では「節,句」について話し合いました。"
+eiken-pre2-programme,eiken,eiken-pre2,programme,"プログラム,番組表","Learners should understand ""programme"" in context.","学習者は文脈の中で「プログラム,番組表」を理解する必要があります。"
+eiken-pre2-parent,eiken,eiken-pre2,parent,親,"Students learned ""parent"" while reading the article.",生徒たちは記事を読みながら「親」を学びました。
+eiken-pre2-fruit,eiken,eiken-pre2,fruit,"果物,実,果実","The speaker used ""fruit"" to explain the idea.","話し手は考えを説明するために「果物,実,果実」を使いました。"
+eiken-pre2-category,eiken,eiken-pre2,category,範疇,"This passage includes ""category"" as an important word.",この文章には重要語として「範疇」が含まれています。
+eiken-pre2-assume,eiken,eiken-pre2,assume,"当然のことと思う,仮定する,推測する","The class discussed ""assume"" during the lesson.","その授業では「当然のことと思う,仮定する,推測する」について話し合いました。"
+eiken-pre2-academy,eiken,eiken-pre2,academy,"学士院,芸術院","Learners should understand ""academy"" in context.","学習者は文脈の中で「学士院,芸術院」を理解する必要があります。"
+eiken-pre2-offense,eiken,eiken-pre2,offense,罪,"Students learned ""offense"" while reading the article.",生徒たちは記事を読みながら「罪」を学びました。
+eiken-pre2-pursue,eiken,eiken-pre2,pursue,"を追う,追跡する","The speaker used ""pursue"" to explain the idea.","話し手は考えを説明するために「を追う,追跡する」を使いました。"
+eiken-pre2-universe,eiken,eiken-pre2,universe,宇宙,"This passage includes ""universe"" as an important word.",この文章には重要語として「宇宙」が含まれています。
+eiken-pre2-inquiry,eiken,eiken-pre2,inquiry,"質問,問い合わせ","The class discussed ""inquiry"" during the lesson.","その授業では「質問,問い合わせ」について話し合いました。"
+eiken-pre2-reserve,eiken,eiken-pre2,reserve,"別にしておく,取っておく","Learners should understand ""reserve"" in context.","学習者は文脈の中で「別にしておく,取っておく」を理解する必要があります。"
+eiken-pre2-medium,eiken,eiken-pre2,medium,"中間にあるもの,中庸","Students learned ""medium"" while reading the article.","生徒たちは記事を読みながら「中間にあるもの,中庸」を学びました。"
+eiken-pre2-conversion,eiken,eiken-pre2,conversion,"転換,変換,変化","The speaker used ""conversion"" to explain the idea.","話し手は考えを説明するために「転換,変換,変化」を使いました。"
+eiken-pre2-democrat,eiken,eiken-pre2,democrat,"民主主義者,民主政体論者","This passage includes ""democrat"" as an important word.","この文章には重要語として「民主主義者,民主政体論者」が含まれています。"
+eiken-pre2-conservative,eiken,eiken-pre2,conservative,保守的な・保守主義の,"The class discussed ""conservative"" during the lesson.",その授業では「保守的な・保守主義の」について話し合いました。
+eiken-pre2-suspension,eiken,eiken-pre2,suspension,"つるすこと,つるされた状態","Learners should understand ""suspension"" in context.","学習者は文脈の中で「つるすこと,つるされた状態」を理解する必要があります。"
+eiken-pre2-champion,eiken,eiken-pre2,champion,優勝者,"Students learned ""champion"" while reading the article.",生徒たちは記事を読みながら「優勝者」を学びました。
+eiken-pre2-charter,eiken,eiken-pre2,charter,"特許状,免許状,憲章","The speaker used ""charter"" to explain the idea.","話し手は考えを説明するために「特許状,免許状,憲章」を使いました。"
+eiken-pre2-expense,eiken,eiken-pre2,expense,"支出,出費","This passage includes ""expense"" as an important word.","この文章には重要語として「支出,出費」が含まれています。"
+eiken-pre2-secure,eiken,eiken-pre2,secure,"安定した,確実性のある,保証されている","The class discussed ""secure"" during the lesson.","その授業では「安定した,確実性のある,保証されている」について話し合いました。"
+eiken-pre2-pure,eiken,eiken-pre2,pure,"混じりけのない,純粋の","Learners should understand ""pure"" in context.","学習者は文脈の中で「混じりけのない,純粋の」を理解する必要があります。"
+eiken-pre2-subsequently,eiken,eiken-pre2,subsequently,"後て,次に,続いて,結果として","Students learned ""subsequently"" while reading the article.","生徒たちは記事を読みながら「後て,次に,続いて,結果として」を学びました。"
+eiken-pre2-syndrome,eiken,eiken-pre2,syndrome,"症徴候,症候群","The speaker used ""syndrome"" to explain the idea.","話し手は考えを説明するために「症徴候,症候群」を使いました。"
+eiken-pre2-ultra,eiken,eiken-pre2,ultra,"極端な,過激な","This passage includes ""ultra"" as an important word.","この文章には重要語として「極端な,過激な」が含まれています。"
+eiken-pre2-affected,eiken,eiken-pre2,affected,"影響された,作用を受けた","The class discussed ""affected"" during the lesson.","その授業では「影響された,作用を受けた」について話し合いました。"
+eiken-pre2-cruise,eiken,eiken-pre2,cruise,巡航する,"Learners should understand ""cruise"" in context.",学習者は文脈の中で「巡航する」を理解する必要があります。
+eiken-pre2-productive,eiken,eiken-pre2,productive,"生産的な,好ましい結果を生み出す","Students learned ""productive"" while reading the article.","生徒たちは記事を読みながら「生産的な,好ましい結果を生み出す」を学びました。"
+eiken-pre2-concern,eiken,eiken-pre2,concern,"関係する,かかわる,影響する","The speaker used ""concern"" to explain the idea.","話し手は考えを説明するために「関係する,かかわる,影響する」を使いました。"
+eiken-pre2-abuse,eiken,eiken-pre2,abuse,"乱用,悪用","This passage includes ""abuse"" as an important word.","この文章には重要語として「乱用,悪用」が含まれています。"
+eiken-pre2-clinic,eiken,eiken-pre2,clinic,臨床講義,"The class discussed ""clinic"" during the lesson.",その授業では「臨床講義」について話し合いました。
+eiken-pre2-scientific,eiken,eiken-pre2,scientific,"科学の,学術的な","Learners should understand ""scientific"" in context.","学習者は文脈の中で「科学の,学術的な」を理解する必要があります。"
+eiken-pre2-platform,eiken,eiken-pre2,platform,"壇,教壇,演壇","Students learned ""platform"" while reading the article.","生徒たちは記事を読みながら「壇,教壇,演壇」を学びました。"
+eiken-pre2-lawyer,eiken,eiken-pre2,lawyer,弁護士,"The speaker used ""lawyer"" to explain the idea.",話し手は考えを説明するために「弁護士」を使いました。
+eiken-pre2-grant,eiken,eiken-pre2,grant,"をかなえる,聞き入れる","This passage includes ""grant"" as an important word.","この文章には重要語として「をかなえる,聞き入れる」が含まれています。"
+eiken-pre2-franklin,eiken,eiken-pre2,franklin,フランクリン,"The class discussed ""franklin"" during the lesson.",その授業では「フランクリン」について話し合いました。
+eiken-pre2-holder,eiken,eiken-pre2,holder,"保持者,所持者","Learners should understand ""holder"" in context.","学習者は文脈の中で「保持者,所持者」を理解する必要があります。"
+eiken-pre2-scientist,eiken,eiken-pre2,scientist,"科学者,自然科学者","Students learned ""scientist"" while reading the article.","生徒たちは記事を読みながら「科学者,自然科学者」を学びました。"
+eiken-pre2-slavery,eiken,eiken-pre2,slavery,奴隷制度,"The speaker used ""slavery"" to explain the idea.",話し手は考えを説明するために「奴隷制度」を使いました。
+eiken-pre2-illegal,eiken,eiken-pre2,illegal,"不法の,違法の","This passage includes ""illegal"" as an important word.","この文章には重要語として「不法の,違法の」が含まれています。"
+eiken-pre2-demonstrate,eiken,eiken-pre2,demonstrate,"を論証する,証明する","The class discussed ""demonstrate"" during the lesson.","その授業では「を論証する,証明する」について話し合いました。"
+eiken-pre2-historical,eiken,eiken-pre2,historical,"歴史の,史学の","Learners should understand ""historical"" in context.","学習者は文脈の中で「歴史の,史学の」を理解する必要があります。"
+eiken-pre2-proof,eiken,eiken-pre2,proof,"証拠,証明","Students learned ""proof"" while reading the article.","生徒たちは記事を読みながら「証拠,証明」を学びました。"
+eiken-pre2-resist,eiken,eiken-pre2,resist,"こらえる,がまんする","The speaker used ""resist"" to explain the idea.","話し手は考えを説明するために「こらえる,がまんする」を使いました。"
+eiken-pre2-adopt,eiken,eiken-pre2,adopt,"を取り入れる,採用する","This passage includes ""adopt"" as an important word.","この文章には重要語として「を取り入れる,採用する」が含まれています。"
+eiken-pre2-ethics,eiken,eiken-pre2,ethics,倫理学,"The class discussed ""ethics"" during the lesson.",その授業では「倫理学」について話し合いました。
+eiken-pre2-alternative,eiken,eiken-pre2,alternative,"どちらかを選ぶべき,二者択一の","Learners should understand ""alternative"" in context.","学習者は文脈の中で「どちらかを選ぶべき,二者択一の」を理解する必要があります。"
+eiken-pre2-transfer,eiken,eiken-pre2,transfer,"を移す,移転させる,乗り換えさせる","Students learned ""transfer"" while reading the article.","生徒たちは記事を読みながら「を移す,移転させる,乗り換えさせる」を学びました。"
+eiken-pre2-mail,eiken,eiken-pre2,mail,"鎖かたびら,よろい","The speaker used ""mail"" to explain the idea.","話し手は考えを説明するために「鎖かたびら,よろい」を使いました。"
+eiken-pre2-qualify,eiken,eiken-pre2,qualify,に資格を与える,"This passage includes ""qualify"" as an important word.",この文章には重要語として「に資格を与える」が含まれています。
+eiken-pre2-trace,eiken,eiken-pre2,trace,"跡,形跡,痕跡","The class discussed ""trace"" during the lesson.","その授業では「跡,形跡,痕跡」について話し合いました。"
+eiken-pre2-accessible,eiken,eiken-pre2,accessible,"近づきやすい,入りやすい,達しうる","Learners should understand ""accessible"" in context.","学習者は文脈の中で「近づきやすい,入りやすい,達しうる」を理解する必要があります。"
+eiken-pre2-bias,eiken,eiken-pre2,bias,"斜線,バイアス","Students learned ""bias"" while reading the article.","生徒たちは記事を読みながら「斜線,バイアス」を学びました。"
+eiken-pre2-clue,eiken,eiken-pre2,clue,"手がかり,糸口,端緒","The speaker used ""clue"" to explain the idea.","話し手は考えを説明するために「手がかり,糸口,端緒」を使いました。"
+eiken-pre2-democratic,eiken,eiken-pre2,democratic,"民主主義の,民主政体の","This passage includes ""democratic"" as an important word.","この文章には重要語として「民主主義の,民主政体の」が含まれています。"
+eiken-pre2-religion,eiken,eiken-pre2,religion,宗教,"The class discussed ""religion"" during the lesson.",その授業では「宗教」について話し合いました。
+eiken-pre2-gospel,eiken,eiken-pre2,gospel,福音,"Learners should understand ""gospel"" in context.",学習者は文脈の中で「福音」を理解する必要があります。
+eiken-pre2-technical,eiken,eiken-pre2,technical,"専門の,専門的な","Students learned ""technical"" while reading the article.","生徒たちは記事を読みながら「専門の,専門的な」を学びました。"
+eiken-pre2-develop,eiken,eiken-pre2,develop,"生じさせる,を現す","The speaker used ""develop"" to explain the idea.","話し手は考えを説明するために「生じさせる,を現す」を使いました。"
+eiken-pre2-cultural,eiken,eiken-pre2,cultural,文化的な,"This passage includes ""cultural"" as an important word.",この文章には重要語として「文化的な」が含まれています。
+eiken-pre2-fellow,eiken,eiken-pre2,fellow,"男,やつ","The class discussed ""fellow"" during the lesson.","その授業では「男,やつ」について話し合いました。"
+eiken-pre2-setting,eiken,eiken-pre2,setting,はめこみ台,"Learners should understand ""setting"" in context.",学習者は文脈の中で「はめこみ台」を理解する必要があります。
+eiken-pre2-propaganda,eiken,eiken-pre2,propaganda,宣伝,"Students learned ""propaganda"" while reading the article.",生徒たちは記事を読みながら「宣伝」を学びました。
+eiken-pre2-testimony,eiken,eiken-pre2,testimony,証言,"The speaker used ""testimony"" to explain the idea.",話し手は考えを説明するために「証言」を使いました。
+eiken-pre2-till,eiken,eiken-pre2,till,まで,"This passage includes ""till"" as an important word.",この文章には重要語として「まで」が含まれています。
+eiken-pre2-negative,eiken,eiken-pre2,negative,"否定の,反対の","The class discussed ""negative"" during the lesson.","その授業では「否定の,反対の」について話し合いました。"
+eiken-pre2-hitler,eiken,eiken-pre2,hitler,ヒトラーの党首),"Learners should understand ""hitler"" in context.",学習者は文脈の中で「ヒトラーの党首)」を理解する必要があります。
+eiken-pre2-react,eiken,eiken-pre2,react,反応する,"Students learned ""react"" while reading the article.",生徒たちは記事を読みながら「反応する」を学びました。
+eiken-pre2-realistic,eiken,eiken-pre2,realistic,"現実主義の,現実的な","The speaker used ""realistic"" to explain the idea.","話し手は考えを説明するために「現実主義の,現実的な」を使いました。"
+eiken-pre2-soul,eiken,eiken-pre2,soul,"魂,霊魂","This passage includes ""soul"" as an important word.","この文章には重要語として「魂,霊魂」が含まれています。"
+eiken-pre2-accomplished,eiken,eiken-pre2,accomplished,"成し遂げられた,既成の","The class discussed ""accomplished"" during the lesson.","その授業では「成し遂げられた,既成の」について話し合いました。"
+eiken-pre2-admission,eiken,eiken-pre2,admission,"入ることを許すこと,入場許可,入る権利","Learners should understand ""admission"" in context.","学習者は文脈の中で「入ることを許すこと,入場許可,入る権利」を理解する必要があります。"
+eiken-pre2-profile,eiken,eiken-pre2,profile,"横顔,ゲロフィール","Students learned ""profile"" while reading the article.","生徒たちは記事を読みながら「横顔,ゲロフィール」を学びました。"
+eiken-pre2-fund,eiken,eiken-pre2,fund,"資金,基金","The speaker used ""fund"" to explain the idea.","話し手は考えを説明するために「資金,基金」を使いました。"
+eiken-pre2-estate,eiken,eiken-pre2,estate,地所,"This passage includes ""estate"" as an important word.",この文章には重要語として「地所」が含まれています。
+eiken-pre2-smart,eiken,eiken-pre2,smart,"機敏な,気のきいた,抜け目のない","The class discussed ""smart"" during the lesson.","その授業では「機敏な,気のきいた,抜け目のない」について話し合いました。"
+eiken-pre2-workshop,eiken,eiken-pre2,workshop,"仕事場,工作場","Learners should understand ""workshop"" in context.","学習者は文脈の中で「仕事場,工作場」を理解する必要があります。"
+eiken-pre2-demand,eiken,eiken-pre2,demand,"求める,せがむ","Students learned ""demand"" while reading the article.","生徒たちは記事を読みながら「求める,せがむ」を学びました。"
+eiken-pre2-immune,eiken,eiken-pre2,immune,免疫の,"The speaker used ""immune"" to explain the idea.",話し手は考えを説明するために「免疫の」を使いました。
+eiken-pre2-species,eiken,eiken-pre2,species,"種,種族の下の単位)","This passage includes ""species"" as an important word.","この文章には重要語として「種,種族の下の単位)」が含まれています。"
+eiken-pre2-serve,eiken,eiken-pre2,serve,"に仕える,の役に立つ","The class discussed ""serve"" during the lesson.","その授業では「に仕える,の役に立つ」について話し合いました。"
+eiken-pre2-provision,eiken,eiken-pre2,provision,"供給,支給","Learners should understand ""provision"" in context.","学習者は文脈の中で「供給,支給」を理解する必要があります。"
+eiken-pre2-acquire,eiken,eiken-pre2,acquire,"習得する,身につける","Students learned ""acquire"" while reading the article.","生徒たちは記事を読みながら「習得する,身につける」を学びました。"
+eiken-pre2-breach,eiken,eiken-pre2,breach,"破ること,破棄,違反,不履行","The speaker used ""breach"" to explain the idea.","話し手は考えを説明するために「破ること,破棄,違反,不履行」を使いました。"
+eiken-pre2-combine,eiken,eiken-pre2,combine,"結合する,合同する","This passage includes ""combine"" as an important word.","この文章には重要語として「結合する,合同する」が含まれています。"
+eiken-pre2-mechanics,eiken,eiken-pre2,mechanics,力学,"The class discussed ""mechanics"" during the lesson.",その授業では「力学」について話し合いました。
+eiken-pre2-phenomenon,eiken,eiken-pre2,phenomenon,現象,"Learners should understand ""phenomenon"" in context.",学習者は文脈の中で「現象」を理解する必要があります。
+eiken-pre2-skilled,eiken,eiken-pre2,skilled,"熟練した,特殊技術を持った","Students learned ""skilled"" while reading the article.","生徒たちは記事を読みながら「熟練した,特殊技術を持った」を学びました。"
+eiken-pre2-feminist,eiken,eiken-pre2,feminist,"男女同権主義者,女性解放論者","The speaker used ""feminist"" to explain the idea.","話し手は考えを説明するために「男女同権主義者,女性解放論者」を使いました。"
+eiken-pre2-convert,eiken,eiken-pre2,convert,"変える,転換する","This passage includes ""convert"" as an important word.","この文章には重要語として「変える,転換する」が含まれています。"
+eiken-pre2-breakdown,eiken,eiken-pre2,breakdown,"故障,破損","The class discussed ""breakdown"" during the lesson.","その授業では「故障,破損」について話し合いました。"
+eiken-pre2-technically,eiken,eiken-pre2,technically,"専門的に,技術的に","Learners should understand ""technically"" in context.","学習者は文脈の中で「専門的に,技術的に」を理解する必要があります。"
+eiken-pre2-influential,eiken,eiken-pre2,influential,"有力な,影響を及ばす","Students learned ""influential"" while reading the article.","生徒たちは記事を読みながら「有力な,影響を及ばす」を学びました。"
+eiken-pre2-surrender,eiken,eiken-pre2,surrender,"引き渡す,明け渡す","The speaker used ""surrender"" to explain the idea.","話し手は考えを説明するために「引き渡す,明け渡す」を使いました。"
+eiken-pre2-breeding,eiken,eiken-pre2,breeding,"繁殖,生育","This passage includes ""breeding"" as an important word.","この文章には重要語として「繁殖,生育」が含まれています。"
+eiken-pre2-cartoon,eiken,eiken-pre2,cartoon,風刺漫画・実物大の下絵・,"The class discussed ""cartoon"" during the lesson.",その授業では「風刺漫画・実物大の下絵・」について話し合いました。
+eiken-pre2-historically,eiken,eiken-pre2,historically,"歴史的に,歴史上","Learners should understand ""historically"" in context.","学習者は文脈の中で「歴史的に,歴史上」を理解する必要があります。"
+eiken-pre2-viral,eiken,eiken-pre2,viral,ウィルスの,"Students learned ""viral"" while reading the article.",生徒たちは記事を読みながら「ウィルスの」を学びました。
+eiken-pre2-ethical,eiken,eiken-pre2,ethical,"倫理の,道徳の","The speaker used ""ethical"" to explain the idea.","話し手は考えを説明するために「倫理の,道徳の」を使いました。"
+eiken-pre2-scare,eiken,eiken-pre2,scare,"おびえさせる,こわがらせる","This passage includes ""scare"" as an important word.","この文章には重要語として「おびえさせる,こわがらせる」が含まれています。"
+eiken-pre2-compact,eiken,eiken-pre2,compact,"ぎっしり詰まった,目詰んだ,緊密な","The class discussed ""compact"" during the lesson.","その授業では「ぎっしり詰まった,目詰んだ,緊密な」について話し合いました。"
+eiken-pre2-elder,eiken,eiken-pre2,elder,"年上の,年長の","Learners should understand ""elder"" in context.","学習者は文脈の中で「年上の,年長の」を理解する必要があります。"
+eiken-pre2-expertise,eiken,eiken-pre2,expertise,専門技術,"Students learned ""expertise"" while reading the article.",生徒たちは記事を読みながら「専門技術」を学びました。
+eiken-pre2-observe,eiken,eiken-pre2,observe,"観察する,注意して見る","The speaker used ""observe"" to explain the idea.","話し手は考えを説明するために「観察する,注意して見る」を使いました。"
+eiken-pre2-realm,eiken,eiken-pre2,realm,王国,"This passage includes ""realm"" as an important word.",この文章には重要語として「王国」が含まれています。
+eiken-pre2-ignorant,eiken,eiken-pre2,ignorant,"知識がない,無知な,教育を受けていない","The class discussed ""ignorant"" during the lesson.","その授業では「知識がない,無知な,教育を受けていない」について話し合いました。"
+eiken-pre2-interact,eiken,eiken-pre2,interact,"相互に作用する,影響し合う","Learners should understand ""interact"" in context.","学習者は文脈の中で「相互に作用する,影響し合う」を理解する必要があります。"
+eiken-pre2-echo,eiken,eiken-pre2,echo,反響,"Students learned ""echo"" while reading the article.",生徒たちは記事を読みながら「反響」を学びました。
+eiken-pre2-harvest,eiken,eiken-pre2,harvest,"収穫,取り入れ","The speaker used ""harvest"" to explain the idea.","話し手は考えを説明するために「収穫,取り入れ」を使いました。"
+eiken-pre2-orbit,eiken,eiken-pre2,orbit,軌道,"This passage includes ""orbit"" as an important word.",この文章には重要語として「軌道」が含まれています。
+eiken-pre2-threshold,eiken,eiken-pre2,threshold,敷居,"The class discussed ""threshold"" during the lesson.",その授業では「敷居」について話し合いました。
+eiken-pre2-ideology,eiken,eiken-pre2,ideology,イデオロギー,"Learners should understand ""ideology"" in context.",学習者は文脈の中で「イデオロギー」を理解する必要があります。
+eiken-pre2-ritual,eiken,eiken-pre2,ritual,"儀式の,儀式として行う","Students learned ""ritual"" while reading the article.","生徒たちは記事を読みながら「儀式の,儀式として行う」を学びました。"
+eiken-pre2-delicate,eiken,eiken-pre2,delicate,"繊細な,精巧な,きめの細かい","The speaker used ""delicate"" to explain the idea.","話し手は考えを説明するために「繊細な,精巧な,きめの細かい」を使いました。"
+eiken-pre2-theoretical,eiken,eiken-pre2,theoretical,"理論の,理論的な","This passage includes ""theoretical"" as an important word.","この文章には重要語として「理論の,理論的な」が含まれています。"
+eiken-pre2-indirect,eiken,eiken-pre2,indirect,"真っすぐでない,回り道の","The class discussed ""indirect"" during the lesson.","その授業では「真っすぐでない,回り道の」について話し合いました。"
+eiken-pre2-institutional,eiken,eiken-pre2,institutional,"制度の,制度上の","Learners should understand ""institutional"" in context.","学習者は文脈の中で「制度の,制度上の」を理解する必要があります。"
+eiken-pre2-clause,eiken,eiken-pre2,clause,節,"Students learned ""clause"" while reading the article.",生徒たちは記事を読みながら「節」を学びました。
+eiken-pre2-uncertain,eiken,eiken-pre2,uncertain,"確信が持てない,はっきり分からない","The speaker used ""uncertain"" to explain the idea.","話し手は考えを説明するために「確信が持てない,はっきり分からない」を使いました。"
+eiken-pre2-adapt,eiken,eiken-pre2,adapt,"適応させる,適合させる","This passage includes ""adapt"" as an important word.","この文章には重要語として「適応させる,適合させる」が含まれています。"
+eiken-pre2-doctrine,eiken,eiken-pre2,doctrine,"教義,主義,信条","The class discussed ""doctrine"" during the lesson.","その授業では「教義,主義,信条」について話し合いました。"
+eiken-pre2-prophet,eiken,eiken-pre2,prophet,預言者,"Learners should understand ""prophet"" in context.",学習者は文脈の中で「預言者」を理解する必要があります。
+eiken-pre2-sequel,eiken,eiken-pre2,sequel,"続き,続編","Students learned ""sequel"" while reading the article.","生徒たちは記事を読みながら「続き,続編」を学びました。"
+eiken-pre2-frontier,eiken,eiken-pre2,frontier,"国境,国境地方","The speaker used ""frontier"" to explain the idea.","話し手は考えを説明するために「国境,国境地方」を使いました。"
+eiken-pre2-mandate,eiken,eiken-pre2,mandate,"命令,指令","This passage includes ""mandate"" as an important word.","この文章には重要語として「命令,指令」が含まれています。"
+eiken-pre2-alliance,eiken,eiken-pre2,alliance,"同盟,協定","The class discussed ""alliance"" during the lesson.","その授業では「同盟,協定」について話し合いました。"
+eiken-pre2-promotion,eiken,eiken-pre2,promotion,"昇進,進級","Learners should understand ""promotion"" in context.","学習者は文脈の中で「昇進,進級」を理解する必要があります。"
+eiken-pre2-priority,eiken,eiken-pre2,priority,先であること,"Students learned ""priority"" while reading the article.",生徒たちは記事を読みながら「先であること」を学びました。
+eiken-pre2-inspiration,eiken,eiken-pre2,inspiration,"霊感,インスピレーション","The speaker used ""inspiration"" to explain the idea.","話し手は考えを説明するために「霊感,インスピレーション」を使いました。"
+eiken-pre2-evolution,eiken,eiken-pre2,evolution,"発展,進展,展開","This passage includes ""evolution"" as an important word.","この文章には重要語として「発展,進展,展開」が含まれています。"
+eiken-pre2-vacation,eiken,eiken-pre2,vacation,"休暇,休み","The class discussed ""vacation"" during the lesson.","その授業では「休暇,休み」について話し合いました。"
+eiken-pre2-reduction,eiken,eiken-pre2,reduction,"減らすこと,減少,縮小,格下げ,割り引き","Learners should understand ""reduction"" in context.","学習者は文脈の中で「減らすこと,減少,縮小,格下げ,割り引き」を理解する必要があります。"
+eiken-pre2-translation,eiken,eiken-pre2,translation,"訳すこと,翻訳","Students learned ""translation"" while reading the article.","生徒たちは記事を読みながら「訳すこと,翻訳」を学びました。"
+eiken-pre2-amendment,eiken,eiken-pre2,amendment,"修正,改正","The speaker used ""amendment"" to explain the idea.","話し手は考えを説明するために「修正,改正」を使いました。"
+eiken-pre2-experiment,eiken,eiken-pre2,experiment,"実験,試み","This passage includes ""experiment"" as an important word.","この文章には重要語として「実験,試み」が含まれています。"
+eiken-pre2-electricity,eiken,eiken-pre2,electricity,電気,"The class discussed ""electricity"" during the lesson.",その授業では「電気」について話し合いました。
+eiken-pre2-regulation,eiken,eiken-pre2,regulation,"規則,規定","Learners should understand ""regulation"" in context.","学習者は文脈の中で「規則,規定」を理解する必要があります。"
+eiken-pre2-commitment,eiken,eiken-pre2,commitment,約束,"Students learned ""commitment"" while reading the article.",生徒たちは記事を読みながら「約束」を学びました。
+eiken-pre2-exhibition,eiken,eiken-pre2,exhibition,"表すこと,示すこと,発揮","The speaker used ""exhibition"" to explain the idea.","話し手は考えを説明するために「表すこと,示すこと,発揮」を使いました。"
+eiken-pre2-replacement,eiken,eiken-pre2,replacement,"置き換わること,取り替えること,元へ戻すこと","This passage includes ""replacement"" as an important word.","この文章には重要語として「置き換わること,取り替えること,元へ戻すこと」が含まれています。"
+eiken-pre2-fiction,eiken,eiken-pre2,fiction,"作り話,作り事,虚構","The class discussed ""fiction"" during the lesson.","その授業では「作り話,作り事,虚構」について話し合いました。"
+eiken-pre2-explanation,eiken,eiken-pre2,explanation,"説明,解説,弁明","Learners should understand ""explanation"" in context.","学習者は文脈の中で「説明,解説,弁明」を理解する必要があります。"
+eiken-pre2-achievement,eiken,eiken-pre2,achievement,"成就,達成","Students learned ""achievement"" while reading the article.","生徒たちは記事を読みながら「成就,達成」を学びました。"
+eiken-pre2-destruction,eiken,eiken-pre2,destruction,破壊,"The speaker used ""destruction"" to explain the idea.",話し手は考えを説明するために「破壊」を使いました。
+eiken-pre2-publication,eiken,eiken-pre2,publication,"出版,発行","This passage includes ""publication"" as an important word.","この文章には重要語として「出版,発行」が含まれています。"
+eiken-pre2-organisation,eiken,eiken-pre2,organisation,"組織化,編成","The class discussed ""organisation"" during the lesson.","その授業では「組織化,編成」について話し合いました。"
+eiken-pre2-residence,eiken,eiken-pre2,residence,"住宅,邸宅","Learners should understand ""residence"" in context.","学習者は文脈の中で「住宅,邸宅」を理解する必要があります。"
+eiken-pre2-charity,eiken,eiken-pre2,charity,"博愛,慈愛,思いやり","Students learned ""charity"" while reading the article.","生徒たちは記事を読みながら「博愛,慈愛,思いやり」を学びました。"
+eiken-pre2-transition,eiken,eiken-pre2,transition,"移り変わること,変遷","The speaker used ""transition"" to explain the idea.","話し手は考えを説明するために「移り変わること,変遷」を使いました。"
+eiken-pre2-corruption,eiken,eiken-pre2,corruption,"不正行為,汚職","This passage includes ""corruption"" as an important word.","この文章には重要語として「不正行為,汚職」が含まれています。"
+eiken-pre2-silence,eiken,eiken-pre2,silence,"静けさ,音がしないこと","The class discussed ""silence"" during the lesson.","その授業では「静けさ,音がしないこと」について話し合いました。"
+eiken-pre2-exception,eiken,eiken-pre2,exception,除外すること除外,"Learners should understand ""exception"" in context.",学習者は文脈の中で「除外すること除外」を理解する必要があります。
+eiken-pre2-absence,eiken,eiken-pre2,absence,"留守,不在","Students learned ""absence"" while reading the article.","生徒たちは記事を読みながら「留守,不在」を学びました。"
+eiken-pre2-reputation,eiken,eiken-pre2,reputation,"評判,世評","The speaker used ""reputation"" to explain the idea.","話し手は考えを説明するために「評判,世評」を使いました。"
+eiken-pre2-recognition,eiken,eiken-pre2,recognition,"見て気がつくこと,見覚え","This passage includes ""recognition"" as an important word.","この文章には重要語として「見て気がつくこと,見覚え」が含まれています。"
+eiken-pre2-contribution,eiken,eiken-pre2,contribution,寄付すること,"The class discussed ""contribution"" during the lesson.",その授業では「寄付すること」について話し合いました。
+eiken-pre2-immigration,eiken,eiken-pre2,immigration,"移住,入植","Learners should understand ""immigration"" in context.","学習者は文脈の中で「移住,入植」を理解する必要があります。"
+eiken-pre2-punishment,eiken,eiken-pre2,punishment,罰を,"Students learned ""punishment"" while reading the article.",生徒たちは記事を読みながら「罰を」を学びました。
+eiken-pre2-representation,eiken,eiken-pre2,representation,表現すること,"The speaker used ""representation"" to explain the idea.",話し手は考えを説明するために「表現すること」を使いました。
+eiken-pre2-compensation,eiken,eiken-pre2,compensation,"償い,代償,埋め合わせ","This passage includes ""compensation"" as an important word.","この文章には重要語として「償い,代償,埋め合わせ」が含まれています。"
+eiken-pre2-composition,eiken,eiken-pre2,composition,"創作,制作","The class discussed ""composition"" during the lesson.","その授業では「創作,制作」について話し合いました。"
+eiken-pre2-density,eiken,eiken-pre2,density,密集,"Learners should understand ""density"" in context.",学習者は文脈の中で「密集」を理解する必要があります。
+eiken-pre2-guidance,eiken,eiken-pre2,guidance,指導,"Students learned ""guidance"" while reading the article.",生徒たちは記事を読みながら「指導」を学びました。
+eiken-pre2-infection,eiken,eiken-pre2,infection,伝染,"The speaker used ""infection"" to explain the idea.",話し手は考えを説明するために「伝染」を使いました。
+eiken-pre2-intention,eiken,eiken-pre2,intention,"意図,考え,目的","This passage includes ""intention"" as an important word.","この文章には重要語として「意図,考え,目的」が含まれています。"
+eiken-pre2-participation,eiken,eiken-pre2,participation,"参加,加入","The class discussed ""participation"" during the lesson.","その授業では「参加,加入」について話し合いました。"
+eiken-pre2-improvement,eiken,eiken-pre2,improvement,"改良,改善,進歩,上達","Learners should understand ""improvement"" in context.","学習者は文脈の中で「改良,改善,進歩,上達」を理解する必要があります。"
+eiken-pre2-formation,eiken,eiken-pre2,formation,"形成,構成,育成","Students learned ""formation"" while reading the article.","生徒たちは記事を読みながら「形成,構成,育成」を学びました。"
+eiken-pre2-criticism,eiken,eiken-pre2,criticism,批評,"The speaker used ""criticism"" to explain the idea.",話し手は考えを説明するために「批評」を使いました。
+eiken-pre2-diversity,eiken,eiken-pre2,diversity,"相違,差違","This passage includes ""diversity"" as an important word.","この文章には重要語として「相違,差違」が含まれています。"
+eiken-pre2-appointment,eiken,eiken-pre2,appointment,約束,"The class discussed ""appointment"" during the lesson.",その授業では「約束」について話し合いました。
+eiken-pre2-preparation,eiken,eiken-pre2,preparation,用意,"Learners should understand ""preparation"" in context.",学習者は文脈の中で「用意」を理解する必要があります。
+eiken-pre2-registration,eiken,eiken-pre2,registration,"登録すること,登録","Students learned ""registration"" while reading the article.","生徒たちは記事を読みながら「登録すること,登録」を学びました。"
+eiken-pre2-romance,eiken,eiken-pre2,romance,"伝奇物語,冒険物語","The speaker used ""romance"" to explain the idea.","話し手は考えを説明するために「伝奇物語,冒険物語」を使いました。"
+eiken-pre2-announcement,eiken,eiken-pre2,announcement,"発表,公表","This passage includes ""announcement"" as an important word.","この文章には重要語として「発表,公表」が含まれています。"
+eiken-pre2-discrimination,eiken,eiken-pre2,discrimination,区別すること,"The class discussed ""discrimination"" during the lesson.",その授業では「区別すること」について話し合いました。
+eiken-pre2-engagement,eiken,eiken-pre2,engagement,"約束,契約,取り決め","Learners should understand ""engagement"" in context.","学習者は文脈の中で「約束,契約,取り決め」を理解する必要があります。"
+eiken-pre2-defence,eiken,eiken-pre2,defence,"防御,守備,防衛","Students learned ""defence"" while reading the article.","生徒たちは記事を読みながら「防御,守備,防衛」を学びました。"
+eiken-pre2-presentation,eiken,eiken-pre2,presentation,"贈呈,贈与","The speaker used ""presentation"" to explain the idea.","話し手は考えを説明するために「贈呈,贈与」を使いました。"
+eiken-pre2-relation,eiken,eiken-pre2,relation,"関係,関連","This passage includes ""relation"" as an important word.","この文章には重要語として「関係,関連」が含まれています。"
+eiken-pre2-stability,eiken,eiken-pre2,stability,"安定,確固,不動","The class discussed ""stability"" during the lesson.","その授業では「安定,確固,不動」について話し合いました。"
+eiken-pre2-cooperation,eiken,eiken-pre2,cooperation,"協力,協同","Learners should understand ""cooperation"" in context.","学習者は文脈の中で「協力,協同」を理解する必要があります。"
+eiken-pre2-introduction,eiken,eiken-pre2,introduction,紹介すること,"Students learned ""introduction"" while reading the article.",生徒たちは記事を読みながら「紹介すること」を学びました。
+eiken-pre2-involvement,eiken,eiken-pre2,involvement,"関連,関与,かかわり合い","The speaker used ""involvement"" to explain the idea.","話し手は考えを説明するために「関連,関与,かかわり合い」を使いました。"
+eiken-pre2-petition,eiken,eiken-pre2,petition,"請願書,陳情書","This passage includes ""petition"" as an important word.","この文章には重要語として「請願書,陳情書」が含まれています。"
+eiken-pre2-retirement,eiken,eiken-pre2,retirement,"引退,退職","The class discussed ""retirement"" during the lesson.","その授業では「引退,退職」について話し合いました。"
+eiken-pre2-portion,eiken,eiken-pre2,portion,"部分,一部分","Learners should understand ""portion"" in context.","学習者は文脈の中で「部分,一部分」を理解する必要があります。"
+eiken-pre2-celebration,eiken,eiken-pre2,celebration,"祝賀,祝典の挙行","Students learned ""celebration"" while reading the article.","生徒たちは記事を読みながら「祝賀,祝典の挙行」を学びました。"
+eiken-pre2-celebrity,eiken,eiken-pre2,celebrity,有名人,"The speaker used ""celebrity"" to explain the idea.",話し手は考えを説明するために「有名人」を使いました。
+eiken-pre2-execution,eiken,eiken-pre2,execution,"実行,遂行","This passage includes ""execution"" as an important word.","この文章には重要語として「実行,遂行」が含まれています。"
+eiken-pre2-interaction,eiken,eiken-pre2,interaction,相互作用,"The class discussed ""interaction"" during the lesson.",その授業では「相互作用」について話し合いました。
+eiken-pre2-collaboration,eiken,eiken-pre2,collaboration,"共同,協力","Learners should understand ""collaboration"" in context.","学習者は文脈の中で「共同,協力」を理解する必要があります。"
+eiken-pre2-resistance,eiken,eiken-pre2,resistance,抵抗すること,"Students learned ""resistance"" while reading the article.",生徒たちは記事を読みながら「抵抗すること」を学びました。
+eiken-pre2-personality,eiken,eiken-pre2,personality,"個性,性格","The speaker used ""personality"" to explain the idea.","話し手は考えを説明するために「個性,性格」を使いました。"
+eiken-pre2-maintenance,eiken,eiken-pre2,maintenance,"維持,持続,保全,保守","This passage includes ""maintenance"" as an important word.","この文章には重要語として「維持,持続,保全,保守」が含まれています。"
+eiken-pre2-judgment,eiken,eiken-pre2,judgment,"判断力,思慮,分別","The class discussed ""judgment"" during the lesson.","その授業では「判断力,思慮,分別」について話し合いました。"
+eiken-pre2-existence,eiken,eiken-pre2,existence,"存在,実在","Learners should understand ""existence"" in context.","学習者は文脈の中で「存在,実在」を理解する必要があります。"
+eiken-pre2-prevention,eiken,eiken-pre2,prevention,予防すること,"Students learned ""prevention"" while reading the article.",生徒たちは記事を読みながら「予防すること」を学びました。
+eiken-pre2-tournament,eiken,eiken-pre2,tournament,トーナメント,"The speaker used ""tournament"" to explain the idea.",話し手は考えを説明するために「トーナメント」を使いました。
+eiken-pre2-tourism,eiken,eiken-pre2,tourism,観光旅行,"This passage includes ""tourism"" as an important word.",この文章には重要語として「観光旅行」が含まれています。
+eiken-pre2-auction,eiken,eiken-pre2,auction,"競売,せり売り","The class discussed ""auction"" during the lesson.","その授業では「競売,せり売り」について話し合いました。"
+eiken-pre2-concentration,eiken,eiken-pre2,concentration,集中,"Learners should understand ""concentration"" in context.",学習者は文脈の中で「集中」を理解する必要があります。
+eiken-pre2-importance,eiken,eiken-pre2,importance,"重要性,重大さ","Students learned ""importance"" while reading the article.","生徒たちは記事を読みながら「重要性,重大さ」を学びました。"
+eiken-pre2-employment,eiken,eiken-pre2,employment,雇用,"The speaker used ""employment"" to explain the idea.",話し手は考えを説明するために「雇用」を使いました。
+eiken-pre2-creation,eiken,eiken-pre2,creation,"創造,創作,創設","This passage includes ""creation"" as an important word.","この文章には重要語として「創造,創作,創設」が含まれています。"
+eiken-pre2-mechanism,eiken,eiken-pre2,mechanism,機械,"The class discussed ""mechanism"" during the lesson.",その授業では「機械」について話し合いました。
+eiken-pre2-transportation,eiken,eiken-pre2,transportation,"輸送,運送","Learners should understand ""transportation"" in context.","学習者は文脈の中で「輸送,運送」を理解する必要があります。"
+eiken-pre2-radiation,eiken,eiken-pre2,radiation,"発散,放射","Students learned ""radiation"" while reading the article.","生徒たちは記事を読みながら「発散,放射」を学びました。"
+eiken-pre2-utility,eiken,eiken-pre2,utility,役に立つこと,"The speaker used ""utility"" to explain the idea.",話し手は考えを説明するために「役に立つこと」を使いました。
+eiken-pre2-opposition,eiken,eiken-pre2,opposition,"反対すること,反対,対立,抵抗,敵対","This passage includes ""opposition"" as an important word.","この文章には重要語として「反対すること,反対,対立,抵抗,敵対」が含まれています。"
+eiken-pre2-acquisition,eiken,eiken-pre2,acquisition,取得すること,"The class discussed ""acquisition"" during the lesson.",その授業では「取得すること」について話し合いました。
+eiken-pre2-examination,eiken,eiken-pre2,examination,試験,"Learners should understand ""examination"" in context.",学習者は文脈の中で「試験」を理解する必要があります。
+eiken-pre2-sentence,eiken,eiken-pre2,sentence,"文,文章","Students learned ""sentence"" while reading the article.","生徒たちは記事を読みながら「文,文章」を学びました。"
+eiken-pre2-intervention,eiken,eiken-pre2,intervention,間に入ること干渉,"The speaker used ""intervention"" to explain the idea.",話し手は考えを説明するために「間に入ること干渉」を使いました。
+eiken-pre2-possibility,eiken,eiken-pre2,possibility,"可能性,実現性","This passage includes ""possibility"" as an important word.","この文章には重要語として「可能性,実現性」が含まれています。"
+eiken-pre2-independence,eiken,eiken-pre2,independence,"独立,自立,独立心","The class discussed ""independence"" during the lesson.","その授業では「独立,自立,独立心」について話し合いました。"
+eiken-pre2-definition,eiken,eiken-pre2,definition,"定義,語義の記述","Learners should understand ""definition"" in context.","学習者は文脈の中で「定義,語義の記述」を理解する必要があります。"
+eiken-pre2-requirement,eiken,eiken-pre2,requirement,必要なもの,"Students learned ""requirement"" while reading the article.",生徒たちは記事を読みながら「必要なもの」を学びました。
+eiken-pre2-segment,eiken,eiken-pre2,segment,"区分,部分","The speaker used ""segment"" to explain the idea.","話し手は考えを説明するために「区分,部分」を使いました。"
+eiken-pre2-arrangement,eiken,eiken-pre2,arrangement,"整理,配置,配列","This passage includes ""arrangement"" as an important word.","この文章には重要語として「整理,配置,配列」が含まれています。"
+eiken-pre2-motion,eiken,eiken-pre2,motion,"動くこと,運動,運行,移動","The class discussed ""motion"" during the lesson.","その授業では「動くこと,運動,運行,移動」について話し合いました。"
+eiken-pre2-instance,eiken,eiken-pre2,instance,"例,実例","Learners should understand ""instance"" in context.","学習者は文脈の中で「例,実例」を理解する必要があります。"
+eiken-pre2-assistance,eiken,eiken-pre2,assistance,"手伝い,助力","Students learned ""assistance"" while reading the article.","生徒たちは記事を読みながら「手伝い,助力」を学びました。"
+eiken-pre2-facility,eiken,eiken-pre2,facility,"容易さ,便利さ","The speaker used ""facility"" to explain the idea.","話し手は考えを説明するために「容易さ,便利さ」を使いました。"
+eiken-pre2-entertainment,eiken,eiken-pre2,entertainment,"娯楽,気晴らし,楽しみ","This passage includes ""entertainment"" as an important word.","この文章には重要語として「娯楽,気晴らし,楽しみ」が含まれています。"
+eiken-pre2-abortion,eiken,eiken-pre2,abortion,流産,"The class discussed ""abortion"" during the lesson.",その授業では「流産」について話し合いました。
+eiken-pre2-destination,eiken,eiken-pre2,destination,"目的地,行き先","Learners should understand ""destination"" in context.","学習者は文脈の中で「目的地,行き先」を理解する必要があります。"
+eiken-pre2-combination,eiken,eiken-pre2,combination,"結合,組み合わせ","Students learned ""combination"" while reading the article.","生徒たちは記事を読みながら「結合,組み合わせ」を学びました。"
+eiken-pre2-popularity,eiken,eiken-pre2,popularity,"人気,好評,流行","The speaker used ""popularity"" to explain the idea.","話し手は考えを説明するために「人気,好評,流行」を使いました。"
+eiken-pre2-selection,eiken,eiken-pre2,selection,"選ぶこと,選抜,選出","This passage includes ""selection"" as an important word.","この文章には重要語として「選ぶこと,選抜,選出」が含まれています。"
+eiken-pre2-coalition,eiken,eiken-pre2,coalition,"連立,提携","The class discussed ""coalition"" during the lesson.","その授業では「連立,提携」について話し合いました。"
+eiken-pre2-reception,eiken,eiken-pre2,reception,"受け取ること,受け入れ,受付","Learners should understand ""reception"" in context.","学習者は文脈の中で「受け取ること,受け入れ,受付」を理解する必要があります。"
+eiken-pre2-suggestion,eiken,eiken-pre2,suggestion,"提案,提案すること","Students learned ""suggestion"" while reading the article.","生徒たちは記事を読みながら「提案,提案すること」を学びました。"
+eiken-pre2-distribution,eiken,eiken-pre2,distribution,"配分,分配,配布,配達","The speaker used ""distribution"" to explain the idea.","話し手は考えを説明するために「配分,分配,配布,配達」を使いました。"
+eiken-pre2-argument,eiken,eiken-pre2,argument,"論争,口論","This passage includes ""argument"" as an important word.","この文章には重要語として「論争,口論」が含まれています。"
+eiken-pre2-completion,eiken,eiken-pre2,completion,"完成,成就","The class discussed ""completion"" during the lesson.","その授業では「完成,成就」について話し合いました。"
+eiken-pre2-identity,eiken,eiken-pre2,identity,同一であること,"Learners should understand ""identity"" in context.",学習者は文脈の中で「同一であること」を理解する必要があります。
+eiken-pre2-imagination,eiken,eiken-pre2,imagination,"想像,空想","Students learned ""imagination"" while reading the article.","生徒たちは記事を読みながら「想像,空想」を学びました。"
+eiken-pre2-integration,eiken,eiken-pre2,integration,"統合,集成,完成","The speaker used ""integration"" to explain the idea.","話し手は考えを説明するために「統合,集成,完成」を使いました。"
+eiken-pre2-integrity,eiken,eiken-pre2,integrity,"完全,無欠","This passage includes ""integrity"" as an important word.","この文章には重要語として「完全,無欠」が含まれています。"
+eiken-pre2-interpretation,eiken,eiken-pre2,interpretation,"意味を明らかにすること,解明,説明","The class discussed ""interpretation"" during the lesson.","その授業では「意味を明らかにすること,解明,説明」について話し合いました。"
+eiken-pre2-apartment,eiken,eiken-pre2,apartment,"アパート,1家族分の部屋","Learners should understand ""apartment"" in context.","学習者は文脈の中で「アパート,1家族分の部屋」を理解する必要があります。"
+eiken-pre2-advance,eiken,eiken-pre2,advance,"前進させる,前に出す","Students learned ""advance"" while reading the article.","生徒たちは記事を読みながら「前進させる,前に出す」を学びました。"
+eiken-pre2-motivation,eiken,eiken-pre2,motivation,"動機を与えること,動機づけ","The speaker used ""motivation"" to explain the idea.","話し手は考えを説明するために「動機を与えること,動機づけ」を使いました。"
+eiken-pre2-payment,eiken,eiken-pre2,payment,"支払い,納入","This passage includes ""payment"" as an important word.","この文章には重要語として「支払い,納入」が含まれています。"
+eiken-pre2-unemployment,eiken,eiken-pre2,unemployment,"失業,失職","The class discussed ""unemployment"" during the lesson.","その授業では「失業,失職」について話し合いました。"
+eiken-pre2-disability,eiken,eiken-pre2,disability,障害,"Learners should understand ""disability"" in context.",学習者は文脈の中で「障害」を理解する必要があります。
+eiken-pre2-evaluation,eiken,eiken-pre2,evaluation,評価,"Students learned ""evaluation"" while reading the article.",生徒たちは記事を読みながら「評価」を学びました。
+eiken-pre2-fence,eiken,eiken-pre2,fence,"囲い,垣根,柵,へい","The speaker used ""fence"" to explain the idea.","話し手は考えを説明するために「囲い,垣根,柵,へい」を使いました。"
+eiken-pre2-gravity,eiken,eiken-pre2,gravity,"引力,重力","This passage includes ""gravity"" as an important word.","この文章には重要語として「引力,重力」が含まれています。"
+eiken-pre2-transaction,eiken,eiken-pre2,transaction,"処理,処置","The class discussed ""transaction"" during the lesson.","その授業では「処理,処置」について話し合いました。"
+eiken-pre2-transformation,eiken,eiken-pre2,transformation,"変形,変質","Learners should understand ""transformation"" in context.","学習者は文脈の中で「変形,変質」を理解する必要があります。"
+eiken-pre2-implement,eiken,eiken-pre2,implement,"道具,器具","Students learned ""implement"" while reading the article.","生徒たちは記事を読みながら「道具,器具」を学びました。"
+eiken-pre2-appearance,eiken,eiken-pre2,appearance,"現れること,出現","The speaker used ""appearance"" to explain the idea.","話し手は考えを説明するために「現れること,出現」を使いました。"
+eiken-pre2-occupation,eiken,eiken-pre2,occupation,"職業,仕事","This passage includes ""occupation"" as an important word.","この文章には重要語として「職業,仕事」が含まれています。"
+eiken-pre2-patience,eiken,eiken-pre2,patience,"忍耐,忍耐力,しんぼう","The class discussed ""patience"" during the lesson.","その授業では「忍耐,忍耐力,しんぼう」について話し合いました。"
+eiken-pre2-pollution,eiken,eiken-pre2,pollution,"汚すこと,汚染すること","Learners should understand ""pollution"" in context.","学習者は文脈の中で「汚すこと,汚染すること」を理解する必要があります。"
+eiken-pre2-intelligence,eiken,eiken-pre2,intelligence,"知能,知力,理解力","Students learned ""intelligence"" while reading the article.","生徒たちは記事を読みながら「知能,知力,理解力」を学びました。"
+eiken-pre2-christianity,eiken,eiken-pre2,christianity,キリスト教,"The speaker used ""christianity"" to explain the idea.",話し手は考えを説明するために「キリスト教」を使いました。
+eiken-pre2-capacity,eiken,eiken-pre2,capacity,"収容力,容量,容積","This passage includes ""capacity"" as an important word.","この文章には重要語として「収容力,容量,容積」が含まれています。"
+eiken-pre2-emotion,eiken,eiken-pre2,emotion,"強い感情,感動,感激","The class discussed ""emotion"" during the lesson.","その授業では「強い感情,感動,感激」について話し合いました。"
+eiken-pre2-excitement,eiken,eiken-pre2,excitement,"興奮,動揺","Learners should understand ""excitement"" in context.","学習者は文脈の中で「興奮,動揺」を理解する必要があります。"
+eiken-pre2-exploration,eiken,eiken-pre2,exploration,"探検,実地調査","Students learned ""exploration"" while reading the article.","生徒たちは記事を読みながら「探検,実地調査」を学びました。"
+eiken-pre2-presence,eiken,eiken-pre2,presence,"居ること,あること","The speaker used ""presence"" to explain the idea.","話し手は考えを説明するために「居ること,あること」を使いました。"
+eiken-pre2-animation,eiken,eiken-pre2,animation,"活気,生気,活発","This passage includes ""animation"" as an important word.","この文章には重要語として「活気,生気,活発」が含まれています。"
+eiken-pre2-mention,eiken,eiken-pre2,mention,簡潔に述べる,"The class discussed ""mention"" during the lesson.",その授業では「簡潔に述べる」について話し合いました。
+eiken-pre2-assignment,eiken,eiken-pre2,assignment,割り当てられた仕事,"Learners should understand ""assignment"" in context.",学習者は文脈の中で「割り当てられた仕事」を理解する必要があります。
+eiken-pre2-basement,eiken,eiken-pre2,basement,"地階,地下室","Students learned ""basement"" while reading the article.","生徒たちは記事を読みながら「地階,地下室」を学びました。"
+eiken-pre2-description,eiken,eiken-pre2,description,"記述,描写","The speaker used ""description"" to explain the idea.","話し手は考えを説明するために「記述,描写」を使いました。"
+eiken-pre2-audience,eiken,eiken-pre2,audience,"聴衆,観衆,観客,見物人","This passage includes ""audience"" as an important word.","この文章には重要語として「聴衆,観衆,観客,見物人」が含まれています。"
+eiken-pre2-reference,eiken,eiken-pre2,reference,"言及すること,話に触れること","The class discussed ""reference"" during the lesson.","その授業では「言及すること,話に触れること」について話し合いました。"
+eiken-pre2-parliament,eiken,eiken-pre2,parliament,"議会,国会","Learners should understand ""parliament"" in context.","学習者は文脈の中で「議会,国会」を理解する必要があります。"
+eiken-pre2-identification,eiken,eiken-pre2,identification,"同一であることの確認,身元確認,身分証明","Students learned ""identification"" while reading the article.","生徒たちは記事を読みながら「同一であることの確認,身元確認,身分証明」を学びました。"
+eiken-pre2-perception,eiken,eiken-pre2,perception,"気付くこと,知覚,知覚する力","The speaker used ""perception"" to explain the idea.","話し手は考えを説明するために「気付くこと,知覚,知覚する力」を使いました。"
+eiken-pre2-violence,eiken,eiken-pre2,violence,"暴力,乱暴","This passage includes ""violence"" as an important word.","この文章には重要語として「暴力,乱暴」が含まれています。"
+eiken-pre2-significance,eiken,eiken-pre2,significance,"重要性,重大さ","The class discussed ""significance"" during the lesson.","その授業では「重要性,重大さ」について話し合いました。"
+eiken-pre2-conversation,eiken,eiken-pre2,conversation,"会話,談話,座談","Learners should understand ""conversation"" in context.","学習者は文脈の中で「会話,談話,座談」を理解する必要があります。"
+eiken-pre2-adoption,eiken,eiken-pre2,adoption,"採用,採択","Students learned ""adoption"" while reading the article.","生徒たちは記事を読みながら「採用,採択」を学びました。"
+eiken-pre2-attendance,eiken,eiken-pre2,attendance,"出席,参列","The speaker used ""attendance"" to explain the idea.","話し手は考えを説明するために「出席,参列」を使いました。"
+eiken-pre2-aviation,eiken,eiken-pre2,aviation,"飛行,航空","This passage includes ""aviation"" as an important word.","この文章には重要語として「飛行,航空」が含まれています。"
+eiken-pre2-compliance,eiken,eiken-pre2,compliance,"承諾,応諾","The class discussed ""compliance"" during the lesson.","その授業では「承諾,応諾」について話し合いました。"
+eiken-pre2-connection,eiken,eiken-pre2,connection,"関係,つながり,関係","Learners should understand ""connection"" in context.","学習者は文脈の中で「関係,つながり,関係」を理解する必要があります。"

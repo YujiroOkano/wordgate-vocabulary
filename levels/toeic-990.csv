@@ -1,81 +1,501 @@
 id,axis,level_id,spelling,translation,example,example_translation
-toeic-990-streamline,toeic,toeic-990,streamline,効率化する,The team will streamline the details this week.,チームは今週、詳細を効率化する予定です。
-toeic-990-contingency,toeic,toeic-990,contingency,不測の事態,The manager reviewed the contingency before the meeting.,マネージャーは会議の前に不測の事態を確認しました。
-toeic-990-consolidate,toeic,toeic-990,consolidate,統合する,The team will consolidate the details this week.,チームは今週、詳細を統合する予定です。
-toeic-990-provisional,toeic,toeic-990,provisional,暫定的な,The new process is provisional for daily work.,新しい手順は日々の業務に暫定的なです。
-toeic-990-scrutinize,toeic,toeic-990,scrutinize,詳細に調べる,The team will scrutinize the details this week.,チームは今週、詳細を詳細に調べる予定です。
-toeic-990-mitigate,toeic,toeic-990,mitigate,軽減する,The team will mitigate the details this week.,チームは今週、詳細を軽減する予定です。
-toeic-990-lucrative,toeic,toeic-990,lucrative,利益の大きい,The new process is lucrative for daily work.,新しい手順は日々の業務に利益の大きいです。
-toeic-990-convene,toeic,toeic-990,convene,招集する,Employees need to convene when the situation changes.,状況が変わったとき、従業員は招集する必要があります。
-toeic-990-inadvertently,toeic,toeic-990,inadvertently,うっかり,The staff responded inadvertently to the request.,スタッフはその依頼にうっかり対応しました。
-toeic-990-revamp,toeic,toeic-990,revamp,刷新する,The team will revamp the details this week.,チームは今週、詳細を刷新する予定です。
-toeic-990-stringent,toeic,toeic-990,stringent,厳格な,The new process is stringent for daily work.,新しい手順は日々の業務に厳格なです。
-toeic-990-ratify,toeic,toeic-990,ratify,正式承認する,The team will ratify the details this week.,チームは今週、詳細を正式承認する予定です。
-toeic-990-abide,toeic,toeic-990,abide,従う,Employees need to abide when the situation changes.,状況が変わったとき、従業員は従う必要があります。
-toeic-990-accolade,toeic,toeic-990,accolade,称賛,The manager reviewed the accolade before the meeting.,マネージャーは会議の前に称賛を確認しました。
-toeic-990-aggregate,toeic,toeic-990,aggregate,総計,The manager reviewed the aggregate before the meeting.,マネージャーは会議の前に総計を確認しました。
-toeic-990-anomaly,toeic,toeic-990,anomaly,異常,The manager reviewed the anomaly before the meeting.,マネージャーは会議の前に異常を確認しました。
-toeic-990-appraisal,toeic,toeic-990,appraisal,評価,The manager reviewed the appraisal before the meeting.,マネージャーは会議の前に評価を確認しました。
-toeic-990-benchmark,toeic,toeic-990,benchmark,基準,The manager reviewed the benchmark before the meeting.,マネージャーは会議の前に基準を確認しました。
-toeic-990-bottleneck,toeic,toeic-990,bottleneck,障害,The manager reviewed the bottleneck before the meeting.,マネージャーは会議の前に障害を確認しました。
-toeic-990-catalyst,toeic,toeic-990,catalyst,きっかけ,The manager reviewed the catalyst before the meeting.,マネージャーは会議の前にきっかけを確認しました。
-toeic-990-concession,toeic,toeic-990,concession,譲歩,The manager reviewed the concession before the meeting.,マネージャーは会議の前に譲歩を確認しました。
-toeic-990-consensus,toeic,toeic-990,consensus,合意,The manager reviewed the consensus before the meeting.,マネージャーは会議の前に合意を確認しました。
-toeic-990-deterioration,toeic,toeic-990,deterioration,悪化,The manager reviewed the deterioration before the meeting.,マネージャーは会議の前に悪化を確認しました。
-toeic-990-divest,toeic,toeic-990,divest,売却する,The team will divest the details this week.,チームは今週、詳細を売却する予定です。
-toeic-990-embargo,toeic,toeic-990,embargo,禁輸,The manager reviewed the embargo before the meeting.,マネージャーは会議の前に禁輸を確認しました。
-toeic-990-entitlement,toeic,toeic-990,entitlement,権利,The manager reviewed the entitlement before the meeting.,マネージャーは会議の前に権利を確認しました。
-toeic-990-excerpt,toeic,toeic-990,excerpt,抜粋,The manager reviewed the excerpt before the meeting.,マネージャーは会議の前に抜粋を確認しました。
-toeic-990-forfeiture,toeic,toeic-990,forfeiture,没収,The manager reviewed the forfeiture before the meeting.,マネージャーは会議の前に没収を確認しました。
-toeic-990-incumbent,toeic,toeic-990,incumbent,現職者,The manager reviewed the incumbent before the meeting.,マネージャーは会議の前に現職者を確認しました。
-toeic-990-indemnity,toeic,toeic-990,indemnity,補償,The manager reviewed the indemnity before the meeting.,マネージャーは会議の前に補償を確認しました。
-toeic-990-litigation,toeic,toeic-990,litigation,訴訟,The manager reviewed the litigation before the meeting.,マネージャーは会議の前に訴訟を確認しました。
-toeic-990-offset,toeic,toeic-990,offset,相殺する,The team will offset the details this week.,チームは今週、詳細を相殺する予定です。
-toeic-990-precedent,toeic,toeic-990,precedent,前例,The manager reviewed the precedent before the meeting.,マネージャーは会議の前に前例を確認しました。
-toeic-990-redundancy,toeic,toeic-990,redundancy,余剰人員,The manager reviewed the redundancy before the meeting.,マネージャーは会議の前に余剰人員を確認しました。
-toeic-990-requisition,toeic,toeic-990,requisition,請求書,The manager reviewed the requisition before the meeting.,マネージャーは会議の前に請求書を確認しました。
-toeic-990-stakeholder,toeic,toeic-990,stakeholder,利害関係者,The manager reviewed the stakeholder before the meeting.,マネージャーは会議の前に利害関係者を確認しました。
-toeic-990-statute,toeic,toeic-990,statute,法令,The manager reviewed the statute before the meeting.,マネージャーは会議の前に法令を確認しました。
-toeic-990-stipulation,toeic,toeic-990,stipulation,条件,The manager reviewed the stipulation before the meeting.,マネージャーは会議の前に条件を確認しました。
-toeic-990-threshold,toeic,toeic-990,threshold,基準値,The manager reviewed the threshold before the meeting.,マネージャーは会議の前に基準値を確認しました。
-toeic-990-underwriting,toeic,toeic-990,underwriting,引受業務,The manager reviewed the underwriting before the meeting.,マネージャーは会議の前に引受業務を確認しました。
-toeic-990-volatility,toeic,toeic-990,volatility,変動性,The manager reviewed the volatility before the meeting.,マネージャーは会議の前に変動性を確認しました。
-toeic-990-waiver,toeic,toeic-990,waiver,権利放棄,The manager reviewed the waiver before the meeting.,マネージャーは会議の前に権利放棄を確認しました。
-toeic-990-ascertain,toeic,toeic-990,ascertain,突き止める,The team will ascertain the details this week.,チームは今週、詳細を突き止める予定です。
-toeic-990-curtail,toeic,toeic-990,curtail,削減する,The team will curtail the details this week.,チームは今週、詳細を削減する予定です。
-toeic-990-defer,toeic,toeic-990,defer,延期する,The team will defer the details this week.,チームは今週、詳細を延期する予定です。
-toeic-990-disclose,toeic,toeic-990,disclose,開示する,The team will disclose the details this week.,チームは今週、詳細を開示する予定です。
-toeic-990-enforce,toeic,toeic-990,enforce,施行する,The team will enforce the details this week.,チームは今週、詳細を施行する予定です。
-toeic-990-formulate,toeic,toeic-990,formulate,策定する,The team will formulate the details this week.,チームは今週、詳細を策定する予定です。
-toeic-990-nullify,toeic,toeic-990,nullify,無効にする,The team will nullify the details this week.,チームは今週、詳細を無効にする予定です。
-toeic-990-overhaul,toeic,toeic-990,overhaul,全面的に見直す,The team will overhaul the details this week.,チームは今週、詳細を全面的に見直す予定です。
-toeic-990-preclude,toeic,toeic-990,preclude,妨げる,The team will preclude the details this week.,チームは今週、詳細を妨げる予定です。
-toeic-990-reconcile,toeic,toeic-990,reconcile,調整する,The team will reconcile the details this week.,チームは今週、詳細を調整する予定です。
-toeic-990-subsidize,toeic,toeic-990,subsidize,補助金を出す,The team will subsidize the details this week.,チームは今週、詳細を補助金を出す予定です。
-toeic-990-supersede,toeic,toeic-990,supersede,取って代わる,The team will supersede the details this week.,チームは今週、詳細を取って代わる予定です。
-toeic-990-suspend,toeic,toeic-990,suspend,一時停止する,The team will suspend the details this week.,チームは今週、詳細を一時停止する予定です。
-toeic-990-undergo,toeic,toeic-990,undergo,経験する,The team will undergo the details this week.,チームは今週、詳細を経験する予定です。
-toeic-990-validate,toeic,toeic-990,validate,検証する,The team will validate the details this week.,チームは今週、詳細を検証する予定です。
-toeic-990-autonomous,toeic,toeic-990,autonomous,自律的な,The new process is autonomous for daily work.,新しい手順は日々の業務に自律的なです。
-toeic-990-binding,toeic,toeic-990,binding,拘束力のある,The new process is binding for daily work.,新しい手順は日々の業務に拘束力のあるです。
-toeic-990-conducive,toeic,toeic-990,conducive,役立つ,The new process is conducive for daily work.,新しい手順は日々の業務に役立つです。
-toeic-990-detrimental,toeic,toeic-990,detrimental,有害な,The new process is detrimental for daily work.,新しい手順は日々の業務に有害なです。
-toeic-990-dormant,toeic,toeic-990,dormant,休止状態の,The new process is dormant for daily work.,新しい手順は日々の業務に休止状態のです。
-toeic-990-exhaustive,toeic,toeic-990,exhaustive,徹底的な,The new process is exhaustive for daily work.,新しい手順は日々の業務に徹底的なです。
-toeic-990-imminent,toeic,toeic-990,imminent,差し迫った,The new process is imminent for daily work.,新しい手順は日々の業務に差し迫ったです。
-toeic-990-intrinsic,toeic,toeic-990,intrinsic,本質的な,The new process is intrinsic for daily work.,新しい手順は日々の業務に本質的なです。
-toeic-990-meticulous,toeic,toeic-990,meticulous,細心の,The new process is meticulous for daily work.,新しい手順は日々の業務に細心のです。
-toeic-990-nominal,toeic,toeic-990,nominal,名目上の,The new process is nominal for daily work.,新しい手順は日々の業務に名目上のです。
-toeic-990-obsolete,toeic,toeic-990,obsolete,時代遅れの,The new process is obsolete for daily work.,新しい手順は日々の業務に時代遅れのです。
-toeic-990-proprietary,toeic,toeic-990,proprietary,独自の,The new process is proprietary for daily work.,新しい手順は日々の業務に独自のです。
-toeic-990-tangible,toeic,toeic-990,tangible,有形の,The new process is tangible for daily work.,新しい手順は日々の業務に有形のです。
-toeic-990-uniformly,toeic,toeic-990,uniformly,一律に,The staff responded uniformly to the request.,スタッフはその依頼に一律に対応しました。
-toeic-990-retrospectively,toeic,toeic-990,retrospectively,遡って,The staff responded retrospectively to the request.,スタッフはその依頼に遡って対応しました。
-toeic-990-unequivocally,toeic,toeic-990,unequivocally,明確に,The staff responded unequivocally to the request.,スタッフはその依頼に明確に対応しました。
-toeic-990-fiscally,toeic,toeic-990,fiscally,財政的に,The staff responded fiscally to the request.,スタッフはその依頼に財政的に対応しました。
-toeic-990-marginally,toeic,toeic-990,marginally,わずかに,The staff responded marginally to the request.,スタッフはその依頼にわずかに対応しました。
-toeic-990-subsequently,toeic,toeic-990,subsequently,その後,The staff responded subsequently to the request.,スタッフはその依頼にその後対応しました。
-toeic-990-interim,toeic,toeic-990,interim,暫定の,The new process is interim for daily work.,新しい手順は日々の業務に暫定のです。
-toeic-990-fiduciary,toeic,toeic-990,fiduciary,信認上の,The new process is fiduciary for daily work.,新しい手順は日々の業務に信認上のです。
-toeic-990-moratorium,toeic,toeic-990,moratorium,一時停止,The manager reviewed the moratorium before the meeting.,マネージャーは会議の前に一時停止を確認しました。
-toeic-990-remuneration,toeic,toeic-990,remuneration,報酬,The manager reviewed the remuneration before the meeting.,マネージャーは会議の前に報酬を確認しました。
+toeic-990-streamline,toeic,toeic-990,streamline,効率化する,"The team reviewed ""streamline"" before making a decision.",チームは決定前に「効率化する」を確認しました。
+toeic-990-contingency,toeic,toeic-990,contingency,不測の事態,"The manager used ""contingency"" in the monthly report.",マネージャーは月次報告で「不測の事態」を使いました。
+toeic-990-consolidate,toeic,toeic-990,consolidate,統合する,"Employees should understand ""consolidate"" in business documents.",従業員は業務文書で「統合する」を理解する必要があります。
+toeic-990-provisional,toeic,toeic-990,provisional,暫定的な,"The notice mentioned ""provisional"" for all staff members.",その通知は全スタッフ向けに「暫定的な」に触れていました。
+toeic-990-scrutinize,toeic,toeic-990,scrutinize,詳細に調べる,"The client asked about ""scrutinize"" after the meeting.",顧客は会議後に「詳細に調べる」について尋ねました。
+toeic-990-mitigate,toeic,toeic-990,mitigate,軽減する,"The team reviewed ""mitigate"" before making a decision.",チームは決定前に「軽減する」を確認しました。
+toeic-990-lucrative,toeic,toeic-990,lucrative,利益の大きい,"The manager used ""lucrative"" in the monthly report.",マネージャーは月次報告で「利益の大きい」を使いました。
+toeic-990-convene,toeic,toeic-990,convene,招集する,"Employees should understand ""convene"" in business documents.",従業員は業務文書で「招集する」を理解する必要があります。
+toeic-990-inadvertently,toeic,toeic-990,inadvertently,うっかり,"The notice mentioned ""inadvertently"" for all staff members.",その通知は全スタッフ向けに「うっかり」に触れていました。
+toeic-990-revamp,toeic,toeic-990,revamp,刷新する,"The client asked about ""revamp"" after the meeting.",顧客は会議後に「刷新する」について尋ねました。
+toeic-990-stringent,toeic,toeic-990,stringent,厳格な,"The team reviewed ""stringent"" before making a decision.",チームは決定前に「厳格な」を確認しました。
+toeic-990-ratify,toeic,toeic-990,ratify,正式承認する,"The manager used ""ratify"" in the monthly report.",マネージャーは月次報告で「正式承認する」を使いました。
+toeic-990-abide,toeic,toeic-990,abide,従う,"Employees should understand ""abide"" in business documents.",従業員は業務文書で「従う」を理解する必要があります。
+toeic-990-accolade,toeic,toeic-990,accolade,称賛,"The notice mentioned ""accolade"" for all staff members.",その通知は全スタッフ向けに「称賛」に触れていました。
+toeic-990-aggregate,toeic,toeic-990,aggregate,総計,"The client asked about ""aggregate"" after the meeting.",顧客は会議後に「総計」について尋ねました。
+toeic-990-anomaly,toeic,toeic-990,anomaly,異常,"The team reviewed ""anomaly"" before making a decision.",チームは決定前に「異常」を確認しました。
+toeic-990-appraisal,toeic,toeic-990,appraisal,評価,"The manager used ""appraisal"" in the monthly report.",マネージャーは月次報告で「評価」を使いました。
+toeic-990-benchmark,toeic,toeic-990,benchmark,基準,"Employees should understand ""benchmark"" in business documents.",従業員は業務文書で「基準」を理解する必要があります。
+toeic-990-bottleneck,toeic,toeic-990,bottleneck,障害,"The notice mentioned ""bottleneck"" for all staff members.",その通知は全スタッフ向けに「障害」に触れていました。
+toeic-990-catalyst,toeic,toeic-990,catalyst,きっかけ,"The client asked about ""catalyst"" after the meeting.",顧客は会議後に「きっかけ」について尋ねました。
+toeic-990-concession,toeic,toeic-990,concession,譲歩,"The team reviewed ""concession"" before making a decision.",チームは決定前に「譲歩」を確認しました。
+toeic-990-consensus,toeic,toeic-990,consensus,合意,"The manager used ""consensus"" in the monthly report.",マネージャーは月次報告で「合意」を使いました。
+toeic-990-deterioration,toeic,toeic-990,deterioration,悪化,"Employees should understand ""deterioration"" in business documents.",従業員は業務文書で「悪化」を理解する必要があります。
+toeic-990-divest,toeic,toeic-990,divest,売却する,"The notice mentioned ""divest"" for all staff members.",その通知は全スタッフ向けに「売却する」に触れていました。
+toeic-990-embargo,toeic,toeic-990,embargo,禁輸,"The client asked about ""embargo"" after the meeting.",顧客は会議後に「禁輸」について尋ねました。
+toeic-990-entitlement,toeic,toeic-990,entitlement,権利,"The team reviewed ""entitlement"" before making a decision.",チームは決定前に「権利」を確認しました。
+toeic-990-excerpt,toeic,toeic-990,excerpt,抜粋,"The manager used ""excerpt"" in the monthly report.",マネージャーは月次報告で「抜粋」を使いました。
+toeic-990-forfeiture,toeic,toeic-990,forfeiture,没収,"Employees should understand ""forfeiture"" in business documents.",従業員は業務文書で「没収」を理解する必要があります。
+toeic-990-incumbent,toeic,toeic-990,incumbent,現職者,"The notice mentioned ""incumbent"" for all staff members.",その通知は全スタッフ向けに「現職者」に触れていました。
+toeic-990-indemnity,toeic,toeic-990,indemnity,補償,"The client asked about ""indemnity"" after the meeting.",顧客は会議後に「補償」について尋ねました。
+toeic-990-litigation,toeic,toeic-990,litigation,訴訟,"The team reviewed ""litigation"" before making a decision.",チームは決定前に「訴訟」を確認しました。
+toeic-990-offset,toeic,toeic-990,offset,相殺する,"The manager used ""offset"" in the monthly report.",マネージャーは月次報告で「相殺する」を使いました。
+toeic-990-precedent,toeic,toeic-990,precedent,前例,"Employees should understand ""precedent"" in business documents.",従業員は業務文書で「前例」を理解する必要があります。
+toeic-990-redundancy,toeic,toeic-990,redundancy,余剰人員,"The notice mentioned ""redundancy"" for all staff members.",その通知は全スタッフ向けに「余剰人員」に触れていました。
+toeic-990-requisition,toeic,toeic-990,requisition,請求書,"The client asked about ""requisition"" after the meeting.",顧客は会議後に「請求書」について尋ねました。
+toeic-990-stakeholder,toeic,toeic-990,stakeholder,利害関係者,"The team reviewed ""stakeholder"" before making a decision.",チームは決定前に「利害関係者」を確認しました。
+toeic-990-statute,toeic,toeic-990,statute,法令,"The manager used ""statute"" in the monthly report.",マネージャーは月次報告で「法令」を使いました。
+toeic-990-stipulation,toeic,toeic-990,stipulation,条件,"Employees should understand ""stipulation"" in business documents.",従業員は業務文書で「条件」を理解する必要があります。
+toeic-990-threshold,toeic,toeic-990,threshold,基準値,"The notice mentioned ""threshold"" for all staff members.",その通知は全スタッフ向けに「基準値」に触れていました。
+toeic-990-underwriting,toeic,toeic-990,underwriting,引受業務,"The client asked about ""underwriting"" after the meeting.",顧客は会議後に「引受業務」について尋ねました。
+toeic-990-volatility,toeic,toeic-990,volatility,変動性,"The team reviewed ""volatility"" before making a decision.",チームは決定前に「変動性」を確認しました。
+toeic-990-waiver,toeic,toeic-990,waiver,権利放棄,"The manager used ""waiver"" in the monthly report.",マネージャーは月次報告で「権利放棄」を使いました。
+toeic-990-ascertain,toeic,toeic-990,ascertain,突き止める,"Employees should understand ""ascertain"" in business documents.",従業員は業務文書で「突き止める」を理解する必要があります。
+toeic-990-curtail,toeic,toeic-990,curtail,削減する,"The notice mentioned ""curtail"" for all staff members.",その通知は全スタッフ向けに「削減する」に触れていました。
+toeic-990-defer,toeic,toeic-990,defer,延期する,"The client asked about ""defer"" after the meeting.",顧客は会議後に「延期する」について尋ねました。
+toeic-990-disclose,toeic,toeic-990,disclose,開示する,"The team reviewed ""disclose"" before making a decision.",チームは決定前に「開示する」を確認しました。
+toeic-990-enforce,toeic,toeic-990,enforce,施行する,"The manager used ""enforce"" in the monthly report.",マネージャーは月次報告で「施行する」を使いました。
+toeic-990-formulate,toeic,toeic-990,formulate,策定する,"Employees should understand ""formulate"" in business documents.",従業員は業務文書で「策定する」を理解する必要があります。
+toeic-990-nullify,toeic,toeic-990,nullify,無効にする,"The notice mentioned ""nullify"" for all staff members.",その通知は全スタッフ向けに「無効にする」に触れていました。
+toeic-990-overhaul,toeic,toeic-990,overhaul,全面的に見直す,"The client asked about ""overhaul"" after the meeting.",顧客は会議後に「全面的に見直す」について尋ねました。
+toeic-990-preclude,toeic,toeic-990,preclude,妨げる,"The team reviewed ""preclude"" before making a decision.",チームは決定前に「妨げる」を確認しました。
+toeic-990-reconcile,toeic,toeic-990,reconcile,調整する,"The manager used ""reconcile"" in the monthly report.",マネージャーは月次報告で「調整する」を使いました。
+toeic-990-subsidize,toeic,toeic-990,subsidize,補助金を出す,"Employees should understand ""subsidize"" in business documents.",従業員は業務文書で「補助金を出す」を理解する必要があります。
+toeic-990-supersede,toeic,toeic-990,supersede,取って代わる,"The notice mentioned ""supersede"" for all staff members.",その通知は全スタッフ向けに「取って代わる」に触れていました。
+toeic-990-suspend,toeic,toeic-990,suspend,一時停止する,"The client asked about ""suspend"" after the meeting.",顧客は会議後に「一時停止する」について尋ねました。
+toeic-990-undergo,toeic,toeic-990,undergo,経験する,"The team reviewed ""undergo"" before making a decision.",チームは決定前に「経験する」を確認しました。
+toeic-990-validate,toeic,toeic-990,validate,検証する,"The manager used ""validate"" in the monthly report.",マネージャーは月次報告で「検証する」を使いました。
+toeic-990-autonomous,toeic,toeic-990,autonomous,自律的な,"Employees should understand ""autonomous"" in business documents.",従業員は業務文書で「自律的な」を理解する必要があります。
+toeic-990-binding,toeic,toeic-990,binding,拘束力のある,"The notice mentioned ""binding"" for all staff members.",その通知は全スタッフ向けに「拘束力のある」に触れていました。
+toeic-990-conducive,toeic,toeic-990,conducive,役立つ,"The client asked about ""conducive"" after the meeting.",顧客は会議後に「役立つ」について尋ねました。
+toeic-990-detrimental,toeic,toeic-990,detrimental,有害な,"The team reviewed ""detrimental"" before making a decision.",チームは決定前に「有害な」を確認しました。
+toeic-990-dormant,toeic,toeic-990,dormant,休止状態の,"The manager used ""dormant"" in the monthly report.",マネージャーは月次報告で「休止状態の」を使いました。
+toeic-990-exhaustive,toeic,toeic-990,exhaustive,徹底的な,"Employees should understand ""exhaustive"" in business documents.",従業員は業務文書で「徹底的な」を理解する必要があります。
+toeic-990-imminent,toeic,toeic-990,imminent,差し迫った,"The notice mentioned ""imminent"" for all staff members.",その通知は全スタッフ向けに「差し迫った」に触れていました。
+toeic-990-intrinsic,toeic,toeic-990,intrinsic,本質的な,"The client asked about ""intrinsic"" after the meeting.",顧客は会議後に「本質的な」について尋ねました。
+toeic-990-meticulous,toeic,toeic-990,meticulous,細心の,"The team reviewed ""meticulous"" before making a decision.",チームは決定前に「細心の」を確認しました。
+toeic-990-nominal,toeic,toeic-990,nominal,名目上の,"The manager used ""nominal"" in the monthly report.",マネージャーは月次報告で「名目上の」を使いました。
+toeic-990-obsolete,toeic,toeic-990,obsolete,時代遅れの,"Employees should understand ""obsolete"" in business documents.",従業員は業務文書で「時代遅れの」を理解する必要があります。
+toeic-990-proprietary,toeic,toeic-990,proprietary,独自の,"The notice mentioned ""proprietary"" for all staff members.",その通知は全スタッフ向けに「独自の」に触れていました。
+toeic-990-tangible,toeic,toeic-990,tangible,有形の,"The client asked about ""tangible"" after the meeting.",顧客は会議後に「有形の」について尋ねました。
+toeic-990-uniformly,toeic,toeic-990,uniformly,一律に,"The team reviewed ""uniformly"" before making a decision.",チームは決定前に「一律に」を確認しました。
+toeic-990-retrospectively,toeic,toeic-990,retrospectively,遡って,"The manager used ""retrospectively"" in the monthly report.",マネージャーは月次報告で「遡って」を使いました。
+toeic-990-unequivocally,toeic,toeic-990,unequivocally,明確に,"Employees should understand ""unequivocally"" in business documents.",従業員は業務文書で「明確に」を理解する必要があります。
+toeic-990-fiscally,toeic,toeic-990,fiscally,財政的に,"The notice mentioned ""fiscally"" for all staff members.",その通知は全スタッフ向けに「財政的に」に触れていました。
+toeic-990-marginally,toeic,toeic-990,marginally,わずかに,"The client asked about ""marginally"" after the meeting.",顧客は会議後に「わずかに」について尋ねました。
+toeic-990-subsequently,toeic,toeic-990,subsequently,その後,"The team reviewed ""subsequently"" before making a decision.",チームは決定前に「その後」を確認しました。
+toeic-990-interim,toeic,toeic-990,interim,暫定の,"The manager used ""interim"" in the monthly report.",マネージャーは月次報告で「暫定の」を使いました。
+toeic-990-fiduciary,toeic,toeic-990,fiduciary,信認上の,"Employees should understand ""fiduciary"" in business documents.",従業員は業務文書で「信認上の」を理解する必要があります。
+toeic-990-moratorium,toeic,toeic-990,moratorium,一時停止,"The notice mentioned ""moratorium"" for all staff members.",その通知は全スタッフ向けに「一時停止」に触れていました。
+toeic-990-remuneration,toeic,toeic-990,remuneration,報酬,"The client asked about ""remuneration"" after the meeting.",顧客は会議後に「報酬」について尋ねました。
+toeic-990-syndicate,toeic,toeic-990,syndicate,"企業合同,シンジケート","The team reviewed ""syndicate"" before making a decision.","チームは決定前に「企業合同,シンジケート」を確認しました。"
+toeic-990-traveler,toeic,toeic-990,traveler,"旅行者,旅人","The manager used ""traveler"" in the monthly report.","マネージャーは月次報告で「旅行者,旅人」を使いました。"
+toeic-990-receipt,toeic,toeic-990,receipt,領収書,"Employees should understand ""receipt"" in business documents.",従業員は業務文書で「領収書」を理解する必要があります。
+toeic-990-memorandum,toeic,toeic-990,memorandum,"メモ,覚え書き","The notice mentioned ""memorandum"" for all staff members.","その通知は全スタッフ向けに「メモ,覚え書き」に触れていました。"
+toeic-990-distributor,toeic,toeic-990,distributor,"分配する人,配分者","The client asked about ""distributor"" after the meeting.","顧客は会議後に「分配する人,配分者」について尋ねました。"
+toeic-990-undertaking,toeic,toeic-990,undertaking,"事業,企業,仕事","The team reviewed ""undertaking"" before making a decision.","チームは決定前に「事業,企業,仕事」を確認しました。"
+toeic-990-prohibition,toeic,toeic-990,prohibition,禁止すること,"The manager used ""prohibition"" in the monthly report.",マネージャーは月次報告で「禁止すること」を使いました。
+toeic-990-compensate,toeic,toeic-990,compensate,に補償する,"Employees should understand ""compensate"" in business documents.",従業員は業務文書で「に補償する」を理解する必要があります。
+toeic-990-banker,toeic,toeic-990,banker,"銀行家,銀行経営者","The notice mentioned ""banker"" for all staff members.","その通知は全スタッフ向けに「銀行家,銀行経営者」に触れていました。"
+toeic-990-conductor,toeic,toeic-990,conductor,"指導者,案内者","The client asked about ""conductor"" after the meeting.","顧客は会議後に「指導者,案内者」について尋ねました。"
+toeic-990-monopoly,toeic,toeic-990,monopoly,"独占,専売","The team reviewed ""monopoly"" before making a decision.","チームは決定前に「独占,専売」を確認しました。"
+toeic-990-discharge,toeic,toeic-990,discharge,の荷を降ろす,"The manager used ""discharge"" in the monthly report.",マネージャーは月次報告で「の荷を降ろす」を使いました。
+toeic-990-lockout,toeic,toeic-990,lockout,"ロックアウト,工場閉鎖","Employees should understand ""lockout"" in business documents.","従業員は業務文書で「ロックアウト,工場閉鎖」を理解する必要があります。"
+toeic-990-delinquent,toeic,toeic-990,delinquent,"怠る,怠慢な","The notice mentioned ""delinquent"" for all staff members.","その通知は全スタッフ向けに「怠る,怠慢な」に触れていました。"
+toeic-990-mismanagement,toeic,toeic-990,mismanagement,誤った管理,"The client asked about ""mismanagement"" after the meeting.",顧客は会議後に「誤った管理」について尋ねました。
+toeic-990-marketer,toeic,toeic-990,marketer,市場で生産物を売買する人,"The team reviewed ""marketer"" before making a decision.",チームは決定前に「市場で生産物を売買する人」を確認しました。
+toeic-990-agribusiness,toeic,toeic-990,agribusiness,農業関連産業,"The manager used ""agribusiness"" in the monthly report.",マネージャーは月次報告で「農業関連産業」を使いました。
+toeic-990-slacker,toeic,toeic-990,slacker,"怠け者,さぼり屋","Employees should understand ""slacker"" in business documents.","従業員は業務文書で「怠け者,さぼり屋」を理解する必要があります。"
+toeic-990-vested,toeic,toeic-990,vested,"既得の,所有権の定まった","The notice mentioned ""vested"" for all staff members.","その通知は全スタッフ向けに「既得の,所有権の定まった」に触れていました。"
+toeic-990-contractual,toeic,toeic-990,contractual,契約の,"The client asked about ""contractual"" after the meeting.",顧客は会議後に「契約の」について尋ねました。
+toeic-990-sanction,toeic,toeic-990,sanction,"認可,許可,裁可","The team reviewed ""sanction"" before making a decision.","チームは決定前に「認可,許可,裁可」を確認しました。"
+toeic-990-dealership,toeic,toeic-990,dealership,商品販売権,"The manager used ""dealership"" in the monthly report.",マネージャーは月次報告で「商品販売権」を使いました。
+toeic-990-tariff,toeic,toeic-990,tariff,関税,"Employees should understand ""tariff"" in business documents.",従業員は業務文書で「関税」を理解する必要があります。
+toeic-990-overdue,toeic,toeic-990,overdue,"支払いの期限が過ぎた,未払いの","The notice mentioned ""overdue"" for all staff members.","その通知は全スタッフ向けに「支払いの期限が過ぎた,未払いの」に触れていました。"
+toeic-990-organise,toeic,toeic-990,organise,"を系統だてる,組織的にまとめる","The client asked about ""organise"" after the meeting.","顧客は会議後に「を系統だてる,組織的にまとめる」について尋ねました。"
+toeic-990-annex,toeic,toeic-990,annex,"を付け加える,添える","The team reviewed ""annex"" before making a decision.","チームは決定前に「を付け加える,添える」を確認しました。"
+toeic-990-subscriber,toeic,toeic-990,subscriber,"予約者,定期講読者","The manager used ""subscriber"" in the monthly report.","マネージャーは月次報告で「予約者,定期講読者」を使いました。"
+toeic-990-obligatory,toeic,toeic-990,obligatory,"義務のある,強制的な","Employees should understand ""obligatory"" in business documents.","従業員は業務文書で「義務のある,強制的な」を理解する必要があります。"
+toeic-990-advertiser,toeic,toeic-990,advertiser,"広告者,広告主","The notice mentioned ""advertiser"" for all staff members.","その通知は全スタッフ向けに「広告者,広告主」に触れていました。"
+toeic-990-insurer,toeic,toeic-990,insurer,"保険業者,保険会社","The client asked about ""insurer"" after the meeting.","顧客は会議後に「保険業者,保険会社」について尋ねました。"
+toeic-990-beneficiary,toeic,toeic-990,beneficiary,利益を受ける人,"The team reviewed ""beneficiary"" before making a decision.",チームは決定前に「利益を受ける人」を確認しました。
+toeic-990-prosecute,toeic,toeic-990,prosecute,"を起訴する,告訴する","The manager used ""prosecute"" in the monthly report.","マネージャーは月次報告で「を起訴する,告訴する」を使いました。"
+toeic-990-multinational,toeic,toeic-990,multinational,多国籍企業・多国籍の,"Employees should understand ""multinational"" in business documents.",従業員は業務文書で「多国籍企業・多国籍の」を理解する必要があります。
+toeic-990-managerial,toeic,toeic-990,managerial,経営上の,"The notice mentioned ""managerial"" for all staff members.",その通知は全スタッフ向けに「経営上の」に触れていました。
+toeic-990-excursion,toeic,toeic-990,excursion,"小旅行,遠足","The client asked about ""excursion"" after the meeting.","顧客は会議後に「小旅行,遠足」について尋ねました。"
+toeic-990-attendant,toeic,toeic-990,attendant,付き添いの,"The team reviewed ""attendant"" before making a decision.",チームは決定前に「付き添いの」を確認しました。
+toeic-990-supervise,toeic,toeic-990,supervise,"を監督する,管理する","The manager used ""supervise"" in the monthly report.","マネージャーは月次報告で「を監督する,管理する」を使いました。"
+toeic-990-prepaid,toeic,toeic-990,prepaid,prepayの過去・過去分詞,"Employees should understand ""prepaid"" in business documents.",従業員は業務文書で「prepayの過去・過去分詞」を理解する必要があります。
+toeic-990-salesman,toeic,toeic-990,salesman,"男子店員,販売係","The notice mentioned ""salesman"" for all staff members.","その通知は全スタッフ向けに「男子店員,販売係」に触れていました。"
+toeic-990-mileage,toeic,toeic-990,mileage,総マイル数,"The client asked about ""mileage"" after the meeting.",顧客は会議後に「総マイル数」について尋ねました。
+toeic-990-incompetent,toeic,toeic-990,incompetent,"無能な,無力な","The team reviewed ""incompetent"" before making a decision.","チームは決定前に「無能な,無力な」を確認しました。"
+toeic-990-advertise,toeic,toeic-990,advertise,"広告する,宣伝する","The manager used ""advertise"" in the monthly report.","マネージャーは月次報告で「広告する,宣伝する」を使いました。"
+toeic-990-fixture,toeic,toeic-990,fixture,付属設備,"Employees should understand ""fixture"" in business documents.",従業員は業務文書で「付属設備」を理解する必要があります。
+toeic-990-departmental,toeic,toeic-990,departmental,部門の,"The notice mentioned ""departmental"" for all staff members.",その通知は全スタッフ向けに「部門の」に触れていました。
+toeic-990-invoice,toeic,toeic-990,invoice,送り状,"The client asked about ""invoice"" after the meeting.",顧客は会議後に「送り状」について尋ねました。
+toeic-990-freelance,toeic,toeic-990,freelance,自由契約者,"The team reviewed ""freelance"" before making a decision.",チームは決定前に「自由契約者」を確認しました。
+toeic-990-consortium,toeic,toeic-990,consortium,"資本連合,企業連合","The manager used ""consortium"" in the monthly report.","マネージャーは月次報告で「資本連合,企業連合」を使いました。"
+toeic-990-takeover,toeic,toeic-990,takeover,"奪取,接収","Employees should understand ""takeover"" in business documents.","従業員は業務文書で「奪取,接収」を理解する必要があります。"
+toeic-990-insured,toeic,toeic-990,insured,保険をかけている,"The notice mentioned ""insured"" for all staff members.",その通知は全スタッフ向けに「保険をかけている」に触れていました。
+toeic-990-dodger,toeic,toeic-990,dodger,"責任逃れをする人,ずるい人","The client asked about ""dodger"" after the meeting.","顧客は会議後に「責任逃れをする人,ずるい人」について尋ねました。"
+toeic-990-disadvantage,toeic,toeic-990,disadvantage,不利な立場,"The team reviewed ""disadvantage"" before making a decision.",チームは決定前に「不利な立場」を確認しました。
+toeic-990-bilateral,toeic,toeic-990,bilateral,"両側のある,左右同形の","The manager used ""bilateral"" in the monthly report.","マネージャーは月次報告で「両側のある,左右同形の」を使いました。"
+toeic-990-patron,toeic,toeic-990,patron,"後援者,保護者,パトロール","Employees should understand ""patron"" in business documents.","従業員は業務文書で「後援者,保護者,パトロール」を理解する必要があります。"
+toeic-990-bankrupt,toeic,toeic-990,bankrupt,"破産者,支払い不能債務者","The notice mentioned ""bankrupt"" for all staff members.","その通知は全スタッフ向けに「破産者,支払い不能債務者」に触れていました。"
+toeic-990-retailer,toeic,toeic-990,retailer,小売り商人,"The client asked about ""retailer"" after the meeting.",顧客は会議後に「小売り商人」について尋ねました。
+toeic-990-clientele,toeic,toeic-990,clientele,常連客,"The team reviewed ""clientele"" before making a decision.",チームは決定前に「常連客」を確認しました。
+toeic-990-accountant,toeic,toeic-990,accountant,"会計係,会計士,計理士","The manager used ""accountant"" in the monthly report.","マネージャーは月次報告で「会計係,会計士,計理士」を使いました。"
+toeic-990-prospectus,toeic,toeic-990,prospectus,設立趣意書,"Employees should understand ""prospectus"" in business documents.",従業員は業務文書で「設立趣意書」を理解する必要があります。
+toeic-990-stewardship,toeic,toeic-990,stewardship,stewardの職,"The notice mentioned ""stewardship"" for all staff members.",その通知は全スタッフ向けに「stewardの職」に触れていました。
+toeic-990-supermarket,toeic,toeic-990,supermarket,スーパーマーケット,"The client asked about ""supermarket"" after the meeting.",顧客は会議後に「スーパーマーケット」について尋ねました。
+toeic-990-forge,toeic,toeic-990,forge,炉,"The team reviewed ""forge"" before making a decision.",チームは決定前に「炉」を確認しました。
+toeic-990-vendor,toeic,toeic-990,vendor,"売る人,行商人","The manager used ""vendor"" in the monthly report.","マネージャーは月次報告で「売る人,行商人」を使いました。"
+toeic-990-distribute,toeic,toeic-990,distribute,"分配する,配る","Employees should understand ""distribute"" in business documents.","従業員は業務文書で「分配する,配る」を理解する必要があります。"
+toeic-990-taxation,toeic,toeic-990,taxation,"課税,徴税","The notice mentioned ""taxation"" for all staff members.","その通知は全スタッフ向けに「課税,徴税」に触れていました。"
+toeic-990-vocation,toeic,toeic-990,vocation,職業,"The client asked about ""vocation"" after the meeting.",顧客は会議後に「職業」について尋ねました。
+toeic-990-marketplace,toeic,toeic-990,marketplace,市の開かれる広場,"The team reviewed ""marketplace"" before making a decision.",チームは決定前に「市の開かれる広場」を確認しました。
+toeic-990-imposition,toeic,toeic-990,imposition,"課すること,負わせること","The manager used ""imposition"" in the monthly report.","マネージャーは月次報告で「課すること,負わせること」を使いました。"
+toeic-990-supplier,toeic,toeic-990,supplier,"供給者,補充者","Employees should understand ""supplier"" in business documents.","従業員は業務文書で「供給者,補充者」を理解する必要があります。"
+toeic-990-paperwork,toeic,toeic-990,paperwork,"書類仕事,文書仕事","The notice mentioned ""paperwork"" for all staff members.","その通知は全スタッフ向けに「書類仕事,文書仕事」に触れていました。"
+toeic-990-proposition,toeic,toeic-990,proposition,"提案,申し出","The client asked about ""proposition"" after the meeting.","顧客は会議後に「提案,申し出」について尋ねました。"
+toeic-990-incorporate,toeic,toeic-990,incorporate,を法人にする,"The team reviewed ""incorporate"" before making a decision.",チームは決定前に「を法人にする」を確認しました。
+toeic-990-yahoo,toeic,toeic-990,yahoo,"乱暴者,粗野な人,無教養の人 に登場する「ヤフー族」が語源)","The manager used ""yahoo"" in the monthly report.","マネージャーは月次報告で「乱暴者,粗野な人,無教養の人 に登場する「ヤフー族」が語源)」を使いました。"
+toeic-990-throughput,toeic,toeic-990,throughput,一定時間内にこなされる仕事量,"Employees should understand ""throughput"" in business documents.",従業員は業務文書で「一定時間内にこなされる仕事量」を理解する必要があります。
+toeic-990-booking,toeic,toeic-990,booking,予約,"The notice mentioned ""booking"" for all staff members.",その通知は全スタッフ向けに「予約」に触れていました。
+toeic-990-accountable,toeic,toeic-990,accountable,"説明責任のある,責任を問える","The client asked about ""accountable"" after the meeting.","顧客は会議後に「説明責任のある,責任を問える」について尋ねました。"
+toeic-990-merchandise,toeic,toeic-990,merchandise,商品,"The team reviewed ""merchandise"" before making a decision.",チームは決定前に「商品」を確認しました。
+toeic-990-claimant,toeic,toeic-990,claimant,"要求者,主張者,請求者","The manager used ""claimant"" in the monthly report.","マネージャーは月次報告で「要求者,主張者,請求者」を使いました。"
+toeic-990-jurisprudence,toeic,toeic-990,jurisprudence,"法学,法律学,法理学","Employees should understand ""jurisprudence"" in business documents.","従業員は業務文書で「法学,法律学,法理学」を理解する必要があります。"
+toeic-990-execute,toeic,toeic-990,execute,"を実行する,遂行する","The notice mentioned ""execute"" for all staff members.","その通知は全スタッフ向けに「を実行する,遂行する」に触れていました。"
+toeic-990-bargain,toeic,toeic-990,bargain,"契約,売買契約,取引き","The client asked about ""bargain"" after the meeting.","顧客は会議後に「契約,売買契約,取引き」について尋ねました。"
+toeic-990-employ,toeic,toeic-990,employ,を雇う,"The team reviewed ""employ"" before making a decision.",チームは決定前に「を雇う」を確認しました。
+toeic-990-superintendent,toeic,toeic-990,superintendent,"監督者,長官,所長","The manager used ""superintendent"" in the monthly report.","マネージャーは月次報告で「監督者,長官,所長」を使いました。"
+toeic-990-accountancy,toeic,toeic-990,accountancy,会計係の職務,"Employees should understand ""accountancy"" in business documents.",従業員は業務文書で「会計係の職務」を理解する必要があります。
+toeic-990-plenary,toeic,toeic-990,plenary,"全部備えた,最大限の","The notice mentioned ""plenary"" for all staff members.","その通知は全スタッフ向けに「全部備えた,最大限の」に触れていました。"
+toeic-990-workmanship,toeic,toeic-990,workmanship,"手腕,技量","The client asked about ""workmanship"" after the meeting.","顧客は会議後に「手腕,技量」について尋ねました。"
+toeic-990-devolution,toeic,toeic-990,devolution,"移転,委任,継承","The team reviewed ""devolution"" before making a decision.","チームは決定前に「移転,委任,継承」を確認しました。"
+toeic-990-marketable,toeic,toeic-990,marketable,"売れやすい,市場向きの","The manager used ""marketable"" in the monthly report.","マネージャーは月次報告で「売れやすい,市場向きの」を使いました。"
+toeic-990-arrears,toeic,toeic-990,arrears,"とどこおり,滞納金","Employees should understand ""arrears"" in business documents.","従業員は業務文書で「とどこおり,滞納金」を理解する必要があります。"
+toeic-990-wainwright,toeic,toeic-990,wainwright,荷馬車製造人,"The notice mentioned ""wainwright"" for all staff members.",その通知は全スタッフ向けに「荷馬車製造人」に触れていました。
+toeic-990-licensee,toeic,toeic-990,licensee,免許を得た人,"The client asked about ""licensee"" after the meeting.",顧客は会議後に「免許を得た人」について尋ねました。
+toeic-990-infringe,toeic,toeic-990,infringe,"を侵害する,に違反する","The team reviewed ""infringe"" before making a decision.","チームは決定前に「を侵害する,に違反する」を確認しました。"
+toeic-990-preside,toeic,toeic-990,preside,"司会をする,議長をつとめる","The manager used ""preside"" in the monthly report.","マネージャーは月次報告で「司会をする,議長をつとめる」を使いました。"
+toeic-990-docket,toeic,toeic-990,docket,訴訟事件一覧表,"Employees should understand ""docket"" in business documents.",従業員は業務文書で「訴訟事件一覧表」を理解する必要があります。
+toeic-990-tonnage,toeic,toeic-990,tonnage,トン数,"The notice mentioned ""tonnage"" for all staff members.",その通知は全スタッフ向けに「トン数」に触れていました。
+toeic-990-unprofitable,toeic,toeic-990,unprofitable,"利益がない,もうからない","The client asked about ""unprofitable"" after the meeting.","顧客は会議後に「利益がない,もうからない」について尋ねました。"
+toeic-990-aggrieved,toeic,toeic-990,aggrieved,侮辱された,"The team reviewed ""aggrieved"" before making a decision.",チームは決定前に「侮辱された」を確認しました。
+toeic-990-emporium,toeic,toeic-990,emporium,"商業の中心地,市場","The manager used ""emporium"" in the monthly report.","マネージャーは月次報告で「商業の中心地,市場」を使いました。"
+toeic-990-telephony,toeic,toeic-990,telephony,電話通信,"Employees should understand ""telephony"" in business documents.",従業員は業務文書で「電話通信」を理解する必要があります。
+toeic-990-appointee,toeic,toeic-990,appointee,任命された人,"The notice mentioned ""appointee"" for all staff members.",その通知は全スタッフ向けに「任命された人」に触れていました。
+toeic-990-salesperson,toeic,toeic-990,salesperson,販売員,"The client asked about ""salesperson"" after the meeting.",顧客は会議後に「販売員」について尋ねました。
+toeic-990-devolve,toeic,toeic-990,devolve,をゆだねる,"The team reviewed ""devolve"" before making a decision.",チームは決定前に「をゆだねる」を確認しました。
+toeic-990-subcontractor,toeic,toeic-990,subcontractor,"下請人,下請契約者","The manager used ""subcontractor"" in the monthly report.","マネージャーは月次報告で「下請人,下請契約者」を使いました。"
+toeic-990-deserter,toeic,toeic-990,deserter,義務を放棄する者,"Employees should understand ""deserter"" in business documents.",従業員は業務文書で「義務を放棄する者」を理解する必要があります。
+toeic-990-caretaker,toeic,toeic-990,caretaker,管理人,"The notice mentioned ""caretaker"" for all staff members.",その通知は全スタッフ向けに「管理人」に触れていました。
+toeic-990-mayhem,toeic,toeic-990,mayhem,身体傷害,"The client asked about ""mayhem"" after the meeting.",顧客は会議後に「身体傷害」について尋ねました。
+toeic-990-patronage,toeic,toeic-990,patronage,"後援,保護,奨励","The team reviewed ""patronage"" before making a decision.","チームは決定前に「後援,保護,奨励」を確認しました。"
+toeic-990-recognizable,toeic,toeic-990,recognizable,見覚えがある,"The manager used ""recognizable"" in the monthly report.",マネージャーは月次報告で「見覚えがある」を使いました。
+toeic-990-instrumentation,toeic,toeic-990,instrumentation,器楽編法,"Employees should understand ""instrumentation"" in business documents.",従業員は業務文書で「器楽編法」を理解する必要があります。
+toeic-990-estimation,toeic,toeic-990,estimation,判断,"The notice mentioned ""estimation"" for all staff members.",その通知は全スタッフ向けに「判断」に触れていました。
+toeic-990-disconnect,toeic,toeic-990,disconnect,の関係を絶つ,"The client asked about ""disconnect"" after the meeting.",顧客は会議後に「の関係を絶つ」について尋ねました。
+toeic-990-deprivation,toeic,toeic-990,deprivation,はく奪,"The team reviewed ""deprivation"" before making a decision.",チームは決定前に「はく奪」を確認しました。
+toeic-990-contraction,toeic,toeic-990,contraction,"収縮,短縮","The manager used ""contraction"" in the monthly report.","マネージャーは月次報告で「収縮,短縮」を使いました。"
+toeic-990-consultancy,toeic,toeic-990,consultancy,コンサルタント業務,"Employees should understand ""consultancy"" in business documents.",従業員は業務文書で「コンサルタント業務」を理解する必要があります。
+toeic-990-fulfillment,toeic,toeic-990,fulfillment,遂行,"The notice mentioned ""fulfillment"" for all staff members.",その通知は全スタッフ向けに「遂行」に触れていました。
+toeic-990-voucher,toeic,toeic-990,voucher,"証書,受領証・証拠物件","The client asked about ""voucher"" after the meeting.","顧客は会議後に「証書,受領証・証拠物件」について尋ねました。"
+toeic-990-orderly,toeic,toeic-990,orderly,"整頓された,整然とした","The team reviewed ""orderly"" before making a decision.","チームは決定前に「整頓された,整然とした」を確認しました。"
+toeic-990-rewrite,toeic,toeic-990,rewrite,書き直す,"The manager used ""rewrite"" in the monthly report.",マネージャーは月次報告で「書き直す」を使いました。
+toeic-990-repayment,toeic,toeic-990,repayment,"返済,返礼","Employees should understand ""repayment"" in business documents.","従業員は業務文書で「返済,返礼」を理解する必要があります。"
+toeic-990-sapphire,toeic,toeic-990,sapphire,"サファイア,青玉","The notice mentioned ""sapphire"" for all staff members.","その通知は全スタッフ向けに「サファイア,青玉」に触れていました。"
+toeic-990-solvent,toeic,toeic-990,solvent,支払い能力がある,"The client asked about ""solvent"" after the meeting.",顧客は会議後に「支払い能力がある」について尋ねました。
+toeic-990-connector,toeic,toeic-990,connector,"接続子,接続器","The team reviewed ""connector"" before making a decision.","チームは決定前に「接続子,接続器」を確認しました。"
+toeic-990-enact,toeic,toeic-990,enact,を制定する,"The manager used ""enact"" in the monthly report.",マネージャーは月次報告で「を制定する」を使いました。
+toeic-990-revise,toeic,toeic-990,revise,"を改訂する,修正する","Employees should understand ""revise"" in business documents.","従業員は業務文書で「を改訂する,修正する」を理解する必要があります。"
+toeic-990-retrospective,toeic,toeic-990,retrospective,"回顧的な,回想の","The notice mentioned ""retrospective"" for all staff members.","その通知は全スタッフ向けに「回顧的な,回想の」に触れていました。"
+toeic-990-expiration,toeic,toeic-990,expiration,"満了,終結","The client asked about ""expiration"" after the meeting.","顧客は会議後に「満了,終結」について尋ねました。"
+toeic-990-concede,toeic,toeic-990,concede,真実と認める,"The team reviewed ""concede"" before making a decision.",チームは決定前に「真実と認める」を確認しました。
+toeic-990-anchorage,toeic,toeic-990,anchorage,"停泊地,投びょう地","The manager used ""anchorage"" in the monthly report.","マネージャーは月次報告で「停泊地,投びょう地」を使いました。"
+toeic-990-bookstore,toeic,toeic-990,bookstore,"書,本屋","Employees should understand ""bookstore"" in business documents.","従業員は業務文書で「書,本屋」を理解する必要があります。"
+toeic-990-conservatism,toeic,toeic-990,conservatism,保守的傾向,"The notice mentioned ""conservatism"" for all staff members.",その通知は全スタッフ向けに「保守的傾向」に触れていました。
+toeic-990-teller,toeic,toeic-990,teller,"話し手,語り手","The client asked about ""teller"" after the meeting.","顧客は会議後に「話し手,語り手」について尋ねました。"
+toeic-990-shuffle,toeic,toeic-990,shuffle,"を引きずる,引きずって歩く","The team reviewed ""shuffle"" before making a decision.","チームは決定前に「を引きずる,引きずって歩く」を確認しました。"
+toeic-990-livelihood,toeic,toeic-990,livelihood,"生計,暮らしの費用","The manager used ""livelihood"" in the monthly report.","マネージャーは月次報告で「生計,暮らしの費用」を使いました。"
+toeic-990-plunge,toeic,toeic-990,plunge,"突っ込む,押し込む","Employees should understand ""plunge"" in business documents.","従業員は業務文書で「突っ込む,押し込む」を理解する必要があります。"
+toeic-990-directorate,toeic,toeic-990,directorate,管理職,"The notice mentioned ""directorate"" for all staff members.",その通知は全スタッフ向けに「管理職」に触れていました。
+toeic-990-embarrass,toeic,toeic-990,embarrass,"のまごつかせる,困惑させる,きまり悪がらせる","The client asked about ""embarrass"" after the meeting.","顧客は会議後に「のまごつかせる,困惑させる,きまり悪がらせる」について尋ねました。"
+toeic-990-evasion,toeic,toeic-990,evasion,"逃れること,回避","The team reviewed ""evasion"" before making a decision.","チームは決定前に「逃れること,回避」を確認しました。"
+toeic-990-helper,toeic,toeic-990,helper,"助ける人,手伝う人,助手","The manager used ""helper"" in the monthly report.","マネージャーは月次報告で「助ける人,手伝う人,助手」を使いました。"
+toeic-990-paycheck,toeic,toeic-990,paycheck,給料支払い小切手,"Employees should understand ""paycheck"" in business documents.",従業員は業務文書で「給料支払い小切手」を理解する必要があります。
+toeic-990-payable,toeic,toeic-990,payable,採算のとれる,"The notice mentioned ""payable"" for all staff members.",その通知は全スタッフ向けに「採算のとれる」に触れていました。
+toeic-990-projector,toeic,toeic-990,projector,"計画者,発案者","The client asked about ""projector"" after the meeting.","顧客は会議後に「計画者,発案者」について尋ねました。"
+toeic-990-tumble,toeic,toeic-990,tumble,"ころがる,倒れる","The team reviewed ""tumble"" before making a decision.","チームは決定前に「ころがる,倒れる」を確認しました。"
+toeic-990-cradle,toeic,toeic-990,cradle,揺りかご,"The manager used ""cradle"" in the monthly report.",マネージャーは月次報告で「揺りかご」を使いました。
+toeic-990-correspond,toeic,toeic-990,correspond,"一致する,符合する,調和する","Employees should understand ""correspond"" in business documents.","従業員は業務文書で「一致する,符合する,調和する」を理解する必要があります。"
+toeic-990-insure,toeic,toeic-990,insure,"保証する,請け合う","The notice mentioned ""insure"" for all staff members.","その通知は全スタッフ向けに「保証する,請け合う」に触れていました。"
+toeic-990-prohibit,toeic,toeic-990,prohibit,"禁止する,禁ずる","The client asked about ""prohibit"" after the meeting.","顧客は会議後に「禁止する,禁ずる」について尋ねました。"
+toeic-990-postage,toeic,toeic-990,postage,"郵便料金,郵送料","The team reviewed ""postage"" before making a decision.","チームは決定前に「郵便料金,郵送料」を確認しました。"
+toeic-990-oversee,toeic,toeic-990,oversee,を監督する,"The manager used ""oversee"" in the monthly report.",マネージャーは月次報告で「を監督する」を使いました。
+toeic-990-outlaw,toeic,toeic-990,outlaw,常習犯,"Employees should understand ""outlaw"" in business documents.",従業員は業務文書で「常習犯」を理解する必要があります。
+toeic-990-auditorium,toeic,toeic-990,auditorium,"聴衆席,観客席","The notice mentioned ""auditorium"" for all staff members.","その通知は全スタッフ向けに「聴衆席,観客席」に触れていました。"
+toeic-990-classify,toeic,toeic-990,classify,"分類する,類別する,等級別にする","The client asked about ""classify"" after the meeting.","顧客は会議後に「分類する,類別する,等級別にする」について尋ねました。"
+toeic-990-conglomerate,toeic,toeic-990,conglomerate,固まりになった,"The team reviewed ""conglomerate"" before making a decision.",チームは決定前に「固まりになった」を確認しました。
+toeic-990-sexism,toeic,toeic-990,sexism,"女性差別主義,男女差別","The manager used ""sexism"" in the monthly report.","マネージャーは月次報告で「女性差別主義,男女差別」を使いました。"
+toeic-990-hotline,toeic,toeic-990,hotline,緊急直通電話線,"Employees should understand ""hotline"" in business documents.",従業員は業務文書で「緊急直通電話線」を理解する必要があります。
+toeic-990-inherit,toeic,toeic-990,inherit,を相続する,"The notice mentioned ""inherit"" for all staff members.",その通知は全スタッフ向けに「を相続する」に触れていました。
+toeic-990-quits,toeic,toeic-990,quits,チャラの,"The client asked about ""quits"" after the meeting.",顧客は会議後に「チャラの」について尋ねました。
+toeic-990-examiner,toeic,toeic-990,examiner,試験官,"The team reviewed ""examiner"" before making a decision.",チームは決定前に「試験官」を確認しました。
+toeic-990-bonded,toeic,toeic-990,bonded,合板の,"The manager used ""bonded"" in the monthly report.",マネージャーは月次報告で「合板の」を使いました。
+toeic-990-syntax,toeic,toeic-990,syntax,"文章論,統語論,文章構成法,シンタックス","Employees should understand ""syntax"" in business documents.","従業員は業務文書で「文章論,統語論,文章構成法,シンタックス」を理解する必要があります。"
+toeic-990-redeem,toeic,toeic-990,redeem,を買い戻す,"The notice mentioned ""redeem"" for all staff members.",その通知は全スタッフ向けに「を買い戻す」に触れていました。
+toeic-990-manageable,toeic,toeic-990,manageable,"扱いやすい,処理しやすい,御しやすい","The client asked about ""manageable"" after the meeting.","顧客は会議後に「扱いやすい,処理しやすい,御しやすい」について尋ねました。"
+toeic-990-mecca,toeic,toeic-990,mecca,メッカ,"The team reviewed ""mecca"" before making a decision.",チームは決定前に「メッカ」を確認しました。
+toeic-990-bazaar,toeic,toeic-990,bazaar,"バザー,慈善市","The manager used ""bazaar"" in the monthly report.","マネージャーは月次報告で「バザー,慈善市」を使いました。"
+toeic-990-depreciation,toeic,toeic-990,depreciation,"下落,低落","Employees should understand ""depreciation"" in business documents.","従業員は業務文書で「下落,低落」を理解する必要があります。"
+toeic-990-expire,toeic,toeic-990,expire,"満了する,切れる","The notice mentioned ""expire"" for all staff members.","その通知は全スタッフ向けに「満了する,切れる」に触れていました。"
+toeic-990-boutique,toeic,toeic-990,boutique,"流行服飾品専門店,ブティック","The client asked about ""boutique"" after the meeting.","顧客は会議後に「流行服飾品専門店,ブティック」について尋ねました。"
+toeic-990-administer,toeic,toeic-990,administer,管理する,"The team reviewed ""administer"" before making a decision.",チームは決定前に「管理する」を確認しました。
+toeic-990-suitcase,toeic,toeic-990,suitcase,"スーツケース,小型旅行かばん","The manager used ""suitcase"" in the monthly report.","マネージャーは月次報告で「スーツケース,小型旅行かばん」を使いました。"
+toeic-990-fulfil,toeic,toeic-990,fulfil,"を果たす,実行する","Employees should understand ""fulfil"" in business documents.","従業員は業務文書で「を果たす,実行する」を理解する必要があります。"
+toeic-990-curator,toeic,toeic-990,curator,"管理者,館長","The notice mentioned ""curator"" for all staff members.","その通知は全スタッフ向けに「管理者,館長」に触れていました。"
+toeic-990-insertion,toeic,toeic-990,insertion,"挿入,差し込み","The client asked about ""insertion"" after the meeting.","顧客は会議後に「挿入,差し込み」について尋ねました。"
+toeic-990-purchaser,toeic,toeic-990,purchaser,買い手,"The team reviewed ""purchaser"" before making a decision.",チームは決定前に「買い手」を確認しました。
+toeic-990-surveyor,toeic,toeic-990,surveyor,測量技師,"The manager used ""surveyor"" in the monthly report.",マネージャーは月次報告で「測量技師」を使いました。
+toeic-990-promoter,toeic,toeic-990,promoter,"推進者,奨励者","Employees should understand ""promoter"" in business documents.","従業員は業務文書で「推進者,奨励者」を理解する必要があります。"
+toeic-990-porcelain,toeic,toeic-990,porcelain,磁器,"The notice mentioned ""porcelain"" for all staff members.",その通知は全スタッフ向けに「磁器」に触れていました。
+toeic-990-satisfactory,toeic,toeic-990,satisfactory,"満足を与える,満足な,申し分のない","The client asked about ""satisfactory"" after the meeting.","顧客は会議後に「満足を与える,満足な,申し分のない」について尋ねました。"
+toeic-990-sanitation,toeic,toeic-990,sanitation,衛生,"The team reviewed ""sanitation"" before making a decision.",チームは決定前に「衛生」を確認しました。
+toeic-990-revert,toeic,toeic-990,revert,"戻る,逆戻りする","The manager used ""revert"" in the monthly report.","マネージャーは月次報告で「戻る,逆戻りする」を使いました。"
+toeic-990-offend,toeic,toeic-990,offend,"の感情を傷つける,を恐らせる","Employees should understand ""offend"" in business documents.","従業員は業務文書で「の感情を傷つける,を恐らせる」を理解する必要があります。"
+toeic-990-taxable,toeic,toeic-990,taxable,税金がかかる,"The notice mentioned ""taxable"" for all staff members.",その通知は全スタッフ向けに「税金がかかる」に触れていました。
+toeic-990-treadmill,toeic,toeic-990,treadmill,足踏み水車,"The client asked about ""treadmill"" after the meeting.",顧客は会議後に「足踏み水車」について尋ねました。
+toeic-990-inexpensive,toeic,toeic-990,inexpensive,"安い,費用のかからない","The team reviewed ""inexpensive"" before making a decision.","チームは決定前に「安い,費用のかからない」を確認しました。"
+toeic-990-hassle,toeic,toeic-990,hassle,激論,"The manager used ""hassle"" in the monthly report.",マネージャーは月次報告で「激論」を使いました。
+toeic-990-disposable,toeic,toeic-990,disposable,使い捨てにできる,"Employees should understand ""disposable"" in business documents.",従業員は業務文書で「使い捨てにできる」を理解する必要があります。
+toeic-990-borderline,toeic,toeic-990,borderline,"国境線,境界線","The notice mentioned ""borderline"" for all staff members.","その通知は全スタッフ向けに「国境線,境界線」に触れていました。"
+toeic-990-infirmary,toeic,toeic-990,infirmary,"付属診療所,保健室","The client asked about ""infirmary"" after the meeting.","顧客は会議後に「付属診療所,保健室」について尋ねました。"
+toeic-990-priceless,toeic,toeic-990,priceless,非常に貴重な,"The team reviewed ""priceless"" before making a decision.",チームは決定前に「非常に貴重な」を確認しました。
+toeic-990-plastics,toeic,toeic-990,plastics,プラスチック素材,"The manager used ""plastics"" in the monthly report.",マネージャーは月次報告で「プラスチック素材」を使いました。
+toeic-990-foreman,toeic,toeic-990,foreman,"職長,監督","Employees should understand ""foreman"" in business documents.","従業員は業務文書で「職長,監督」を理解する必要があります。"
+toeic-990-pricey,toeic,toeic-990,pricey,"値段の高い,高価な","The notice mentioned ""pricey"" for all staff members.","その通知は全スタッフ向けに「値段の高い,高価な」に触れていました。"
+toeic-990-slander,toeic,toeic-990,slander,"中傷,悪口","The client asked about ""slander"" after the meeting.","顧客は会議後に「中傷,悪口」について尋ねました。"
+toeic-990-caucus,toeic,toeic-990,caucus,幹部会議,"The team reviewed ""caucus"" before making a decision.",チームは決定前に「幹部会議」を確認しました。
+toeic-990-cartel,toeic,toeic-990,cartel,"カルテル,企業連合","The manager used ""cartel"" in the monthly report.","マネージャーは月次報告で「カルテル,企業連合」を使いました。"
+toeic-990-wicket,toeic,toeic-990,wicket,"小門,くぐり","Employees should understand ""wicket"" in business documents.","従業員は業務文書で「小門,くぐり」を理解する必要があります。"
+toeic-990-transmitter,toeic,toeic-990,transmitter,送る人,"The notice mentioned ""transmitter"" for all staff members.",その通知は全スタッフ向けに「送る人」に触れていました。
+toeic-990-additive,toeic,toeic-990,additive,添加された,"The client asked about ""additive"" after the meeting.",顧客は会議後に「添加された」について尋ねました。
+toeic-990-bloated,toeic,toeic-990,bloated,"ふくれ上がった,むくんだ","The team reviewed ""bloated"" before making a decision.","チームは決定前に「ふくれ上がった,むくんだ」を確認しました。"
+toeic-990-corvette,toeic,toeic-990,corvette,コルベット艦,"The manager used ""corvette"" in the monthly report.",マネージャーは月次報告で「コルベット艦」を使いました。
+toeic-990-chamberlain,toeic,toeic-990,chamberlain,"侍従,執事","Employees should understand ""chamberlain"" in business documents.","従業員は業務文書で「侍従,執事」を理解する必要があります。"
+toeic-990-avail,toeic,toeic-990,avail,"役に立つ,用が足りる","The notice mentioned ""avail"" for all staff members.","その通知は全スタッフ向けに「役に立つ,用が足りる」に触れていました。"
+toeic-990-ventilation,toeic,toeic-990,ventilation,"換気,通風","The client asked about ""ventilation"" after the meeting.","顧客は会議後に「換気,通風」について尋ねました。"
+toeic-990-voyager,toeic,toeic-990,voyager,"航海者,航行者","The team reviewed ""voyager"" before making a decision.","チームは決定前に「航海者,航行者」を確認しました。"
+toeic-990-intercourse,toeic,toeic-990,intercourse,"交際,交流,連絡,取引","The manager used ""intercourse"" in the monthly report.","マネージャーは月次報告で「交際,交流,連絡,取引」を使いました。"
+toeic-990-careless,toeic,toeic-990,careless,"不注意な,軽率な","Employees should understand ""careless"" in business documents.","従業員は業務文書で「不注意な,軽率な」を理解する必要があります。"
+toeic-990-foundry,toeic,toeic-990,foundry,"鋳込み,鋳造","The notice mentioned ""foundry"" for all staff members.","その通知は全スタッフ向けに「鋳込み,鋳造」に触れていました。"
+toeic-990-storey,toeic,toeic-990,storey,階,"The client asked about ""storey"" after the meeting.",顧客は会議後に「階」について尋ねました。
+toeic-990-stint,toeic,toeic-990,stint,"惜しむ,切り詰める","The team reviewed ""stint"" before making a decision.","チームは決定前に「惜しむ,切り詰める」を確認しました。"
+toeic-990-resin,toeic,toeic-990,resin,"樹脂,松やに","The manager used ""resin"" in the monthly report.","マネージャーは月次報告で「樹脂,松やに」を使いました。"
+toeic-990-payday,toeic,toeic-990,payday,給料日,"Employees should understand ""payday"" in business documents.",従業員は業務文書で「給料日」を理解する必要があります。
+toeic-990-motel,toeic,toeic-990,motel,モーテル,"The notice mentioned ""motel"" for all staff members.",その通知は全スタッフ向けに「モーテル」に触れていました。
+toeic-990-rendezvous,toeic,toeic-990,rendezvous,"会合,面会,会合の約束","The client asked about ""rendezvous"" after the meeting.","顧客は会議後に「会合,面会,会合の約束」について尋ねました。"
+toeic-990-linen,toeic,toeic-990,linen,"リネン,亜麻布","The team reviewed ""linen"" before making a decision.","チームは決定前に「リネン,亜麻布」を確認しました。"
+toeic-990-supervisory,toeic,toeic-990,supervisory,"監督の,管理の","The manager used ""supervisory"" in the monthly report.","マネージャーは月次報告で「監督の,管理の」を使いました。"
+toeic-990-synod,toeic,toeic-990,synod,教会会議,"Employees should understand ""synod"" in business documents.",従業員は業務文書で「教会会議」を理解する必要があります。
+toeic-990-dissolution,toeic,toeic-990,dissolution,分解,"The notice mentioned ""dissolution"" for all staff members.",その通知は全スタッフ向けに「分解」に触れていました。
+toeic-990-canning,toeic,toeic-990,canning,かん詰め製造,"The client asked about ""canning"" after the meeting.",顧客は会議後に「かん詰め製造」について尋ねました。
+toeic-990-shutdown,toeic,toeic-990,shutdown,"閉鎖,操業停止","The team reviewed ""shutdown"" before making a decision.","チームは決定前に「閉鎖,操業停止」を確認しました。"
+toeic-990-entrenched,toeic,toeic-990,entrenched,確固とした,"The manager used ""entrenched"" in the monthly report.",マネージャーは月次報告で「確固とした」を使いました。
+toeic-990-incidental,toeic,toeic-990,incidental,"付随して起こる,付随した","Employees should understand ""incidental"" in business documents.","従業員は業務文書で「付随して起こる,付随した」を理解する必要があります。"
+toeic-990-lawful,toeic,toeic-990,lawful,"合法の,法定の","The notice mentioned ""lawful"" for all staff members.","その通知は全スタッフ向けに「合法の,法定の」に触れていました。"
+toeic-990-proprietor,toeic,toeic-990,proprietor,"持ち主,所有者","The client asked about ""proprietor"" after the meeting.","顧客は会議後に「持ち主,所有者」について尋ねました。"
+toeic-990-caravan,toeic,toeic-990,caravan,"隊商,旅人隊","The team reviewed ""caravan"" before making a decision.","チームは決定前に「隊商,旅人隊」を確認しました。"
+toeic-990-warden,toeic,toeic-990,warden,管理人,"The manager used ""warden"" in the monthly report.",マネージャーは月次報告で「管理人」を使いました。
+toeic-990-toughness,toeic,toeic-990,toughness,"じょうぶさ,堅さ","Employees should understand ""toughness"" in business documents.","従業員は業務文書で「じょうぶさ,堅さ」を理解する必要があります。"
+toeic-990-safari,toeic,toeic-990,safari,"遠征旅行,サファリ","The notice mentioned ""safari"" for all staff members.","その通知は全スタッフ向けに「遠征旅行,サファリ」に触れていました。"
+toeic-990-cameraman,toeic,toeic-990,cameraman,カメラマン,"The client asked about ""cameraman"" after the meeting.",顧客は会議後に「カメラマン」について尋ねました。
+toeic-990-inspect,toeic,toeic-990,inspect,"検査する,念入りに調べる","The team reviewed ""inspect"" before making a decision.","チームは決定前に「検査する,念入りに調べる」を確認しました。"
+toeic-990-endorse,toeic,toeic-990,endorse,に裏書きをする,"The manager used ""endorse"" in the monthly report.",マネージャーは月次報告で「に裏書きをする」を使いました。
+toeic-990-fiasco,toeic,toeic-990,fiasco,大失敗,"Employees should understand ""fiasco"" in business documents.",従業員は業務文書で「大失敗」を理解する必要があります。
+toeic-990-headphone,toeic,toeic-990,headphone,ヘッドフォン,"The notice mentioned ""headphone"" for all staff members.",その通知は全スタッフ向けに「ヘッドフォン」に触れていました。
+toeic-990-accessory,toeic,toeic-990,accessory,"付属品,アクセサリー","The client asked about ""accessory"" after the meeting.","顧客は会議後に「付属品,アクセサリー」について尋ねました。"
+toeic-990-airfield,toeic,toeic-990,airfield,小飛行場,"The team reviewed ""airfield"" before making a decision.",チームは決定前に「小飛行場」を確認しました。
+toeic-990-clinch,toeic,toeic-990,clinch,"を折り曲げる,つぶす,…を固定させる,くっつける","The manager used ""clinch"" in the monthly report.","マネージャーは月次報告で「を折り曲げる,つぶす,…を固定させる,くっつける」を使いました。"
+toeic-990-coworker,toeic,toeic-990,coworker,協力者,"Employees should understand ""coworker"" in business documents.",従業員は業務文書で「協力者」を理解する必要があります。
+toeic-990-dossier,toeic,toeic-990,dossier,"関係書類,身上調書","The notice mentioned ""dossier"" for all staff members.","その通知は全スタッフ向けに「関係書類,身上調書」に触れていました。"
+toeic-990-vocational,toeic,toeic-990,vocational,"職業の,職業上の","The client asked about ""vocational"" after the meeting.","顧客は会議後に「職業の,職業上の」について尋ねました。"
+toeic-990-negligence,toeic,toeic-990,negligence,"怠慢,不注意,落ち度","The team reviewed ""negligence"" before making a decision.","チームは決定前に「怠慢,不注意,落ち度」を確認しました。"
+toeic-990-exemption,toeic,toeic-990,exemption,免除,"The manager used ""exemption"" in the monthly report.",マネージャーは月次報告で「免除」を使いました。
+toeic-990-artery,toeic,toeic-990,artery,動脈,"Employees should understand ""artery"" in business documents.",従業員は業務文書で「動脈」を理解する必要があります。
+toeic-990-proceeding,toeic,toeic-990,proceeding,"進行,続行","The notice mentioned ""proceeding"" for all staff members.","その通知は全スタッフ向けに「進行,続行」に触れていました。"
+toeic-990-disapproval,toeic,toeic-990,disapproval,"不賛成,不承認","The client asked about ""disapproval"" after the meeting.","顧客は会議後に「不賛成,不承認」について尋ねました。"
+toeic-990-lawless,toeic,toeic-990,lawless,"法律で規則されない,非合法の","The team reviewed ""lawless"" before making a decision.","チームは決定前に「法律で規則されない,非合法の」を確認しました。"
+toeic-990-brewery,toeic,toeic-990,brewery,"ビール醸造所,ビール工場","The manager used ""brewery"" in the monthly report.","マネージャーは月次報告で「ビール醸造所,ビール工場」を使いました。"
+toeic-990-assign,toeic,toeic-990,assign,"を割り当てる,あてがう,与える","Employees should understand ""assign"" in business documents.","従業員は業務文書で「を割り当てる,あてがう,与える」を理解する必要があります。"
+toeic-990-resale,toeic,toeic-990,resale,"再販,転売","The notice mentioned ""resale"" for all staff members.","その通知は全スタッフ向けに「再販,転売」に触れていました。"
+toeic-990-reside,toeic,toeic-990,reside,"住む,居住する","The client asked about ""reside"" after the meeting.","顧客は会議後に「住む,居住する」について尋ねました。"
+toeic-990-tinker,toeic,toeic-990,tinker,鋳掛け屋,"The team reviewed ""tinker"" before making a decision.",チームは決定前に「鋳掛け屋」を確認しました。
+toeic-990-withhold,toeic,toeic-990,withhold,"を与えないでおく,差し控える","The manager used ""withhold"" in the monthly report.","マネージャーは月次報告で「を与えないでおく,差し控える」を使いました。"
+toeic-990-irresponsible,toeic,toeic-990,irresponsible,無責任な,"Employees should understand ""irresponsible"" in business documents.",従業員は業務文書で「無責任な」を理解する必要があります。
+toeic-990-intern,toeic,toeic-990,intern,インターン,"The notice mentioned ""intern"" for all staff members.",その通知は全スタッフ向けに「インターン」に触れていました。
+toeic-990-harness,toeic,toeic-990,harness,"馬具,引き具","The client asked about ""harness"" after the meeting.","顧客は会議後に「馬具,引き具」について尋ねました。"
+toeic-990-govern,toeic,toeic-990,govern,"を治める,統治する","The team reviewed ""govern"" before making a decision.","チームは決定前に「を治める,統治する」を確認しました。"
+toeic-990-disappoint,toeic,toeic-990,disappoint,"を失望させる,がっかりさせる","The manager used ""disappoint"" in the monthly report.","マネージャーは月次報告で「を失望させる,がっかりさせる」を使いました。"
+toeic-990-customize,toeic,toeic-990,customize,注文どおりに作る,"Employees should understand ""customize"" in business documents.",従業員は業務文書で「注文どおりに作る」を理解する必要があります。
+toeic-990-commercially,toeic,toeic-990,commercially,"商業上,商業的見地から見て","The notice mentioned ""commercially"" for all staff members.","その通知は全スタッフ向けに「商業上,商業的見地から見て」に触れていました。"
+toeic-990-bakery,toeic,toeic-990,bakery,"パン製造所,パン屋","The client asked about ""bakery"" after the meeting.","顧客は会議後に「パン製造所,パン屋」について尋ねました。"
+toeic-990-turnout,toeic,toeic-990,turnout,出席,"The team reviewed ""turnout"" before making a decision.",チームは決定前に「出席」を確認しました。
+toeic-990-staple,toeic,toeic-990,staple,つぼくぎ,"The manager used ""staple"" in the monthly report.",マネージャーは月次報告で「つぼくぎ」を使いました。
+toeic-990-ransom,toeic,toeic-990,ransom,身のしろ金,"Employees should understand ""ransom"" in business documents.",従業員は業務文書で「身のしろ金」を理解する必要があります。
+toeic-990-manifest,toeic,toeic-990,manifest,"明白な,はっきりした","The notice mentioned ""manifest"" for all staff members.","その通知は全スタッフ向けに「明白な,はっきりした」に触れていました。"
+toeic-990-honeymoon,toeic,toeic-990,honeymoon,"新婚旅行,ハネムーン","The client asked about ""honeymoon"" after the meeting.","顧客は会議後に「新婚旅行,ハネムーン」について尋ねました。"
+toeic-990-petit,toeic,toeic-990,petit,"小さい,ささいな","The team reviewed ""petit"" before making a decision.","チームは決定前に「小さい,ささいな」を確認しました。"
+toeic-990-drown,toeic,toeic-990,drown,溺死させる,"The manager used ""drown"" in the monthly report.",マネージャーは月次報告で「溺死させる」を使いました。
+toeic-990-courier,toeic,toeic-990,courier,"急使,特使","Employees should understand ""courier"" in business documents.","従業員は業務文書で「急使,特使」を理解する必要があります。"
+toeic-990-willow,toeic,toeic-990,willow,ヤナギ,"The notice mentioned ""willow"" for all staff members.",その通知は全スタッフ向けに「ヤナギ」に触れていました。
+toeic-990-solicitor,toeic,toeic-990,solicitor,嘆願者,"The client asked about ""solicitor"" after the meeting.",顧客は会議後に「嘆願者」について尋ねました。
+toeic-990-sewing,toeic,toeic-990,sewing,"裁縫,針仕事","The team reviewed ""sewing"" before making a decision.","チームは決定前に「裁縫,針仕事」を確認しました。"
+toeic-990-camper,toeic,toeic-990,camper,キャンプをする人,"The manager used ""camper"" in the monthly report.",マネージャーは月次報告で「キャンプをする人」を使いました。
+toeic-990-manipulate,toeic,toeic-990,manipulate,"を巧みに扱う,をうまく使う","Employees should understand ""manipulate"" in business documents.","従業員は業務文書で「を巧みに扱う,をうまく使う」を理解する必要があります。"
+toeic-990-detriment,toeic,toeic-990,detriment,"損害,損失","The notice mentioned ""detriment"" for all staff members.","その通知は全スタッフ向けに「損害,損失」に触れていました。"
+toeic-990-forestry,toeic,toeic-990,forestry,林学,"The client asked about ""forestry"" after the meeting.",顧客は会議後に「林学」について尋ねました。
+toeic-990-excise,toeic,toeic-990,excise,"物品税,国内消費税","The team reviewed ""excise"" before making a decision.","チームは決定前に「物品税,国内消費税」を確認しました。"
+toeic-990-validity,toeic,toeic-990,validity,"妥当性,正当性","The manager used ""validity"" in the monthly report.","マネージャーは月次報告で「妥当性,正当性」を使いました。"
+toeic-990-technician,toeic,toeic-990,technician,"専門家,専門技術者","Employees should understand ""technician"" in business documents.","従業員は業務文書で「専門家,専門技術者」を理解する必要があります。"
+toeic-990-liquidation,toeic,toeic-990,liquidation,"の弁済,整理","The notice mentioned ""liquidation"" for all staff members.","その通知は全スタッフ向けに「の弁済,整理」に触れていました。"
+toeic-990-microscopy,toeic,toeic-990,microscopy,顕微鏡使用,"The client asked about ""microscopy"" after the meeting.",顧客は会議後に「顕微鏡使用」について尋ねました。
+toeic-990-residency,toeic,toeic-990,residency,専門医学実習生の実習期間・ 公邸 ・ 会場と定期契約したバンドや劇団...,"The team reviewed ""residency"" before making a decision.",チームは決定前に「専門医学実習生の実習期間・ 公邸 ・ 会場と定期契約したバンドや劇団...」を確認しました。
+toeic-990-packer,toeic,toeic-990,packer,"荷造りする人,梱包業者,出荷業者","The manager used ""packer"" in the monthly report.","マネージャーは月次報告で「荷造りする人,梱包業者,出荷業者」を使いました。"
+toeic-990-pottery,toeic,toeic-990,pottery,"製陶術,陶器製造","Employees should understand ""pottery"" in business documents.","従業員は業務文書で「製陶術,陶器製造」を理解する必要があります。"
+toeic-990-projectile,toeic,toeic-990,projectile,"発射される,発射できる","The notice mentioned ""projectile"" for all staff members.","その通知は全スタッフ向けに「発射される,発射できる」に触れていました。"
+toeic-990-offender,toeic,toeic-990,offender,違反者,"The client asked about ""offender"" after the meeting.",顧客は会議後に「違反者」について尋ねました。
+toeic-990-delegate,toeic,toeic-990,delegate,"代表,使節","The team reviewed ""delegate"" before making a decision.","チームは決定前に「代表,使節」を確認しました。"
+toeic-990-unprofessional,toeic,toeic-990,unprofessional,職業の習慣に反する,"The manager used ""unprofessional"" in the monthly report.",マネージャーは月次報告で「職業の習慣に反する」を使いました。
+toeic-990-compulsory,toeic,toeic-990,compulsory,"強制的な,無理じいの","Employees should understand ""compulsory"" in business documents.","従業員は業務文書で「強制的な,無理じいの」を理解する必要があります。"
+toeic-990-apprentice,toeic,toeic-990,apprentice,"徒弟,年季奉公人","The notice mentioned ""apprentice"" for all staff members.","その通知は全スタッフ向けに「徒弟,年季奉公人」に触れていました。"
+toeic-990-appoint,toeic,toeic-990,appoint,を決める,"The client asked about ""appoint"" after the meeting.",顧客は会議後に「を決める」について尋ねました。
+toeic-990-auditory,toeic,toeic-990,auditory,"耳の,聴覚の","The team reviewed ""auditory"" before making a decision.","チームは決定前に「耳の,聴覚の」を確認しました。"
+toeic-990-recorder,toeic,toeic-990,recorder,"記録係,記録者","The manager used ""recorder"" in the monthly report.","マネージャーは月次報告で「記録係,記録者」を使いました。"
+toeic-990-payoff,toeic,toeic-990,payoff,支払い,"Employees should understand ""payoff"" in business documents.",従業員は業務文書で「支払い」を理解する必要があります。
+toeic-990-sponsorship,toeic,toeic-990,sponsorship,保証人であること,"The notice mentioned ""sponsorship"" for all staff members.",その通知は全スタッフ向けに「保証人であること」に触れていました。
+toeic-990-specimen,toeic,toeic-990,specimen,"見本,標本,実例","The client asked about ""specimen"" after the meeting.","顧客は会議後に「見本,標本,実例」について尋ねました。"
+toeic-990-occupational,toeic,toeic-990,occupational,職業の,"The team reviewed ""occupational"" before making a decision.",チームは決定前に「職業の」を確認しました。
+toeic-990-ultimatum,toeic,toeic-990,ultimatum,"最終提案,最後通告","The manager used ""ultimatum"" in the monthly report.","マネージャーは月次報告で「最終提案,最後通告」を使いました。"
+toeic-990-affirmation,toeic,toeic-990,affirmation,断言,"Employees should understand ""affirmation"" in business documents.",従業員は業務文書で「断言」を理解する必要があります。
+toeic-990-conscientious,toeic,toeic-990,conscientious,"良心的な,誠意のある","The notice mentioned ""conscientious"" for all staff members.","その通知は全スタッフ向けに「良心的な,誠意のある」に触れていました。"
+toeic-990-dismantle,toeic,toeic-990,dismantle,の装備を撤去する,"The client asked about ""dismantle"" after the meeting.",顧客は会議後に「の装備を撤去する」について尋ねました。
+toeic-990-undertake,toeic,toeic-990,undertake,に着手する,"The team reviewed ""undertake"" before making a decision.",チームは決定前に「に着手する」を確認しました。
+toeic-990-renew,toeic,toeic-990,renew,新しくする,"The manager used ""renew"" in the monthly report.",マネージャーは月次報告で「新しくする」を使いました。
+toeic-990-jargon,toeic,toeic-990,jargon,専門用語,"Employees should understand ""jargon"" in business documents.",従業員は業務文書で「専門用語」を理解する必要があります。
+toeic-990-owing,toeic,toeic-990,owing,"未払いの,支払うべき","The notice mentioned ""owing"" for all staff members.","その通知は全スタッフ向けに「未払いの,支払うべき」に触れていました。"
+toeic-990-loophole,toeic,toeic-990,loophole,"小窓,銃眼","The client asked about ""loophole"" after the meeting.","顧客は会議後に「小窓,銃眼」について尋ねました。"
+toeic-990-netting,toeic,toeic-990,netting,網,"The team reviewed ""netting"" before making a decision.",チームは決定前に「網」を確認しました。
+toeic-990-contention,toeic,toeic-990,contention,競争,"The manager used ""contention"" in the monthly report.",マネージャーは月次報告で「競争」を使いました。
+toeic-990-responsibly,toeic,toeic-990,responsibly,責任をもって,"Employees should understand ""responsibly"" in business documents.",従業員は業務文書で「責任をもって」を理解する必要があります。
+toeic-990-worthwhile,toeic,toeic-990,worthwhile,"時間をかけるだけの価値がある,やりがいのある","The notice mentioned ""worthwhile"" for all staff members.","その通知は全スタッフ向けに「時間をかけるだけの価値がある,やりがいのある」に触れていました。"
+toeic-990-tempo,toeic,toeic-990,tempo,"速さ,調子","The client asked about ""tempo"" after the meeting.","顧客は会議後に「速さ,調子」について尋ねました。"
+toeic-990-waive,toeic,toeic-990,waive,を自分から放棄する,"The team reviewed ""waive"" before making a decision.",チームは決定前に「を自分から放棄する」を確認しました。
+toeic-990-medicaid,toeic,toeic-990,medicaid,医療扶助,"The manager used ""medicaid"" in the monthly report.",マネージャーは月次報告で「医療扶助」を使いました。
+toeic-990-folder,toeic,toeic-990,folder,紙ばさみ,"Employees should understand ""folder"" in business documents.",従業員は業務文書で「紙ばさみ」を理解する必要があります。
+toeic-990-expenditure,toeic,toeic-990,expenditure,"消費,支出","The notice mentioned ""expenditure"" for all staff members.","その通知は全スタッフ向けに「消費,支出」に触れていました。"
+toeic-990-downgrade,toeic,toeic-990,downgrade,下り坂,"The client asked about ""downgrade"" after the meeting.",顧客は会議後に「下り坂」について尋ねました。
+toeic-990-briefing,toeic,toeic-990,briefing,"戦闘慨況説明,簡潔な指令","The team reviewed ""briefing"" before making a decision.","チームは決定前に「戦闘慨況説明,簡潔な指令」を確認しました。"
+toeic-990-authorization,toeic,toeic-990,authorization,"権限を与えること,委任","The manager used ""authorization"" in the monthly report.","マネージャーは月次報告で「権限を与えること,委任」を使いました。"
+toeic-990-itinerary,toeic,toeic-990,itinerary,"旅程,旅行日程","Employees should understand ""itinerary"" in business documents.","従業員は業務文書で「旅程,旅行日程」を理解する必要があります。"
+toeic-990-lifeline,toeic,toeic-990,lifeline,救命索,"The notice mentioned ""lifeline"" for all staff members.",その通知は全スタッフ向けに「救命索」に触れていました。
+toeic-990-merge,toeic,toeic-990,merge,"合併する,合体する","The client asked about ""merge"" after the meeting.","顧客は会議後に「合併する,合体する」について尋ねました。"
+toeic-990-endorsement,toeic,toeic-990,endorsement,裏書き,"The team reviewed ""endorsement"" before making a decision.",チームは決定前に「裏書き」を確認しました。
+toeic-990-attach,toeic,toeic-990,attach,"つける,取りつける,はりつける","The manager used ""attach"" in the monthly report.","マネージャーは月次報告で「つける,取りつける,はりつける」を使いました。"
+toeic-990-vernacular,toeic,toeic-990,vernacular,"その土地の,その土地特有の","Employees should understand ""vernacular"" in business documents.","従業員は業務文書で「その土地の,その土地特有の」を理解する必要があります。"
+toeic-990-shipment,toeic,toeic-990,shipment,"船積み,積み込み,荷送り","The notice mentioned ""shipment"" for all staff members.","その通知は全スタッフ向けに「船積み,積み込み,荷送り」に触れていました。"
+toeic-990-professionally,toeic,toeic-990,professionally,"職業的に,専門的に","The client asked about ""professionally"" after the meeting.","顧客は会議後に「職業的に,専門的に」について尋ねました。"
+toeic-990-payroll,toeic,toeic-990,payroll,給料支払い簿,"The team reviewed ""payroll"" before making a decision.",チームは決定前に「給料支払い簿」を確認しました。
+toeic-990-newsletter,toeic,toeic-990,newsletter,時事通信,"The manager used ""newsletter"" in the monthly report.",マネージャーは月次報告で「時事通信」を使いました。
+toeic-990-distillery,toeic,toeic-990,distillery,蒸留酒製造所,"Employees should understand ""distillery"" in business documents.",従業員は業務文書で「蒸留酒製造所」を理解する必要があります。
+toeic-990-frivolous,toeic,toeic-990,frivolous,"軽薄な,不まじめな","The notice mentioned ""frivolous"" for all staff members.","その通知は全スタッフ向けに「軽薄な,不まじめな」に触れていました。"
+toeic-990-lineman,toeic,toeic-990,lineman,"電線工,電線作業員,架線係","The client asked about ""lineman"" after the meeting.","顧客は会議後に「電線工,電線作業員,架線係」について尋ねました。"
+toeic-990-payer,toeic,toeic-990,payer,支払い人,"The team reviewed ""payer"" before making a decision.",チームは決定前に「支払い人」を確認しました。
+toeic-990-stoppage,toeic,toeic-990,stoppage,"中止,休止","The manager used ""stoppage"" in the monthly report.","マネージャーは月次報告で「中止,休止」を使いました。"
+toeic-990-crawl,toeic,toeic-990,crawl,"はう,はって進む","Employees should understand ""crawl"" in business documents.","従業員は業務文書で「はう,はって進む」を理解する必要があります。"
+toeic-990-audition,toeic,toeic-990,audition,"視聴テスト,オーディション","The notice mentioned ""audition"" for all staff members.","その通知は全スタッフ向けに「視聴テスト,オーディション」に触れていました。"
+toeic-990-backlog,toeic,toeic-990,backlog,炉の奥に置く大きなまき,"The client asked about ""backlog"" after the meeting.",顧客は会議後に「炉の奥に置く大きなまき」について尋ねました。
+toeic-990-brownie,toeic,toeic-990,brownie,ブラウニー,"The team reviewed ""brownie"" before making a decision.",チームは決定前に「ブラウニー」を確認しました。
+toeic-990-entail,toeic,toeic-990,entail,"を負わせる,課する","The manager used ""entail"" in the monthly report.","マネージャーは月次報告で「を負わせる,課する」を使いました。"
+toeic-990-exempt,toeic,toeic-990,exempt,を免れさせる,"Employees should understand ""exempt"" in business documents.",従業員は業務文書で「を免れさせる」を理解する必要があります。
+toeic-990-backpack,toeic,toeic-990,backpack,背のう,"The notice mentioned ""backpack"" for all staff members.",その通知は全スタッフ向けに「背のう」に触れていました。
+toeic-990-mercantile,toeic,toeic-990,mercantile,"商業の,貿易の","The client asked about ""mercantile"" after the meeting.","顧客は会議後に「商業の,貿易の」について尋ねました。"
+toeic-990-reproduction,toeic,toeic-990,reproduction,"繁殖,生殖","The team reviewed ""reproduction"" before making a decision.","チームは決定前に「繁殖,生殖」を確認しました。"
+toeic-990-projection,toeic,toeic-990,projection,突き出ること,"The manager used ""projection"" in the monthly report.",マネージャーは月次報告で「突き出ること」を使いました。
+toeic-990-prejudice,toeic,toeic-990,prejudice,"先入観,偏見","Employees should understand ""prejudice"" in business documents.","従業員は業務文書で「先入観,偏見」を理解する必要があります。"
+toeic-990-tramp,toeic,toeic-990,tramp,ドシンドシンと歩く,"The notice mentioned ""tramp"" for all staff members.",その通知は全スタッフ向けに「ドシンドシンと歩く」に触れていました。
+toeic-990-destined,toeic,toeic-990,destined,行きの,"The client asked about ""destined"" after the meeting.",顧客は会議後に「行きの」について尋ねました。
+toeic-990-affirm,toeic,toeic-990,affirm,"断言する,明言する","The team reviewed ""affirm"" before making a decision.","チームは決定前に「断言する,明言する」を確認しました。"
+toeic-990-bespoke,toeic,toeic-990,bespoke,bespeakの過去・過去分詞,"The manager used ""bespoke"" in the monthly report.",マネージャーは月次報告で「bespeakの過去・過去分詞」を使いました。
+toeic-990-reproductive,toeic,toeic-990,reproductive,"生殖の,繁殖の","Employees should understand ""reproductive"" in business documents.","従業員は業務文書で「生殖の,繁殖の」を理解する必要があります。"
+toeic-990-picnic,toeic,toeic-990,picnic,"ピクニック,遠足","The notice mentioned ""picnic"" for all staff members.","その通知は全スタッフ向けに「ピクニック,遠足」に触れていました。"
+toeic-990-microwave,toeic,toeic-990,microwave,"極超短波,マイクロウェーブ","The client asked about ""microwave"" after the meeting.","顧客は会議後に「極超短波,マイクロウェーブ」について尋ねました。"
+toeic-990-luggage,toeic,toeic-990,luggage,"手荷物,小荷物,トランク・スーツケースなどの旅行かばん類","The team reviewed ""luggage"" before making a decision.","チームは決定前に「手荷物,小荷物,トランク・スーツケースなどの旅行かばん類」を確認しました。"
+toeic-990-legislator,toeic,toeic-990,legislator,"法律制定者,立法者","The manager used ""legislator"" in the monthly report.","マネージャーは月次報告で「法律制定者,立法者」を使いました。"
+toeic-990-assurance,toeic,toeic-990,assurance,"保証,請け合い","Employees should understand ""assurance"" in business documents.","従業員は業務文書で「保証,請け合い」を理解する必要があります。"
+toeic-990-airway,toeic,toeic-990,airway,航空路,"The notice mentioned ""airway"" for all staff members.",その通知は全スタッフ向けに「航空路」に触れていました。
+toeic-990-accord,toeic,toeic-990,accord,"一致する,調和する","The client asked about ""accord"" after the meeting.","顧客は会議後に「一致する,調和する」について尋ねました。"
+toeic-990-accompany,toeic,toeic-990,accompany,"に同行する,随行する,ついて行く","The team reviewed ""accompany"" before making a decision.","チームは決定前に「に同行する,随行する,ついて行く」を確認しました。"
+toeic-990-slate,toeic,toeic-990,slate,板岩,"The manager used ""slate"" in the monthly report.",マネージャーは月次報告で「板岩」を使いました。
+toeic-990-straightforward,toeic,toeic-990,straightforward,"正直な,率直な","Employees should understand ""straightforward"" in business documents.","従業員は業務文書で「正直な,率直な」を理解する必要があります。"
+toeic-990-raffle,toeic,toeic-990,raffle,富くじ販売,"The notice mentioned ""raffle"" for all staff members.",その通知は全スタッフ向けに「富くじ販売」に触れていました。
+toeic-990-ragged,toeic,toeic-990,ragged,"ぼろぼろの,すり切れた","The client asked about ""ragged"" after the meeting.","顧客は会議後に「ぼろぼろの,すり切れた」について尋ねました。"
+toeic-990-restitution,toeic,toeic-990,restitution,正当な持ち主への返還,"The team reviewed ""restitution"" before making a decision.",チームは決定前に「正当な持ち主への返還」を確認しました。
+toeic-990-weasel,toeic,toeic-990,weasel,逃げる,"The manager used ""weasel"" in the monthly report.",マネージャーは月次報告で「逃げる」を使いました。
+toeic-990-swamp,toeic,toeic-990,swamp,"沼沢地,沼地,湿地","Employees should understand ""swamp"" in business documents.","従業員は業務文書で「沼沢地,沼地,湿地」を理解する必要があります。"
+toeic-990-barometer,toeic,toeic-990,barometer,"晴雨計,気圧計","The notice mentioned ""barometer"" for all staff members.","その通知は全スタッフ向けに「晴雨計,気圧計」に触れていました。"
+toeic-990-hookup,toeic,toeic-990,hookup,接続,"The client asked about ""hookup"" after the meeting.",顧客は会議後に「接続」について尋ねました。
+toeic-990-impunity,toeic,toeic-990,impunity,罰を免れること,"The team reviewed ""impunity"" before making a decision.",チームは決定前に「罰を免れること」を確認しました。
+toeic-990-insolvency,toeic,toeic-990,insolvency,"支払い不能,破産","The manager used ""insolvency"" in the monthly report.","マネージャーは月次報告で「支払い不能,破産」を使いました。"
+toeic-990-locus,toeic,toeic-990,locus,"場所,位置","Employees should understand ""locus"" in business documents.","従業員は業務文書で「場所,位置」を理解する必要があります。"
+toeic-990-niche,toeic,toeic-990,niche,壁がん,"The notice mentioned ""niche"" for all staff members.",その通知は全スタッフ向けに「壁がん」に触れていました。
+toeic-990-manipulation,toeic,toeic-990,manipulation,"巧妙な扱い,操作","The client asked about ""manipulation"" after the meeting.","顧客は会議後に「巧妙な扱い,操作」について尋ねました。"
+toeic-990-correspondence,toeic,toeic-990,correspondence,"一致,調和類似","The team reviewed ""correspondence"" before making a decision.","チームは決定前に「一致,調和類似」を確認しました。"
+toeic-990-carriage,toeic,toeic-990,carriage,四輪馬車,"The manager used ""carriage"" in the monthly report.",マネージャーは月次報告で「四輪馬車」を使いました。
+toeic-990-taxpayer,toeic,toeic-990,taxpayer,"納税者,被課税者","Employees should understand ""taxpayer"" in business documents.","従業員は業務文書で「納税者,被課税者」を理解する必要があります。"
+toeic-990-relay,toeic,toeic-990,relay,"替え馬,継ぎ馬","The notice mentioned ""relay"" for all staff members.","その通知は全スタッフ向けに「替え馬,継ぎ馬」に触れていました。"
+toeic-990-pickup,toeic,toeic-990,pickup,pick upすること,"The client asked about ""pickup"" after the meeting.",顧客は会議後に「pick upすること」について尋ねました。
+toeic-990-operative,toeic,toeic-990,operative,"働く,運転する","The team reviewed ""operative"" before making a decision.","チームは決定前に「働く,運転する」を確認しました。"
+toeic-990-nonprofit,toeic,toeic-990,nonprofit,非営利的な,"The manager used ""nonprofit"" in the monthly report.",マネージャーは月次報告で「非営利的な」を使いました。
+toeic-990-chauffeur,toeic,toeic-990,chauffeur,自家用車の運転手,"Employees should understand ""chauffeur"" in business documents.",従業員は業務文書で「自家用車の運転手」を理解する必要があります。
+toeic-990-handbook,toeic,toeic-990,handbook,"手引き,便覧,学習書","The notice mentioned ""handbook"" for all staff members.","その通知は全スタッフ向けに「手引き,便覧,学習書」に触れていました。"
+toeic-990-fulfill,toeic,toeic-990,fulfill,"を果たす,実行する","The client asked about ""fulfill"" after the meeting.","顧客は会議後に「を果たす,実行する」について尋ねました。"
+toeic-990-councilman,toeic,toeic-990,councilman,市議会議員,"The team reviewed ""councilman"" before making a decision.",チームは決定前に「市議会議員」を確認しました。
+toeic-990-coupon,toeic,toeic-990,coupon,クーポン,"The manager used ""coupon"" in the monthly report.",マネージャーは月次報告で「クーポン」を使いました。
+toeic-990-correspondent,toeic,toeic-990,correspondent,"文通する人,手紙を書く人","Employees should understand ""correspondent"" in business documents.","従業員は業務文書で「文通する人,手紙を書く人」を理解する必要があります。"
+toeic-990-congressman,toeic,toeic-990,congressman,"国会議員,下院議員","The notice mentioned ""congressman"" for all staff members.","その通知は全スタッフ向けに「国会議員,下院議員」に触れていました。"
+toeic-990-reuters,toeic,toeic-990,reuters,ロイター通信社,"The client asked about ""reuters"" after the meeting.",顧客は会議後に「ロイター通信社」について尋ねました。
+toeic-990-repeal,toeic,toeic-990,repeal,"を公式に無効にする,廃止する","The team reviewed ""repeal"" before making a decision.","チームは決定前に「を公式に無効にする,廃止する」を確認しました。"
+toeic-990-consult,toeic,toeic-990,consult,"頼る,求める,相談する","The manager used ""consult"" in the monthly report.","マネージャーは月次報告で「頼る,求める,相談する」を使いました。"
+toeic-990-billboard,toeic,toeic-990,billboard,"掲示板,広告板","Employees should understand ""billboard"" in business documents.","従業員は業務文書で「掲示板,広告板」を理解する必要があります。"
+toeic-990-interfere,toeic,toeic-990,interfere,"干渉する,口出しをする","The notice mentioned ""interfere"" for all staff members.","その通知は全スタッフ向けに「干渉する,口出しをする」に触れていました。"
+toeic-990-alderman,toeic,toeic-990,alderman,"市参事会員,市助役","The client asked about ""alderman"" after the meeting.","顧客は会議後に「市参事会員,市助役」について尋ねました。"
+toeic-990-budgetary,toeic,toeic-990,budgetary,"予算の,予算上の","The team reviewed ""budgetary"" before making a decision.","チームは決定前に「予算の,予算上の」を確認しました。"
+toeic-990-attachment,toeic,toeic-990,attachment,"付くこと,付着,付属","The manager used ""attachment"" in the monthly report.","マネージャーは月次報告で「付くこと,付着,付属」を使いました。"
+toeic-990-voyage,toeic,toeic-990,voyage,"航海,航行","Employees should understand ""voyage"" in business documents.","従業員は業務文書で「航海,航行」を理解する必要があります。"
+toeic-990-specialty,toeic,toeic-990,specialty,"専門,専攻","The notice mentioned ""specialty"" for all staff members.","その通知は全スタッフ向けに「専門,専攻」に触れていました。"
+toeic-990-contracted,toeic,toeic-990,contracted,"縮めた,収縮した","The client asked about ""contracted"" after the meeting.","顧客は会議後に「縮めた,収縮した」について尋ねました。"
+toeic-990-wagon,toeic,toeic-990,wagon,馬車,"The team reviewed ""wagon"" before making a decision.",チームは決定前に「馬車」を確認しました。
+toeic-990-unemployed,toeic,toeic-990,unemployed,"仕事のない,失業した","The manager used ""unemployed"" in the monthly report.","マネージャーは月次報告で「仕事のない,失業した」を使いました。"
+toeic-990-timeframe,toeic,toeic-990,timeframe,予定されている期間,"Employees should understand ""timeframe"" in business documents.",従業員は業務文書で「予定されている期間」を理解する必要があります。
+toeic-990-walkway,toeic,toeic-990,walkway,歩行者用通路,"The notice mentioned ""walkway"" for all staff members.",その通知は全スタッフ向けに「歩行者用通路」に触れていました。
+toeic-990-caveat,toeic,toeic-990,caveat,"警告,予告","The client asked about ""caveat"" after the meeting.","顧客は会議後に「警告,予告」について尋ねました。"
+toeic-990-chore,toeic,toeic-990,chore,"雑用,毎日のきまりきった仕事","The team reviewed ""chore"" before making a decision.","チームは決定前に「雑用,毎日のきまりきった仕事」を確認しました。"
+toeic-990-disorderly,toeic,toeic-990,disorderly,"秩序のない,混乱した","The manager used ""disorderly"" in the monthly report.","マネージャーは月次報告で「秩序のない,混乱した」を使いました。"
+toeic-990-embankment,toeic,toeic-990,embankment,"堤防,土手","Employees should understand ""embankment"" in business documents.","従業員は業務文書で「堤防,土手」を理解する必要があります。"
+toeic-990-observer,toeic,toeic-990,observer,"観察する人,見守る人","The notice mentioned ""observer"" for all staff members.","その通知は全スタッフ向けに「観察する人,見守る人」に触れていました。"
+toeic-990-exchequer,toeic,toeic-990,exchequer,国庫,"The client asked about ""exchequer"" after the meeting.",顧客は会議後に「国庫」について尋ねました。
+toeic-990-collector,toeic,toeic-990,collector,"収集家,採集者","The team reviewed ""collector"" before making a decision.","チームは決定前に「収集家,採集者」を確認しました。"
+toeic-990-subsidiary,toeic,toeic-990,subsidiary,補助の,"The manager used ""subsidiary"" in the monthly report.",マネージャーは月次報告で「補助の」を使いました。
+toeic-990-recognise,toeic,toeic-990,recognise,確かに認める,"Employees should understand ""recognise"" in business documents.",従業員は業務文書で「確かに認める」を理解する必要があります。
+toeic-990-leisure,toeic,toeic-990,leisure,"暇,余暇","The notice mentioned ""leisure"" for all staff members.","その通知は全スタッフ向けに「暇,余暇」に触れていました。"
+toeic-990-impose,toeic,toeic-990,impose,"を課する,負わせる","The client asked about ""impose"" after the meeting.","顧客は会議後に「を課する,負わせる」について尋ねました。"
+toeic-990-proponent,toeic,toeic-990,proponent,"提案者,主唱者","The team reviewed ""proponent"" before making a decision.","チームは決定前に「提案者,主唱者」を確認しました。"
+toeic-990-treasurer,toeic,toeic-990,treasurer,会計係,"The manager used ""treasurer"" in the monthly report.",マネージャーは月次報告で「会計係」を使いました。
+toeic-990-unchecked,toeic,toeic-990,unchecked,抑制されない,"Employees should understand ""unchecked"" in business documents.",従業員は業務文書で「抑制されない」を理解する必要があります。
+toeic-990-costly,toeic,toeic-990,costly,高価な,"The notice mentioned ""costly"" for all staff members.",その通知は全スタッフ向けに「高価な」に触れていました。
+toeic-990-bullish,toeic,toeic-990,bullish,"雄牛のような,がんこな","The client asked about ""bullish"" after the meeting.","顧客は会議後に「雄牛のような,がんこな」について尋ねました。"
+toeic-990-bundle,toeic,toeic-990,bundle,"束,包み,巻いたもの","The team reviewed ""bundle"" before making a decision.","チームは決定前に「束,包み,巻いたもの」を確認しました。"
+toeic-990-supervision,toeic,toeic-990,supervision,"監督,管理,指揮","The manager used ""supervision"" in the monthly report.","マネージャーは月次報告で「監督,管理,指揮」を使いました。"
+toeic-990-refund,toeic,toeic-990,refund,"を返済する,払い戻す","Employees should understand ""refund"" in business documents.","従業員は業務文書で「を返済する,払い戻す」を理解する必要があります。"
+toeic-990-furnish,toeic,toeic-990,furnish,に家具を備え付ける,"The notice mentioned ""furnish"" for all staff members.",その通知は全スタッフ向けに「に家具を備え付ける」に触れていました。
+toeic-990-grind,toeic,toeic-990,grind,"をひく,細かく砕く","The client asked about ""grind"" after the meeting.","顧客は会議後に「をひく,細かく砕く」について尋ねました。"
+toeic-990-float,toeic,toeic-990,float,"浮く,浮かぶ","The team reviewed ""float"" before making a decision.","チームは決定前に「浮く,浮かぶ」を確認しました。"
+toeic-990-jobless,toeic,toeic-990,jobless,"仕事のない,失業している","The manager used ""jobless"" in the monthly report.","マネージャーは月次報告で「仕事のない,失業している」を使いました。"
+toeic-990-supervisor,toeic,toeic-990,supervisor,"監督者,管理人","Employees should understand ""supervisor"" in business documents.","従業員は業務文書で「監督者,管理人」を理解する必要があります。"
+toeic-990-ratification,toeic,toeic-990,ratification,"批准,承認","The notice mentioned ""ratification"" for all staff members.","その通知は全スタッフ向けに「批准,承認」に触れていました。"
+toeic-990-elevator,toeic,toeic-990,elevator,"エレベーター,昇降機","The client asked about ""elevator"" after the meeting.","顧客は会議後に「エレベーター,昇降機」について尋ねました。"

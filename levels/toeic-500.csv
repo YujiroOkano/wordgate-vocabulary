@@ -1,81 +1,501 @@
 id,axis,level_id,spelling,translation,example,example_translation
-toeic-500-attend,toeic,toeic-500,attend,出席する,The team will attend the details this week.,チームは今週、詳細を出席する予定です。
-toeic-500-confirm,toeic,toeic-500,confirm,確認する,The team will confirm the details this week.,チームは今週、詳細を確認する予定です。
-toeic-500-depart,toeic,toeic-500,depart,出発する,Employees need to depart when the situation changes.,状況が変わったとき、従業員は出発する必要があります。
-toeic-500-invoice,toeic,toeic-500,invoice,請求書,The manager reviewed the invoice before the meeting.,マネージャーは会議の前に請求書を確認しました。
-toeic-500-receipt,toeic,toeic-500,receipt,領収書,The manager reviewed the receipt before the meeting.,マネージャーは会議の前に領収書を確認しました。
-toeic-500-deadline,toeic,toeic-500,deadline,締め切り,The manager reviewed the deadline before the meeting.,マネージャーは会議の前に締め切りを確認しました。
-toeic-500-survey,toeic,toeic-500,survey,調査,The manager reviewed the survey before the meeting.,マネージャーは会議の前に調査を確認しました。
-toeic-500-deliver,toeic,toeic-500,deliver,配達する,The team will deliver the details this week.,チームは今週、詳細を配達する予定です。
-toeic-500-repair,toeic,toeic-500,repair,修理する,The team will repair the details this week.,チームは今週、詳細を修理する予定です。
-toeic-500-expense,toeic,toeic-500,expense,費用,The manager reviewed the expense before the meeting.,マネージャーは会議の前に費用を確認しました。
-toeic-500-available,toeic,toeic-500,available,利用できる,The new process is available for daily work.,新しい手順は日々の業務に利用できるです。
-toeic-500-request,toeic,toeic-500,request,依頼する,The team will request the details this week.,チームは今週、詳細を依頼する予定です。
-toeic-500-appointment,toeic,toeic-500,appointment,予約,The manager reviewed the appointment before the meeting.,マネージャーは会議の前に予約を確認しました。
-toeic-500-schedule,toeic,toeic-500,schedule,予定,The manager reviewed the schedule before the meeting.,マネージャーは会議の前に予定を確認しました。
-toeic-500-customer,toeic,toeic-500,customer,顧客,The manager reviewed the customer before the meeting.,マネージャーは会議の前に顧客を確認しました。
-toeic-500-client,toeic,toeic-500,client,取引先,The manager reviewed the client before the meeting.,マネージャーは会議の前に取引先を確認しました。
-toeic-500-order,toeic,toeic-500,order,注文,The manager reviewed the order before the meeting.,マネージャーは会議の前に注文を確認しました。
-toeic-500-purchase,toeic,toeic-500,purchase,購入する,The team will purchase the details this week.,チームは今週、詳細を購入する予定です。
-toeic-500-refund,toeic,toeic-500,refund,返金,The manager reviewed the refund before the meeting.,マネージャーは会議の前に返金を確認しました。
-toeic-500-exchange,toeic,toeic-500,exchange,交換,The manager reviewed the exchange before the meeting.,マネージャーは会議の前に交換を確認しました。
-toeic-500-payment,toeic,toeic-500,payment,支払い,The manager reviewed the payment before the meeting.,マネージャーは会議の前に支払いを確認しました。
-toeic-500-budget,toeic,toeic-500,budget,予算,The manager reviewed the budget before the meeting.,マネージャーは会議の前に予算を確認しました。
-toeic-500-report,toeic,toeic-500,report,報告書,The manager reviewed the report before the meeting.,マネージャーは会議の前に報告書を確認しました。
-toeic-500-file,toeic,toeic-500,file,ファイル,The manager reviewed the file before the meeting.,マネージャーは会議の前にファイルを確認しました。
-toeic-500-document,toeic,toeic-500,document,書類,The manager reviewed the document before the meeting.,マネージャーは会議の前に書類を確認しました。
-toeic-500-copy,toeic,toeic-500,copy,写し,The manager reviewed the copy before the meeting.,マネージャーは会議の前に写しを確認しました。
-toeic-500-print,toeic,toeic-500,print,印刷する,The team will print the details this week.,チームは今週、詳細を印刷する予定です。
-toeic-500-submit,toeic,toeic-500,submit,提出する,The team will submit the details this week.,チームは今週、詳細を提出する予定です。
-toeic-500-update,toeic,toeic-500,update,更新する,The team will update the details this week.,チームは今週、詳細を更新する予定です。
-toeic-500-arrange,toeic,toeic-500,arrange,手配する,The team will arrange the details this week.,チームは今週、詳細を手配する予定です。
-toeic-500-reserve,toeic,toeic-500,reserve,予約する,The team will reserve the details this week.,チームは今週、詳細を予約する予定です。
-toeic-500-cancel,toeic,toeic-500,cancel,取り消す,The team will cancel the details this week.,チームは今週、詳細を取り消す予定です。
-toeic-500-delay,toeic,toeic-500,delay,遅延,The manager reviewed the delay before the meeting.,マネージャーは会議の前に遅延を確認しました。
-toeic-500-arrive,toeic,toeic-500,arrive,到着する,Employees need to arrive when the situation changes.,状況が変わったとき、従業員は到着する必要があります。
-toeic-500-leave,toeic,toeic-500,leave,出発する,Employees need to leave when the situation changes.,状況が変わったとき、従業員は出発する必要があります。
-toeic-500-rent,toeic,toeic-500,rent,借りる,The team will rent the details this week.,チームは今週、詳細を借りる予定です。
-toeic-500-hire,toeic,toeic-500,hire,雇う,The team will hire the details this week.,チームは今週、詳細を雇う予定です。
-toeic-500-train,toeic,toeic-500,train,研修する,The team will train the details this week.,チームは今週、詳細を研修する予定です。
-toeic-500-staff,toeic,toeic-500,staff,職員,The manager reviewed the staff before the meeting.,マネージャーは会議の前に職員を確認しました。
-toeic-500-branch,toeic,toeic-500,branch,支店,The manager reviewed the branch before the meeting.,マネージャーは会議の前に支店を確認しました。
-toeic-500-manager,toeic,toeic-500,manager,管理者,The manager reviewed the manager before the meeting.,マネージャーは会議の前に管理者を確認しました。
-toeic-500-employee,toeic,toeic-500,employee,従業員,The manager reviewed the employee before the meeting.,マネージャーは会議の前に従業員を確認しました。
-toeic-500-office,toeic,toeic-500,office,事務所,The manager reviewed the office before the meeting.,マネージャーは会議の前に事務所を確認しました。
-toeic-500-factory,toeic,toeic-500,factory,工場,The manager reviewed the factory before the meeting.,マネージャーは会議の前に工場を確認しました。
-toeic-500-product,toeic,toeic-500,product,製品,The manager reviewed the product before the meeting.,マネージャーは会議の前に製品を確認しました。
-toeic-500-service,toeic,toeic-500,service,サービス,The manager reviewed the service before the meeting.,マネージャーは会議の前にサービスを確認しました。
-toeic-500-price,toeic,toeic-500,price,価格,The manager reviewed the price before the meeting.,マネージャーは会議の前に価格を確認しました。
-toeic-500-discount,toeic,toeic-500,discount,割引,The manager reviewed the discount before the meeting.,マネージャーは会議の前に割引を確認しました。
-toeic-500-advertisement,toeic,toeic-500,advertisement,広告,The manager reviewed the advertisement before the meeting.,マネージャーは会議の前に広告を確認しました。
-toeic-500-notice,toeic,toeic-500,notice,通知,The manager reviewed the notice before the meeting.,マネージャーは会議の前に通知を確認しました。
-toeic-500-sign,toeic,toeic-500,sign,掲示,The manager reviewed the sign before the meeting.,マネージャーは会議の前に掲示を確認しました。
-toeic-500-entrance,toeic,toeic-500,entrance,入口,The manager reviewed the entrance before the meeting.,マネージャーは会議の前に入口を確認しました。
-toeic-500-floor,toeic,toeic-500,floor,階,The manager reviewed the floor before the meeting.,マネージャーは会議の前に階を確認しました。
-toeic-500-aisle,toeic,toeic-500,aisle,通路,The manager reviewed the aisle before the meeting.,マネージャーは会議の前に通路を確認しました。
-toeic-500-cafeteria,toeic,toeic-500,cafeteria,食堂,The manager reviewed the cafeteria before the meeting.,マネージャーは会議の前に食堂を確認しました。
-toeic-500-luggage,toeic,toeic-500,luggage,荷物,The manager reviewed the luggage before the meeting.,マネージャーは会議の前に荷物を確認しました。
-toeic-500-form,toeic,toeic-500,form,用紙,The manager reviewed the form before the meeting.,マネージャーは会議の前に用紙を確認しました。
-toeic-500-address,toeic,toeic-500,address,住所,The manager reviewed the address before the meeting.,マネージャーは会議の前に住所を確認しました。
-toeic-500-contact,toeic,toeic-500,contact,連絡先,The manager reviewed the contact before the meeting.,マネージャーは会議の前に連絡先を確認しました。
-toeic-500-warranty,toeic,toeic-500,warranty,保証,The manager reviewed the warranty before the meeting.,マネージャーは会議の前に保証を確認しました。
-toeic-500-package,toeic,toeic-500,package,小包,The manager reviewed the package before the meeting.,マネージャーは会議の前に小包を確認しました。
-toeic-500-machine,toeic,toeic-500,machine,機械,The manager reviewed the machine before the meeting.,マネージャーは会議の前に機械を確認しました。
-toeic-500-equipment,toeic,toeic-500,equipment,設備,The manager reviewed the equipment before the meeting.,マネージャーは会議の前に設備を確認しました。
-toeic-500-supply,toeic,toeic-500,supply,供給品,The manager reviewed the supply before the meeting.,マネージャーは会議の前に供給品を確認しました。
-toeic-500-material,toeic,toeic-500,material,資材,The manager reviewed the material before the meeting.,マネージャーは会議の前に資材を確認しました。
-toeic-500-instruction,toeic,toeic-500,instruction,指示,The manager reviewed the instruction before the meeting.,マネージャーは会議の前に指示を確認しました。
-toeic-500-safety,toeic,toeic-500,safety,安全,The manager reviewed the safety before the meeting.,マネージャーは会議の前に安全を確認しました。
-toeic-500-total,toeic,toeic-500,total,合計,The manager reviewed the total before the meeting.,マネージャーは会議の前に合計を確認しました。
-toeic-500-weekly,toeic,toeic-500,weekly,週ごとの,The new process is weekly for daily work.,新しい手順は日々の業務に週ごとのです。
-toeic-500-monthly,toeic,toeic-500,monthly,月ごとの,The new process is monthly for daily work.,新しい手順は日々の業務に月ごとのです。
-toeic-500-local,toeic,toeic-500,local,地元の,The new process is local for daily work.,新しい手順は日々の業務に地元のです。
-toeic-500-foreign,toeic,toeic-500,foreign,外国の,The new process is foreign for daily work.,新しい手順は日々の業務に外国のです。
-toeic-500-convenient,toeic,toeic-500,convenient,便利な,The new process is convenient for daily work.,新しい手順は日々の業務に便利なです。
-toeic-500-busy,toeic,toeic-500,busy,忙しい,The new process is busy for daily work.,新しい手順は日々の業務に忙しいです。
-toeic-500-empty,toeic,toeic-500,empty,空の,The new process is empty for daily work.,新しい手順は日々の業務に空のです。
-toeic-500-full,toeic,toeic-500,full,満員の,The new process is full for daily work.,新しい手順は日々の業務に満員のです。
-toeic-500-ready,toeic,toeic-500,ready,準備できた,The new process is ready for daily work.,新しい手順は日々の業務に準備できたです。
-toeic-500-closed,toeic,toeic-500,closed,閉まっている,The new process is closed for daily work.,新しい手順は日々の業務に閉まっているです。
-toeic-500-open,toeic,toeic-500,open,開いている,The new process is open for daily work.,新しい手順は日々の業務に開いているです。
-toeic-500-nearby,toeic,toeic-500,nearby,近くの,The new process is nearby for daily work.,新しい手順は日々の業務に近くのです。
+toeic-500-attend,toeic,toeic-500,attend,出席する,"The team reviewed ""attend"" before making a decision.",チームは決定前に「出席する」を確認しました。
+toeic-500-confirm,toeic,toeic-500,confirm,確認する,"The manager used ""confirm"" in the monthly report.",マネージャーは月次報告で「確認する」を使いました。
+toeic-500-depart,toeic,toeic-500,depart,出発する,"Employees should understand ""depart"" in business documents.",従業員は業務文書で「出発する」を理解する必要があります。
+toeic-500-invoice,toeic,toeic-500,invoice,請求書,"The notice mentioned ""invoice"" for all staff members.",その通知は全スタッフ向けに「請求書」に触れていました。
+toeic-500-receipt,toeic,toeic-500,receipt,領収書,"The client asked about ""receipt"" after the meeting.",顧客は会議後に「領収書」について尋ねました。
+toeic-500-deadline,toeic,toeic-500,deadline,締め切り,"The team reviewed ""deadline"" before making a decision.",チームは決定前に「締め切り」を確認しました。
+toeic-500-survey,toeic,toeic-500,survey,調査,"The manager used ""survey"" in the monthly report.",マネージャーは月次報告で「調査」を使いました。
+toeic-500-deliver,toeic,toeic-500,deliver,配達する,"Employees should understand ""deliver"" in business documents.",従業員は業務文書で「配達する」を理解する必要があります。
+toeic-500-repair,toeic,toeic-500,repair,修理する,"The notice mentioned ""repair"" for all staff members.",その通知は全スタッフ向けに「修理する」に触れていました。
+toeic-500-expense,toeic,toeic-500,expense,費用,"The client asked about ""expense"" after the meeting.",顧客は会議後に「費用」について尋ねました。
+toeic-500-available,toeic,toeic-500,available,利用できる,"The team reviewed ""available"" before making a decision.",チームは決定前に「利用できる」を確認しました。
+toeic-500-request,toeic,toeic-500,request,依頼する,"The manager used ""request"" in the monthly report.",マネージャーは月次報告で「依頼する」を使いました。
+toeic-500-appointment,toeic,toeic-500,appointment,予約,"Employees should understand ""appointment"" in business documents.",従業員は業務文書で「予約」を理解する必要があります。
+toeic-500-schedule,toeic,toeic-500,schedule,予定,"The notice mentioned ""schedule"" for all staff members.",その通知は全スタッフ向けに「予定」に触れていました。
+toeic-500-customer,toeic,toeic-500,customer,顧客,"The client asked about ""customer"" after the meeting.",顧客は会議後に「顧客」について尋ねました。
+toeic-500-client,toeic,toeic-500,client,取引先,"The team reviewed ""client"" before making a decision.",チームは決定前に「取引先」を確認しました。
+toeic-500-order,toeic,toeic-500,order,注文,"The manager used ""order"" in the monthly report.",マネージャーは月次報告で「注文」を使いました。
+toeic-500-purchase,toeic,toeic-500,purchase,購入する,"Employees should understand ""purchase"" in business documents.",従業員は業務文書で「購入する」を理解する必要があります。
+toeic-500-refund,toeic,toeic-500,refund,返金,"The notice mentioned ""refund"" for all staff members.",その通知は全スタッフ向けに「返金」に触れていました。
+toeic-500-exchange,toeic,toeic-500,exchange,交換,"The client asked about ""exchange"" after the meeting.",顧客は会議後に「交換」について尋ねました。
+toeic-500-payment,toeic,toeic-500,payment,支払い,"The team reviewed ""payment"" before making a decision.",チームは決定前に「支払い」を確認しました。
+toeic-500-budget,toeic,toeic-500,budget,予算,"The manager used ""budget"" in the monthly report.",マネージャーは月次報告で「予算」を使いました。
+toeic-500-report,toeic,toeic-500,report,報告書,"Employees should understand ""report"" in business documents.",従業員は業務文書で「報告書」を理解する必要があります。
+toeic-500-file,toeic,toeic-500,file,ファイル,"The notice mentioned ""file"" for all staff members.",その通知は全スタッフ向けに「ファイル」に触れていました。
+toeic-500-document,toeic,toeic-500,document,書類,"The client asked about ""document"" after the meeting.",顧客は会議後に「書類」について尋ねました。
+toeic-500-copy,toeic,toeic-500,copy,写し,"The team reviewed ""copy"" before making a decision.",チームは決定前に「写し」を確認しました。
+toeic-500-print,toeic,toeic-500,print,印刷する,"The manager used ""print"" in the monthly report.",マネージャーは月次報告で「印刷する」を使いました。
+toeic-500-submit,toeic,toeic-500,submit,提出する,"Employees should understand ""submit"" in business documents.",従業員は業務文書で「提出する」を理解する必要があります。
+toeic-500-update,toeic,toeic-500,update,更新する,"The notice mentioned ""update"" for all staff members.",その通知は全スタッフ向けに「更新する」に触れていました。
+toeic-500-arrange,toeic,toeic-500,arrange,手配する,"The client asked about ""arrange"" after the meeting.",顧客は会議後に「手配する」について尋ねました。
+toeic-500-reserve,toeic,toeic-500,reserve,予約する,"The team reviewed ""reserve"" before making a decision.",チームは決定前に「予約する」を確認しました。
+toeic-500-cancel,toeic,toeic-500,cancel,取り消す,"The manager used ""cancel"" in the monthly report.",マネージャーは月次報告で「取り消す」を使いました。
+toeic-500-delay,toeic,toeic-500,delay,遅延,"Employees should understand ""delay"" in business documents.",従業員は業務文書で「遅延」を理解する必要があります。
+toeic-500-arrive,toeic,toeic-500,arrive,到着する,"The notice mentioned ""arrive"" for all staff members.",その通知は全スタッフ向けに「到着する」に触れていました。
+toeic-500-leave,toeic,toeic-500,leave,出発する,"The client asked about ""leave"" after the meeting.",顧客は会議後に「出発する」について尋ねました。
+toeic-500-rent,toeic,toeic-500,rent,借りる,"The team reviewed ""rent"" before making a decision.",チームは決定前に「借りる」を確認しました。
+toeic-500-hire,toeic,toeic-500,hire,雇う,"The manager used ""hire"" in the monthly report.",マネージャーは月次報告で「雇う」を使いました。
+toeic-500-train,toeic,toeic-500,train,研修する,"Employees should understand ""train"" in business documents.",従業員は業務文書で「研修する」を理解する必要があります。
+toeic-500-staff,toeic,toeic-500,staff,職員,"The notice mentioned ""staff"" for all staff members.",その通知は全スタッフ向けに「職員」に触れていました。
+toeic-500-branch,toeic,toeic-500,branch,支店,"The client asked about ""branch"" after the meeting.",顧客は会議後に「支店」について尋ねました。
+toeic-500-manager,toeic,toeic-500,manager,管理者,"The team reviewed ""manager"" before making a decision.",チームは決定前に「管理者」を確認しました。
+toeic-500-employee,toeic,toeic-500,employee,従業員,"The manager used ""employee"" in the monthly report.",マネージャーは月次報告で「従業員」を使いました。
+toeic-500-office,toeic,toeic-500,office,事務所,"Employees should understand ""office"" in business documents.",従業員は業務文書で「事務所」を理解する必要があります。
+toeic-500-factory,toeic,toeic-500,factory,工場,"The notice mentioned ""factory"" for all staff members.",その通知は全スタッフ向けに「工場」に触れていました。
+toeic-500-product,toeic,toeic-500,product,製品,"The client asked about ""product"" after the meeting.",顧客は会議後に「製品」について尋ねました。
+toeic-500-service,toeic,toeic-500,service,サービス,"The team reviewed ""service"" before making a decision.",チームは決定前に「サービス」を確認しました。
+toeic-500-price,toeic,toeic-500,price,価格,"The manager used ""price"" in the monthly report.",マネージャーは月次報告で「価格」を使いました。
+toeic-500-discount,toeic,toeic-500,discount,割引,"Employees should understand ""discount"" in business documents.",従業員は業務文書で「割引」を理解する必要があります。
+toeic-500-advertisement,toeic,toeic-500,advertisement,広告,"The notice mentioned ""advertisement"" for all staff members.",その通知は全スタッフ向けに「広告」に触れていました。
+toeic-500-notice,toeic,toeic-500,notice,通知,"The client asked about ""notice"" after the meeting.",顧客は会議後に「通知」について尋ねました。
+toeic-500-sign,toeic,toeic-500,sign,掲示,"The team reviewed ""sign"" before making a decision.",チームは決定前に「掲示」を確認しました。
+toeic-500-entrance,toeic,toeic-500,entrance,入口,"The manager used ""entrance"" in the monthly report.",マネージャーは月次報告で「入口」を使いました。
+toeic-500-floor,toeic,toeic-500,floor,階,"Employees should understand ""floor"" in business documents.",従業員は業務文書で「階」を理解する必要があります。
+toeic-500-aisle,toeic,toeic-500,aisle,通路,"The notice mentioned ""aisle"" for all staff members.",その通知は全スタッフ向けに「通路」に触れていました。
+toeic-500-cafeteria,toeic,toeic-500,cafeteria,食堂,"The client asked about ""cafeteria"" after the meeting.",顧客は会議後に「食堂」について尋ねました。
+toeic-500-luggage,toeic,toeic-500,luggage,荷物,"The team reviewed ""luggage"" before making a decision.",チームは決定前に「荷物」を確認しました。
+toeic-500-form,toeic,toeic-500,form,用紙,"The manager used ""form"" in the monthly report.",マネージャーは月次報告で「用紙」を使いました。
+toeic-500-address,toeic,toeic-500,address,住所,"Employees should understand ""address"" in business documents.",従業員は業務文書で「住所」を理解する必要があります。
+toeic-500-contact,toeic,toeic-500,contact,連絡先,"The notice mentioned ""contact"" for all staff members.",その通知は全スタッフ向けに「連絡先」に触れていました。
+toeic-500-warranty,toeic,toeic-500,warranty,保証,"The client asked about ""warranty"" after the meeting.",顧客は会議後に「保証」について尋ねました。
+toeic-500-package,toeic,toeic-500,package,小包,"The team reviewed ""package"" before making a decision.",チームは決定前に「小包」を確認しました。
+toeic-500-machine,toeic,toeic-500,machine,機械,"The manager used ""machine"" in the monthly report.",マネージャーは月次報告で「機械」を使いました。
+toeic-500-equipment,toeic,toeic-500,equipment,設備,"Employees should understand ""equipment"" in business documents.",従業員は業務文書で「設備」を理解する必要があります。
+toeic-500-supply,toeic,toeic-500,supply,供給品,"The notice mentioned ""supply"" for all staff members.",その通知は全スタッフ向けに「供給品」に触れていました。
+toeic-500-material,toeic,toeic-500,material,資材,"The client asked about ""material"" after the meeting.",顧客は会議後に「資材」について尋ねました。
+toeic-500-instruction,toeic,toeic-500,instruction,指示,"The team reviewed ""instruction"" before making a decision.",チームは決定前に「指示」を確認しました。
+toeic-500-safety,toeic,toeic-500,safety,安全,"The manager used ""safety"" in the monthly report.",マネージャーは月次報告で「安全」を使いました。
+toeic-500-total,toeic,toeic-500,total,合計,"Employees should understand ""total"" in business documents.",従業員は業務文書で「合計」を理解する必要があります。
+toeic-500-weekly,toeic,toeic-500,weekly,週ごとの,"The notice mentioned ""weekly"" for all staff members.",その通知は全スタッフ向けに「週ごとの」に触れていました。
+toeic-500-monthly,toeic,toeic-500,monthly,月ごとの,"The client asked about ""monthly"" after the meeting.",顧客は会議後に「月ごとの」について尋ねました。
+toeic-500-local,toeic,toeic-500,local,地元の,"The team reviewed ""local"" before making a decision.",チームは決定前に「地元の」を確認しました。
+toeic-500-foreign,toeic,toeic-500,foreign,外国の,"The manager used ""foreign"" in the monthly report.",マネージャーは月次報告で「外国の」を使いました。
+toeic-500-convenient,toeic,toeic-500,convenient,便利な,"Employees should understand ""convenient"" in business documents.",従業員は業務文書で「便利な」を理解する必要があります。
+toeic-500-busy,toeic,toeic-500,busy,忙しい,"The notice mentioned ""busy"" for all staff members.",その通知は全スタッフ向けに「忙しい」に触れていました。
+toeic-500-empty,toeic,toeic-500,empty,空の,"The client asked about ""empty"" after the meeting.",顧客は会議後に「空の」について尋ねました。
+toeic-500-full,toeic,toeic-500,full,満員の,"The team reviewed ""full"" before making a decision.",チームは決定前に「満員の」を確認しました。
+toeic-500-ready,toeic,toeic-500,ready,準備できた,"The manager used ""ready"" in the monthly report.",マネージャーは月次報告で「準備できた」を使いました。
+toeic-500-closed,toeic,toeic-500,closed,閉まっている,"Employees should understand ""closed"" in business documents.",従業員は業務文書で「閉まっている」を理解する必要があります。
+toeic-500-open,toeic,toeic-500,open,開いている,"The notice mentioned ""open"" for all staff members.",その通知は全スタッフ向けに「開いている」に触れていました。
+toeic-500-nearby,toeic,toeic-500,nearby,近くの,"The client asked about ""nearby"" after the meeting.",顧客は会議後に「近くの」について尋ねました。
+toeic-500-charge,toeic,toeic-500,charge,費用,"The team reviewed ""charge"" before making a decision.",チームは決定前に「費用」を確認しました。
+toeic-500-marketing,toeic,toeic-500,marketing,市場での売買,"The manager used ""marketing"" in the monthly report.",マネージャーは月次報告で「市場での売買」を使いました。
+toeic-500-trust,toeic,toeic-500,trust,"信頼,信任,信用","Employees should understand ""trust"" in business documents.","従業員は業務文書で「信頼,信任,信用」を理解する必要があります。"
+toeic-500-firm,toeic,toeic-500,firm,"堅い,堅固な,引き締まった","The notice mentioned ""firm"" for all staff members.","その通知は全スタッフ向けに「堅い,堅固な,引き締まった」に触れていました。"
+toeic-500-account,toeic,toeic-500,account,"計算,勘定","The client asked about ""account"" after the meeting.","顧客は会議後に「計算,勘定」について尋ねました。"
+toeic-500-project,toeic,toeic-500,project,"計画する,企画する","The team reviewed ""project"" before making a decision.","チームは決定前に「計画する,企画する」を確認しました。"
+toeic-500-audit,toeic,toeic-500,audit,会計検査,"The manager used ""audit"" in the monthly report.",マネージャーは月次報告で「会計検査」を使いました。
+toeic-500-retail,toeic,toeic-500,retail,小売り,"Employees should understand ""retail"" in business documents.",従業員は業務文書で「小売り」を理解する必要があります。
+toeic-500-promote,toeic,toeic-500,promote,"助長する,促進する,増進する","The notice mentioned ""promote"" for all staff members.","その通知は全スタッフ向けに「助長する,促進する,増進する」に触れていました。"
+toeic-500-employment,toeic,toeic-500,employment,雇用,"The client asked about ""employment"" after the meeting.",顧客は会議後に「雇用」について尋ねました。
+toeic-500-bond,toeic,toeic-500,bond,縛る物,"The team reviewed ""bond"" before making a decision.",チームは決定前に「縛る物」を確認しました。
+toeic-500-ceo,toeic,toeic-500,ceo,"chief executive officer ,企業のトップに位置...","The manager used ""ceo"" in the monthly report.","マネージャーは月次報告で「chief executive officer ,企業のトップに位置...」を使いました。"
+toeic-500-grant,toeic,toeic-500,grant,"をかなえる,聞き入れる","Employees should understand ""grant"" in business documents.","従業員は業務文書で「をかなえる,聞き入れる」を理解する必要があります。"
+toeic-500-governor,toeic,toeic-500,governor,知事,"The notice mentioned ""governor"" for all staff members.",その通知は全スタッフ向けに「知事」に触れていました。
+toeic-500-enterprise,toeic,toeic-500,enterprise,"事業,企て","The client asked about ""enterprise"" after the meeting.","顧客は会議後に「事業,企て」について尋ねました。"
+toeic-500-guide,toeic,toeic-500,guide,を案内する,"The team reviewed ""guide"" before making a decision.",チームは決定前に「を案内する」を確認しました。
+toeic-500-banking,toeic,toeic-500,banking,銀行業務,"The manager used ""banking"" in the monthly report.",マネージャーは月次報告で「銀行業務」を使いました。
+toeic-500-benefit,toeic,toeic-500,benefit,"ためになること,利益,恩恵","Employees should understand ""benefit"" in business documents.","従業員は業務文書で「ためになること,利益,恩恵」を理解する必要があります。"
+toeic-500-executive,toeic,toeic-500,executive,"実行の,執行力のある","The notice mentioned ""executive"" for all staff members.","その通知は全スタッフ向けに「実行の,執行力のある」に触れていました。"
+toeic-500-operator,toeic,toeic-500,operator,"運転する人,操作する人,技手","The client asked about ""operator"" after the meeting.","顧客は会議後に「運転する人,操作する人,技手」について尋ねました。"
+toeic-500-advice,toeic,toeic-500,advice,"忠告,助言","The team reviewed ""advice"" before making a decision.","チームは決定前に「忠告,助言」を確認しました。"
+toeic-500-engagement,toeic,toeic-500,engagement,"約束,契約,取り決め","The manager used ""engagement"" in the monthly report.","マネージャーは月次報告で「約束,契約,取り決め」を使いました。"
+toeic-500-carrier,toeic,toeic-500,carrier,運搬する人,"Employees should understand ""carrier"" in business documents.",従業員は業務文書で「運搬する人」を理解する必要があります。
+toeic-500-sale,toeic,toeic-500,sale,"販売,売却,売れ行き,需要","The notice mentioned ""sale"" for all staff members.","その通知は全スタッフ向けに「販売,売却,売れ行き,需要」に触れていました。"
+toeic-500-credit,toeic,toeic-500,credit,信用,"The client asked about ""credit"" after the meeting.",顧客は会議後に「信用」について尋ねました。
+toeic-500-store,toeic,toeic-500,store,"店,商店","The team reviewed ""store"" before making a decision.","チームは決定前に「店,商店」を確認しました。"
+toeic-500-trade,toeic,toeic-500,trade,"商業,商売","The manager used ""trade"" in the monthly report.","マネージャーは月次報告で「商業,商売」を使いました。"
+toeic-500-management,toeic,toeic-500,management,"管理,運営","Employees should understand ""management"" in business documents.","従業員は業務文書で「管理,運営」を理解する必要があります。"
+toeic-500-production,toeic,toeic-500,production,"生み出すこと,生産,産出,製造","The notice mentioned ""production"" for all staff members.","その通知は全スタッフ向けに「生み出すこと,生産,産出,製造」に触れていました。"
+toeic-500-policy,toeic,toeic-500,policy,"方針,方策,政策","The client asked about ""policy"" after the meeting.","顧客は会議後に「方針,方策,政策」について尋ねました。"
+toeic-500-industry,toeic,toeic-500,industry,産業,"The team reviewed ""industry"" before making a decision.",チームは決定前に「産業」を確認しました。
+toeic-500-share,toeic,toeic-500,share,"分け前,取り分","The manager used ""share"" in the monthly report.","マネージャーは月次報告で「分け前,取り分」を使いました。"
+toeic-500-department,toeic,toeic-500,department,"部門,部,課","Employees should understand ""department"" in business documents.","従業員は業務文書で「部門,部,課」を理解する必要があります。"
+toeic-500-cost,toeic,toeic-500,cost,"がかかる,を要する","The notice mentioned ""cost"" for all staff members.","その通知は全スタッフ向けに「がかかる,を要する」に触れていました。"
+toeic-500-clear,toeic,toeic-500,clear,晴れた,"The client asked about ""clear"" after the meeting.",顧客は会議後に「晴れた」について尋ねました。
+toeic-500-market,toeic,toeic-500,market,"市場,市","The team reviewed ""market"" before making a decision.","チームは決定前に「市場,市」を確認しました。"
+toeic-500-controller,toeic,toeic-500,controller,"管理する人,監督者,取締人","The manager used ""controller"" in the monthly report.","マネージャーは月次報告で「管理する人,監督者,取締人」を使いました。"
+toeic-500-dairy,toeic,toeic-500,dairy,"酪農場,バター・チーズ・クリーム製造所","Employees should understand ""dairy"" in business documents.","従業員は業務文書で「酪農場,バター・チーズ・クリーム製造所」を理解する必要があります。"
+toeic-500-receiver,toeic,toeic-500,receiver,受取人,"The notice mentioned ""receiver"" for all staff members.",その通知は全スタッフ向けに「受取人」に触れていました。
+toeic-500-slot,toeic,toeic-500,slot,細長いみぞ,"The client asked about ""slot"" after the meeting.",顧客は会議後に「細長いみぞ」について尋ねました。
+toeic-500-toll,toeic,toeic-500,toll,鳴る,"The team reviewed ""toll"" before making a decision.",チームは決定前に「鳴る」を確認しました。
+toeic-500-obligation,toeic,toeic-500,obligation,"義務,約束","The manager used ""obligation"" in the monthly report.","マネージャーは月次報告で「義務,約束」を使いました。"
+toeic-500-sponsor,toeic,toeic-500,sponsor,保証人,"Employees should understand ""sponsor"" in business documents.",従業員は業務文書で「保証人」を理解する必要があります。
+toeic-500-subscribe,toeic,toeic-500,subscribe,予約する,"The notice mentioned ""subscribe"" for all staff members.",その通知は全スタッフ向けに「予約する」に触れていました。
+toeic-500-manufacture,toeic,toeic-500,manufacture,"製造,製作","The client asked about ""manufacture"" after the meeting.","顧客は会議後に「製造,製作」について尋ねました。"
+toeic-500-discharge,toeic,toeic-500,discharge,の荷を降ろす,"The team reviewed ""discharge"" before making a decision.",チームは決定前に「の荷を降ろす」を確認しました。
+toeic-500-advertising,toeic,toeic-500,advertising,広告,"The manager used ""advertising"" in the monthly report.",マネージャーは月次報告で「広告」を使いました。
+toeic-500-maintenance,toeic,toeic-500,maintenance,"維持,持続,保全,保守","Employees should understand ""maintenance"" in business documents.","従業員は業務文書で「維持,持続,保全,保守」を理解する必要があります。"
+toeic-500-suppose,toeic,toeic-500,suppose,"と仮定する,考えてみる","The notice mentioned ""suppose"" for all staff members.","その通知は全スタッフ向けに「と仮定する,考えてみる」に触れていました。"
+toeic-500-motion,toeic,toeic-500,motion,"動くこと,運動,運行,移動","The client asked about ""motion"" after the meeting.","顧客は会議後に「動くこと,運動,運行,移動」について尋ねました。"
+toeic-500-appointed,toeic,toeic-500,appointed,"定められた,決められた","The team reviewed ""appointed"" before making a decision.","チームは決定前に「定められた,決められた」を確認しました。"
+toeic-500-partnership,toeic,toeic-500,partnership,"提携,協力","The manager used ""partnership"" in the monthly report.","マネージャーは月次報告で「提携,協力」を使いました。"
+toeic-500-proposal,toeic,toeic-500,proposal,提案すること,"Employees should understand ""proposal"" in business documents.",従業員は業務文書で「提案すること」を理解する必要があります。
+toeic-500-establish,toeic,toeic-500,establish,"設立する,創設する","The notice mentioned ""establish"" for all staff members.","その通知は全スタッフ向けに「設立する,創設する」に触れていました。"
+toeic-500-split,toeic,toeic-500,split,"縦に割る,裂く","The client asked about ""split"" after the meeting.","顧客は会議後に「縦に割る,裂く」について尋ねました。"
+toeic-500-finance,toeic,toeic-500,finance,"財政,財務,財政学","The team reviewed ""finance"" before making a decision.","チームは決定前に「財政,財務,財政学」を確認しました。"
+toeic-500-chain,toeic,toeic-500,chain,鎖,"The manager used ""chain"" in the monthly report.",マネージャーは月次報告で「鎖」を使いました。
+toeic-500-guarantee,toeic,toeic-500,guarantee,保証,"Employees should understand ""guarantee"" in business documents.",従業員は業務文書で「保証」を理解する必要があります。
+toeic-500-concern,toeic,toeic-500,concern,"関係する,かかわる,影響する","The notice mentioned ""concern"" for all staff members.","その通知は全スタッフ向けに「関係する,かかわる,影響する」に触れていました。"
+toeic-500-commitment,toeic,toeic-500,commitment,約束,"The client asked about ""commitment"" after the meeting.",顧客は会議後に「約束」について尋ねました。
+toeic-500-custom,toeic,toeic-500,custom,"習慣,風習,慣例","The team reviewed ""custom"" before making a decision.","チームは決定前に「習慣,風習,慣例」を確認しました。"
+toeic-500-pool,toeic,toeic-500,pool,水たまり,"The manager used ""pool"" in the monthly report.",マネージャーは月次報告で「水たまり」を使いました。
+toeic-500-confirmed,toeic,toeic-500,confirmed,"確認された,立証された","Employees should understand ""confirmed"" in business documents.","従業員は業務文書で「確認された,立証された」を理解する必要があります。"
+toeic-500-profit,toeic,toeic-500,profit,"利益,もうけ,収益","The notice mentioned ""profit"" for all staff members.","その通知は全スタッフ向けに「利益,もうけ,収益」に触れていました。"
+toeic-500-crew,toeic,toeic-500,crew,乗組員,"The client asked about ""crew"" after the meeting.",顧客は会議後に「乗組員」について尋ねました。
+toeic-500-managing,toeic,toeic-500,managing,"支配する,管理する,経営する","The team reviewed ""managing"" before making a decision.","チームは決定前に「支配する,管理する,経営する」を確認しました。"
+toeic-500-mill,toeic,toeic-500,mill,製粉所,"The manager used ""mill"" in the monthly report.",マネージャーは月次報告で「製粉所」を使いました。
+toeic-500-valid,toeic,toeic-500,valid,"妥当な,しっかりした根拠のある","Employees should understand ""valid"" in business documents.","従業員は業務文書で「妥当な,しっかりした根拠のある」を理解する必要があります。"
+toeic-500-collect,toeic,toeic-500,collect,"集める,収集する","The notice mentioned ""collect"" for all staff members.","その通知は全スタッフ向けに「集める,収集する」に触れていました。"
+toeic-500-commerce,toeic,toeic-500,commerce,"商業,通商,貿易","The client asked about ""commerce"" after the meeting.","顧客は会議後に「商業,通商,貿易」について尋ねました。"
+toeic-500-connection,toeic,toeic-500,connection,"関係,つながり,関係","The team reviewed ""connection"" before making a decision.","チームは決定前に「関係,つながり,関係」を確認しました。"
+toeic-500-engage,toeic,toeic-500,engage,雇う,"The manager used ""engage"" in the monthly report.",マネージャーは月次報告で「雇う」を使いました。
+toeic-500-option,toeic,toeic-500,option,"選択すること,選択の権利","Employees should understand ""option"" in business documents.","従業員は業務文書で「選択すること,選択の権利」を理解する必要があります。"
+toeic-500-reporter,toeic,toeic-500,reporter,"報告者,申告者","The notice mentioned ""reporter"" for all staff members.","その通知は全スタッフ向けに「報告者,申告者」に触れていました。"
+toeic-500-demand,toeic,toeic-500,demand,"求める,せがむ","The client asked about ""demand"" after the meeting.","顧客は会議後に「求める,せがむ」について尋ねました。"
+toeic-500-accept,toeic,toeic-500,accept,"を受け取る,を受け入れる","The team reviewed ""accept"" before making a decision.","チームは決定前に「を受け取る,を受け入れる」を確認しました。"
+toeic-500-freedom,toeic,toeic-500,freedom,自由,"The manager used ""freedom"" in the monthly report.",マネージャーは月次報告で「自由」を使いました。
+toeic-500-trailer,toeic,toeic-500,trailer,トレーラー,"Employees should understand ""trailer"" in business documents.",従業員は業務文書で「トレーラー」を理解する必要があります。
+toeic-500-commercial,toeic,toeic-500,commercial,"商業上の,通商上の,貿易上の","The notice mentioned ""commercial"" for all staff members.","その通知は全スタッフ向けに「商業上の,通商上の,貿易上の」に触れていました。"
+toeic-500-accounting,toeic,toeic-500,accounting,"会計,経理","The client asked about ""accounting"" after the meeting.","顧客は会議後に「会計,経理」について尋ねました。"
+toeic-500-insurance,toeic,toeic-500,insurance,"保険, 保険契約","The team reviewed ""insurance"" before making a decision.","チームは決定前に「保険, 保険契約」を確認しました。"
+toeic-500-franchise,toeic,toeic-500,franchise,"免許,一手販売権","The manager used ""franchise"" in the monthly report.","マネージャーは月次報告で「免許,一手販売権」を使いました。"
+toeic-500-contract,toeic,toeic-500,contract,"契約,約定,請負","Employees should understand ""contract"" in business documents.","従業員は業務文書で「契約,約定,請負」を理解する必要があります。"
+toeic-500-unit,toeic,toeic-500,unit,構成単位,"The notice mentioned ""unit"" for all staff members.",その通知は全スタッフ向けに「構成単位」に触れていました。
+toeic-500-claim,toeic,toeic-500,claim,"要求する,請求する,を自分の物だと主張する","The client asked about ""claim"" after the meeting.","顧客は会議後に「要求する,請求する,を自分の物だと主張する」について尋ねました。"
+toeic-500-calling,toeic,toeic-500,calling,"呼ぶこと,叫ぶこと","The team reviewed ""calling"" before making a decision.","チームは決定前に「呼ぶこと,叫ぶこと」を確認しました。"
+toeic-500-statement,toeic,toeic-500,statement,声明すること,"The manager used ""statement"" in the monthly report.",マネージャーは月次報告で「声明すること」を使いました。
+toeic-500-mature,toeic,toeic-500,mature,"成熟した,十分に成長した,熟成した","Employees should understand ""mature"" in business documents.","従業員は業務文書で「成熟した,十分に成長した,熟成した」を理解する必要があります。"
+toeic-500-tourism,toeic,toeic-500,tourism,観光旅行,"The notice mentioned ""tourism"" for all staff members.",その通知は全スタッフ向けに「観光旅行」に触れていました。
+toeic-500-section,toeic,toeic-500,section,"部分,部品","The client asked about ""section"" after the meeting.","顧客は会議後に「部分,部品」について尋ねました。"
+toeic-500-earnings,toeic,toeic-500,earnings,"収入,所得","The team reviewed ""earnings"" before making a decision.","チームは決定前に「収入,所得」を確認しました。"
+toeic-500-margin,toeic,toeic-500,margin,"へり,縁,端","The manager used ""margin"" in the monthly report.","マネージャーは月次報告で「へり,縁,端」を使いました。"
+toeic-500-passage,toeic,toeic-500,passage,"節,句","Employees should understand ""passage"" in business documents.","従業員は業務文書で「節,句」を理解する必要があります。"
+toeic-500-traveling,toeic,toeic-500,traveling,旅行すること,"The notice mentioned ""traveling"" for all staff members.",その通知は全スタッフ向けに「旅行すること」に触れていました。
+toeic-500-shall,toeic,toeic-500,shall,"でしょう,だろう,する","The client asked about ""shall"" after the meeting.","顧客は会議後に「でしょう,だろう,する」について尋ねました。"
+toeic-500-equality,toeic,toeic-500,equality,"等しいこと,均等","The team reviewed ""equality"" before making a decision.","チームは決定前に「等しいこと,均等」を確認しました。"
+toeic-500-fiscal,toeic,toeic-500,fiscal,国庫の,"The manager used ""fiscal"" in the monthly report.",マネージャーは月次報告で「国庫の」を使いました。
+toeic-500-officer,toeic,toeic-500,officer,"公務員,役人役員,幹部","Employees should understand ""officer"" in business documents.","従業員は業務文書で「公務員,役人役員,幹部」を理解する必要があります。"
+toeic-500-super,toeic,toeic-500,super,"管理人,長官,所長,監督","The notice mentioned ""super"" for all staff members.","その通知は全スタッフ向けに「管理人,長官,所長,監督」に触れていました。"
+toeic-500-venue,toeic,toeic-500,venue,行為地 ・現場,"The client asked about ""venue"" after the meeting.",顧客は会議後に「行為地 ・現場」について尋ねました。
+toeic-500-stage,toeic,toeic-500,stage,舞台・on stage 舞台上で・・off stage 舞台の陰で...,"The team reviewed ""stage"" before making a decision.",チームは決定前に「舞台・on stage 舞台上で・・off stage 舞台の陰で...」を確認しました。
+toeic-500-treasury,toeic,toeic-500,treasury,"国庫,基金,資金","The manager used ""treasury"" in the monthly report.","マネージャーは月次報告で「国庫,基金,資金」を使いました。"
+toeic-500-charter,toeic,toeic-500,charter,"特許状,免許状,憲章","Employees should understand ""charter"" in business documents.","従業員は業務文書で「特許状,免許状,憲章」を理解する必要があります。"
+toeic-500-rate,toeic,toeic-500,rate,"割合,率","The notice mentioned ""rate"" for all staff members.","その通知は全スタッフ向けに「割合,率」に触れていました。"
+toeic-500-provide,toeic,toeic-500,provide,"供給する,提供する,与える","The client asked about ""provide"" after the meeting.","顧客は会議後に「供給する,提供する,与える」について尋ねました。"
+toeic-500-bank,toeic,toeic-500,bank,"土手,堤","The team reviewed ""bank"" before making a decision.","チームは決定前に「土手,堤」を確認しました。"
+toeic-500-interest,toeic,toeic-500,interest,"興味,関心","The manager used ""interest"" in the monthly report.","マネージャーは月次報告で「興味,関心」を使いました。"
+toeic-500-outfit,toeic,toeic-500,outfit,"装備一式,道具一式","Employees should understand ""outfit"" in business documents.","従業員は業務文書で「装備一式,道具一式」を理解する必要があります。"
+toeic-500-manufacturer,toeic,toeic-500,manufacturer,"製造業者,工場主","The notice mentioned ""manufacturer"" for all staff members.","その通知は全スタッフ向けに「製造業者,工場主」に触れていました。"
+toeic-500-transaction,toeic,toeic-500,transaction,"処理,処置","The client asked about ""transaction"" after the meeting.","顧客は会議後に「処理,処置」について尋ねました。"
+toeic-500-lap,toeic,toeic-500,lap,ひざ,"The team reviewed ""lap"" before making a decision.",チームは決定前に「ひざ」を確認しました。
+toeic-500-reserved,toeic,toeic-500,reserved,"予約の,貸し切りの","The manager used ""reserved"" in the monthly report.","マネージャーは月次報告で「予約の,貸し切りの」を使いました。"
+toeic-500-licensed,toeic,toeic-500,licensed,"公に許可された,免許をとった","Employees should understand ""licensed"" in business documents.","従業員は業務文書で「公に許可された,免許をとった」を理解する必要があります。"
+toeic-500-exhibit,toeic,toeic-500,exhibit,"を表す,示す","The notice mentioned ""exhibit"" for all staff members.","その通知は全スタッフ向けに「を表す,示す」に触れていました。"
+toeic-500-liability,toeic,toeic-500,liability,傾向のあること,"The client asked about ""liability"" after the meeting.",顧客は会議後に「傾向のあること」について尋ねました。
+toeic-500-travelling,toeic,toeic-500,travelling,旅行すること,"The team reviewed ""travelling"" before making a decision.",チームは決定前に「旅行すること」を確認しました。
+toeic-500-admission,toeic,toeic-500,admission,"入ることを許すこと,入場許可,入る権利","The manager used ""admission"" in the monthly report.","マネージャーは月次報告で「入ることを許すこと,入場許可,入る権利」を使いました。"
+toeic-500-violation,toeic,toeic-500,violation,"違反,無視","Employees should understand ""violation"" in business documents.","従業員は業務文書で「違反,無視」を理解する必要があります。"
+toeic-500-immune,toeic,toeic-500,immune,免疫の,"The notice mentioned ""immune"" for all staff members.",その通知は全スタッフ向けに「免疫の」に触れていました。
+toeic-500-provision,toeic,toeic-500,provision,"供給,支給","The client asked about ""provision"" after the meeting.","顧客は会議後に「供給,支給」について尋ねました。"
+toeic-500-breach,toeic,toeic-500,breach,"破ること,破棄,違反,不履行","The team reviewed ""breach"" before making a decision.","チームは決定前に「破ること,破棄,違反,不履行」を確認しました。"
+toeic-500-contractor,toeic,toeic-500,contractor,"契約人,請負人","The manager used ""contractor"" in the monthly report.","マネージャーは月次報告で「契約人,請負人」を使いました。"
+toeic-500-merchant,toeic,toeic-500,merchant,商人,"Employees should understand ""merchant"" in business documents.",従業員は業務文書で「商人」を理解する必要があります。
+toeic-500-assess,toeic,toeic-500,assess,"を評価する,査定する","The notice mentioned ""assess"" for all staff members.","その通知は全スタッフ向けに「を評価する,査定する」に触れていました。"
+toeic-500-observe,toeic,toeic-500,observe,"観察する,注意して見る","The client asked about ""observe"" after the meeting.","顧客は会議後に「観察する,注意して見る」について尋ねました。"
+toeic-500-subscription,toeic,toeic-500,subscription,予約,"The team reviewed ""subscription"" before making a decision.",チームは決定前に「予約」を確認しました。
+toeic-500-traveled,toeic,toeic-500,traveled,旅行の経験が多い,"The manager used ""traveled"" in the monthly report.",マネージャーは月次報告で「旅行の経験が多い」を使いました。
+toeic-500-profitable,toeic,toeic-500,profitable,利益の上がる,"Employees should understand ""profitable"" in business documents.",従業員は業務文書で「利益の上がる」を理解する必要があります。
+toeic-500-keeper,toeic,toeic-500,keeper,"守る人,管理人,番人","The notice mentioned ""keeper"" for all staff members.","その通知は全スタッフ向けに「守る人,管理人,番人」に触れていました。"
+toeic-500-clerk,toeic,toeic-500,clerk,"行員,社員","The client asked about ""clerk"" after the meeting.","顧客は会議後に「行員,社員」について尋ねました。"
+toeic-500-colleague,toeic,toeic-500,colleague,"同僚,仲間,同業者","The team reviewed ""colleague"" before making a decision.","チームは決定前に「同僚,仲間,同業者」を確認しました。"
+toeic-500-organize,toeic,toeic-500,organize,"を系統だてる,組織的にまとめる","The manager used ""organize"" in the monthly report.","マネージャーは月次報告で「を系統だてる,組織的にまとめる」を使いました。"
+toeic-500-travelled,toeic,toeic-500,travelled,旅行の経験が多い,"Employees should understand ""travelled"" in business documents.",従業員は業務文書で「旅行の経験が多い」を理解する必要があります。
+toeic-500-employ,toeic,toeic-500,employ,を雇う,"The notice mentioned ""employ"" for all staff members.",その通知は全スタッフ向けに「を雇う」に触れていました。
+toeic-500-bargain,toeic,toeic-500,bargain,"契約,売買契約,取引き","The client asked about ""bargain"" after the meeting.","顧客は会議後に「契約,売買契約,取引き」について尋ねました。"
+toeic-500-execute,toeic,toeic-500,execute,"を実行する,遂行する","The team reviewed ""execute"" before making a decision.","チームは決定前に「を実行する,遂行する」を確認しました。"
+toeic-500-merchandise,toeic,toeic-500,merchandise,商品,"The manager used ""merchandise"" in the monthly report.",マネージャーは月次報告で「商品」を使いました。
+toeic-500-soviet,toeic,toeic-500,soviet,地方会議,"Employees should understand ""soviet"" in business documents.",従業員は業務文書で「地方会議」を理解する必要があります。
+toeic-500-championship,toeic,toeic-500,championship,優勝者の地位,"The notice mentioned ""championship"" for all staff members.",その通知は全スタッフ向けに「優勝者の地位」に触れていました。
+toeic-500-cable,toeic,toeic-500,cable,太綱,"The client asked about ""cable"" after the meeting.",顧客は会議後に「太綱」について尋ねました。
+toeic-500-legislation,toeic,toeic-500,legislation,"立法,法律制定","The team reviewed ""legislation"" before making a decision.","チームは決定前に「立法,法律制定」を確認しました。"
+toeic-500-crash,toeic,toeic-500,crash,"ガラガラ,ドシン","The manager used ""crash"" in the monthly report.","マネージャーは月次報告で「ガラガラ,ドシン」を使いました。"
+toeic-500-conduct,toeic,toeic-500,conduct,"行為,行動,品行","Employees should understand ""conduct"" in business documents.","従業員は業務文書で「行為,行動,品行」を理解する必要があります。"
+toeic-500-ban,toeic,toeic-500,ban,"禁止,禁制","The notice mentioned ""ban"" for all staff members.","その通知は全スタッフ向けに「禁止,禁制」に触れていました。"
+toeic-500-engaged,toeic,toeic-500,engaged,忙しい,"The client asked about ""engaged"" after the meeting.",顧客は会議後に「忙しい」について尋ねました。
+toeic-500-tool,toeic,toeic-500,tool,"道具,工具","The team reviewed ""tool"" before making a decision.","チームは決定前に「道具,工具」を確認しました。"
+toeic-500-hollywood,toeic,toeic-500,hollywood,ハリウッド,"The manager used ""hollywood"" in the monthly report.",マネージャーは月次報告で「ハリウッド」を使いました。
+toeic-500-recognize,toeic,toeic-500,recognize,確かに認める,"Employees should understand ""recognize"" in business documents.",従業員は業務文書で「確かに認める」を理解する必要があります。
+toeic-500-shipping,toeic,toeic-500,shipping,"船積み,積み出し,発送","The notice mentioned ""shipping"" for all staff members.","その通知は全スタッフ向けに「船積み,積み出し,発送」に触れていました。"
+toeic-500-excuse,toeic,toeic-500,excuse,"を許す,認める","The client asked about ""excuse"" after the meeting.","顧客は会議後に「を許す,認める」について尋ねました。"
+toeic-500-witness,toeic,toeic-500,witness,目撃者,"The team reviewed ""witness"" before making a decision.",チームは決定前に「目撃者」を確認しました。
+toeic-500-comedy,toeic,toeic-500,comedy,喜劇,"The manager used ""comedy"" in the monthly report.",マネージャーは月次報告で「喜劇」を使いました。
+toeic-500-counter,toeic,toeic-500,counter,"売り台,勘定台,カウンター","Employees should understand ""counter"" in business documents.","従業員は業務文書で「売り台,勘定台,カウンター」を理解する必要があります。"
+toeic-500-exact,toeic,toeic-500,exact,"正確な,きっかりの","The notice mentioned ""exact"" for all staff members.","その通知は全スタッフ向けに「正確な,きっかりの」に触れていました。"
+toeic-500-fee,toeic,toeic-500,fee,"料金,謝礼,報酬,手数料","The client asked about ""fee"" after the meeting.","顧客は会議後に「料金,謝礼,報酬,手数料」について尋ねました。"
+toeic-500-programme,toeic,toeic-500,programme,"プログラム,番組表","The team reviewed ""programme"" before making a decision.","チームは決定前に「プログラム,番組表」を確認しました。"
+toeic-500-plastic,toeic,toeic-500,plastic,プラスチック,"The manager used ""plastic"" in the monthly report.",マネージャーは月次報告で「プラスチック」を使いました。
+toeic-500-quote,toeic,toeic-500,quote,を引用する,"Employees should understand ""quote"" in business documents.",従業員は業務文書で「を引用する」を理解する必要があります。
+toeic-500-chemical,toeic,toeic-500,chemical,"化学の,化学上の","The notice mentioned ""chemical"" for all staff members.","その通知は全スタッフ向けに「化学の,化学上の」に触れていました。"
+toeic-500-category,toeic,toeic-500,category,範疇,"The client asked about ""category"" after the meeting.",顧客は会議後に「範疇」について尋ねました。
+toeic-500-assume,toeic,toeic-500,assume,"当然のことと思う,仮定する,推測する","The team reviewed ""assume"" before making a decision.","チームは決定前に「当然のことと思う,仮定する,推測する」を確認しました。"
+toeic-500-afford,toeic,toeic-500,afford,の余裕がある,"The manager used ""afford"" in the monthly report.",マネージャーは月次報告で「の余裕がある」を使いました。
+toeic-500-ford,toeic,toeic-500,ford,フォード,"Employees should understand ""ford"" in business documents.",従業員は業務文書で「フォード」を理解する必要があります。
+toeic-500-permission,toeic,toeic-500,permission,"許可,承諾","The notice mentioned ""permission"" for all staff members.","その通知は全スタッフ向けに「許可,承諾」に触れていました。"
+toeic-500-shoulder,toeic,toeic-500,shoulder,肩,"The client asked about ""shoulder"" after the meeting.",顧客は会議後に「肩」について尋ねました。
+toeic-500-saving,toeic,toeic-500,saving,"欠点を補う,埋め合わせとなる","The team reviewed ""saving"" before making a decision.","チームは決定前に「欠点を補う,埋め合わせとなる」を確認しました。"
+toeic-500-coal,toeic,toeic-500,coal,石炭,"The manager used ""coal"" in the monthly report.",マネージャーは月次報告で「石炭」を使いました。
+toeic-500-reasonable,toeic,toeic-500,reasonable,"理性的な,分別のある","Employees should understand ""reasonable"" in business documents.","従業員は業務文書で「理性的な,分別のある」を理解する必要があります。"
+toeic-500-delivery,toeic,toeic-500,delivery,"配達,便","The notice mentioned ""delivery"" for all staff members.","その通知は全スタッフ向けに「配達,便」に触れていました。"
+toeic-500-careful,toeic,toeic-500,careful,"注意深い,慎重な,気をつける","The client asked about ""careful"" after the meeting.","顧客は会議後に「注意深い,慎重な,気をつける」について尋ねました。"
+toeic-500-territory,toeic,toeic-500,territory,"地域,地方","The team reviewed ""territory"" before making a decision.","チームは決定前に「地域,地方」を確認しました。"
+toeic-500-earn,toeic,toeic-500,earn,をかせぐ,"The manager used ""earn"" in the monthly report.",マネージャーは月次報告で「をかせぐ」を使いました。
+toeic-500-facility,toeic,toeic-500,facility,"容易さ,便利さ","Employees should understand ""facility"" in business documents.","従業員は業務文書で「容易さ,便利さ」を理解する必要があります。"
+toeic-500-dealing,toeic,toeic-500,dealing,"交際関係,取引き関係","The notice mentioned ""dealing"" for all staff members.","その通知は全スタッフ向けに「交際関係,取引き関係」に触れていました。"
+toeic-500-rush,toeic,toeic-500,rush,トウシンソウ,"The client asked about ""rush"" after the meeting.",顧客は会議後に「トウシンソウ」について尋ねました。
+toeic-500-stable,toeic,toeic-500,stable,"安定した,しっかりした","The team reviewed ""stable"" before making a decision.","チームは決定前に「安定した,しっかりした」を確認しました。"
+toeic-500-audio,toeic,toeic-500,audio,"可聴周波の,低周波の","The manager used ""audio"" in the monthly report.","マネージャーは月次報告で「可聴周波の,低周波の」を使いました。"
+toeic-500-fail,toeic,toeic-500,fail,"失敗する,しくじる","Employees should understand ""fail"" in business documents.","従業員は業務文書で「失敗する,しくじる」を理解する必要があります。"
+toeic-500-conservative,toeic,toeic-500,conservative,保守的な・保守主義の,"The notice mentioned ""conservative"" for all staff members.",その通知は全スタッフ向けに「保守的な・保守主義の」に触れていました。
+toeic-500-assembly,toeic,toeic-500,assembly,"集会,会合,会議","The client asked about ""assembly"" after the meeting.","顧客は会議後に「集会,会合,会議」について尋ねました。"
+toeic-500-recognition,toeic,toeic-500,recognition,"見て気がつくこと,見覚え","The team reviewed ""recognition"" before making a decision.","チームは決定前に「見て気がつくこと,見覚え」を確認しました。"
+toeic-500-literature,toeic,toeic-500,literature,文学,"The manager used ""literature"" in the monthly report.",マネージャーは月次報告で「文学」を使いました。
+toeic-500-assessment,toeic,toeic-500,assessment,"評価,査定","Employees should understand ""assessment"" in business documents.","従業員は業務文書で「評価,査定」を理解する必要があります。"
+toeic-500-bound,toeic,toeic-500,bound,"はね上がる,はね飛ぶ,はね返る","The notice mentioned ""bound"" for all staff members.","その通知は全スタッフ向けに「はね上がる,はね飛ぶ,はね返る」に触れていました。"
+toeic-500-editor,toeic,toeic-500,editor,編集者,"The client asked about ""editor"" after the meeting.",顧客は会議後に「編集者」について尋ねました。
+toeic-500-trading,toeic,toeic-500,trading,商業に従事する,"The team reviewed ""trading"" before making a decision.",チームは決定前に「商業に従事する」を確認しました。
+toeic-500-extension,toeic,toeic-500,extension,"拡大すること,拡大されること","The manager used ""extension"" in the monthly report.","マネージャーは月次報告で「拡大すること,拡大されること」を使いました。"
+toeic-500-founder,toeic,toeic-500,founder,"創設者,設立者","Employees should understand ""founder"" in business documents.","従業員は業務文書で「創設者,設立者」を理解する必要があります。"
+toeic-500-gear,toeic,toeic-500,gear,"歯車,ギヤ","The notice mentioned ""gear"" for all staff members.","その通知は全スタッフ向けに「歯車,ギヤ」に触れていました。"
+toeic-500-coverage,toeic,toeic-500,coverage,報道,"The client asked about ""coverage"" after the meeting.",顧客は会議後に「報道」について尋ねました。
+toeic-500-blame,toeic,toeic-500,blame,"を非難する,とがめる","The team reviewed ""blame"" before making a decision.","チームは決定前に「を非難する,とがめる」を確認しました。"
+toeic-500-truck,toeic,toeic-500,truck,"運搬車,手押し車,トロッコ","The manager used ""truck"" in the monthly report.","マネージャーは月次報告で「運搬車,手押し車,トロッコ」を使いました。"
+toeic-500-strange,toeic,toeic-500,strange,"奇妙な,異常な,変な","Employees should understand ""strange"" in business documents.","従業員は業務文書で「奇妙な,異常な,変な」を理解する必要があります。"
+toeic-500-charity,toeic,toeic-500,charity,"博愛,慈愛,思いやり","The notice mentioned ""charity"" for all staff members.","その通知は全スタッフ向けに「博愛,慈愛,思いやり」に触れていました。"
+toeic-500-secure,toeic,toeic-500,secure,"安定した,確実性のある,保証されている","The client asked about ""secure"" after the meeting.","顧客は会議後に「安定した,確実性のある,保証されている」について尋ねました。"
+toeic-500-revenue,toeic,toeic-500,revenue,歳入,"The team reviewed ""revenue"" before making a decision.",チームは決定前に「歳入」を確認しました。
+toeic-500-enforcement,toeic,toeic-500,enforcement,"実施,施行","The manager used ""enforcement"" in the monthly report.","マネージャーは月次報告で「実施,施行」を使いました。"
+toeic-500-fill,toeic,toeic-500,fill,"をいっぱいにする,満たす,につぐ","Employees should understand ""fill"" in business documents.","従業員は業務文書で「をいっぱいにする,満たす,につぐ」を理解する必要があります。"
+toeic-500-fault,toeic,toeic-500,fault,"欠点,短所","The notice mentioned ""fault"" for all staff members.","その通知は全スタッフ向けに「欠点,短所」に触れていました。"
+toeic-500-corporate,toeic,toeic-500,corporate,法人の,"The client asked about ""corporate"" after the meeting.",顧客は会議後に「法人の」について尋ねました。
+toeic-500-penalty,toeic,toeic-500,penalty,"刑罰,処罰","The team reviewed ""penalty"" before making a decision.","チームは決定前に「刑罰,処罰」を確認しました。"
+toeic-500-task,toeic,toeic-500,task,"仕事,務め","The manager used ""task"" in the monthly report.","マネージャーは月次報告で「仕事,務め」を使いました。"
+toeic-500-rating,toeic,toeic-500,rating,"格づけ,評価","Employees should understand ""rating"" in business documents.","従業員は業務文書で「格づけ,評価」を理解する必要があります。"
+toeic-500-select,toeic,toeic-500,select,"選ぶ,選抜する,選出する","The notice mentioned ""select"" for all staff members.","その通知は全スタッフ向けに「選ぶ,選抜する,選出する」に触れていました。"
+toeic-500-journey,toeic,toeic-500,journey,"旅行,旅","The client asked about ""journey"" after the meeting.","顧客は会議後に「旅行,旅」について尋ねました。"
+toeic-500-assault,toeic,toeic-500,assault,"的な意で)襲うこと,強襲,攻撃","The team reviewed ""assault"" before making a decision.","チームは決定前に「的な意で)襲うこと,強襲,攻撃」を確認しました。"
+toeic-500-studio,toeic,toeic-500,studio,"仕事場,アトリエ","The manager used ""studio"" in the monthly report.","マネージャーは月次報告で「仕事場,アトリエ」を使いました。"
+toeic-500-perform,toeic,toeic-500,perform,を成し遂げる,"Employees should understand ""perform"" in business documents.",従業員は業務文書で「を成し遂げる」を理解する必要があります。
+toeic-500-procedure,toeic,toeic-500,procedure,"進行,進展","The notice mentioned ""procedure"" for all staff members.","その通知は全スタッフ向けに「進行,進展」に触れていました。"
+toeic-500-abuse,toeic,toeic-500,abuse,"乱用,悪用","The client asked about ""abuse"" after the meeting.","顧客は会議後に「乱用,悪用」について尋ねました。"
+toeic-500-commissioner,toeic,toeic-500,commissioner,"委員,理事","The team reviewed ""commissioner"" before making a decision.","チームは決定前に「委員,理事」を確認しました。"
+toeic-500-label,toeic,toeic-500,label,"はり札,ラベル","The manager used ""label"" in the monthly report.","マネージャーは月次報告で「はり札,ラベル」を使いました。"
+toeic-500-lawyer,toeic,toeic-500,lawyer,弁護士,"Employees should understand ""lawyer"" in business documents.",従業員は業務文書で「弁護士」を理解する必要があります。
+toeic-500-welfare,toeic,toeic-500,welfare,"幸福,繁栄","The notice mentioned ""welfare"" for all staff members.","その通知は全スタッフ向けに「幸福,繁栄」に触れていました。"
+toeic-500-worker,toeic,toeic-500,worker,"仕事をする人,勉強をする人","The client asked about ""worker"" after the meeting.","顧客は会議後に「仕事をする人,勉強をする人」について尋ねました。"
+toeic-500-assist,toeic,toeic-500,assist,"を手伝う,助力する,助ける","The team reviewed ""assist"" before making a decision.","チームは決定前に「を手伝う,助力する,助ける」を確認しました。"
+toeic-500-disappointed,toeic,toeic-500,disappointed,当ての外れた,"The manager used ""disappointed"" in the monthly report.",マネージャーは月次報告で「当ての外れた」を使いました。
+toeic-500-establishment,toeic,toeic-500,establishment,"設立,設置","Employees should understand ""establishment"" in business documents.","従業員は業務文書で「設立,設置」を理解する必要があります。"
+toeic-500-honor,toeic,toeic-500,honor,"道義心,誠実,高潔","The notice mentioned ""honor"" for all staff members.","その通知は全スタッフ向けに「道義心,誠実,高潔」に触れていました。"
+toeic-500-expensive,toeic,toeic-500,expensive,"費用のかかる,高価な","The client asked about ""expensive"" after the meeting.","顧客は会議後に「費用のかかる,高価な」について尋ねました。"
+toeic-500-suck,toeic,toeic-500,suck,"を吸う,すする","The team reviewed ""suck"" before making a decision.","チームは決定前に「を吸う,すする」を確認しました。"
+toeic-500-border,toeic,toeic-500,border,"ヘリ,縁端","The manager used ""border"" in the monthly report.","マネージャーは月次報告で「ヘリ,縁端」を使いました。"
+toeic-500-telephone,toeic,toeic-500,telephone,電話機,"Employees should understand ""telephone"" in business documents.",従業員は業務文書で「電話機」を理解する必要があります。
+toeic-500-industrial,toeic,toeic-500,industrial,"産業の,産業による","The notice mentioned ""industrial"" for all staff members.","その通知は全スタッフ向けに「産業の,産業による」に触れていました。"
+toeic-500-crystal,toeic,toeic-500,crystal,水晶,"The client asked about ""crystal"" after the meeting.",顧客は会議後に「水晶」について尋ねました。
+toeic-500-downtown,toeic,toeic-500,downtown,"商業地区へ,町の中心街へ","The team reviewed ""downtown"" before making a decision.","チームは決定前に「商業地区へ,町の中心街へ」を確認しました。"
+toeic-500-zone,toeic,toeic-500,zone,"地帯,地域,地区","The manager used ""zone"" in the monthly report.","マネージャーは月次報告で「地帯,地域,地区」を使いました。"
+toeic-500-transfer,toeic,toeic-500,transfer,"を移す,移転させる,乗り換えさせる","Employees should understand ""transfer"" in business documents.","従業員は業務文書で「を移す,移転させる,乗り換えさせる」を理解する必要があります。"
+toeic-500-session,toeic,toeic-500,session,会議,"The notice mentioned ""session"" for all staff members.",その通知は全スタッフ向けに「会議」に触れていました。
+toeic-500-sake,toeic,toeic-500,sake,ため,"The client asked about ""sake"" after the meeting.",顧客は会議後に「ため」について尋ねました。
+toeic-500-hello,toeic,toeic-500,hello,もしもし,"The team reviewed ""hello"" before making a decision.",チームは決定前に「もしもし」を確認しました。
+toeic-500-fuel,toeic,toeic-500,fuel,燃料,"The manager used ""fuel"" in the monthly report.",マネージャーは月次報告で「燃料」を使いました。
+toeic-500-presence,toeic,toeic-500,presence,"居ること,あること","Employees should understand ""presence"" in business documents.","従業員は業務文書で「居ること,あること」を理解する必要があります。"
+toeic-500-roger,toeic,toeic-500,roger,了解,"The notice mentioned ""roger"" for all staff members.",その通知は全スタッフ向けに「了解」に触れていました。
+toeic-500-ordered,toeic,toeic-500,ordered,"整然とした,規則正しい","The client asked about ""ordered"" after the meeting.","顧客は会議後に「整然とした,規則正しい」について尋ねました。"
+toeic-500-connect,toeic,toeic-500,connect,"を連結する,結びつける","The team reviewed ""connect"" before making a decision.","チームは決定前に「を連結する,結びつける」を確認しました。"
+toeic-500-appreciate,toeic,toeic-500,appreciate,"を認める,認識する,…のよさを認める","The manager used ""appreciate"" in the monthly report.","マネージャーは月次報告で「を認める,認識する,…のよさを認める」を使いました。"
+toeic-500-efficiency,toeic,toeic-500,efficiency,"能率,能力","Employees should understand ""efficiency"" in business documents.","従業員は業務文書で「能率,能力」を理解する必要があります。"
+toeic-500-yours,toeic,toeic-500,yours,"あなたのもの,君のもの","The notice mentioned ""yours"" for all staff members.","その通知は全スタッフ向けに「あなたのもの,君のもの」に触れていました。"
+toeic-500-suggest,toeic,toeic-500,suggest,"を提案する,言い出す","The client asked about ""suggest"" after the meeting.","顧客は会議後に「を提案する,言い出す」について尋ねました。"
+toeic-500-frank,toeic,toeic-500,frank,"率直な,隠しだてをしない","The team reviewed ""frank"" before making a decision.","チームは決定前に「率直な,隠しだてをしない」を確認しました。"
+toeic-500-stick,toeic,toeic-500,stick,"刺す,突く","The manager used ""stick"" in the monthly report.","マネージャーは月次報告で「刺す,突く」を使いました。"
+toeic-500-honour,toeic,toeic-500,honour,"道義心,誠実,高潔","Employees should understand ""honour"" in business documents.","従業員は業務文書で「道義心,誠実,高潔」を理解する必要があります。"
+toeic-500-balance,toeic,toeic-500,balance,"天びん,はかり","The notice mentioned ""balance"" for all staff members.","その通知は全スタッフ向けに「天びん,はかり」に触れていました。"
+toeic-500-software,toeic,toeic-500,software,ソフトウェア,"The client asked about ""software"" after the meeting.",顧客は会議後に「ソフトウェア」について尋ねました。
+toeic-500-journal,toeic,toeic-500,journal,"日誌,日記","The team reviewed ""journal"" before making a decision.","チームは決定前に「日誌,日記」を確認しました。"
+toeic-500-housing,toeic,toeic-500,housing,住宅供給,"The manager used ""housing"" in the monthly report.",マネージャーは月次報告で「住宅供給」を使いました。
+toeic-500-routine,toeic,toeic-500,routine,"いつもの手順,決まりきった仕事","Employees should understand ""routine"" in business documents.","従業員は業務文書で「いつもの手順,決まりきった仕事」を理解する必要があります。"
+toeic-500-wood,toeic,toeic-500,wood,"木質部,木質","The notice mentioned ""wood"" for all staff members.","その通知は全スタッフ向けに「木質部,木質」に触れていました。"
+toeic-500-shut,toeic,toeic-500,shut,"を閉める,閉じる","The client asked about ""shut"" after the meeting.","顧客は会議後に「を閉める,閉じる」について尋ねました。"
+toeic-500-require,toeic,toeic-500,require,必要とする,"The team reviewed ""require"" before making a decision.",チームは決定前に「必要とする」を確認しました。
+toeic-500-comprehensive,toeic,toeic-500,comprehensive,"理解力のある,分かりのいい","The manager used ""comprehensive"" in the monthly report.","マネージャーは月次報告で「理解力のある,分かりのいい」を使いました。"
+toeic-500-consent,toeic,toeic-500,consent,"同意する,承諾する","Employees should understand ""consent"" in business documents.","従業員は業務文書で「同意する,承諾する」を理解する必要があります。"
+toeic-500-advantage,toeic,toeic-500,advantage,"有利な立場,利点,優位","The notice mentioned ""advantage"" for all staff members.","その通知は全スタッフ向けに「有利な立場,利点,優位」に触れていました。"
+toeic-500-till,toeic,toeic-500,till,まで,"The client asked about ""till"" after the meeting.",顧客は会議後に「まで」について尋ねました。
+toeic-500-organisation,toeic,toeic-500,organisation,"組織化,編成","The team reviewed ""organisation"" before making a decision.","チームは決定前に「組織化,編成」を確認しました。"
+toeic-500-privacy,toeic,toeic-500,privacy,"他人から干渉されない状態,プライバシー","The manager used ""privacy"" in the monthly report.","マネージャーは月次報告で「他人から干渉されない状態,プライバシー」を使いました。"
+toeic-500-negative,toeic,toeic-500,negative,"否定の,反対の","Employees should understand ""negative"" in business documents.","従業員は業務文書で「否定の,反対の」を理解する必要があります。"
+toeic-500-strip,toeic,toeic-500,strip,裸にする,"The notice mentioned ""strip"" for all staff members.",その通知は全スタッフ向けに「裸にする」に触れていました。
+toeic-500-bag,toeic,toeic-500,bag,袋,"The client asked about ""bag"" after the meeting.",顧客は会議後に「袋」について尋ねました。
+toeic-500-window,toeic,toeic-500,window,窓,"The team reviewed ""window"" before making a decision.",チームは決定前に「窓」を確認しました。
+toeic-500-cant,toeic,toeic-500,cant,"偽善的な言葉づかい,うわべだけの言葉,から念仏","The manager used ""cant"" in the monthly report.","マネージャーは月次報告で「偽善的な言葉づかい,うわべだけの言葉,から念仏」を使いました。"
+toeic-500-detroit,toeic,toeic-500,detroit,デトロイト,"Employees should understand ""detroit"" in business documents.",従業員は業務文書で「デトロイト」を理解する必要があります。
+toeic-500-chairman,toeic,toeic-500,chairman,"議長,委員長","The notice mentioned ""chairman"" for all staff members.","その通知は全スタッフ向けに「議長,委員長」に触れていました。"
+toeic-500-gain,toeic,toeic-500,gain,"得る,手に入れる","The client asked about ""gain"" after the meeting.","顧客は会議後に「得る,手に入れる」について尋ねました。"
+toeic-500-ought,toeic,toeic-500,ought,"すべきである,するのが当然である","The team reviewed ""ought"" before making a decision.","チームは決定前に「すべきである,するのが当然である」を確認しました。"
+toeic-500-seat,toeic,toeic-500,seat,腰掛け,"The manager used ""seat"" in the monthly report.",マネージャーは月次報告で「腰掛け」を使いました。
+toeic-500-push,toeic,toeic-500,push,"押す,押して動かす","Employees should understand ""push"" in business documents.","従業員は業務文書で「押す,押して動かす」を理解する必要があります。"
+toeic-500-fund,toeic,toeic-500,fund,"資金,基金","The notice mentioned ""fund"" for all staff members.","その通知は全スタッフ向けに「資金,基金」に触れていました。"
+toeic-500-commonwealth,toeic,toeic-500,commonwealth,"国民,国家","The client asked about ""commonwealth"" after the meeting.","顧客は会議後に「国民,国家」について尋ねました。"
+toeic-500-extend,toeic,toeic-500,extend,"を延ばす,延長する","The team reviewed ""extend"" before making a decision.","チームは決定前に「を延ばす,延長する」を確認しました。"
+toeic-500-surface,toeic,toeic-500,surface,"表面,外面","The manager used ""surface"" in the monthly report.","マネージャーは月次報告で「表面,外面」を使いました。"
+toeic-500-swing,toeic,toeic-500,swing,"振る,揺り動かす","Employees should understand ""swing"" in business documents.","従業員は業務文書で「振る,揺り動かす」を理解する必要があります。"
+toeic-500-boom,toeic,toeic-500,boom,とどろく,"The notice mentioned ""boom"" for all staff members.",その通知は全スタッフ向けに「とどろく」に触れていました。
+toeic-500-partner,toeic,toeic-500,partner,"相手,仲間","The client asked about ""partner"" after the meeting.","顧客は会議後に「相手,仲間」について尋ねました。"
+toeic-500-compensation,toeic,toeic-500,compensation,"償い,代償,埋め合わせ","The team reviewed ""compensation"" before making a decision.","チームは決定前に「償い,代償,埋め合わせ」を確認しました。"
+toeic-500-lie,toeic,toeic-500,lie,"横たわる,横になる","The manager used ""lie"" in the monthly report.","マネージャーは月次報告で「横たわる,横になる」を使いました。"
+toeic-500-traffic,toeic,toeic-500,traffic,"往来,交通,通行","Employees should understand ""traffic"" in business documents.","従業員は業務文書で「往来,交通,通行」を理解する必要があります。"
+toeic-500-screen,toeic,toeic-500,screen,"金網,網戸","The notice mentioned ""screen"" for all staff members.","その通知は全スタッフ向けに「金網,網戸」に触れていました。"
+toeic-500-ride,toeic,toeic-500,ride,"乗って行く,乗っている","The client asked about ""ride"" after the meeting.","顧客は会議後に「乗って行く,乗っている」について尋ねました。"
+toeic-500-premium,toeic,toeic-500,premium,"無料提供品,値引き品,おまけ","The team reviewed ""premium"" before making a decision.","チームは決定前に「無料提供品,値引き品,おまけ」を確認しました。"
+toeic-500-glass,toeic,toeic-500,glass,ガラス,"The manager used ""glass"" in the monthly report.",マネージャーは月次報告で「ガラス」を使いました。
+toeic-500-reward,toeic,toeic-500,reward,"報酬,お礼,ほうび","Employees should understand ""reward"" in business documents.","従業員は業務文書で「報酬,お礼,ほうび」を理解する必要があります。"
+toeic-500-attempt,toeic,toeic-500,attempt,"企てる,試みる","The notice mentioned ""attempt"" for all staff members.","その通知は全スタッフ向けに「企てる,試みる」に触れていました。"
+toeic-500-activity,toeic,toeic-500,activity,"活動,働き","The client asked about ""activity"" after the meeting.","顧客は会議後に「活動,働き」について尋ねました。"
+toeic-500-nursing,toeic,toeic-500,nursing,養育する,"The team reviewed ""nursing"" before making a decision.",チームは決定前に「養育する」を確認しました。
+toeic-500-avoid,toeic,toeic-500,avoid,"を避ける,回避する","The manager used ""avoid"" in the monthly report.","マネージャーは月次報告で「を避ける,回避する」を使いました。"
+toeic-500-uses,toeic,toeic-500,uses,United States Employment Service全米...,"Employees should understand ""uses"" in business documents.",従業員は業務文書で「United States Employment Service全米...」を理解する必要があります。
+toeic-500-responsible,toeic,toeic-500,responsible,"責任を伴う,責任の重い","The notice mentioned ""responsible"" for all staff members.","その通知は全スタッフ向けに「責任を伴う,責任の重い」に触れていました。"
+toeic-500-killing,toeic,toeic-500,killing,殺害,"The client asked about ""killing"" after the meeting.",顧客は会議後に「殺害」について尋ねました。
+toeic-500-arsenal,toeic,toeic-500,arsenal,兵器庫,"The team reviewed ""arsenal"" before making a decision.",チームは決定前に「兵器庫」を確認しました。
+toeic-500-smith,toeic,toeic-500,smith,かじ屋,"The manager used ""smith"" in the monthly report.",マネージャーは月次報告で「かじ屋」を使いました。
+toeic-500-effective,toeic,toeic-500,effective,"効果的な,効きめのある","Employees should understand ""effective"" in business documents.","従業員は業務文書で「効果的な,効きめのある」を理解する必要があります。"
+toeic-500-carry,toeic,toeic-500,carry,"運ぶ,運搬する,持って行く","The notice mentioned ""carry"" for all staff members.","その通知は全スタッフ向けに「運ぶ,運搬する,持って行く」に触れていました。"
+toeic-500-laboratory,toeic,toeic-500,laboratory,"実験室,研究室,試験室","The client asked about ""laboratory"" after the meeting.","顧客は会議後に「実験室,研究室,試験室」について尋ねました。"
+toeic-500-overall,toeic,toeic-500,overall,"全部の,全般的な,全面的な","The team reviewed ""overall"" before making a decision.","チームは決定前に「全部の,全般的な,全面的な」を確認しました。"
+toeic-500-ruin,toeic,toeic-500,ruin,"破滅,崩壊,没落","The manager used ""ruin"" in the monthly report.","マネージャーは月次報告で「破滅,崩壊,没落」を使いました。"
+toeic-500-sec,toeic,toeic-500,sec,Securities and Exchange Commission...,"Employees should understand ""sec"" in business documents.",従業員は業務文書で「Securities and Exchange Commission...」を理解する必要があります。
+toeic-500-slave,toeic,toeic-500,slave,奴隷,"The notice mentioned ""slave"" for all staff members.",その通知は全スタッフ向けに「奴隷」に触れていました。
+toeic-500-damage,toeic,toeic-500,damage,"損害,損傷,被害","The client asked about ""damage"" after the meeting.","顧客は会議後に「損害,損傷,被害」について尋ねました。"
+toeic-500-congress,toeic,toeic-500,congress,"大会,代議員会,会議","The team reviewed ""congress"" before making a decision.","チームは決定前に「大会,代議員会,会議」を確認しました。"
+toeic-500-affair,toeic,toeic-500,affair,"事,事柄","The manager used ""affair"" in the monthly report.","マネージャーは月次報告で「事,事柄」を使いました。"
+toeic-500-agenda,toeic,toeic-500,agenda,"会議事項,議事日程","Employees should understand ""agenda"" in business documents.","従業員は業務文書で「会議事項,議事日程」を理解する必要があります。"
+toeic-500-collective,toeic,toeic-500,collective,"集めた,収集された","The notice mentioned ""collective"" for all staff members.","その通知は全スタッフ向けに「集めた,収集された」に触れていました。"
+toeic-500-craft,toeic,toeic-500,craft,"技能,技巧","The client asked about ""craft"" after the meeting.","顧客は会議後に「技能,技巧」について尋ねました。"
+toeic-500-equity,toeic,toeic-500,equity,"公平,公正,無私","The team reviewed ""equity"" before making a decision.","チームは決定前に「公平,公正,無私」を確認しました。"
+toeic-500-protect,toeic,toeic-500,protect,"守る,保護する","The manager used ""protect"" in the monthly report.","マネージャーは月次報告で「守る,保護する」を使いました。"
+toeic-500-organization,toeic,toeic-500,organization,"組織化,編成","Employees should understand ""organization"" in business documents.","従業員は業務文書で「組織化,編成」を理解する必要があります。"
+toeic-500-latest,toeic,toeic-500,latest,最も遅い,"The notice mentioned ""latest"" for all staff members.",その通知は全スタッフ向けに「最も遅い」に触れていました。
+toeic-500-seal,toeic,toeic-500,seal,アザラシ,"The client asked about ""seal"" after the meeting.",顧客は会議後に「アザラシ」について尋ねました。
+toeic-500-cash,toeic,toeic-500,cash,"現金,正金,銀行券,硬貨","The team reviewed ""cash"" before making a decision.","チームは決定前に「現金,正金,銀行券,硬貨」を確認しました。"
+toeic-500-summit,toeic,toeic-500,summit,頂上,"The manager used ""summit"" in the monthly report.",マネージャーは月次報告で「頂上」を使いました。
+toeic-500-weekend,toeic,toeic-500,weekend,週末,"Employees should understand ""weekend"" in business documents.",従業員は業務文書で「週末」を理解する必要があります。
+toeic-500-ship,toeic,toeic-500,ship,"船,大型船","The notice mentioned ""ship"" for all staff members.","その通知は全スタッフ向けに「船,大型船」に触れていました。"
+toeic-500-direction,toeic,toeic-500,direction,"方向,方角","The client asked about ""direction"" after the meeting.","顧客は会議後に「方向,方角」について尋ねました。"
+toeic-500-approach,toeic,toeic-500,approach,"に近づく,接近する","The team reviewed ""approach"" before making a decision.","チームは決定前に「に近づく,接近する」を確認しました。"
+toeic-500-default,toeic,toeic-500,default,"不履行,怠慢","The manager used ""default"" in the monthly report.","マネージャーは月次報告で「不履行,怠慢」を使いました。"
+toeic-500-reach,toeic,toeic-500,reach,"に着く,到着する","Employees should understand ""reach"" in business documents.","従業員は業務文書で「に着く,到着する」を理解する必要があります。"
+toeic-500-pro,toeic,toeic-500,pro,"Public Relations Officer 広報活動員,宣伝担...","The notice mentioned ""pro"" for all staff members.","その通知は全スタッフ向けに「Public Relations Officer 広報活動員,宣伝担...」に触れていました。"
+toeic-500-physical,toeic,toeic-500,physical,"身体の,肉体の","The client asked about ""physical"" after the meeting.","顧客は会議後に「身体の,肉体の」について尋ねました。"
+toeic-500-opening,toeic,toeic-500,opening,空いている所,"The team reviewed ""opening"" before making a decision.",チームは決定前に「空いている所」を確認しました。
+toeic-500-jet,toeic,toeic-500,jet,"噴出,噴射","The manager used ""jet"" in the monthly report.","マネージャーは月次報告で「噴出,噴射」を使いました。"
+toeic-500-loop,toeic,toeic-500,loop,輪・輪状のもの,"Employees should understand ""loop"" in business documents.",従業員は業務文書で「輪・輪状のもの」を理解する必要があります。
+toeic-500-secretary,toeic,toeic-500,secretary,秘書,"The notice mentioned ""secretary"" for all staff members.",その通知は全スタッフ向けに「秘書」に触れていました。
+toeic-500-recover,toeic,toeic-500,recover,再びおおう,"The client asked about ""recover"" after the meeting.",顧客は会議後に「再びおおう」について尋ねました。
+toeic-500-collection,toeic,toeic-500,collection,"集めること,収集,採集","The team reviewed ""collection"" before making a decision.","チームは決定前に「集めること,収集,採集」を確認しました。"
+toeic-500-intent,toeic,toeic-500,intent,"意図,目的","The manager used ""intent"" in the monthly report.","マネージャーは月次報告で「意図,目的」を使いました。"
+toeic-500-construction,toeic,toeic-500,construction,"組立て,建築,建造","Employees should understand ""construction"" in business documents.","従業員は業務文書で「組立て,建築,建造」を理解する必要があります。"
+toeic-500-sell,toeic,toeic-500,sell,"売る,売却する","The notice mentioned ""sell"" for all staff members.","その通知は全スタッフ向けに「売る,売却する」に触れていました。"
+toeic-500-extra,toeic,toeic-500,extra,余分の,"The client asked about ""extra"" after the meeting.",顧客は会議後に「余分の」について尋ねました。
+toeic-500-welcome,toeic,toeic-500,welcome,ようこそ,"The team reviewed ""welcome"" before making a decision.",チームは決定前に「ようこそ」を確認しました。
+toeic-500-tour,toeic,toeic-500,tour,"観光旅行round)+名》・小旅行round)+名》・巡業,演奏旅行...","The manager used ""tour"" in the monthly report.","マネージャーは月次報告で「観光旅行round)+名》・小旅行round)+名》・巡業,演奏旅行...」を使いました。"
+toeic-500-speed,toeic,toeic-500,speed,"速いこと,速さ・速度,速力 ・変速ギア・","Employees should understand ""speed"" in business documents.","従業員は業務文書で「速いこと,速さ・速度,速力 ・変速ギア・」を理解する必要があります。"
+toeic-500-concentration,toeic,toeic-500,concentration,集中,"The notice mentioned ""concentration"" for all staff members.",その通知は全スタッフ向けに「集中」に触れていました。
+toeic-500-radio,toeic,toeic-500,radio,ラジオ,"The client asked about ""radio"" after the meeting.",顧客は会議後に「ラジオ」について尋ねました。
+toeic-500-conference,toeic,toeic-500,conference,"会議,協議会","The team reviewed ""conference"" before making a decision.","チームは決定前に「会議,協議会」を確認しました。"
+toeic-500-association,toeic,toeic-500,association,"交際,付き合い","The manager used ""association"" in the monthly report.","マネージャーは月次報告で「交際,付き合い」を使いました。"
+toeic-500-utility,toeic,toeic-500,utility,役に立つこと,"Employees should understand ""utility"" in business documents.",従業員は業務文書で「役に立つこと」を理解する必要があります。
+toeic-500-announce,toeic,toeic-500,announce,"発表する,公表する","The notice mentioned ""announce"" for all staff members.","その通知は全スタッフ向けに「発表する,公表する」に触れていました。"
+toeic-500-limited,toeic,toeic-500,limited,"限られた,狭い","The client asked about ""limited"" after the meeting.","顧客は会議後に「限られた,狭い」について尋ねました。"
+toeic-500-speak,toeic,toeic-500,speak,"話す,しゃべる,物を言う,口をきく","The team reviewed ""speak"" before making a decision.","チームは決定前に「話す,しゃべる,物を言う,口をきく」を確認しました。"
+toeic-500-guardian,toeic,toeic-500,guardian,"保護者,監視人,管理者","The manager used ""guardian"" in the monthly report.","マネージャーは月次報告で「保護者,監視人,管理者」を使いました。"
+toeic-500-instrument,toeic,toeic-500,instrument,"器具,器械,計器・楽器)","Employees should understand ""instrument"" in business documents.","従業員は業務文書で「器具,器械,計器・楽器)」を理解する必要があります。"
+toeic-500-offense,toeic,toeic-500,offense,罪,"The notice mentioned ""offense"" for all staff members.",その通知は全スタッフ向けに「罪」に触れていました。
+toeic-500-pursue,toeic,toeic-500,pursue,"を追う,追跡する","The client asked about ""pursue"" after the meeting.","顧客は会議後に「を追う,追跡する」について尋ねました。"
+toeic-500-table,toeic,toeic-500,table,"テーブル,食卓","The team reviewed ""table"" before making a decision.","チームは決定前に「テーブル,食卓」を確認しました。"
+toeic-500-sleep,toeic,toeic-500,sleep,"眠り,睡眠","The manager used ""sleep"" in the monthly report.","マネージャーは月次報告で「眠り,睡眠」を使いました。"
+toeic-500-risk,toeic,toeic-500,risk,危険,"Employees should understand ""risk"" in business documents.",従業員は業務文書で「危険」を理解する必要があります。
+toeic-500-professional,toeic,toeic-500,professional,専門職の,"The notice mentioned ""professional"" for all staff members.",その通知は全スタッフ向けに「専門職の」に触れていました。
+toeic-500-pass,toeic,toeic-500,pass,"通り過ぎる,通る","The client asked about ""pass"" after the meeting.","顧客は会議後に「通り過ぎる,通る」について尋ねました。"
+toeic-500-practice,toeic,toeic-500,practice,"練習,けいこ","The team reviewed ""practice"" before making a decision.","チームは決定前に「練習,けいこ」を確認しました。"
+toeic-500-forgive,toeic,toeic-500,forgive,"を許す,大目に見る","The manager used ""forgive"" in the monthly report.","マネージャーは月次報告で「を許す,大目に見る」を使いました。"
+toeic-500-garage,toeic,toeic-500,garage,車庫,"Employees should understand ""garage"" in business documents.",従業員は業務文書で「車庫」を理解する必要があります。
+toeic-500-writing,toeic,toeic-500,writing,書くこと,"The notice mentioned ""writing"" for all staff members.",その通知は全スタッフ向けに「書くこと」に触れていました。
+toeic-500-paper,toeic,toeic-500,paper,紙,"The client asked about ""paper"" after the meeting.",顧客は会議後に「紙」について尋ねました。
+toeic-500-modern,toeic,toeic-500,modern,"現代の,今の","The team reviewed ""modern"" before making a decision.","チームは決定前に「現代の,今の」を確認しました。"
+toeic-500-loss,toeic,toeic-500,loss,"失うこと,紛失","The manager used ""loss"" in the monthly report.","マネージャーは月次報告で「失うこと,紛失」を使いました。"
+toeic-500-figure,toeic,toeic-500,figure,"数字,アラビア数字","Employees should understand ""figure"" in business documents.","従業員は業務文書で「数字,アラビア数字」を理解する必要があります。"
+toeic-500-career,toeic,toeic-500,career,"生涯,経歴","The notice mentioned ""career"" for all staff members.","その通知は全スタッフ向けに「生涯,経歴」に触れていました。"
+toeic-500-legal,toeic,toeic-500,legal,"法律の,法律上","The client asked about ""legal"" after the meeting.","顧客は会議後に「法律の,法律上」について尋ねました。"
+toeic-500-tribute,toeic,toeic-500,tribute,感謝の印,"The team reviewed ""tribute"" before making a decision.",チームは決定前に「感謝の印」を確認しました。
+toeic-500-cover,toeic,toeic-500,cover,"の表面をおおう,を包む,かぶせる","The manager used ""cover"" in the monthly report.","マネージャーは月次報告で「の表面をおおう,を包む,かぶせる」を使いました。"
+toeic-500-council,toeic,toeic-500,council,"諮問会,協議会,評議会","Employees should understand ""council"" in business documents.","従業員は業務文書で「諮問会,協議会,評議会」を理解する必要があります。"
+toeic-500-code,toeic,toeic-500,code,法典,"The notice mentioned ""code"" for all staff members.",その通知は全スタッフ向けに「法典」に触れていました。
+toeic-500-deposit,toeic,toeic-500,deposit,"を預ける,を預金する","The client asked about ""deposit"" after the meeting.","顧客は会議後に「を預ける,を預金する」について尋ねました。"
+toeic-500-destination,toeic,toeic-500,destination,"目的地,行き先","The team reviewed ""destination"" before making a decision.","チームは決定前に「目的地,行き先」を確認しました。"
+toeic-500-article,toeic,toeic-500,article,"記事,論説","The manager used ""article"" in the monthly report.","マネージャーは月次報告で「記事,論説」を使いました。"
+toeic-500-title,toeic,toeic-500,title,"題名,題目,題","Employees should understand ""title"" in business documents.","従業員は業務文書で「題名,題目,題」を理解する必要があります。"
+toeic-500-vote,toeic,toeic-500,vote,票,"The notice mentioned ""vote"" for all staff members.",その通知は全スタッフ向けに「票」に触れていました。
+toeic-500-lower,toeic,toeic-500,lower,"もっと低い,もっと安い","The client asked about ""lower"" after the meeting.","顧客は会議後に「もっと低い,もっと安い」について尋ねました。"
+toeic-500-suspension,toeic,toeic-500,suspension,"つるすこと,つるされた状態","The team reviewed ""suspension"" before making a decision.","チームは決定前に「つるすこと,つるされた状態」を確認しました。"
+toeic-500-review,toeic,toeic-500,review,"調べ直す,再検討する","The manager used ""review"" in the monthly report.","マネージャーは月次報告で「調べ直す,再検討する」を使いました。"
+toeic-500-central,toeic,toeic-500,central,"中心の,中央の,中心からの","Employees should understand ""central"" in business documents.","従業員は業務文書で「中心の,中央の,中心からの」を理解する必要があります。"
+toeic-500-tax,toeic,toeic-500,tax,"税,税金","The notice mentioned ""tax"" for all staff members.","その通知は全スタッフ向けに「税,税金」に触れていました。"
+toeic-500-official,toeic,toeic-500,official,"公務の,職務の","The client asked about ""official"" after the meeting.","顧客は会議後に「公務の,職務の」について尋ねました。"
+toeic-500-value,toeic,toeic-500,value,"価値,値打ち,有用性,重要性","The team reviewed ""value"" before making a decision.","チームは決定前に「価値,値打ち,有用性,重要性」を確認しました。"
+toeic-500-director,toeic,toeic-500,director,"指導者,指揮者","The manager used ""director"" in the monthly report.","マネージャーは月次報告で「指導者,指揮者」を使いました。"
+toeic-500-received,toeic,toeic-500,received,"一般に受け入れられている,標準の","Employees should understand ""received"" in business documents.","従業員は業務文書で「一般に受け入れられている,標準の」を理解する必要があります。"
+toeic-500-press,toeic,toeic-500,press,"押す,圧する","The notice mentioned ""press"" for all staff members.","その通知は全スタッフ向けに「押す,圧する」に触れていました。"
+toeic-500-movie,toeic,toeic-500,movie,映画,"The client asked about ""movie"" after the meeting.",顧客は会議後に「映画」について尋ねました。
+toeic-500-suggestion,toeic,toeic-500,suggestion,"提案,提案すること","The team reviewed ""suggestion"" before making a decision.","チームは決定前に「提案,提案すること」を確認しました。"
+toeic-500-answer,toeic,toeic-500,answer,"答え,回答,返事","The manager used ""answer"" in the monthly report.","マネージャーは月次報告で「答え,回答,返事」を使いました。"
+toeic-500-member,toeic,toeic-500,member,"一員,会員,メンバー","Employees should understand ""member"" in business documents.","従業員は業務文書で「一員,会員,メンバー」を理解する必要があります。"
+toeic-500-test,toeic,toeic-500,test,"試験,考査,テスト","The notice mentioned ""test"" for all staff members.","その通知は全スタッフ向けに「試験,考査,テスト」に触れていました。"
+toeic-500-custody,toeic,toeic-500,custody,"管理,保管,保護","The client asked about ""custody"" after the meeting.","顧客は会議後に「管理,保管,保護」について尋ねました。"
+toeic-500-employer,toeic,toeic-500,employer,"雇い主,雇用者","The team reviewed ""employer"" before making a decision.","チームは決定前に「雇い主,雇用者」を確認しました。"
+toeic-500-permit,toeic,toeic-500,permit,許可する,"The manager used ""permit"" in the monthly report.",マネージャーは月次報告で「許可する」を使いました。
+toeic-500-productive,toeic,toeic-500,productive,"生産的な,好ましい結果を生み出す","Employees should understand ""productive"" in business documents.","従業員は業務文書で「生産的な,好ましい結果を生み出す」を理解する必要があります。"
+toeic-500-sue,toeic,toeic-500,sue,"を告訴する,訴える","The notice mentioned ""sue"" for all staff members.","その通知は全スタッフ向けに「を告訴する,訴える」に触れていました。"
+toeic-500-shot,toeic,toeic-500,shot,shootの過去・過去分詞,"The client asked about ""shot"" after the meeting.",顧客は会議後に「shootの過去・過去分詞」について尋ねました。
+toeic-500-clinic,toeic,toeic-500,clinic,臨床講義,"The team reviewed ""clinic"" before making a decision.",チームは決定前に「臨床講義」を確認しました。
+toeic-500-holder,toeic,toeic-500,holder,"保持者,所持者","The manager used ""holder"" in the monthly report.","マネージャーは月次報告で「保持者,所持者」を使いました。"
+toeic-500-program,toeic,toeic-500,program,"プログラム,番組表","Employees should understand ""program"" in business documents.","従業員は業務文書で「プログラム,番組表」を理解する必要があります。"
+toeic-500-meet,toeic,toeic-500,meet,"会う,出会う","The notice mentioned ""meet"" for all staff members.","その通知は全スタッフ向けに「会う,出会う」に触れていました。"
+toeic-500-legally,toeic,toeic-500,legally,"法律上,法律的に","The client asked about ""legally"" after the meeting.","顧客は会議後に「法律上,法律的に」について尋ねました。"
+toeic-500-slavery,toeic,toeic-500,slavery,奴隷制度,"The team reviewed ""slavery"" before making a decision.",チームは決定前に「奴隷制度」を確認しました。
+toeic-500-snap,toeic,toeic-500,snap,"パチンと音をたてる・ポキッと折れる,プツンと切れる・パチンと音をたて...","The manager used ""snap"" in the monthly report.","マネージャーは月次報告で「パチンと音をたてる・ポキッと折れる,プツンと切れる・パチンと音をたて...」を使いました。"
+toeic-500-behind,toeic,toeic-500,behind,"の後ろに,の陰に","Employees should understand ""behind"" in business documents.","従業員は業務文書で「の後ろに,の陰に」を理解する必要があります。"
+toeic-500-phone,toeic,toeic-500,phone,電話,"The notice mentioned ""phone"" for all staff members.",その通知は全スタッフ向けに「電話」に触れていました。
+toeic-500-living,toeic,toeic-500,living,生きている,"The client asked about ""living"" after the meeting.",顧客は会議後に「生きている」について尋ねました。
+toeic-500-jerusalem,toeic,toeic-500,jerusalem,エルサレム,"The team reviewed ""jerusalem"" before making a decision.",チームは決定前に「エルサレム」を確認しました。
+toeic-500-privilege,toeic,toeic-500,privilege,"特権,特典,恩典,恩恵","The manager used ""privilege"" in the monthly report.","マネージャーは月次報告で「特権,特典,恩典,恩恵」を使いました。"
+toeic-500-tourist,toeic,toeic-500,tourist,"旅行者,観光客","Employees should understand ""tourist"" in business documents.","従業員は業務文書で「旅行者,観光客」を理解する必要があります。"
+toeic-500-transit,toeic,toeic-500,transit,"通過,通行","The notice mentioned ""transit"" for all staff members.","その通知は全スタッフ向けに「通過,通行」に触れていました。"
+toeic-500-wireless,toeic,toeic-500,wireless,"無線,無線電信","The client asked about ""wireless"" after the meeting.","顧客は会議後に「無線,無線電信」について尋ねました。"
+toeic-500-adopt,toeic,toeic-500,adopt,"を取り入れる,採用する","The team reviewed ""adopt"" before making a decision.","チームは決定前に「を取り入れる,採用する」を確認しました。"
+toeic-500-boot,toeic,toeic-500,boot,長ぐつ,"The manager used ""boot"" in the monthly report.",マネージャーは月次報告で「長ぐつ」を使いました。
+toeic-500-overnight,toeic,toeic-500,overnight,"一晩じゅう,夜通し","Employees should understand ""overnight"" in business documents.","従業員は業務文書で「一晩じゅう,夜通し」を理解する必要があります。"
+toeic-500-tobacco,toeic,toeic-500,tobacco,タバコの木,"The notice mentioned ""tobacco"" for all staff members.",その通知は全スタッフ向けに「タバコの木」に触れていました。
+toeic-500-acknowledge,toeic,toeic-500,acknowledge,"認める,承認する","The client asked about ""acknowledge"" after the meeting.","顧客は会議後に「認める,承認する」について尋ねました。"
+toeic-500-assignment,toeic,toeic-500,assignment,割り当てられた仕事,"The team reviewed ""assignment"" before making a decision.",チームは決定前に「割り当てられた仕事」を確認しました。
+toeic-500-ceiling,toeic,toeic-500,ceiling,天井,"The manager used ""ceiling"" in the monthly report.",マネージャーは月次報告で「天井」を使いました。
+toeic-500-collapse,toeic,toeic-500,collapse,"つぶれる,陥没する","Employees should understand ""collapse"" in business documents.","従業員は業務文書で「つぶれる,陥没する」を理解する必要があります。"
+toeic-500-restore,toeic,toeic-500,restore,"復活させる,回復させる,復帰させる","The notice mentioned ""restore"" for all staff members.","その通知は全スタッフ向けに「復活させる,回復させる,復帰させる」に触れていました。"
+toeic-500-attendance,toeic,toeic-500,attendance,"出席,参列","The client asked about ""attendance"" after the meeting.","顧客は会議後に「出席,参列」について尋ねました。"
+toeic-500-aviation,toeic,toeic-500,aviation,"飛行,航空","The team reviewed ""aviation"" before making a decision.","チームは決定前に「飛行,航空」を確認しました。"
+toeic-500-cinema,toeic,toeic-500,cinema,映画館,"The manager used ""cinema"" in the monthly report.",マネージャーは月次報告で「映画館」を使いました。
+toeic-500-jam,toeic,toeic-500,jam,ジャム,"Employees should understand ""jam"" in business documents.",従業員は業務文書で「ジャム」を理解する必要があります。
+toeic-500-lease,toeic,toeic-500,lease,"借地契約,借地権","The notice mentioned ""lease"" for all staff members.","その通知は全スタッフ向けに「借地契約,借地権」に触れていました。"
+toeic-500-unfair,toeic,toeic-500,unfair,"不公平な,不当な,かたよった","The client asked about ""unfair"" after the meeting.","顧客は会議後に「不公平な,不当な,かたよった」について尋ねました。"

@@ -1,81 +1,501 @@
 id,axis,level_id,spelling,translation,example,example_translation
-toeic-700-allocate,toeic,toeic-700,allocate,割り当てる,The team will allocate the details this week.,チームは今週、詳細を割り当てる予定です。
-toeic-700-negotiate,toeic,toeic-700,negotiate,交渉する,The team will negotiate the details this week.,チームは今週、詳細を交渉する予定です。
-toeic-700-inventory,toeic,toeic-700,inventory,在庫,The manager reviewed the inventory before the meeting.,マネージャーは会議の前に在庫を確認しました。
-toeic-700-comply,toeic,toeic-700,comply,従う,Employees need to comply when the situation changes.,状況が変わったとき、従業員は従う必要があります。
-toeic-700-postpone,toeic,toeic-700,postpone,延期する,The team will postpone the details this week.,チームは今週、詳細を延期する予定です。
-toeic-700-venue,toeic,toeic-700,venue,会場,The manager reviewed the venue before the meeting.,マネージャーは会議の前に会場を確認しました。
-toeic-700-evaluate,toeic,toeic-700,evaluate,評価する,The team will evaluate the details this week.,チームは今週、詳細を評価する予定です。
-toeic-700-defect,toeic,toeic-700,defect,欠陥,The manager reviewed the defect before the meeting.,マネージャーは会議の前に欠陥を確認しました。
-toeic-700-shipment,toeic,toeic-700,shipment,出荷,The manager reviewed the shipment before the meeting.,マネージャーは会議の前に出荷を確認しました。
-toeic-700-revenue,toeic,toeic-700,revenue,収益,The manager reviewed the revenue before the meeting.,マネージャーは会議の前に収益を確認しました。
-toeic-700-briefing,toeic,toeic-700,briefing,説明会,The manager reviewed the briefing before the meeting.,マネージャーは会議の前に説明会を確認しました。
-toeic-700-extend,toeic,toeic-700,extend,延長する,The team will extend the details this week.,チームは今週、詳細を延長する予定です。
-toeic-700-agenda,toeic,toeic-700,agenda,議題,The manager reviewed the agenda before the meeting.,マネージャーは会議の前に議題を確認しました。
-toeic-700-proposal,toeic,toeic-700,proposal,提案,The manager reviewed the proposal before the meeting.,マネージャーは会議の前に提案を確認しました。
-toeic-700-contract,toeic,toeic-700,contract,契約,The manager reviewed the contract before the meeting.,マネージャーは会議の前に契約を確認しました。
-toeic-700-estimate,toeic,toeic-700,estimate,見積もり,The manager reviewed the estimate before the meeting.,マネージャーは会議の前に見積もりを確認しました。
-toeic-700-approval,toeic,toeic-700,approval,承認,The manager reviewed the approval before the meeting.,マネージャーは会議の前に承認を確認しました。
-toeic-700-applicant,toeic,toeic-700,applicant,応募者,The manager reviewed the applicant before the meeting.,マネージャーは会議の前に応募者を確認しました。
-toeic-700-benefit,toeic,toeic-700,benefit,福利厚生,The manager reviewed the benefit before the meeting.,マネージャーは会議の前に福利厚生を確認しました。
-toeic-700-commute,toeic,toeic-700,commute,通勤,The manager reviewed the commute before the meeting.,マネージャーは会議の前に通勤を確認しました。
-toeic-700-complaint,toeic,toeic-700,complaint,苦情,The manager reviewed the complaint before the meeting.,マネージャーは会議の前に苦情を確認しました。
-toeic-700-competitor,toeic,toeic-700,competitor,競合相手,The manager reviewed the competitor before the meeting.,マネージャーは会議の前に競合相手を確認しました。
-toeic-700-consultant,toeic,toeic-700,consultant,コンサルタント,The manager reviewed the consultant before the meeting.,マネージャーは会議の前にコンサルタントを確認しました。
-toeic-700-department,toeic,toeic-700,department,部署,The manager reviewed the department before the meeting.,マネージャーは会議の前に部署を確認しました。
-toeic-700-distribution,toeic,toeic-700,distribution,流通,The manager reviewed the distribution before the meeting.,マネージャーは会議の前に流通を確認しました。
-toeic-700-efficiency,toeic,toeic-700,efficiency,効率,The manager reviewed the efficiency before the meeting.,マネージャーは会議の前に効率を確認しました。
-toeic-700-facility,toeic,toeic-700,facility,施設,The manager reviewed the facility before the meeting.,マネージャーは会議の前に施設を確認しました。
-toeic-700-feedback,toeic,toeic-700,feedback,意見,The manager reviewed the feedback before the meeting.,マネージャーは会議の前に意見を確認しました。
-toeic-700-headquarters,toeic,toeic-700,headquarters,本社,The manager reviewed the headquarters before the meeting.,マネージャーは会議の前に本社を確認しました。
-toeic-700-inspection,toeic,toeic-700,inspection,検査,The manager reviewed the inspection before the meeting.,マネージャーは会議の前に検査を確認しました。
-toeic-700-maintenance,toeic,toeic-700,maintenance,保守,The manager reviewed the maintenance before the meeting.,マネージャーは会議の前に保守を確認しました。
-toeic-700-manufacturer,toeic,toeic-700,manufacturer,製造業者,The manager reviewed the manufacturer before the meeting.,マネージャーは会議の前に製造業者を確認しました。
-toeic-700-marketing,toeic,toeic-700,marketing,販売促進,The manager reviewed the marketing before the meeting.,マネージャーは会議の前に販売促進を確認しました。
-toeic-700-performance,toeic,toeic-700,performance,業績,The manager reviewed the performance before the meeting.,マネージャーは会議の前に業績を確認しました。
-toeic-700-personnel,toeic,toeic-700,personnel,人事,The manager reviewed the personnel before the meeting.,マネージャーは会議の前に人事を確認しました。
-toeic-700-policy,toeic,toeic-700,policy,方針,The manager reviewed the policy before the meeting.,マネージャーは会議の前に方針を確認しました。
-toeic-700-procedure,toeic,toeic-700,procedure,手順,The manager reviewed the procedure before the meeting.,マネージャーは会議の前に手順を確認しました。
-toeic-700-promotion,toeic,toeic-700,promotion,昇進,The manager reviewed the promotion before the meeting.,マネージャーは会議の前に昇進を確認しました。
-toeic-700-questionnaire,toeic,toeic-700,questionnaire,アンケート,The manager reviewed the questionnaire before the meeting.,マネージャーは会議の前にアンケートを確認しました。
-toeic-700-recommendation,toeic,toeic-700,recommendation,推薦,The manager reviewed the recommendation before the meeting.,マネージャーは会議の前に推薦を確認しました。
-toeic-700-registration,toeic,toeic-700,registration,登録,The manager reviewed the registration before the meeting.,マネージャーは会議の前に登録を確認しました。
-toeic-700-reservation,toeic,toeic-700,reservation,予約,The manager reviewed the reservation before the meeting.,マネージャーは会議の前に予約を確認しました。
-toeic-700-representative,toeic,toeic-700,representative,担当者,The manager reviewed the representative before the meeting.,マネージャーは会議の前に担当者を確認しました。
-toeic-700-requirement,toeic,toeic-700,requirement,要件,The manager reviewed the requirement before the meeting.,マネージャーは会議の前に要件を確認しました。
-toeic-700-supervisor,toeic,toeic-700,supervisor,上司,The manager reviewed the supervisor before the meeting.,マネージャーは会議の前に上司を確認しました。
-toeic-700-transaction,toeic,toeic-700,transaction,取引,The manager reviewed the transaction before the meeting.,マネージャーは会議の前に取引を確認しました。
-toeic-700-workshop,toeic,toeic-700,workshop,研修会,The manager reviewed the workshop before the meeting.,マネージャーは会議の前に研修会を確認しました。
-toeic-700-advertise,toeic,toeic-700,advertise,宣伝する,The team will advertise the details this week.,チームは今週、詳細を宣伝する予定です。
-toeic-700-assign,toeic,toeic-700,assign,割り当てる,The team will assign the details this week.,チームは今週、詳細を割り当てる予定です。
-toeic-700-attach,toeic,toeic-700,attach,添付する,The team will attach the details this week.,チームは今週、詳細を添付する予定です。
-toeic-700-collaborate,toeic,toeic-700,collaborate,協力する,Employees need to collaborate when the situation changes.,状況が変わったとき、従業員は協力する必要があります。
-toeic-700-complete,toeic,toeic-700,complete,完了する,The team will complete the details this week.,チームは今週、詳細を完了する予定です。
-toeic-700-conduct,toeic,toeic-700,conduct,実施する,The team will conduct the details this week.,チームは今週、詳細を実施する予定です。
-toeic-700-demonstrate,toeic,toeic-700,demonstrate,実演する,The team will demonstrate the details this week.,チームは今週、詳細を実演する予定です。
-toeic-700-distribute,toeic,toeic-700,distribute,配布する,The team will distribute the details this week.,チームは今週、詳細を配布する予定です。
-toeic-700-expand,toeic,toeic-700,expand,拡大する,Employees need to expand when the situation changes.,状況が変わったとき、従業員は拡大する必要があります。
-toeic-700-improve,toeic,toeic-700,improve,改善する,The team will improve the details this week.,チームは今週、詳細を改善する予定です。
-toeic-700-install,toeic,toeic-700,install,設置する,The team will install the details this week.,チームは今週、詳細を設置する予定です。
-toeic-700-launch,toeic,toeic-700,launch,開始する,The team will launch the details this week.,チームは今週、詳細を開始する予定です。
-toeic-700-notify,toeic,toeic-700,notify,通知する,The team will notify the details this week.,チームは今週、詳細を通知する予定です。
-toeic-700-participate,toeic,toeic-700,participate,参加する,Employees need to participate when the situation changes.,状況が変わったとき、従業員は参加する必要があります。
-toeic-700-process,toeic,toeic-700,process,処理する,The team will process the details this week.,チームは今週、詳細を処理する予定です。
-toeic-700-recruit,toeic,toeic-700,recruit,採用する,The team will recruit the details this week.,チームは今週、詳細を採用する予定です。
-toeic-700-reduce,toeic,toeic-700,reduce,削減する,The team will reduce the details this week.,チームは今週、詳細を削減する予定です。
-toeic-700-relocate,toeic,toeic-700,relocate,移転する,Employees need to relocate when the situation changes.,状況が変わったとき、従業員は移転する必要があります。
-toeic-700-replace,toeic,toeic-700,replace,交換する,The team will replace the details this week.,チームは今週、詳細を交換する予定です。
-toeic-700-resolve,toeic,toeic-700,resolve,解決する,The team will resolve the details this week.,チームは今週、詳細を解決する予定です。
-toeic-700-ship,toeic,toeic-700,ship,発送する,The team will ship the details this week.,チームは今週、詳細を発送する予定です。
-toeic-700-supervise,toeic,toeic-700,supervise,監督する,The team will supervise the details this week.,チームは今週、詳細を監督する予定です。
-toeic-700-transfer,toeic,toeic-700,transfer,転送する,The team will transfer the details this week.,チームは今週、詳細を転送する予定です。
-toeic-700-accurate,toeic,toeic-700,accurate,正確な,The new process is accurate for daily work.,新しい手順は日々の業務に正確なです。
-toeic-700-annual,toeic,toeic-700,annual,年1回の,The new process is annual for daily work.,新しい手順は日々の業務に年1回のです。
-toeic-700-competitive,toeic,toeic-700,competitive,競争力のある,The new process is competitive for daily work.,新しい手順は日々の業務に競争力のあるです。
-toeic-700-domestic,toeic,toeic-700,domestic,国内の,The new process is domestic for daily work.,新しい手順は日々の業務に国内のです。
-toeic-700-electronic,toeic,toeic-700,electronic,電子の,The new process is electronic for daily work.,新しい手順は日々の業務に電子のです。
-toeic-700-flexible,toeic,toeic-700,flexible,柔軟な,The new process is flexible for daily work.,新しい手順は日々の業務に柔軟なです。
-toeic-700-immediate,toeic,toeic-700,immediate,即時の,The new process is immediate for daily work.,新しい手順は日々の業務に即時のです。
-toeic-700-limited,toeic,toeic-700,limited,限定された,The new process is limited for daily work.,新しい手順は日々の業務に限定されたです。
-toeic-700-qualified,toeic,toeic-700,qualified,資格のある,The new process is qualified for daily work.,新しい手順は日々の業務に資格のあるです。
-toeic-700-reliable,toeic,toeic-700,reliable,信頼できる,The new process is reliable for daily work.,新しい手順は日々の業務に信頼できるです。
+toeic-700-allocate,toeic,toeic-700,allocate,割り当てる,"The team reviewed ""allocate"" before making a decision.",チームは決定前に「割り当てる」を確認しました。
+toeic-700-negotiate,toeic,toeic-700,negotiate,交渉する,"The manager used ""negotiate"" in the monthly report.",マネージャーは月次報告で「交渉する」を使いました。
+toeic-700-inventory,toeic,toeic-700,inventory,在庫,"Employees should understand ""inventory"" in business documents.",従業員は業務文書で「在庫」を理解する必要があります。
+toeic-700-comply,toeic,toeic-700,comply,従う,"The notice mentioned ""comply"" for all staff members.",その通知は全スタッフ向けに「従う」に触れていました。
+toeic-700-postpone,toeic,toeic-700,postpone,延期する,"The client asked about ""postpone"" after the meeting.",顧客は会議後に「延期する」について尋ねました。
+toeic-700-venue,toeic,toeic-700,venue,会場,"The team reviewed ""venue"" before making a decision.",チームは決定前に「会場」を確認しました。
+toeic-700-evaluate,toeic,toeic-700,evaluate,評価する,"The manager used ""evaluate"" in the monthly report.",マネージャーは月次報告で「評価する」を使いました。
+toeic-700-defect,toeic,toeic-700,defect,欠陥,"Employees should understand ""defect"" in business documents.",従業員は業務文書で「欠陥」を理解する必要があります。
+toeic-700-shipment,toeic,toeic-700,shipment,出荷,"The notice mentioned ""shipment"" for all staff members.",その通知は全スタッフ向けに「出荷」に触れていました。
+toeic-700-revenue,toeic,toeic-700,revenue,収益,"The client asked about ""revenue"" after the meeting.",顧客は会議後に「収益」について尋ねました。
+toeic-700-briefing,toeic,toeic-700,briefing,説明会,"The team reviewed ""briefing"" before making a decision.",チームは決定前に「説明会」を確認しました。
+toeic-700-extend,toeic,toeic-700,extend,延長する,"The manager used ""extend"" in the monthly report.",マネージャーは月次報告で「延長する」を使いました。
+toeic-700-agenda,toeic,toeic-700,agenda,議題,"Employees should understand ""agenda"" in business documents.",従業員は業務文書で「議題」を理解する必要があります。
+toeic-700-proposal,toeic,toeic-700,proposal,提案,"The notice mentioned ""proposal"" for all staff members.",その通知は全スタッフ向けに「提案」に触れていました。
+toeic-700-contract,toeic,toeic-700,contract,契約,"The client asked about ""contract"" after the meeting.",顧客は会議後に「契約」について尋ねました。
+toeic-700-estimate,toeic,toeic-700,estimate,見積もり,"The team reviewed ""estimate"" before making a decision.",チームは決定前に「見積もり」を確認しました。
+toeic-700-approval,toeic,toeic-700,approval,承認,"The manager used ""approval"" in the monthly report.",マネージャーは月次報告で「承認」を使いました。
+toeic-700-applicant,toeic,toeic-700,applicant,応募者,"Employees should understand ""applicant"" in business documents.",従業員は業務文書で「応募者」を理解する必要があります。
+toeic-700-benefit,toeic,toeic-700,benefit,福利厚生,"The notice mentioned ""benefit"" for all staff members.",その通知は全スタッフ向けに「福利厚生」に触れていました。
+toeic-700-commute,toeic,toeic-700,commute,通勤,"The client asked about ""commute"" after the meeting.",顧客は会議後に「通勤」について尋ねました。
+toeic-700-complaint,toeic,toeic-700,complaint,苦情,"The team reviewed ""complaint"" before making a decision.",チームは決定前に「苦情」を確認しました。
+toeic-700-competitor,toeic,toeic-700,competitor,競合相手,"The manager used ""competitor"" in the monthly report.",マネージャーは月次報告で「競合相手」を使いました。
+toeic-700-consultant,toeic,toeic-700,consultant,コンサルタント,"Employees should understand ""consultant"" in business documents.",従業員は業務文書で「コンサルタント」を理解する必要があります。
+toeic-700-department,toeic,toeic-700,department,部署,"The notice mentioned ""department"" for all staff members.",その通知は全スタッフ向けに「部署」に触れていました。
+toeic-700-distribution,toeic,toeic-700,distribution,流通,"The client asked about ""distribution"" after the meeting.",顧客は会議後に「流通」について尋ねました。
+toeic-700-efficiency,toeic,toeic-700,efficiency,効率,"The team reviewed ""efficiency"" before making a decision.",チームは決定前に「効率」を確認しました。
+toeic-700-facility,toeic,toeic-700,facility,施設,"The manager used ""facility"" in the monthly report.",マネージャーは月次報告で「施設」を使いました。
+toeic-700-feedback,toeic,toeic-700,feedback,意見,"Employees should understand ""feedback"" in business documents.",従業員は業務文書で「意見」を理解する必要があります。
+toeic-700-headquarters,toeic,toeic-700,headquarters,本社,"The notice mentioned ""headquarters"" for all staff members.",その通知は全スタッフ向けに「本社」に触れていました。
+toeic-700-inspection,toeic,toeic-700,inspection,検査,"The client asked about ""inspection"" after the meeting.",顧客は会議後に「検査」について尋ねました。
+toeic-700-maintenance,toeic,toeic-700,maintenance,保守,"The team reviewed ""maintenance"" before making a decision.",チームは決定前に「保守」を確認しました。
+toeic-700-manufacturer,toeic,toeic-700,manufacturer,製造業者,"The manager used ""manufacturer"" in the monthly report.",マネージャーは月次報告で「製造業者」を使いました。
+toeic-700-marketing,toeic,toeic-700,marketing,販売促進,"Employees should understand ""marketing"" in business documents.",従業員は業務文書で「販売促進」を理解する必要があります。
+toeic-700-performance,toeic,toeic-700,performance,業績,"The notice mentioned ""performance"" for all staff members.",その通知は全スタッフ向けに「業績」に触れていました。
+toeic-700-personnel,toeic,toeic-700,personnel,人事,"The client asked about ""personnel"" after the meeting.",顧客は会議後に「人事」について尋ねました。
+toeic-700-policy,toeic,toeic-700,policy,方針,"The team reviewed ""policy"" before making a decision.",チームは決定前に「方針」を確認しました。
+toeic-700-procedure,toeic,toeic-700,procedure,手順,"The manager used ""procedure"" in the monthly report.",マネージャーは月次報告で「手順」を使いました。
+toeic-700-promotion,toeic,toeic-700,promotion,昇進,"Employees should understand ""promotion"" in business documents.",従業員は業務文書で「昇進」を理解する必要があります。
+toeic-700-questionnaire,toeic,toeic-700,questionnaire,アンケート,"The notice mentioned ""questionnaire"" for all staff members.",その通知は全スタッフ向けに「アンケート」に触れていました。
+toeic-700-recommendation,toeic,toeic-700,recommendation,推薦,"The client asked about ""recommendation"" after the meeting.",顧客は会議後に「推薦」について尋ねました。
+toeic-700-registration,toeic,toeic-700,registration,登録,"The team reviewed ""registration"" before making a decision.",チームは決定前に「登録」を確認しました。
+toeic-700-reservation,toeic,toeic-700,reservation,予約,"The manager used ""reservation"" in the monthly report.",マネージャーは月次報告で「予約」を使いました。
+toeic-700-representative,toeic,toeic-700,representative,担当者,"Employees should understand ""representative"" in business documents.",従業員は業務文書で「担当者」を理解する必要があります。
+toeic-700-requirement,toeic,toeic-700,requirement,要件,"The notice mentioned ""requirement"" for all staff members.",その通知は全スタッフ向けに「要件」に触れていました。
+toeic-700-supervisor,toeic,toeic-700,supervisor,上司,"The client asked about ""supervisor"" after the meeting.",顧客は会議後に「上司」について尋ねました。
+toeic-700-transaction,toeic,toeic-700,transaction,取引,"The team reviewed ""transaction"" before making a decision.",チームは決定前に「取引」を確認しました。
+toeic-700-workshop,toeic,toeic-700,workshop,研修会,"The manager used ""workshop"" in the monthly report.",マネージャーは月次報告で「研修会」を使いました。
+toeic-700-advertise,toeic,toeic-700,advertise,宣伝する,"Employees should understand ""advertise"" in business documents.",従業員は業務文書で「宣伝する」を理解する必要があります。
+toeic-700-assign,toeic,toeic-700,assign,割り当てる,"The notice mentioned ""assign"" for all staff members.",その通知は全スタッフ向けに「割り当てる」に触れていました。
+toeic-700-attach,toeic,toeic-700,attach,添付する,"The client asked about ""attach"" after the meeting.",顧客は会議後に「添付する」について尋ねました。
+toeic-700-collaborate,toeic,toeic-700,collaborate,協力する,"The team reviewed ""collaborate"" before making a decision.",チームは決定前に「協力する」を確認しました。
+toeic-700-complete,toeic,toeic-700,complete,完了する,"The manager used ""complete"" in the monthly report.",マネージャーは月次報告で「完了する」を使いました。
+toeic-700-conduct,toeic,toeic-700,conduct,実施する,"Employees should understand ""conduct"" in business documents.",従業員は業務文書で「実施する」を理解する必要があります。
+toeic-700-demonstrate,toeic,toeic-700,demonstrate,実演する,"The notice mentioned ""demonstrate"" for all staff members.",その通知は全スタッフ向けに「実演する」に触れていました。
+toeic-700-distribute,toeic,toeic-700,distribute,配布する,"The client asked about ""distribute"" after the meeting.",顧客は会議後に「配布する」について尋ねました。
+toeic-700-expand,toeic,toeic-700,expand,拡大する,"The team reviewed ""expand"" before making a decision.",チームは決定前に「拡大する」を確認しました。
+toeic-700-improve,toeic,toeic-700,improve,改善する,"The manager used ""improve"" in the monthly report.",マネージャーは月次報告で「改善する」を使いました。
+toeic-700-install,toeic,toeic-700,install,設置する,"Employees should understand ""install"" in business documents.",従業員は業務文書で「設置する」を理解する必要があります。
+toeic-700-launch,toeic,toeic-700,launch,開始する,"The notice mentioned ""launch"" for all staff members.",その通知は全スタッフ向けに「開始する」に触れていました。
+toeic-700-notify,toeic,toeic-700,notify,通知する,"The client asked about ""notify"" after the meeting.",顧客は会議後に「通知する」について尋ねました。
+toeic-700-participate,toeic,toeic-700,participate,参加する,"The team reviewed ""participate"" before making a decision.",チームは決定前に「参加する」を確認しました。
+toeic-700-process,toeic,toeic-700,process,処理する,"The manager used ""process"" in the monthly report.",マネージャーは月次報告で「処理する」を使いました。
+toeic-700-recruit,toeic,toeic-700,recruit,採用する,"Employees should understand ""recruit"" in business documents.",従業員は業務文書で「採用する」を理解する必要があります。
+toeic-700-reduce,toeic,toeic-700,reduce,削減する,"The notice mentioned ""reduce"" for all staff members.",その通知は全スタッフ向けに「削減する」に触れていました。
+toeic-700-relocate,toeic,toeic-700,relocate,移転する,"The client asked about ""relocate"" after the meeting.",顧客は会議後に「移転する」について尋ねました。
+toeic-700-replace,toeic,toeic-700,replace,交換する,"The team reviewed ""replace"" before making a decision.",チームは決定前に「交換する」を確認しました。
+toeic-700-resolve,toeic,toeic-700,resolve,解決する,"The manager used ""resolve"" in the monthly report.",マネージャーは月次報告で「解決する」を使いました。
+toeic-700-ship,toeic,toeic-700,ship,発送する,"Employees should understand ""ship"" in business documents.",従業員は業務文書で「発送する」を理解する必要があります。
+toeic-700-supervise,toeic,toeic-700,supervise,監督する,"The notice mentioned ""supervise"" for all staff members.",その通知は全スタッフ向けに「監督する」に触れていました。
+toeic-700-transfer,toeic,toeic-700,transfer,転送する,"The client asked about ""transfer"" after the meeting.",顧客は会議後に「転送する」について尋ねました。
+toeic-700-accurate,toeic,toeic-700,accurate,正確な,"The team reviewed ""accurate"" before making a decision.",チームは決定前に「正確な」を確認しました。
+toeic-700-annual,toeic,toeic-700,annual,年1回の,"The manager used ""annual"" in the monthly report.",マネージャーは月次報告で「年1回の」を使いました。
+toeic-700-competitive,toeic,toeic-700,competitive,競争力のある,"Employees should understand ""competitive"" in business documents.",従業員は業務文書で「競争力のある」を理解する必要があります。
+toeic-700-domestic,toeic,toeic-700,domestic,国内の,"The notice mentioned ""domestic"" for all staff members.",その通知は全スタッフ向けに「国内の」に触れていました。
+toeic-700-electronic,toeic,toeic-700,electronic,電子の,"The client asked about ""electronic"" after the meeting.",顧客は会議後に「電子の」について尋ねました。
+toeic-700-flexible,toeic,toeic-700,flexible,柔軟な,"The team reviewed ""flexible"" before making a decision.",チームは決定前に「柔軟な」を確認しました。
+toeic-700-immediate,toeic,toeic-700,immediate,即時の,"The manager used ""immediate"" in the monthly report.",マネージャーは月次報告で「即時の」を使いました。
+toeic-700-limited,toeic,toeic-700,limited,限定された,"Employees should understand ""limited"" in business documents.",従業員は業務文書で「限定された」を理解する必要があります。
+toeic-700-qualified,toeic,toeic-700,qualified,資格のある,"The notice mentioned ""qualified"" for all staff members.",その通知は全スタッフ向けに「資格のある」に触れていました。
+toeic-700-reliable,toeic,toeic-700,reliable,信頼できる,"The client asked about ""reliable"" after the meeting.",顧客は会議後に「信頼できる」について尋ねました。
+toeic-700-audit,toeic,toeic-700,audit,会計検査,"The team reviewed ""audit"" before making a decision.",チームは決定前に「会計検査」を確認しました。
+toeic-700-receipt,toeic,toeic-700,receipt,領収書,"The manager used ""receipt"" in the monthly report.",マネージャーは月次報告で「領収書」を使いました。
+toeic-700-controller,toeic,toeic-700,controller,"管理する人,監督者,取締人","Employees should understand ""controller"" in business documents.","従業員は業務文書で「管理する人,監督者,取締人」を理解する必要があります。"
+toeic-700-dairy,toeic,toeic-700,dairy,"酪農場,バター・チーズ・クリーム製造所","The notice mentioned ""dairy"" for all staff members.","その通知は全スタッフ向けに「酪農場,バター・チーズ・クリーム製造所」に触れていました。"
+toeic-700-receiver,toeic,toeic-700,receiver,受取人,"The client asked about ""receiver"" after the meeting.",顧客は会議後に「受取人」について尋ねました。
+toeic-700-slot,toeic,toeic-700,slot,細長いみぞ,"The team reviewed ""slot"" before making a decision.",チームは決定前に「細長いみぞ」を確認しました。
+toeic-700-toll,toeic,toeic-700,toll,鳴る,"The manager used ""toll"" in the monthly report.",マネージャーは月次報告で「鳴る」を使いました。
+toeic-700-expense,toeic,toeic-700,expense,"支出,出費","Employees should understand ""expense"" in business documents.","従業員は業務文書で「支出,出費」を理解する必要があります。"
+toeic-700-obligation,toeic,toeic-700,obligation,"義務,約束","The notice mentioned ""obligation"" for all staff members.","その通知は全スタッフ向けに「義務,約束」に触れていました。"
+toeic-700-sponsor,toeic,toeic-700,sponsor,保証人,"The client asked about ""sponsor"" after the meeting.",顧客は会議後に「保証人」について尋ねました。
+toeic-700-carrier,toeic,toeic-700,carrier,運搬する人,"The team reviewed ""carrier"" before making a decision.",チームは決定前に「運搬する人」を確認しました。
+toeic-700-subscribe,toeic,toeic-700,subscribe,予約する,"The manager used ""subscribe"" in the monthly report.",マネージャーは月次報告で「予約する」を使いました。
+toeic-700-engagement,toeic,toeic-700,engagement,"約束,契約,取り決め","Employees should understand ""engagement"" in business documents.","従業員は業務文書で「約束,契約,取り決め」を理解する必要があります。"
+toeic-700-operator,toeic,toeic-700,operator,"運転する人,操作する人,技手","The notice mentioned ""operator"" for all staff members.","その通知は全スタッフ向けに「運転する人,操作する人,技手」に触れていました。"
+toeic-700-banking,toeic,toeic-700,banking,銀行業務,"The client asked about ""banking"" after the meeting.",顧客は会議後に「銀行業務」について尋ねました。
+toeic-700-manufacture,toeic,toeic-700,manufacture,"製造,製作","The team reviewed ""manufacture"" before making a decision.","チームは決定前に「製造,製作」を確認しました。"
+toeic-700-enterprise,toeic,toeic-700,enterprise,"事業,企て","The manager used ""enterprise"" in the monthly report.","マネージャーは月次報告で「事業,企て」を使いました。"
+toeic-700-hire,toeic,toeic-700,hire,を雇う,"Employees should understand ""hire"" in business documents.",従業員は業務文書で「を雇う」を理解する必要があります。
+toeic-700-discharge,toeic,toeic-700,discharge,の荷を降ろす,"The notice mentioned ""discharge"" for all staff members.",その通知は全スタッフ向けに「の荷を降ろす」に触れていました。
+toeic-700-retail,toeic,toeic-700,retail,小売り,"The client asked about ""retail"" after the meeting.",顧客は会議後に「小売り」について尋ねました。
+toeic-700-promote,toeic,toeic-700,promote,"助長する,促進する,増進する","The team reviewed ""promote"" before making a decision.","チームは決定前に「助長する,促進する,増進する」を確認しました。"
+toeic-700-employment,toeic,toeic-700,employment,雇用,"The manager used ""employment"" in the monthly report.",マネージャーは月次報告で「雇用」を使いました。
+toeic-700-bond,toeic,toeic-700,bond,縛る物,"Employees should understand ""bond"" in business documents.",従業員は業務文書で「縛る物」を理解する必要があります。
+toeic-700-grant,toeic,toeic-700,grant,"をかなえる,聞き入れる","The notice mentioned ""grant"" for all staff members.","その通知は全スタッフ向けに「をかなえる,聞き入れる」に触れていました。"
+toeic-700-monopoly,toeic,toeic-700,monopoly,"独占,専売","The client asked about ""monopoly"" after the meeting.","顧客は会議後に「独占,専売」について尋ねました。"
+toeic-700-governor,toeic,toeic-700,governor,知事,"The team reviewed ""governor"" before making a decision.",チームは決定前に「知事」を確認しました。
+toeic-700-guide,toeic,toeic-700,guide,を案内する,"The manager used ""guide"" in the monthly report.",マネージャーは月次報告で「を案内する」を使いました。
+toeic-700-conductor,toeic,toeic-700,conductor,"指導者,案内者","Employees should understand ""conductor"" in business documents.","従業員は業務文書で「指導者,案内者」を理解する必要があります。"
+toeic-700-banker,toeic,toeic-700,banker,"銀行家,銀行経営者","The notice mentioned ""banker"" for all staff members.","その通知は全スタッフ向けに「銀行家,銀行経営者」に触れていました。"
+toeic-700-compensate,toeic,toeic-700,compensate,に補償する,"The client asked about ""compensate"" after the meeting.",顧客は会議後に「に補償する」について尋ねました。
+toeic-700-prohibition,toeic,toeic-700,prohibition,禁止すること,"The team reviewed ""prohibition"" before making a decision.",チームは決定前に「禁止すること」を確認しました。
+toeic-700-undertaking,toeic,toeic-700,undertaking,"事業,企業,仕事","The manager used ""undertaking"" in the monthly report.","マネージャーは月次報告で「事業,企業,仕事」を使いました。"
+toeic-700-distributor,toeic,toeic-700,distributor,"分配する人,配分者","Employees should understand ""distributor"" in business documents.","従業員は業務文書で「分配する人,配分者」を理解する必要があります。"
+toeic-700-admission,toeic,toeic-700,admission,"入ることを許すこと,入場許可,入る権利","The notice mentioned ""admission"" for all staff members.","その通知は全スタッフ向けに「入ることを許すこと,入場許可,入る権利」に触れていました。"
+toeic-700-travelling,toeic,toeic-700,travelling,旅行すること,"The client asked about ""travelling"" after the meeting.",顧客は会議後に「旅行すること」について尋ねました。
+toeic-700-violation,toeic,toeic-700,violation,"違反,無視","The team reviewed ""violation"" before making a decision.","チームは決定前に「違反,無視」を確認しました。"
+toeic-700-liability,toeic,toeic-700,liability,傾向のあること,"The manager used ""liability"" in the monthly report.",マネージャーは月次報告で「傾向のあること」を使いました。
+toeic-700-immune,toeic,toeic-700,immune,免疫の,"Employees should understand ""immune"" in business documents.",従業員は業務文書で「免疫の」を理解する必要があります。
+toeic-700-exhibit,toeic,toeic-700,exhibit,"を表す,示す","The notice mentioned ""exhibit"" for all staff members.","その通知は全スタッフ向けに「を表す,示す」に触れていました。"
+toeic-700-provision,toeic,toeic-700,provision,"供給,支給","The client asked about ""provision"" after the meeting.","顧客は会議後に「供給,支給」について尋ねました。"
+toeic-700-breach,toeic,toeic-700,breach,"破ること,破棄,違反,不履行","The team reviewed ""breach"" before making a decision.","チームは決定前に「破ること,破棄,違反,不履行」を確認しました。"
+toeic-700-licensed,toeic,toeic-700,licensed,"公に許可された,免許をとった","The manager used ""licensed"" in the monthly report.","マネージャーは月次報告で「公に許可された,免許をとった」を使いました。"
+toeic-700-reserved,toeic,toeic-700,reserved,"予約の,貸し切りの","Employees should understand ""reserved"" in business documents.","従業員は業務文書で「予約の,貸し切りの」を理解する必要があります。"
+toeic-700-contractor,toeic,toeic-700,contractor,"契約人,請負人","The notice mentioned ""contractor"" for all staff members.","その通知は全スタッフ向けに「契約人,請負人」に触れていました。"
+toeic-700-outfit,toeic,toeic-700,outfit,"装備一式,道具一式","The client asked about ""outfit"" after the meeting.","顧客は会議後に「装備一式,道具一式」について尋ねました。"
+toeic-700-merchant,toeic,toeic-700,merchant,商人,"The team reviewed ""merchant"" before making a decision.",チームは決定前に「商人」を確認しました。
+toeic-700-assess,toeic,toeic-700,assess,"を評価する,査定する","The manager used ""assess"" in the monthly report.","マネージャーは月次報告で「を評価する,査定する」を使いました。"
+toeic-700-charter,toeic,toeic-700,charter,"特許状,免許状,憲章","Employees should understand ""charter"" in business documents.","従業員は業務文書で「特許状,免許状,憲章」を理解する必要があります。"
+toeic-700-treasury,toeic,toeic-700,treasury,"国庫,基金,資金","The notice mentioned ""treasury"" for all staff members.","その通知は全スタッフ向けに「国庫,基金,資金」に触れていました。"
+toeic-700-observe,toeic,toeic-700,observe,"観察する,注意して見る","The client asked about ""observe"" after the meeting.","顧客は会議後に「観察する,注意して見る」について尋ねました。"
+toeic-700-subscription,toeic,toeic-700,subscription,予約,"The team reviewed ""subscription"" before making a decision.",チームは決定前に「予約」を確認しました。
+toeic-700-traveled,toeic,toeic-700,traveled,旅行の経験が多い,"The manager used ""traveled"" in the monthly report.",マネージャーは月次報告で「旅行の経験が多い」を使いました。
+toeic-700-fiscal,toeic,toeic-700,fiscal,国庫の,"Employees should understand ""fiscal"" in business documents.",従業員は業務文書で「国庫の」を理解する必要があります。
+toeic-700-equality,toeic,toeic-700,equality,"等しいこと,均等","The notice mentioned ""equality"" for all staff members.","その通知は全スタッフ向けに「等しいこと,均等」に触れていました。"
+toeic-700-traveling,toeic,toeic-700,traveling,旅行すること,"The client asked about ""traveling"" after the meeting.",顧客は会議後に「旅行すること」について尋ねました。
+toeic-700-passage,toeic,toeic-700,passage,"節,句","The team reviewed ""passage"" before making a decision.","チームは決定前に「節,句」を確認しました。"
+toeic-700-margin,toeic,toeic-700,margin,"へり,縁,端","The manager used ""margin"" in the monthly report.","マネージャーは月次報告で「へり,縁,端」を使いました。"
+toeic-700-earnings,toeic,toeic-700,earnings,"収入,所得","Employees should understand ""earnings"" in business documents.","従業員は業務文書で「収入,所得」を理解する必要があります。"
+toeic-700-tourism,toeic,toeic-700,tourism,観光旅行,"The notice mentioned ""tourism"" for all staff members.",その通知は全スタッフ向けに「観光旅行」に触れていました。
+toeic-700-mature,toeic,toeic-700,mature,"成熟した,十分に成長した,熟成した","The client asked about ""mature"" after the meeting.","顧客は会議後に「成熟した,十分に成長した,熟成した」について尋ねました。"
+toeic-700-franchise,toeic,toeic-700,franchise,"免許,一手販売権","The team reviewed ""franchise"" before making a decision.","チームは決定前に「免許,一手販売権」を確認しました。"
+toeic-700-profitable,toeic,toeic-700,profitable,利益の上がる,"The manager used ""profitable"" in the monthly report.",マネージャーは月次報告で「利益の上がる」を使いました。
+toeic-700-accounting,toeic,toeic-700,accounting,"会計,経理","Employees should understand ""accounting"" in business documents.","従業員は業務文書で「会計,経理」を理解する必要があります。"
+toeic-700-keeper,toeic,toeic-700,keeper,"守る人,管理人,番人","The notice mentioned ""keeper"" for all staff members.","その通知は全スタッフ向けに「守る人,管理人,番人」に触れていました。"
+toeic-700-trailer,toeic,toeic-700,trailer,トレーラー,"The client asked about ""trailer"" after the meeting.",顧客は会議後に「トレーラー」について尋ねました。
+toeic-700-clerk,toeic,toeic-700,clerk,"行員,社員","The team reviewed ""clerk"" before making a decision.","チームは決定前に「行員,社員」を確認しました。"
+toeic-700-reporter,toeic,toeic-700,reporter,"報告者,申告者","The manager used ""reporter"" in the monthly report.","マネージャーは月次報告で「報告者,申告者」を使いました。"
+toeic-700-engage,toeic,toeic-700,engage,雇う,"Employees should understand ""engage"" in business documents.",従業員は業務文書で「雇う」を理解する必要があります。
+toeic-700-colleague,toeic,toeic-700,colleague,"同僚,仲間,同業者","The notice mentioned ""colleague"" for all staff members.","その通知は全スタッフ向けに「同僚,仲間,同業者」に触れていました。"
+toeic-700-organize,toeic,toeic-700,organize,"を系統だてる,組織的にまとめる","The client asked about ""organize"" after the meeting.","顧客は会議後に「を系統だてる,組織的にまとめる」について尋ねました。"
+toeic-700-commerce,toeic,toeic-700,commerce,"商業,通商,貿易","The team reviewed ""commerce"" before making a decision.","チームは決定前に「商業,通商,貿易」を確認しました。"
+toeic-700-collect,toeic,toeic-700,collect,"集める,収集する","The manager used ""collect"" in the monthly report.","マネージャーは月次報告で「集める,収集する」を使いました。"
+toeic-700-travelled,toeic,toeic-700,travelled,旅行の経験が多い,"Employees should understand ""travelled"" in business documents.",従業員は業務文書で「旅行の経験が多い」を理解する必要があります。
+toeic-700-valid,toeic,toeic-700,valid,"妥当な,しっかりした根拠のある","The notice mentioned ""valid"" for all staff members.","その通知は全スタッフ向けに「妥当な,しっかりした根拠のある」に触れていました。"
+toeic-700-mill,toeic,toeic-700,mill,製粉所,"The client asked about ""mill"" after the meeting.",顧客は会議後に「製粉所」について尋ねました。
+toeic-700-superintendent,toeic,toeic-700,superintendent,"監督者,長官,所長","The team reviewed ""superintendent"" before making a decision.","チームは決定前に「監督者,長官,所長」を確認しました。"
+toeic-700-entrance,toeic,toeic-700,entrance,"入り口,玄関","The manager used ""entrance"" in the monthly report.","マネージャーは月次報告で「入り口,玄関」を使いました。"
+toeic-700-employ,toeic,toeic-700,employ,を雇う,"Employees should understand ""employ"" in business documents.",従業員は業務文書で「を雇う」を理解する必要があります。
+toeic-700-managing,toeic,toeic-700,managing,"支配する,管理する,経営する","The notice mentioned ""managing"" for all staff members.","その通知は全スタッフ向けに「支配する,管理する,経営する」に触れていました。"
+toeic-700-bargain,toeic,toeic-700,bargain,"契約,売買契約,取引き","The client asked about ""bargain"" after the meeting.","顧客は会議後に「契約,売買契約,取引き」について尋ねました。"
+toeic-700-execute,toeic,toeic-700,execute,"を実行する,遂行する","The team reviewed ""execute"" before making a decision.","チームは決定前に「を実行する,遂行する」を確認しました。"
+toeic-700-custom,toeic,toeic-700,custom,"習慣,風習,慣例","The manager used ""custom"" in the monthly report.","マネージャーは月次報告で「習慣,風習,慣例」を使いました。"
+toeic-700-commitment,toeic,toeic-700,commitment,約束,"Employees should understand ""commitment"" in business documents.",従業員は業務文書で「約束」を理解する必要があります。
+toeic-700-guarantee,toeic,toeic-700,guarantee,保証,"The notice mentioned ""guarantee"" for all staff members.",その通知は全スタッフ向けに「保証」に触れていました。
+toeic-700-administrative,toeic,toeic-700,administrative,行政上の,"The client asked about ""administrative"" after the meeting.",顧客は会議後に「行政上の」について尋ねました。
+toeic-700-merchandise,toeic,toeic-700,merchandise,商品,"The team reviewed ""merchandise"" before making a decision.",チームは決定前に「商品」を確認しました。
+toeic-700-establish,toeic,toeic-700,establish,"設立する,創設する","The manager used ""establish"" in the monthly report.","マネージャーは月次報告で「設立する,創設する」を使いました。"
+toeic-700-partnership,toeic,toeic-700,partnership,"提携,協力","Employees should understand ""partnership"" in business documents.","従業員は業務文書で「提携,協力」を理解する必要があります。"
+toeic-700-appointment,toeic,toeic-700,appointment,約束,"The notice mentioned ""appointment"" for all staff members.",その通知は全スタッフ向けに「約束」に触れていました。
+toeic-700-employee,toeic,toeic-700,employee,"雇い人,従業員","The client asked about ""employee"" after the meeting.","顧客は会議後に「雇い人,従業員」について尋ねました。"
+toeic-700-accountable,toeic,toeic-700,accountable,"説明責任のある,責任を問える","The team reviewed ""accountable"" before making a decision.","チームは決定前に「説明責任のある,責任を問える」を確認しました。"
+toeic-700-advertising,toeic,toeic-700,advertising,広告,"The manager used ""advertising"" in the monthly report.",マネージャーは月次報告で「広告」を使いました。
+toeic-700-factory,toeic,toeic-700,factory,"工場,製作所","Employees should understand ""factory"" in business documents.","従業員は業務文書で「工場,製作所」を理解する必要があります。"
+toeic-700-attend,toeic,toeic-700,attend,"出席する,参列する,に通う","The notice mentioned ""attend"" for all staff members.","その通知は全スタッフ向けに「出席する,参列する,に通う」に触れていました。"
+toeic-700-suppose,toeic,toeic-700,suppose,"と仮定する,考えてみる","The client asked about ""suppose"" after the meeting.","顧客は会議後に「と仮定する,考えてみる」について尋ねました。"
+toeic-700-branch,toeic,toeic-700,branch,枝,"The team reviewed ""branch"" before making a decision.",チームは決定前に「枝」を確認しました。
+toeic-700-motion,toeic,toeic-700,motion,"動くこと,運動,運行,移動","The manager used ""motion"" in the monthly report.","マネージャーは月次報告で「動くこと,運動,運行,移動」を使いました。"
+toeic-700-appointed,toeic,toeic-700,appointed,"定められた,決められた","Employees should understand ""appointed"" in business documents.","従業員は業務文書で「定められた,決められた」を理解する必要があります。"
+toeic-700-booking,toeic,toeic-700,booking,予約,"The notice mentioned ""booking"" for all staff members.",その通知は全スタッフ向けに「予約」に触れていました。
+toeic-700-customer,toeic,toeic-700,customer,"お客,得意先,顧客","The client asked about ""customer"" after the meeting.","顧客は会議後に「お客,得意先,顧客」について尋ねました。"
+toeic-700-yahoo,toeic,toeic-700,yahoo,"乱暴者,粗野な人,無教養の人 に登場する「ヤフー族」が語源)","The team reviewed ""yahoo"" before making a decision.","チームは決定前に「乱暴者,粗野な人,無教養の人 に登場する「ヤフー族」が語源)」を確認しました。"
+toeic-700-split,toeic,toeic-700,split,"縦に割る,裂く","The manager used ""split"" in the monthly report.","マネージャーは月次報告で「縦に割る,裂く」を使いました。"
+toeic-700-incorporate,toeic,toeic-700,incorporate,を法人にする,"Employees should understand ""incorporate"" in business documents.",従業員は業務文書で「を法人にする」を理解する必要があります。
+toeic-700-finance,toeic,toeic-700,finance,"財政,財務,財政学","The notice mentioned ""finance"" for all staff members.","その通知は全スタッフ向けに「財政,財務,財政学」に触れていました。"
+toeic-700-chain,toeic,toeic-700,chain,鎖,"The client asked about ""chain"" after the meeting.",顧客は会議後に「鎖」について尋ねました。
+toeic-700-proposition,toeic,toeic-700,proposition,"提案,申し出","The team reviewed ""proposition"" before making a decision.","チームは決定前に「提案,申し出」を確認しました。"
+toeic-700-payment,toeic,toeic-700,payment,"支払い,納入","The manager used ""payment"" in the monthly report.","マネージャーは月次報告で「支払い,納入」を使いました。"
+toeic-700-concern,toeic,toeic-700,concern,"関係する,かかわる,影響する","Employees should understand ""concern"" in business documents.","従業員は業務文書で「関係する,かかわる,影響する」を理解する必要があります。"
+toeic-700-schedule,toeic,toeic-700,schedule,"時間表,時刻表","The notice mentioned ""schedule"" for all staff members.","その通知は全スタッフ向けに「時間表,時刻表」に触れていました。"
+toeic-700-pool,toeic,toeic-700,pool,水たまり,"The client asked about ""pool"" after the meeting.",顧客は会議後に「水たまり」について尋ねました。
+toeic-700-confirmed,toeic,toeic-700,confirmed,"確認された,立証された","The team reviewed ""confirmed"" before making a decision.","チームは決定前に「確認された,立証された」を確認しました。"
+toeic-700-paperwork,toeic,toeic-700,paperwork,"書類仕事,文書仕事","The manager used ""paperwork"" in the monthly report.","マネージャーは月次報告で「書類仕事,文書仕事」を使いました。"
+toeic-700-supplier,toeic,toeic-700,supplier,"供給者,補充者","Employees should understand ""supplier"" in business documents.","従業員は業務文書で「供給者,補充者」を理解する必要があります。"
+toeic-700-profit,toeic,toeic-700,profit,"利益,もうけ,収益","The notice mentioned ""profit"" for all staff members.","その通知は全スタッフ向けに「利益,もうけ,収益」に触れていました。"
+toeic-700-crew,toeic,toeic-700,crew,乗組員,"The client asked about ""crew"" after the meeting.",顧客は会議後に「乗組員」について尋ねました。
+toeic-700-marketplace,toeic,toeic-700,marketplace,市の開かれる広場,"The team reviewed ""marketplace"" before making a decision.",チームは決定前に「市の開かれる広場」を確認しました。
+toeic-700-taxation,toeic,toeic-700,taxation,"課税,徴税","The manager used ""taxation"" in the monthly report.","マネージャーは月次報告で「課税,徴税」を使いました。"
+toeic-700-vendor,toeic,toeic-700,vendor,"売る人,行商人","Employees should understand ""vendor"" in business documents.","従業員は業務文書で「売る人,行商人」を理解する必要があります。"
+toeic-700-forge,toeic,toeic-700,forge,炉,"The notice mentioned ""forge"" for all staff members.",その通知は全スタッフ向けに「炉」に触れていました。
+toeic-700-supermarket,toeic,toeic-700,supermarket,スーパーマーケット,"The client asked about ""supermarket"" after the meeting.",顧客は会議後に「スーパーマーケット」について尋ねました。
+toeic-700-accountant,toeic,toeic-700,accountant,"会計係,会計士,計理士","The team reviewed ""accountant"" before making a decision.","チームは決定前に「会計係,会計士,計理士」を確認しました。"
+toeic-700-retailer,toeic,toeic-700,retailer,小売り商人,"The manager used ""retailer"" in the monthly report.",マネージャーは月次報告で「小売り商人」を使いました。
+toeic-700-bankrupt,toeic,toeic-700,bankrupt,"破産者,支払い不能債務者","Employees should understand ""bankrupt"" in business documents.","従業員は業務文書で「破産者,支払い不能債務者」を理解する必要があります。"
+toeic-700-patron,toeic,toeic-700,patron,"後援者,保護者,パトロール","The notice mentioned ""patron"" for all staff members.","その通知は全スタッフ向けに「後援者,保護者,パトロール」に触れていました。"
+toeic-700-bilateral,toeic,toeic-700,bilateral,"両側のある,左右同形の","The client asked about ""bilateral"" after the meeting.","顧客は会議後に「両側のある,左右同形の」について尋ねました。"
+toeic-700-disadvantage,toeic,toeic-700,disadvantage,不利な立場,"The team reviewed ""disadvantage"" before making a decision.",チームは決定前に「不利な立場」を確認しました。
+toeic-700-insured,toeic,toeic-700,insured,保険をかけている,"The manager used ""insured"" in the monthly report.",マネージャーは月次報告で「保険をかけている」を使いました。
+toeic-700-mart,toeic,toeic-700,mart,"市場,店","Employees should understand ""mart"" in business documents.","従業員は業務文書で「市場,店」を理解する必要があります。"
+toeic-700-takeover,toeic,toeic-700,takeover,"奪取,接収","The notice mentioned ""takeover"" for all staff members.","その通知は全スタッフ向けに「奪取,接収」に触れていました。"
+toeic-700-consortium,toeic,toeic-700,consortium,"資本連合,企業連合","The client asked about ""consortium"" after the meeting.","顧客は会議後に「資本連合,企業連合」について尋ねました。"
+toeic-700-freelance,toeic,toeic-700,freelance,自由契約者,"The team reviewed ""freelance"" before making a decision.",チームは決定前に「自由契約者」を確認しました。
+toeic-700-fixture,toeic,toeic-700,fixture,付属設備,"The manager used ""fixture"" in the monthly report.",マネージャーは月次報告で「付属設備」を使いました。
+toeic-700-incompetent,toeic,toeic-700,incompetent,"無能な,無力な","Employees should understand ""incompetent"" in business documents.","従業員は業務文書で「無能な,無力な」を理解する必要があります。"
+toeic-700-mileage,toeic,toeic-700,mileage,総マイル数,"The notice mentioned ""mileage"" for all staff members.",その通知は全スタッフ向けに「総マイル数」に触れていました。
+toeic-700-salesman,toeic,toeic-700,salesman,"男子店員,販売係","The client asked about ""salesman"" after the meeting.","顧客は会議後に「男子店員,販売係」について尋ねました。"
+toeic-700-attendant,toeic,toeic-700,attendant,付き添いの,"The team reviewed ""attendant"" before making a decision.",チームは決定前に「付き添いの」を確認しました。
+toeic-700-farmer,toeic,toeic-700,farmer,"農場経営者,農場主","The manager used ""farmer"" in the monthly report.","マネージャーは月次報告で「農場経営者,農場主」を使いました。"
+toeic-700-portfolio,toeic,toeic-700,portfolio,"折りかばん,書類かばん","Employees should understand ""portfolio"" in business documents.","従業員は業務文書で「折りかばん,書類かばん」を理解する必要があります。"
+toeic-700-productivity,toeic,toeic-700,productivity,"生産力,生産性","The notice mentioned ""productivity"" for all staff members.","その通知は全スタッフ向けに「生産力,生産性」に触れていました。"
+toeic-700-protocol,toeic,toeic-700,protocol,外交儀礼,"The client asked about ""protocol"" after the meeting.",顧客は会議後に「外交儀礼」について尋ねました。
+toeic-700-yield,toeic,toeic-700,yield,"産出する,生ずる","The team reviewed ""yield"" before making a decision.","チームは決定前に「産出する,生ずる」を確認しました。"
+toeic-700-tackle,toeic,toeic-700,tackle,"道具,装具","The manager used ""tackle"" in the monthly report.","マネージャーは月次報告で「道具,装具」を使いました。"
+toeic-700-sheriff,toeic,toeic-700,sheriff,または都市の)長官,"Employees should understand ""sheriff"" in business documents.",従業員は業務文書で「または都市の)長官」を理解する必要があります。
+toeic-700-satisfaction,toeic,toeic-700,satisfaction,満足させること,"The notice mentioned ""satisfaction"" for all staff members.",その通知は全スタッフ向けに「満足させること」に触れていました。
+toeic-700-binding,toeic,toeic-700,binding,"義務的な,拘束力ある","The client asked about ""binding"" after the meeting.","顧客は会議後に「義務的な,拘束力ある」について尋ねました。"
+toeic-700-manhattan,toeic,toeic-700,manhattan,マンハッタン区,"The team reviewed ""manhattan"" before making a decision.",チームは決定前に「マンハッタン区」を確認しました。
+toeic-700-determination,toeic,toeic-700,determination,"決心,決意,決断力","The manager used ""determination"" in the monthly report.","マネージャーは月次報告で「決心,決意,決断力」を使いました。"
+toeic-700-unfair,toeic,toeic-700,unfair,"不公平な,不当な,かたよった","Employees should understand ""unfair"" in business documents.","従業員は業務文書で「不公平な,不当な,かたよった」を理解する必要があります。"
+toeic-700-tragedy,toeic,toeic-700,tragedy,悲劇,"The notice mentioned ""tragedy"" for all staff members.",その通知は全スタッフ向けに「悲劇」に触れていました。
+toeic-700-acquire,toeic,toeic-700,acquire,"習得する,身につける","The client asked about ""acquire"" after the meeting.","顧客は会議後に「習得する,身につける」について尋ねました。"
+toeic-700-bend,toeic,toeic-700,bend,を曲げる,"The team reviewed ""bend"" before making a decision.",チームは決定前に「を曲げる」を確認しました。
+toeic-700-lease,toeic,toeic-700,lease,"借地契約,借地権","The manager used ""lease"" in the monthly report.","マネージャーは月次報告で「借地契約,借地権」を使いました。"
+toeic-700-cheers,toeic,toeic-700,cheers,乾杯,"Employees should understand ""cheers"" in business documents.",従業員は業務文書で「乾杯」を理解する必要があります。
+toeic-700-combine,toeic,toeic-700,combine,"結合する,合同する","The notice mentioned ""combine"" for all staff members.","その通知は全スタッフ向けに「結合する,合同する」に触れていました。"
+toeic-700-homework,toeic,toeic-700,homework,"宿題,学庭学習","The client asked about ""homework"" after the meeting.","顧客は会議後に「宿題,学庭学習」について尋ねました。"
+toeic-700-cinema,toeic,toeic-700,cinema,映画館,"The team reviewed ""cinema"" before making a decision.",チームは決定前に「映画館」を確認しました。
+toeic-700-aviation,toeic,toeic-700,aviation,"飛行,航空","The manager used ""aviation"" in the monthly report.","マネージャーは月次報告で「飛行,航空」を使いました。"
+toeic-700-attendance,toeic,toeic-700,attendance,"出席,参列","Employees should understand ""attendance"" in business documents.","従業員は業務文書で「出席,参列」を理解する必要があります。"
+toeic-700-profession,toeic,toeic-700,profession,専門職,"The notice mentioned ""profession"" for all staff members.",その通知は全スタッフ向けに「専門職」に触れていました。
+toeic-700-prospect,toeic,toeic-700,prospect,"光景,眺め","The client asked about ""prospect"" after the meeting.","顧客は会議後に「光景,眺め」について尋ねました。"
+toeic-700-reportedly,toeic,toeic-700,reportedly,伝えられるところによれば…とのこと,"The team reviewed ""reportedly"" before making a decision.",チームは決定前に「伝えられるところによれば…とのこと」を確認しました。
+toeic-700-skilled,toeic,toeic-700,skilled,"熟練した,特殊技術を持った","The manager used ""skilled"" in the monthly report.","マネージャーは月次報告で「熟練した,特殊技術を持った」を使いました。"
+toeic-700-sterling,toeic,toeic-700,sterling,"英貨の,ポンドの","Employees should understand ""sterling"" in business documents.","従業員は業務文書で「英貨の,ポンドの」を理解する必要があります。"
+toeic-700-restore,toeic,toeic-700,restore,"復活させる,回復させる,復帰させる","The notice mentioned ""restore"" for all staff members.","その通知は全スタッフ向けに「復活させる,回復させる,復帰させる」に触れていました。"
+toeic-700-visa,toeic,toeic-700,visa,"査証,ビザ,入国出国許可","The client asked about ""visa"" after the meeting.","顧客は会議後に「査証,ビザ,入国出国許可」について尋ねました。"
+toeic-700-appreciation,toeic,toeic-700,appreciation,"正しく認識すること,識別,評価","The team reviewed ""appreciation"" before making a decision.","チームは決定前に「正しく認識すること,識別,評価」を確認しました。"
+toeic-700-dive,toeic,toeic-700,dive,頭から飛び込む,"The manager used ""dive"" in the monthly report.",マネージャーは月次報告で「頭から飛び込む」を使いました。
+toeic-700-governing,toeic,toeic-700,governing,"統治する,管理する","Employees should understand ""governing"" in business documents.","従業員は業務文書で「統治する,管理する」を理解する必要があります。"
+toeic-700-collapse,toeic,toeic-700,collapse,"つぶれる,陥没する","The notice mentioned ""collapse"" for all staff members.","その通知は全スタッフ向けに「つぶれる,陥没する」に触れていました。"
+toeic-700-ceiling,toeic,toeic-700,ceiling,天井,"The client asked about ""ceiling"" after the meeting.",顧客は会議後に「天井」について尋ねました。
+toeic-700-cancel,toeic,toeic-700,cancel,"を取り消す,無効にする","The team reviewed ""cancel"" before making a decision.","チームは決定前に「を取り消す,無効にする」を確認しました。"
+toeic-700-pursuit,toeic,toeic-700,pursuit,"追うこと,追跡","The manager used ""pursuit"" in the monthly report.","マネージャーは月次報告で「追うこと,追跡」を使いました。"
+toeic-700-assignment,toeic,toeic-700,assignment,割り当てられた仕事,"Employees should understand ""assignment"" in business documents.",従業員は業務文書で「割り当てられた仕事」を理解する必要があります。
+toeic-700-acknowledge,toeic,toeic-700,acknowledge,"認める,承認する","The notice mentioned ""acknowledge"" for all staff members.","その通知は全スタッフ向けに「認める,承認する」に触れていました。"
+toeic-700-tobacco,toeic,toeic-700,tobacco,タバコの木,"The client asked about ""tobacco"" after the meeting.",顧客は会議後に「タバコの木」について尋ねました。
+toeic-700-bankruptcy,toeic,toeic-700,bankruptcy,"破産,倒産","The team reviewed ""bankruptcy"" before making a decision.","チームは決定前に「破産,倒産」を確認しました。"
+toeic-700-overnight,toeic,toeic-700,overnight,"一晩じゅう,夜通し","The manager used ""overnight"" in the monthly report.","マネージャーは月次報告で「一晩じゅう,夜通し」を使いました。"
+toeic-700-grip,toeic,toeic-700,grip,しっかり握ること,"Employees should understand ""grip"" in business documents.",従業員は業務文書で「しっかり握ること」を理解する必要があります。
+toeic-700-preference,toeic,toeic-700,preference,好み,"The notice mentioned ""preference"" for all staff members.",その通知は全スタッフ向けに「好み」に触れていました。
+toeic-700-boot,toeic,toeic-700,boot,長ぐつ,"The client asked about ""boot"" after the meeting.",顧客は会議後に「長ぐつ」について尋ねました。
+toeic-700-adopt,toeic,toeic-700,adopt,"を取り入れる,採用する","The team reviewed ""adopt"" before making a decision.","チームは決定前に「を取り入れる,採用する」を確認しました。"
+toeic-700-wireless,toeic,toeic-700,wireless,"無線,無線電信","The manager used ""wireless"" in the monthly report.","マネージャーは月次報告で「無線,無線電信」を使いました。"
+toeic-700-transit,toeic,toeic-700,transit,"通過,通行","Employees should understand ""transit"" in business documents.","従業員は業務文書で「通過,通行」を理解する必要があります。"
+toeic-700-tourist,toeic,toeic-700,tourist,"旅行者,観光客","The notice mentioned ""tourist"" for all staff members.","その通知は全スタッフ向けに「旅行者,観光客」に触れていました。"
+toeic-700-privilege,toeic,toeic-700,privilege,"特権,特典,恩典,恩恵","The client asked about ""privilege"" after the meeting.","顧客は会議後に「特権,特典,恩典,恩恵」について尋ねました。"
+toeic-700-fitting,toeic,toeic-700,fitting,適切な,"The team reviewed ""fitting"" before making a decision.",チームは決定前に「適切な」を確認しました。
+toeic-700-jerusalem,toeic,toeic-700,jerusalem,エルサレム,"The manager used ""jerusalem"" in the monthly report.",マネージャーは月次報告で「エルサレム」を使いました。
+toeic-700-provider,toeic,toeic-700,provider,供給者,"Employees should understand ""provider"" in business documents.",従業員は業務文書で「供給者」を理解する必要があります。
+toeic-700-advise,toeic,toeic-700,advise,"にを忠告する,助言する,すすめる","The notice mentioned ""advise"" for all staff members.","その通知は全スタッフ向けに「にを忠告する,助言する,すすめる」に触れていました。"
+toeic-700-snap,toeic,toeic-700,snap,"パチンと音をたてる・ポキッと折れる,プツンと切れる・パチンと音をたて...","The client asked about ""snap"" after the meeting.","顧客は会議後に「パチンと音をたてる・ポキッと折れる,プツンと切れる・パチンと音をたて...」について尋ねました。"
+toeic-700-slavery,toeic,toeic-700,slavery,奴隷制度,"The team reviewed ""slavery"" before making a decision.",チームは決定前に「奴隷制度」を確認しました。
+toeic-700-legally,toeic,toeic-700,legally,"法律上,法律的に","The manager used ""legally"" in the monthly report.","マネージャーは月次報告で「法律上,法律的に」を使いました。"
+toeic-700-holder,toeic,toeic-700,holder,"保持者,所持者","Employees should understand ""holder"" in business documents.","従業員は業務文書で「保持者,所持者」を理解する必要があります。"
+toeic-700-clinic,toeic,toeic-700,clinic,臨床講義,"The notice mentioned ""clinic"" for all staff members.",その通知は全スタッフ向けに「臨床講義」に触れていました。
+toeic-700-surrender,toeic,toeic-700,surrender,"引き渡す,明け渡す","The client asked about ""surrender"" after the meeting.","顧客は会議後に「引き渡す,明け渡す」について尋ねました。"
+toeic-700-tender,toeic,toeic-700,tender,"世話をする人,看護人","The team reviewed ""tender"" before making a decision.","チームは決定前に「世話をする人,看護人」を確認しました。"
+toeic-700-approve,toeic,toeic-700,approve,"をよいと認める,に賛成する","The manager used ""approve"" in the monthly report.","マネージャーは月次報告で「をよいと認める,に賛成する」を使いました。"
+toeic-700-architect,toeic,toeic-700,architect,"建築家,建築技師","Employees should understand ""architect"" in business documents.","従業員は業務文書で「建築家,建築技師」を理解する必要があります。"
+toeic-700-productive,toeic,toeic-700,productive,"生産的な,好ましい結果を生み出す","The notice mentioned ""productive"" for all staff members.","その通知は全スタッフ向けに「生産的な,好ましい結果を生み出す」に触れていました。"
+toeic-700-confirmation,toeic,toeic-700,confirmation,確認,"The client asked about ""confirmation"" after the meeting.",顧客は会議後に「確認」について尋ねました。
+toeic-700-permit,toeic,toeic-700,permit,許可する,"The team reviewed ""permit"" before making a decision.",チームは決定前に「許可する」を確認しました。
+toeic-700-employer,toeic,toeic-700,employer,"雇い主,雇用者","The manager used ""employer"" in the monthly report.","マネージャーは月次報告で「雇い主,雇用者」を使いました。"
+toeic-700-custody,toeic,toeic-700,custody,"管理,保管,保護","Employees should understand ""custody"" in business documents.","従業員は業務文書で「管理,保管,保護」を理解する必要があります。"
+toeic-700-suggestion,toeic,toeic-700,suggestion,"提案,提案すること","The notice mentioned ""suggestion"" for all staff members.","その通知は全スタッフ向けに「提案,提案すること」に触れていました。"
+toeic-700-administrator,toeic,toeic-700,administrator,"為政者,行政官","The client asked about ""administrator"" after the meeting.","顧客は会議後に「為政者,行政官」について尋ねました。"
+toeic-700-assumption,toeic,toeic-700,assumption,引き受けること,"The team reviewed ""assumption"" before making a decision.",チームは決定前に「引き受けること」を確認しました。
+toeic-700-assured,toeic,toeic-700,assured,"保証された,確実な","The manager used ""assured"" in the monthly report.","マネージャーは月次報告で「保証された,確実な」を使いました。"
+toeic-700-drain,toeic,toeic-700,drain,から排出する,"Employees should understand ""drain"" in business documents.",従業員は業務文書で「から排出する」を理解する必要があります。
+toeic-700-ethical,toeic,toeic-700,ethical,"倫理の,道徳の","The notice mentioned ""ethical"" for all staff members.","その通知は全スタッフ向けに「倫理の,道徳の」に触れていました。"
+toeic-700-suspension,toeic,toeic-700,suspension,"つるすこと,つるされた状態","The client asked about ""suspension"" after the meeting.","顧客は会議後に「つるすこと,つるされた状態」について尋ねました。"
+toeic-700-submission,toeic,toeic-700,submission,"服従,屈服,降伏","The team reviewed ""submission"" before making a decision.","チームは決定前に「服従,屈服,降伏」を確認しました。"
+toeic-700-accommodation,toeic,toeic-700,accommodation,宿泊,"The manager used ""accommodation"" in the monthly report.",マネージャーは月次報告で「宿泊」を使いました。
+toeic-700-assure,toeic,toeic-700,assure,"に確信させる,保証する,分からせて安心させる","Employees should understand ""assure"" in business documents.","従業員は業務文書で「に確信させる,保証する,分からせて安心させる」を理解する必要があります。"
+toeic-700-destination,toeic,toeic-700,destination,"目的地,行き先","The notice mentioned ""destination"" for all staff members.","その通知は全スタッフ向けに「目的地,行き先」に触れていました。"
+toeic-700-deposit,toeic,toeic-700,deposit,"を預ける,を預金する","The client asked about ""deposit"" after the meeting.","顧客は会議後に「を預ける,を預金する」について尋ねました。"
+toeic-700-compact,toeic,toeic-700,compact,"ぎっしり詰まった,目詰んだ,緊密な","The team reviewed ""compact"" before making a decision.","チームは決定前に「ぎっしり詰まった,目詰んだ,緊密な」を確認しました。"
+toeic-700-expertise,toeic,toeic-700,expertise,専門技術,"The manager used ""expertise"" in the monthly report.",マネージャーは月次報告で「専門技術」を使いました。
+toeic-700-grocery,toeic,toeic-700,grocery,食料品店,"Employees should understand ""grocery"" in business documents.",従業員は業務文書で「食料品店」を理解する必要があります。
+toeic-700-tribute,toeic,toeic-700,tribute,感謝の印,"The notice mentioned ""tribute"" for all staff members.",その通知は全スタッフ向けに「感謝の印」に触れていました。
+toeic-700-garage,toeic,toeic-700,garage,車庫,"The client asked about ""garage"" after the meeting.",顧客は会議後に「車庫」について尋ねました。
+toeic-700-forgive,toeic,toeic-700,forgive,"を許す,大目に見る","The team reviewed ""forgive"" before making a decision.","チームは決定前に「を許す,大目に見る」を確認しました。"
+toeic-700-accomplish,toeic,toeic-700,accomplish,"を成し遂げる,仕上げる","The manager used ""accomplish"" in the monthly report.","マネージャーは月次報告で「を成し遂げる,仕上げる」を使いました。"
+toeic-700-declare,toeic,toeic-700,declare,"宣言する,告示する,公表する","Employees should understand ""declare"" in business documents.","従業員は業務文書で「宣言する,告示する,公表する」を理解する必要があります。"
+toeic-700-filing,toeic,toeic-700,filing,"とじ込み,書類整理","The notice mentioned ""filing"" for all staff members.","その通知は全スタッフ向けに「とじ込み,書類整理」に触れていました。"
+toeic-700-pursue,toeic,toeic-700,pursue,"を追う,追跡する","The client asked about ""pursue"" after the meeting.","顧客は会議後に「を追う,追跡する」について尋ねました。"
+toeic-700-offense,toeic,toeic-700,offense,罪,"The team reviewed ""offense"" before making a decision.",チームは決定前に「罪」を確認しました。
+toeic-700-instrument,toeic,toeic-700,instrument,"器具,器械,計器・楽器)","The manager used ""instrument"" in the monthly report.","マネージャーは月次報告で「器具,器械,計器・楽器)」を使いました。"
+toeic-700-guardian,toeic,toeic-700,guardian,"保護者,監視人,管理者","Employees should understand ""guardian"" in business documents.","従業員は業務文書で「保護者,監視人,管理者」を理解する必要があります。"
+toeic-700-announce,toeic,toeic-700,announce,"発表する,公表する","The notice mentioned ""announce"" for all staff members.","その通知は全スタッフ向けに「発表する,公表する」に触れていました。"
+toeic-700-utility,toeic,toeic-700,utility,役に立つこと,"The client asked about ""utility"" after the meeting.",顧客は会議後に「役に立つこと」について尋ねました。
+toeic-700-airline,toeic,toeic-700,airline,航空会社,"The team reviewed ""airline"" before making a decision.",チームは決定前に「航空会社」を確認しました。
+toeic-700-concentration,toeic,toeic-700,concentration,集中,"The manager used ""concentration"" in the monthly report.",マネージャーは月次報告で「集中」を使いました。
+toeic-700-submit,toeic,toeic-700,submit,"屈服する,服従する","Employees should understand ""submit"" in business documents.","従業員は業務文書で「屈服する,服従する」を理解する必要があります。"
+toeic-700-lineup,toeic,toeic-700,lineup,選手の陣容,"The notice mentioned ""lineup"" for all staff members.",その通知は全スタッフ向けに「選手の陣容」に触れていました。
+toeic-700-pipeline,toeic,toeic-700,pipeline,輸送パイプ,"The client asked about ""pipeline"" after the meeting.",顧客は会議後に「輸送パイプ」について尋ねました。
+toeic-700-placement,toeic,toeic-700,placement,"置くこと,配置","The team reviewed ""placement"" before making a decision.","チームは決定前に「置くこと,配置」を確認しました。"
+toeic-700-intent,toeic,toeic-700,intent,"意図,目的","The manager used ""intent"" in the monthly report.","マネージャーは月次報告で「意図,目的」を使いました。"
+toeic-700-yorkshire,toeic,toeic-700,yorkshire,ヨークシャー,"Employees should understand ""yorkshire"" in business documents.",従業員は業務文書で「ヨークシャー」を理解する必要があります。
+toeic-700-buyer,toeic,toeic-700,buyer,"買い手,購入者","The notice mentioned ""buyer"" for all staff members.","その通知は全スタッフ向けに「買い手,購入者」に触れていました。"
+toeic-700-container,toeic,toeic-700,container,"容器,入れ物","The client asked about ""container"" after the meeting.","顧客は会議後に「容器,入れ物」について尋ねました。"
+toeic-700-harvest,toeic,toeic-700,harvest,"収穫,取り入れ","The team reviewed ""harvest"" before making a decision.","チームは決定前に「収穫,取り入れ」を確認しました。"
+toeic-700-recover,toeic,toeic-700,recover,再びおおう,"The manager used ""recover"" in the monthly report.",マネージャーは月次報告で「再びおおう」を使いました。
+toeic-700-loop,toeic,toeic-700,loop,輪・輪状のもの,"Employees should understand ""loop"" in business documents.",従業員は業務文書で「輪・輪状のもの」を理解する必要があります。
+toeic-700-ranch,toeic,toeic-700,ranch,大牧場,"The notice mentioned ""ranch"" for all staff members.",その通知は全スタッフ向けに「大牧場」に触れていました。
+toeic-700-default,toeic,toeic-700,default,"不履行,怠慢","The client asked about ""default"" after the meeting.","顧客は会議後に「不履行,怠慢」について尋ねました。"
+toeic-700-summit,toeic,toeic-700,summit,頂上,"The team reviewed ""summit"" before making a decision.",チームは決定前に「頂上」を確認しました。
+toeic-700-seal,toeic,toeic-700,seal,アザラシ,"The manager used ""seal"" in the monthly report.",マネージャーは月次報告で「アザラシ」を使いました。
+toeic-700-consultation,toeic,toeic-700,consultation,"相談,協議","Employees should understand ""consultation"" in business documents.","従業員は業務文書で「相談,協議」を理解する必要があります。"
+toeic-700-convenience,toeic,toeic-700,convenience,"都合のよいこと,便利,便宜・便利なもの","The notice mentioned ""convenience"" for all staff members.","その通知は全スタッフ向けに「都合のよいこと,便利,便宜・便利なもの」に触れていました。"
+toeic-700-disappointing,toeic,toeic-700,disappointing,"失望させるような,意外につまらない","The client asked about ""disappointing"" after the meeting.","顧客は会議後に「失望させるような,意外につまらない」について尋ねました。"
+toeic-700-equity,toeic,toeic-700,equity,"公平,公正,無私","The team reviewed ""equity"" before making a decision.","チームは決定前に「公平,公正,無私」を確認しました。"
+toeic-700-ferry,toeic,toeic-700,ferry,"渡し船,連絡船,連絡船の便","The manager used ""ferry"" in the monthly report.","マネージャーは月次報告で「渡し船,連絡船,連絡船の便」を使いました。"
+toeic-700-craft,toeic,toeic-700,craft,"技能,技巧","Employees should understand ""craft"" in business documents.","従業員は業務文書で「技能,技巧」を理解する必要があります。"
+toeic-700-collective,toeic,toeic-700,collective,"集めた,収集された","The notice mentioned ""collective"" for all staff members.","その通知は全スタッフ向けに「集めた,収集された」に触れていました。"
+toeic-700-affair,toeic,toeic-700,affair,"事,事柄","The client asked about ""affair"" after the meeting.","顧客は会議後に「事,事柄」について尋ねました。"
+toeic-700-slave,toeic,toeic-700,slave,奴隷,"The team reviewed ""slave"" before making a decision.",チームは決定前に「奴隷」を確認しました。
+toeic-700-ruin,toeic,toeic-700,ruin,"破滅,崩壊,没落","The manager used ""ruin"" in the monthly report.","マネージャーは月次報告で「破滅,崩壊,没落」を使いました。"
+toeic-700-laboratory,toeic,toeic-700,laboratory,"実験室,研究室,試験室","Employees should understand ""laboratory"" in business documents.","従業員は業務文書で「実験室,研究室,試験室」を理解する必要があります。"
+toeic-700-rider,toeic,toeic-700,rider,"乗る人,乗り手","The notice mentioned ""rider"" for all staff members.","その通知は全スタッフ向けに「乗る人,乗り手」に触れていました。"
+toeic-700-arsenal,toeic,toeic-700,arsenal,兵器庫,"The client asked about ""arsenal"" after the meeting.",顧客は会議後に「兵器庫」について尋ねました。
+toeic-700-disappointment,toeic,toeic-700,disappointment,"失望,落胆,期待はずれ","The team reviewed ""disappointment"" before making a decision.","チームは決定前に「失望,落胆,期待はずれ」を確認しました。"
+toeic-700-nursing,toeic,toeic-700,nursing,養育する,"The manager used ""nursing"" in the monthly report.",マネージャーは月次報告で「養育する」を使いました。
+toeic-700-reward,toeic,toeic-700,reward,"報酬,お礼,ほうび","Employees should understand ""reward"" in business documents.","従業員は業務文書で「報酬,お礼,ほうび」を理解する必要があります。"
+toeic-700-premium,toeic,toeic-700,premium,"無料提供品,値引き品,おまけ","The notice mentioned ""premium"" for all staff members.","その通知は全スタッフ向けに「無料提供品,値引き品,おまけ」に触れていました。"
+toeic-700-crude,toeic,toeic-700,crude,"天然のままの,未加工の","The client asked about ""crude"" after the meeting.","顧客は会議後に「天然のままの,未加工の」について尋ねました。"
+toeic-700-compensation,toeic,toeic-700,compensation,"償い,代償,埋め合わせ","The team reviewed ""compensation"" before making a decision.","チームは決定前に「償い,代償,埋め合わせ」を確認しました。"
+toeic-700-boom,toeic,toeic-700,boom,とどろく,"The manager used ""boom"" in the monthly report.",マネージャーは月次報告で「とどろく」を使いました。
+toeic-700-swing,toeic,toeic-700,swing,"振る,揺り動かす","Employees should understand ""swing"" in business documents.","従業員は業務文書で「振る,揺り動かす」を理解する必要があります。"
+toeic-700-outlet,toeic,toeic-700,outlet,"出口,はけ口","The notice mentioned ""outlet"" for all staff members.","その通知は全スタッフ向けに「出口,はけ口」に触れていました。"
+toeic-700-prescription,toeic,toeic-700,prescription,指示すること,"The client asked about ""prescription"" after the meeting.",顧客は会議後に「指示すること」について尋ねました。
+toeic-700-commonwealth,toeic,toeic-700,commonwealth,"国民,国家","The team reviewed ""commonwealth"" before making a decision.","チームは決定前に「国民,国家」を確認しました。"
+toeic-700-clause,toeic,toeic-700,clause,節,"The manager used ""clause"" in the monthly report.",マネージャーは月次報告で「節」を使いました。
+toeic-700-entrepreneur,toeic,toeic-700,entrepreneur,企業家,"Employees should understand ""entrepreneur"" in business documents.",従業員は業務文書で「企業家」を理解する必要があります。
+toeic-700-ought,toeic,toeic-700,ought,"すべきである,するのが当然である","The notice mentioned ""ought"" for all staff members.","その通知は全スタッフ向けに「すべきである,するのが当然である」に触れていました。"
+toeic-700-discount,toeic,toeic-700,discount,割引,"The client asked about ""discount"" after the meeting.",顧客は会議後に「割引」について尋ねました。
+toeic-700-detroit,toeic,toeic-700,detroit,デトロイト,"The team reviewed ""detroit"" before making a decision.",チームは決定前に「デトロイト」を確認しました。
+toeic-700-propose,toeic,toeic-700,propose,"提案する,申し出る","The manager used ""propose"" in the monthly report.","マネージャーは月次報告で「提案する,申し出る」を使いました。"
+toeic-700-cant,toeic,toeic-700,cant,"偽善的な言葉づかい,うわべだけの言葉,から念仏","Employees should understand ""cant"" in business documents.","従業員は業務文書で「偽善的な言葉づかい,うわべだけの言葉,から念仏」を理解する必要があります。"
+toeic-700-strip,toeic,toeic-700,strip,裸にする,"The notice mentioned ""strip"" for all staff members.",その通知は全スタッフ向けに「裸にする」に触れていました。
+toeic-700-privacy,toeic,toeic-700,privacy,"他人から干渉されない状態,プライバシー","The client asked about ""privacy"" after the meeting.","顧客は会議後に「他人から干渉されない状態,プライバシー」について尋ねました。"
+toeic-700-organisation,toeic,toeic-700,organisation,"組織化,編成","The team reviewed ""organisation"" before making a decision.","チームは決定前に「組織化,編成」を確認しました。"
+toeic-700-consent,toeic,toeic-700,consent,"同意する,承諾する","The manager used ""consent"" in the monthly report.","マネージャーは月次報告で「同意する,承諾する」を使いました。"
+toeic-700-comprehensive,toeic,toeic-700,comprehensive,"理解力のある,分かりのいい","Employees should understand ""comprehensive"" in business documents.","従業員は業務文書で「理解力のある,分かりのいい」を理解する必要があります。"
+toeic-700-routine,toeic,toeic-700,routine,"いつもの手順,決まりきった仕事","The notice mentioned ""routine"" for all staff members.","その通知は全スタッフ向けに「いつもの手順,決まりきった仕事」に触れていました。"
+toeic-700-porter,toeic,toeic-700,porter,運搬人,"The client asked about ""porter"" after the meeting.",顧客は会議後に「運搬人」について尋ねました。
+toeic-700-honour,toeic,toeic-700,honour,"道義心,誠実,高潔","The team reviewed ""honour"" before making a decision.","チームは決定前に「道義心,誠実,高潔」を確認しました。"
+toeic-700-connect,toeic,toeic-700,connect,"を連結する,結びつける","The manager used ""connect"" in the monthly report.","マネージャーは月次報告で「を連結する,結びつける」を使いました。"
+toeic-700-merger,toeic,toeic-700,merger,吸収合併,"Employees should understand ""merger"" in business documents.",従業員は業務文書で「吸収合併」を理解する必要があります。
+toeic-700-roger,toeic,toeic-700,roger,了解,"The notice mentioned ""roger"" for all staff members.",その通知は全スタッフ向けに「了解」に触れていました。
+toeic-700-thorough,toeic,toeic-700,thorough,"完全な,完ぺきな","The client asked about ""thorough"" after the meeting.","顧客は会議後に「完全な,完ぺきな」について尋ねました。"
+toeic-700-wholesale,toeic,toeic-700,wholesale,卸し,"The team reviewed ""wholesale"" before making a decision.",チームは決定前に「卸し」を確認しました。
+toeic-700-circular,toeic,toeic-700,circular,"円形の,丸い","The manager used ""circular"" in the monthly report.","マネージャーは月次報告で「円形の,丸い」を使いました。"
+toeic-700-clearance,toeic,toeic-700,clearance,"取り片付け,除去,掃除","Employees should understand ""clearance"" in business documents.","従業員は業務文書で「取り片付け,除去,掃除」を理解する必要があります。"
+toeic-700-sake,toeic,toeic-700,sake,ため,"The notice mentioned ""sake"" for all staff members.",その通知は全スタッフ向けに「ため」に触れていました。
+toeic-700-enforce,toeic,toeic-700,enforce,"を実施する,施行する","The client asked about ""enforce"" after the meeting.","顧客は会議後に「を実施する,施行する」について尋ねました。"
+toeic-700-downtown,toeic,toeic-700,downtown,"商業地区へ,町の中心街へ","The team reviewed ""downtown"" before making a decision.","チームは決定前に「商業地区へ,町の中心街へ」を確認しました。"
+toeic-700-crystal,toeic,toeic-700,crystal,水晶,"The manager used ""crystal"" in the monthly report.",マネージャーは月次報告で「水晶」を使いました。
+toeic-700-offence,toeic,toeic-700,offence,罪,"Employees should understand ""offence"" in business documents.",従業員は業務文書で「罪」を理解する必要があります。
+toeic-700-confirm,toeic,toeic-700,confirm,"を確証する,立証する","The notice mentioned ""confirm"" for all staff members.","その通知は全スタッフ向けに「を確証する,立証する」に触れていました。"
+toeic-700-telephone,toeic,toeic-700,telephone,電話機,"The client asked about ""telephone"" after the meeting.",顧客は会議後に「電話機」について尋ねました。
+toeic-700-repair,toeic,toeic-700,repair,"修繕する,修理する","The team reviewed ""repair"" before making a decision.","チームは決定前に「修繕する,修理する」を確認しました。"
+toeic-700-tricky,toeic,toeic-700,tricky,"こうかつな,ずるい","The manager used ""tricky"" in the monthly report.","マネージャーは月次報告で「こうかつな,ずるい」を使いました。"
+toeic-700-ambitious,toeic,toeic-700,ambitious,"大望を抱いた,野心のある,大志を抱いた","Employees should understand ""ambitious"" in business documents.","従業員は業務文書で「大望を抱いた,野心のある,大志を抱いた」を理解する必要があります。"
+toeic-700-businessman,toeic,toeic-700,businessman,実業家,"The notice mentioned ""businessman"" for all staff members.",その通知は全スタッフ向けに「実業家」に触れていました。
+toeic-700-suck,toeic,toeic-700,suck,"を吸う,すする","The client asked about ""suck"" after the meeting.","顧客は会議後に「を吸う,すする」について尋ねました。"
+toeic-700-documentation,toeic,toeic-700,documentation,"文書調べ,文書による証拠固め","The team reviewed ""documentation"" before making a decision.","チームは決定前に「文書調べ,文書による証拠固め」を確認しました。"
+toeic-700-elevator,toeic,toeic-700,elevator,"エレベーター,昇降機","The manager used ""elevator"" in the monthly report.","マネージャーは月次報告で「エレベーター,昇降機」を使いました。"
+toeic-700-hike,toeic,toeic-700,hike,ハイキングする,"Employees should understand ""hike"" in business documents.",従業員は業務文書で「ハイキングする」を理解する必要があります。
+toeic-700-establishment,toeic,toeic-700,establishment,"設立,設置","The notice mentioned ""establishment"" for all staff members.","その通知は全スタッフ向けに「設立,設置」に触れていました。"
+toeic-700-disappointed,toeic,toeic-700,disappointed,当ての外れた,"The client asked about ""disappointed"" after the meeting.",顧客は会議後に「当ての外れた」について尋ねました。
+toeic-700-assist,toeic,toeic-700,assist,"を手伝う,助力する,助ける","The team reviewed ""assist"" before making a decision.","チームは決定前に「を手伝う,助力する,助ける」を確認しました。"
+toeic-700-worker,toeic,toeic-700,worker,"仕事をする人,勉強をする人","The manager used ""worker"" in the monthly report.","マネージャーは月次報告で「仕事をする人,勉強をする人」を使いました。"
+toeic-700-welfare,toeic,toeic-700,welfare,"幸福,繁栄","Employees should understand ""welfare"" in business documents.","従業員は業務文書で「幸福,繁栄」を理解する必要があります。"
+toeic-700-label,toeic,toeic-700,label,"はり札,ラベル","The notice mentioned ""label"" for all staff members.","その通知は全スタッフ向けに「はり札,ラベル」に触れていました。"
+toeic-700-commissioner,toeic,toeic-700,commissioner,"委員,理事","The client asked about ""commissioner"" after the meeting.","顧客は会議後に「委員,理事」について尋ねました。"
+toeic-700-float,toeic,toeic-700,float,"浮く,浮かぶ","The team reviewed ""float"" before making a decision.","チームは決定前に「浮く,浮かぶ」を確認しました。"
+toeic-700-grind,toeic,toeic-700,grind,"をひく,細かく砕く","The manager used ""grind"" in the monthly report.","マネージャーは月次報告で「をひく,細かく砕く」を使いました。"
+toeic-700-refund,toeic,toeic-700,refund,"を返済する,払い戻す","Employees should understand ""refund"" in business documents.","従業員は業務文書で「を返済する,払い戻す」を理解する必要があります。"
+toeic-700-assault,toeic,toeic-700,assault,"的な意で)襲うこと,強襲,攻撃","The notice mentioned ""assault"" for all staff members.","その通知は全スタッフ向けに「的な意で)襲うこと,強襲,攻撃」に触れていました。"
+toeic-700-supervision,toeic,toeic-700,supervision,"監督,管理,指揮","The client asked about ""supervision"" after the meeting.","顧客は会議後に「監督,管理,指揮」について尋ねました。"
+toeic-700-select,toeic,toeic-700,select,"選ぶ,選抜する,選出する","The team reviewed ""select"" before making a decision.","チームは決定前に「選ぶ,選抜する,選出する」を確認しました。"
+toeic-700-rating,toeic,toeic-700,rating,"格づけ,評価","The manager used ""rating"" in the monthly report.","マネージャーは月次報告で「格づけ,評価」を使いました。"
+toeic-700-penalty,toeic,toeic-700,penalty,"刑罰,処罰","Employees should understand ""penalty"" in business documents.","従業員は業務文書で「刑罰,処罰」を理解する必要があります。"
+toeic-700-bundle,toeic,toeic-700,bundle,"束,包み,巻いたもの","The notice mentioned ""bundle"" for all staff members.","その通知は全スタッフ向けに「束,包み,巻いたもの」に触れていました。"
+toeic-700-costly,toeic,toeic-700,costly,高価な,"The client asked about ""costly"" after the meeting.",顧客は会議後に「高価な」について尋ねました。
+toeic-700-enforcement,toeic,toeic-700,enforcement,"実施,施行","The team reviewed ""enforcement"" before making a decision.","チームは決定前に「実施,施行」を確認しました。"
+toeic-700-dial,toeic,toeic-700,dial,文字盤,"The manager used ""dial"" in the monthly report.",マネージャーは月次報告で「文字盤」を使いました。
+toeic-700-charity,toeic,toeic-700,charity,"博愛,慈愛,思いやり","Employees should understand ""charity"" in business documents.","従業員は業務文書で「博愛,慈愛,思いやり」を理解する必要があります。"
+toeic-700-gear,toeic,toeic-700,gear,"歯車,ギヤ","The notice mentioned ""gear"" for all staff members.","その通知は全スタッフ向けに「歯車,ギヤ」に触れていました。"
+toeic-700-founder,toeic,toeic-700,founder,"創設者,設立者","The client asked about ""founder"" after the meeting.","顧客は会議後に「創設者,設立者」について尋ねました。"
+toeic-700-extension,toeic,toeic-700,extension,"拡大すること,拡大されること","The team reviewed ""extension"" before making a decision.","チームは決定前に「拡大すること,拡大されること」を確認しました。"
+toeic-700-bound,toeic,toeic-700,bound,"はね上がる,はね飛ぶ,はね返る","The manager used ""bound"" in the monthly report.","マネージャーは月次報告で「はね上がる,はね飛ぶ,はね返る」を使いました。"
+toeic-700-treasurer,toeic,toeic-700,treasurer,会計係,"Employees should understand ""treasurer"" in business documents.",従業員は業務文書で「会計係」を理解する必要があります。
+toeic-700-assessment,toeic,toeic-700,assessment,"評価,査定","The notice mentioned ""assessment"" for all staff members.","その通知は全スタッフ向けに「評価,査定」に触れていました。"
+toeic-700-recognition,toeic,toeic-700,recognition,"見て気がつくこと,見覚え","The client asked about ""recognition"" after the meeting.","顧客は会議後に「見て気がつくこと,見覚え」について尋ねました。"
+toeic-700-impose,toeic,toeic-700,impose,"を課する,負わせる","The team reviewed ""impose"" before making a decision.","チームは決定前に「を課する,負わせる」を確認しました。"
+toeic-700-audio,toeic,toeic-700,audio,"可聴周波の,低周波の","The manager used ""audio"" in the monthly report.","マネージャーは月次報告で「可聴周波の,低周波の」を使いました。"
+toeic-700-leisure,toeic,toeic-700,leisure,"暇,余暇","Employees should understand ""leisure"" in business documents.","従業員は業務文書で「暇,余暇」を理解する必要があります。"
+toeic-700-stable,toeic,toeic-700,stable,"安定した,しっかりした","The notice mentioned ""stable"" for all staff members.","その通知は全スタッフ向けに「安定した,しっかりした」に触れていました。"
+toeic-700-rush,toeic,toeic-700,rush,トウシンソウ,"The client asked about ""rush"" after the meeting.",顧客は会議後に「トウシンソウ」について尋ねました。
+toeic-700-recognise,toeic,toeic-700,recognise,確かに認める,"The team reviewed ""recognise"" before making a decision.",チームは決定前に「確かに認める」を確認しました。
+toeic-700-subsidiary,toeic,toeic-700,subsidiary,補助の,"The manager used ""subsidiary"" in the monthly report.",マネージャーは月次報告で「補助の」を使いました。
+toeic-700-earn,toeic,toeic-700,earn,をかせぐ,"Employees should understand ""earn"" in business documents.",従業員は業務文書で「をかせぐ」を理解する必要があります。
+toeic-700-collector,toeic,toeic-700,collector,"収集家,採集者","The notice mentioned ""collector"" for all staff members.","その通知は全スタッフ向けに「収集家,採集者」に触れていました。"
+toeic-700-coal,toeic,toeic-700,coal,石炭,"The client asked about ""coal"" after the meeting.",顧客は会議後に「石炭」について尋ねました。
+toeic-700-shoulder,toeic,toeic-700,shoulder,肩,"The team reviewed ""shoulder"" before making a decision.",チームは決定前に「肩」を確認しました。
+toeic-700-observer,toeic,toeic-700,observer,"観察する人,見守る人","The manager used ""observer"" in the monthly report.","マネージャーは月次報告で「観察する人,見守る人」を使いました。"
+toeic-700-permission,toeic,toeic-700,permission,"許可,承諾","Employees should understand ""permission"" in business documents.","従業員は業務文書で「許可,承諾」を理解する必要があります。"
+toeic-700-ford,toeic,toeic-700,ford,フォード,"The notice mentioned ""ford"" for all staff members.",その通知は全スタッフ向けに「フォード」に触れていました。
+toeic-700-document,toeic,toeic-700,document,"文書,書類","The client asked about ""document"" after the meeting.","顧客は会議後に「文書,書類」について尋ねました。"
+toeic-700-quote,toeic,toeic-700,quote,を引用する,"The team reviewed ""quote"" before making a decision.",チームは決定前に「を引用する」を確認しました。
+toeic-700-plastic,toeic,toeic-700,plastic,プラスチック,"The manager used ""plastic"" in the monthly report.",マネージャーは月次報告で「プラスチック」を使いました。
+toeic-700-exact,toeic,toeic-700,exact,"正確な,きっかりの","Employees should understand ""exact"" in business documents.","従業員は業務文書で「正確な,きっかりの」を理解する必要があります。"
+toeic-700-comedy,toeic,toeic-700,comedy,喜劇,"The notice mentioned ""comedy"" for all staff members.",その通知は全スタッフ向けに「喜劇」に触れていました。
+toeic-700-witness,toeic,toeic-700,witness,目撃者,"The client asked about ""witness"" after the meeting.",顧客は会議後に「目撃者」について尋ねました。
+toeic-700-shipping,toeic,toeic-700,shipping,"船積み,積み出し,発送","The team reviewed ""shipping"" before making a decision.","チームは決定前に「船積み,積み出し,発送」を確認しました。"
+toeic-700-recognize,toeic,toeic-700,recognize,確かに認める,"The manager used ""recognize"" in the monthly report.",マネージャーは月次報告で「確かに認める」を使いました。
+toeic-700-hollywood,toeic,toeic-700,hollywood,ハリウッド,"Employees should understand ""hollywood"" in business documents.",従業員は業務文書で「ハリウッド」を理解する必要があります。
+toeic-700-engaged,toeic,toeic-700,engaged,忙しい,"The notice mentioned ""engaged"" for all staff members.",その通知は全スタッフ向けに「忙しい」に触れていました。
+toeic-700-tory,toeic,toeic-700,tory,トーリー党員,"The client asked about ""tory"" after the meeting.",顧客は会議後に「トーリー党員」について尋ねました。
+toeic-700-unemployed,toeic,toeic-700,unemployed,"仕事のない,失業した","The team reviewed ""unemployed"" before making a decision.","チームは決定前に「仕事のない,失業した」を確認しました。"
+toeic-700-wagon,toeic,toeic-700,wagon,馬車,"The manager used ""wagon"" in the monthly report.",マネージャーは月次報告で「馬車」を使いました。
+toeic-700-soviet,toeic,toeic-700,soviet,地方会議,"Employees should understand ""soviet"" in business documents.",従業員は業務文書で「地方会議」を理解する必要があります。
+toeic-700-contracted,toeic,toeic-700,contracted,"縮めた,収縮した","The notice mentioned ""contracted"" for all staff members.","その通知は全スタッフ向けに「縮めた,収縮した」に触れていました。"
+toeic-700-client,toeic,toeic-700,client,"依頼人,訴訟依頼人","The client asked about ""client"" after the meeting.","顧客は会議後に「依頼人,訴訟依頼人」について尋ねました。"
+toeic-700-championship,toeic,toeic-700,championship,優勝者の地位,"The team reviewed ""championship"" before making a decision.",チームは決定前に「優勝者の地位」を確認しました。
+toeic-700-cable,toeic,toeic-700,cable,太綱,"The manager used ""cable"" in the monthly report.",マネージャーは月次報告で「太綱」を使いました。
+toeic-700-legislation,toeic,toeic-700,legislation,"立法,法律制定","Employees should understand ""legislation"" in business documents.","従業員は業務文書で「立法,法律制定」を理解する必要があります。"
+toeic-700-deliver,toeic,toeic-700,deliver,"を配達する,届ける","The notice mentioned ""deliver"" for all staff members.","その通知は全スタッフ向けに「を配達する,届ける」に触れていました。"
+toeic-700-crash,toeic,toeic-700,crash,"ガラガラ,ドシン","The client asked about ""crash"" after the meeting.","顧客は会議後に「ガラガラ,ドシン」について尋ねました。"
+toeic-700-specialty,toeic,toeic-700,specialty,"専門,専攻","The team reviewed ""specialty"" before making a decision.","チームは決定前に「専門,専攻」を確認しました。"
+toeic-700-tool,toeic,toeic-700,tool,"道具,工具","The manager used ""tool"" in the monthly report.","マネージャーは月次報告で「道具,工具」を使いました。"
+toeic-700-voyage,toeic,toeic-700,voyage,"航海,航行","Employees should understand ""voyage"" in business documents.","従業員は業務文書で「航海,航行」を理解する必要があります。"
+toeic-700-attachment,toeic,toeic-700,attachment,"付くこと,付着,付属","The notice mentioned ""attachment"" for all staff members.","その通知は全スタッフ向けに「付くこと,付着,付属」に触れていました。"
+toeic-700-excuse,toeic,toeic-700,excuse,"を許す,認める","The client asked about ""excuse"" after the meeting.","顧客は会議後に「を許す,認める」について尋ねました。"
+toeic-700-counter,toeic,toeic-700,counter,"売り台,勘定台,カウンター","The team reviewed ""counter"" before making a decision.","チームは決定前に「売り台,勘定台,カウンター」を確認しました。"
+toeic-700-transportation,toeic,toeic-700,transportation,"輸送,運送","The manager used ""transportation"" in the monthly report.","マネージャーは月次報告で「輸送,運送」を使いました。"
+toeic-700-programme,toeic,toeic-700,programme,"プログラム,番組表","Employees should understand ""programme"" in business documents.","従業員は業務文書で「プログラム,番組表」を理解する必要があります。"
+toeic-700-interfere,toeic,toeic-700,interfere,"干渉する,口出しをする","The notice mentioned ""interfere"" for all staff members.","その通知は全スタッフ向けに「干渉する,口出しをする」に触れていました。"
+toeic-700-chemical,toeic,toeic-700,chemical,"化学の,化学上の","The client asked about ""chemical"" after the meeting.","顧客は会議後に「化学の,化学上の」について尋ねました。"
+toeic-700-category,toeic,toeic-700,category,範疇,"The team reviewed ""category"" before making a decision.",チームは決定前に「範疇」を確認しました。
+toeic-700-assume,toeic,toeic-700,assume,"当然のことと思う,仮定する,推測する","The manager used ""assume"" in the monthly report.","マネージャーは月次報告で「当然のことと思う,仮定する,推測する」を使いました。"
+toeic-700-afford,toeic,toeic-700,afford,の余裕がある,"Employees should understand ""afford"" in business documents.",従業員は業務文書で「の余裕がある」を理解する必要があります。
+toeic-700-billboard,toeic,toeic-700,billboard,"掲示板,広告板","The notice mentioned ""billboard"" for all staff members.","その通知は全スタッフ向けに「掲示板,広告板」に触れていました。"
+toeic-700-saving,toeic,toeic-700,saving,"欠点を補う,埋め合わせとなる","The client asked about ""saving"" after the meeting.","顧客は会議後に「欠点を補う,埋め合わせとなる」について尋ねました。"
+toeic-700-reasonable,toeic,toeic-700,reasonable,"理性的な,分別のある","The team reviewed ""reasonable"" before making a decision.","チームは決定前に「理性的な,分別のある」を確認しました。"
+toeic-700-consult,toeic,toeic-700,consult,"頼る,求める,相談する","The manager used ""consult"" in the monthly report.","マネージャーは月次報告で「頼る,求める,相談する」を使いました。"
+toeic-700-delivery,toeic,toeic-700,delivery,"配達,便","Employees should understand ""delivery"" in business documents.","従業員は業務文書で「配達,便」を理解する必要があります。"
+toeic-700-careful,toeic,toeic-700,careful,"注意深い,慎重な,気をつける","The notice mentioned ""careful"" for all staff members.","その通知は全スタッフ向けに「注意深い,慎重な,気をつける」に触れていました。"
+toeic-700-territory,toeic,toeic-700,territory,"地域,地方","The client asked about ""territory"" after the meeting.","顧客は会議後に「地域,地方」について尋ねました。"
+toeic-700-repeal,toeic,toeic-700,repeal,"を公式に無効にする,廃止する","The team reviewed ""repeal"" before making a decision.","チームは決定前に「を公式に無効にする,廃止する」を確認しました。"
+toeic-700-reuters,toeic,toeic-700,reuters,ロイター通信社,"The manager used ""reuters"" in the monthly report.",マネージャーは月次報告で「ロイター通信社」を使いました。
+toeic-700-dealing,toeic,toeic-700,dealing,"交際関係,取引き関係","Employees should understand ""dealing"" in business documents.","従業員は業務文書で「交際関係,取引き関係」を理解する必要があります。"
+toeic-700-fail,toeic,toeic-700,fail,"失敗する,しくじる","The notice mentioned ""fail"" for all staff members.","その通知は全スタッフ向けに「失敗する,しくじる」に触れていました。"
+toeic-700-conservative,toeic,toeic-700,conservative,保守的な・保守主義の,"The client asked about ""conservative"" after the meeting.",顧客は会議後に「保守的な・保守主義の」について尋ねました。
+toeic-700-congressman,toeic,toeic-700,congressman,"国会議員,下院議員","The team reviewed ""congressman"" before making a decision.","チームは決定前に「国会議員,下院議員」を確認しました。"
+toeic-700-correspondent,toeic,toeic-700,correspondent,"文通する人,手紙を書く人","The manager used ""correspondent"" in the monthly report.","マネージャーは月次報告で「文通する人,手紙を書く人」を使いました。"
+toeic-700-coupon,toeic,toeic-700,coupon,クーポン,"Employees should understand ""coupon"" in business documents.",従業員は業務文書で「クーポン」を理解する必要があります。
+toeic-700-assembly,toeic,toeic-700,assembly,"集会,会合,会議","The notice mentioned ""assembly"" for all staff members.","その通知は全スタッフ向けに「集会,会合,会議」に触れていました。"
+toeic-700-fulfill,toeic,toeic-700,fulfill,"を果たす,実行する","The client asked about ""fulfill"" after the meeting.","顧客は会議後に「を果たす,実行する」について尋ねました。"
+toeic-700-handbook,toeic,toeic-700,handbook,"手引き,便覧,学習書","The team reviewed ""handbook"" before making a decision.","チームは決定前に「手引き,便覧,学習書」を確認しました。"
+toeic-700-literature,toeic,toeic-700,literature,文学,"The manager used ""literature"" in the monthly report.",マネージャーは月次報告で「文学」を使いました。
+toeic-700-editor,toeic,toeic-700,editor,編集者,"Employees should understand ""editor"" in business documents.",従業員は業務文書で「編集者」を理解する必要があります。
+toeic-700-trading,toeic,toeic-700,trading,商業に従事する,"The notice mentioned ""trading"" for all staff members.",その通知は全スタッフ向けに「商業に従事する」に触れていました。
+toeic-700-nonprofit,toeic,toeic-700,nonprofit,非営利的な,"The client asked about ""nonprofit"" after the meeting.",顧客は会議後に「非営利的な」について尋ねました。
+toeic-700-operative,toeic,toeic-700,operative,"働く,運転する","The team reviewed ""operative"" before making a decision.","チームは決定前に「働く,運転する」を確認しました。"
+toeic-700-pickup,toeic,toeic-700,pickup,pick upすること,"The manager used ""pickup"" in the monthly report.",マネージャーは月次報告で「pick upすること」を使いました。
+toeic-700-relay,toeic,toeic-700,relay,"替え馬,継ぎ馬","Employees should understand ""relay"" in business documents.","従業員は業務文書で「替え馬,継ぎ馬」を理解する必要があります。"
+toeic-700-coverage,toeic,toeic-700,coverage,報道,"The notice mentioned ""coverage"" for all staff members.",その通知は全スタッフ向けに「報道」に触れていました。
+toeic-700-taxpayer,toeic,toeic-700,taxpayer,"納税者,被課税者","The client asked about ""taxpayer"" after the meeting.","顧客は会議後に「納税者,被課税者」について尋ねました。"
+toeic-700-blame,toeic,toeic-700,blame,"を非難する,とがめる","The team reviewed ""blame"" before making a decision.","チームは決定前に「を非難する,とがめる」を確認しました。"
+toeic-700-truck,toeic,toeic-700,truck,"運搬車,手押し車,トロッコ","The manager used ""truck"" in the monthly report.","マネージャーは月次報告で「運搬車,手押し車,トロッコ」を使いました。"
+toeic-700-strange,toeic,toeic-700,strange,"奇妙な,異常な,変な","Employees should understand ""strange"" in business documents.","従業員は業務文書で「奇妙な,異常な,変な」を理解する必要があります。"
+toeic-700-secure,toeic,toeic-700,secure,"安定した,確実性のある,保証されている","The notice mentioned ""secure"" for all staff members.","その通知は全スタッフ向けに「安定した,確実性のある,保証されている」に触れていました。"
+toeic-700-fill,toeic,toeic-700,fill,"をいっぱいにする,満たす,につぐ","The client asked about ""fill"" after the meeting.","顧客は会議後に「をいっぱいにする,満たす,につぐ」について尋ねました。"
+toeic-700-fault,toeic,toeic-700,fault,"欠点,短所","The team reviewed ""fault"" before making a decision.","チームは決定前に「欠点,短所」を確認しました。"
+toeic-700-carriage,toeic,toeic-700,carriage,四輪馬車,"The manager used ""carriage"" in the monthly report.",マネージャーは月次報告で「四輪馬車」を使いました。
+toeic-700-corporate,toeic,toeic-700,corporate,法人の,"Employees should understand ""corporate"" in business documents.",従業員は業務文書で「法人の」を理解する必要があります。
+toeic-700-correspondence,toeic,toeic-700,correspondence,"一致,調和類似","The notice mentioned ""correspondence"" for all staff members.","その通知は全スタッフ向けに「一致,調和類似」に触れていました。"
+toeic-700-task,toeic,toeic-700,task,"仕事,務め","The client asked about ""task"" after the meeting.","顧客は会議後に「仕事,務め」について尋ねました。"

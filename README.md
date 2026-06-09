@@ -16,9 +16,12 @@ This repository hosts public CSV files consumed by the WordGate iOS app.
 
 Each level is published as a standalone CSV under `levels/`.
 
-Each level currently contains 80 original entries. Run this command after editing the generator:
+Each level currently contains 500 entries. The generator keeps the curated rows in `seeds/` as stable seed data, then fills the remaining rows from public-domain EJDict data using frequency and topic heuristics.
+
+Run this command after editing the generator:
 
 ```bash
+python3 -m pip install --user wordfreq
 python3 VocabularyCSV/generate_vocabulary_csv.py
 ```
 

@@ -1,81 +1,501 @@
 id,axis,level_id,spelling,translation,example,example_translation
-toeic-850-accommodate,toeic,toeic-850,accommodate,対応する,The team will accommodate the details this week.,チームは今週、詳細を対応する予定です。
-toeic-850-consecutive,toeic,toeic-850,consecutive,連続した,The new process is consecutive for daily work.,新しい手順は日々の業務に連続したです。
-toeic-850-substantial,toeic,toeic-850,substantial,かなりの,The new process is substantial for daily work.,新しい手順は日々の業務にかなりのです。
-toeic-850-constraint,toeic,toeic-850,constraint,制約,The manager reviewed the constraint before the meeting.,マネージャーは会議の前に制約を確認しました。
-toeic-850-eligible,toeic,toeic-850,eligible,資格がある,The new process is eligible for daily work.,新しい手順は日々の業務に資格があるです。
-toeic-850-procurement,toeic,toeic-850,procurement,調達,The manager reviewed the procurement before the meeting.,マネージャーは会議の前に調達を確認しました。
-toeic-850-reimburse,toeic,toeic-850,reimburse,払い戻す,The team will reimburse the details this week.,チームは今週、詳細を払い戻す予定です。
-toeic-850-turnover,toeic,toeic-850,turnover,離職率,The manager reviewed the turnover before the meeting.,マネージャーは会議の前に離職率を確認しました。
-toeic-850-feasible,toeic,toeic-850,feasible,実行可能な,The new process is feasible for daily work.,新しい手順は日々の業務に実行可能なです。
-toeic-850-authorize,toeic,toeic-850,authorize,承認する,The team will authorize the details this week.,チームは今週、詳細を承認する予定です。
-toeic-850-premises,toeic,toeic-850,premises,敷地,The manager reviewed the premises before the meeting.,マネージャーは会議の前に敷地を確認しました。
-toeic-850-discrepancy,toeic,toeic-850,discrepancy,不一致,The manager reviewed the discrepancy before the meeting.,マネージャーは会議の前に不一致を確認しました。
-toeic-850-acquisition,toeic,toeic-850,acquisition,買収,The manager reviewed the acquisition before the meeting.,マネージャーは会議の前に買収を確認しました。
-toeic-850-affiliate,toeic,toeic-850,affiliate,関連会社,The manager reviewed the affiliate before the meeting.,マネージャーは会議の前に関連会社を確認しました。
-toeic-850-asset,toeic,toeic-850,asset,資産,The manager reviewed the asset before the meeting.,マネージャーは会議の前に資産を確認しました。
-toeic-850-liability,toeic,toeic-850,liability,負債,The manager reviewed the liability before the meeting.,マネージャーは会議の前に負債を確認しました。
-toeic-850-logistics,toeic,toeic-850,logistics,物流,The manager reviewed the logistics before the meeting.,マネージャーは会議の前に物流を確認しました。
-toeic-850-memorandum,toeic,toeic-850,memorandum,覚書,The manager reviewed the memorandum before the meeting.,マネージャーは会議の前に覚書を確認しました。
-toeic-850-objective,toeic,toeic-850,objective,目的,The manager reviewed the objective before the meeting.,マネージャーは会議の前に目的を確認しました。
-toeic-850-obligation,toeic,toeic-850,obligation,義務,The manager reviewed the obligation before the meeting.,マネージャーは会議の前に義務を確認しました。
-toeic-850-outcome,toeic,toeic-850,outcome,結果,The manager reviewed the outcome before the meeting.,マネージャーは会議の前に結果を確認しました。
-toeic-850-productivity,toeic,toeic-850,productivity,生産性,The manager reviewed the productivity before the meeting.,マネージャーは会議の前に生産性を確認しました。
-toeic-850-quota,toeic,toeic-850,quota,割り当て,The manager reviewed the quota before the meeting.,マネージャーは会議の前に割り当てを確認しました。
-toeic-850-retailer,toeic,toeic-850,retailer,小売業者,The manager reviewed the retailer before the meeting.,マネージャーは会議の前に小売業者を確認しました。
-toeic-850-vendor,toeic,toeic-850,vendor,販売業者,The manager reviewed the vendor before the meeting.,マネージャーは会議の前に販売業者を確認しました。
-toeic-850-wholesale,toeic,toeic-850,wholesale,卸売,The manager reviewed the wholesale before the meeting.,マネージャーは会議の前に卸売を確認しました。
-toeic-850-depreciation,toeic,toeic-850,depreciation,減価償却,The manager reviewed the depreciation before the meeting.,マネージャーは会議の前に減価償却を確認しました。
-toeic-850-deduction,toeic,toeic-850,deduction,控除,The manager reviewed the deduction before the meeting.,マネージャーは会議の前に控除を確認しました。
-toeic-850-merger,toeic,toeic-850,merger,合併,The manager reviewed the merger before the meeting.,マネージャーは会議の前に合併を確認しました。
-toeic-850-patent,toeic,toeic-850,patent,特許,The manager reviewed the patent before the meeting.,マネージャーは会議の前に特許を確認しました。
-toeic-850-projection,toeic,toeic-850,projection,予測,The manager reviewed the projection before the meeting.,マネージャーは会議の前に予測を確認しました。
-toeic-850-relocation,toeic,toeic-850,relocation,移転,The manager reviewed the relocation before the meeting.,マネージャーは会議の前に移転を確認しました。
-toeic-850-subsidiary,toeic,toeic-850,subsidiary,子会社,The manager reviewed the subsidiary before the meeting.,マネージャーは会議の前に子会社を確認しました。
-toeic-850-surplus,toeic,toeic-850,surplus,余剰,The manager reviewed the surplus before the meeting.,マネージャーは会議の前に余剰を確認しました。
-toeic-850-profitability,toeic,toeic-850,profitability,収益性,The manager reviewed the profitability before the meeting.,マネージャーは会議の前に収益性を確認しました。
-toeic-850-compliance,toeic,toeic-850,compliance,法令遵守,The manager reviewed the compliance before the meeting.,マネージャーは会議の前に法令遵守を確認しました。
-toeic-850-certification,toeic,toeic-850,certification,認証,The manager reviewed the certification before the meeting.,マネージャーは会議の前に認証を確認しました。
-toeic-850-database,toeic,toeic-850,database,データベース,The manager reviewed the database before the meeting.,マネージャーは会議の前にデータベースを確認しました。
-toeic-850-evaluation,toeic,toeic-850,evaluation,評価,The manager reviewed the evaluation before the meeting.,マネージャーは会議の前に評価を確認しました。
-toeic-850-delegation,toeic,toeic-850,delegation,委任,The manager reviewed the delegation before the meeting.,マネージャーは会議の前に委任を確認しました。
-toeic-850-implementation,toeic,toeic-850,implementation,実施,The manager reviewed the implementation before the meeting.,マネージャーは会議の前に実施を確認しました。
-toeic-850-facilitate,toeic,toeic-850,facilitate,促進する,The team will facilitate the details this week.,チームは今週、詳細を促進する予定です。
-toeic-850-delegate,toeic,toeic-850,delegate,委任する,The team will delegate the details this week.,チームは今週、詳細を委任する予定です。
-toeic-850-implement,toeic,toeic-850,implement,実施する,The team will implement the details this week.,チームは今週、詳細を実施する予定です。
-toeic-850-forecast,toeic,toeic-850,forecast,予測する,The team will forecast the details this week.,チームは今週、詳細を予測する予定です。
-toeic-850-outsource,toeic,toeic-850,outsource,外部委託する,The team will outsource the details this week.,チームは今週、詳細を外部委託する予定です。
-toeic-850-diversify,toeic,toeic-850,diversify,多角化する,The team will diversify the details this week.,チームは今週、詳細を多角化する予定です。
-toeic-850-expedite,toeic,toeic-850,expedite,迅速化する,The team will expedite the details this week.,チームは今週、詳細を迅速化する予定です。
-toeic-850-audit,toeic,toeic-850,audit,監査する,The team will audit the details this week.,チームは今週、詳細を監査する予定です。
-toeic-850-approve,toeic,toeic-850,approve,承認する,The team will approve the details this week.,チームは今週、詳細を承認する予定です。
-toeic-850-restructure,toeic,toeic-850,restructure,再編する,The team will restructure the details this week.,チームは今週、詳細を再編する予定です。
-toeic-850-coordinate,toeic,toeic-850,coordinate,調整する,The team will coordinate the details this week.,チームは今週、詳細を調整する予定です。
-toeic-850-verify,toeic,toeic-850,verify,検証する,The team will verify the details this week.,チームは今週、詳細を検証する予定です。
-toeic-850-revise,toeic,toeic-850,revise,改訂する,The team will revise the details this week.,チームは今週、詳細を改訂する予定です。
-toeic-850-specialize,toeic,toeic-850,specialize,専門化する,Employees need to specialize when the situation changes.,状況が変わったとき、従業員は専門化する必要があります。
-toeic-850-confidential,toeic,toeic-850,confidential,機密の,The new process is confidential for daily work.,新しい手順は日々の業務に機密のです。
-toeic-850-considerable,toeic,toeic-850,considerable,かなりの,The new process is considerable for daily work.,新しい手順は日々の業務にかなりのです。
-toeic-850-mandatory,toeic,toeic-850,mandatory,必須の,The new process is mandatory for daily work.,新しい手順は日々の業務に必須のです。
-toeic-850-preliminary,toeic,toeic-850,preliminary,予備的な,The new process is preliminary for daily work.,新しい手順は日々の業務に予備的なです。
-toeic-850-strategic,toeic,toeic-850,strategic,戦略的な,The new process is strategic for daily work.,新しい手順は日々の業務に戦略的なです。
-toeic-850-sustainable,toeic,toeic-850,sustainable,持続可能な,The new process is sustainable for daily work.,新しい手順は日々の業務に持続可能なです。
-toeic-850-technical,toeic,toeic-850,technical,技術的な,The new process is technical for daily work.,新しい手順は日々の業務に技術的なです。
-toeic-850-valid,toeic,toeic-850,valid,有効な,The new process is valid for daily work.,新しい手順は日々の業務に有効なです。
-toeic-850-versatile,toeic,toeic-850,versatile,多用途の,The new process is versatile for daily work.,新しい手順は日々の業務に多用途のです。
-toeic-850-comprehensive,toeic,toeic-850,comprehensive,包括的な,The new process is comprehensive for daily work.,新しい手順は日々の業務に包括的なです。
-toeic-850-compatible,toeic,toeic-850,compatible,互換性のある,The new process is compatible for daily work.,新しい手順は日々の業務に互換性のあるです。
-toeic-850-insufficient,toeic,toeic-850,insufficient,不十分な,The new process is insufficient for daily work.,新しい手順は日々の業務に不十分なです。
-toeic-850-outstanding,toeic,toeic-850,outstanding,未払いの,The new process is outstanding for daily work.,新しい手順は日々の業務に未払いのです。
-toeic-850-prospective,toeic,toeic-850,prospective,見込みのある,The new process is prospective for daily work.,新しい手順は日々の業務に見込みのあるです。
-toeic-850-recurrent,toeic,toeic-850,recurrent,再発する,The new process is recurrent for daily work.,新しい手順は日々の業務に再発するです。
-toeic-850-stable,toeic,toeic-850,stable,安定した,The new process is stable for daily work.,新しい手順は日々の業務に安定したです。
-toeic-850-tentative,toeic,toeic-850,tentative,仮の,The new process is tentative for daily work.,新しい手順は日々の業務に仮のです。
-toeic-850-thorough,toeic,toeic-850,thorough,徹底的な,The new process is thorough for daily work.,新しい手順は日々の業務に徹底的なです。
-toeic-850-annually,toeic,toeic-850,annually,毎年,The staff responded annually to the request.,スタッフはその依頼に毎年対応しました。
-toeic-850-approximately,toeic,toeic-850,approximately,およそ,The staff responded approximately to the request.,スタッフはその依頼におよそ対応しました。
-toeic-850-accordingly,toeic,toeic-850,accordingly,それに応じて,The staff responded accordingly to the request.,スタッフはその依頼にそれに応じて対応しました。
-toeic-850-mutually,toeic,toeic-850,mutually,相互に,The staff responded mutually to the request.,スタッフはその依頼に相互に対応しました。
-toeic-850-promptly,toeic,toeic-850,promptly,迅速に,The staff responded promptly to the request.,スタッフはその依頼に迅速に対応しました。
-toeic-850-efficiently,toeic,toeic-850,efficiently,効率的に,The staff responded efficiently to the request.,スタッフはその依頼に効率的に対応しました。
-toeic-850-substantially,toeic,toeic-850,substantially,大幅に,The staff responded substantially to the request.,スタッフはその依頼に大幅に対応しました。
+toeic-850-accommodate,toeic,toeic-850,accommodate,対応する,"The team reviewed ""accommodate"" before making a decision.",チームは決定前に「対応する」を確認しました。
+toeic-850-consecutive,toeic,toeic-850,consecutive,連続した,"The manager used ""consecutive"" in the monthly report.",マネージャーは月次報告で「連続した」を使いました。
+toeic-850-substantial,toeic,toeic-850,substantial,かなりの,"Employees should understand ""substantial"" in business documents.",従業員は業務文書で「かなりの」を理解する必要があります。
+toeic-850-constraint,toeic,toeic-850,constraint,制約,"The notice mentioned ""constraint"" for all staff members.",その通知は全スタッフ向けに「制約」に触れていました。
+toeic-850-eligible,toeic,toeic-850,eligible,資格がある,"The client asked about ""eligible"" after the meeting.",顧客は会議後に「資格がある」について尋ねました。
+toeic-850-procurement,toeic,toeic-850,procurement,調達,"The team reviewed ""procurement"" before making a decision.",チームは決定前に「調達」を確認しました。
+toeic-850-reimburse,toeic,toeic-850,reimburse,払い戻す,"The manager used ""reimburse"" in the monthly report.",マネージャーは月次報告で「払い戻す」を使いました。
+toeic-850-turnover,toeic,toeic-850,turnover,離職率,"Employees should understand ""turnover"" in business documents.",従業員は業務文書で「離職率」を理解する必要があります。
+toeic-850-feasible,toeic,toeic-850,feasible,実行可能な,"The notice mentioned ""feasible"" for all staff members.",その通知は全スタッフ向けに「実行可能な」に触れていました。
+toeic-850-authorize,toeic,toeic-850,authorize,承認する,"The client asked about ""authorize"" after the meeting.",顧客は会議後に「承認する」について尋ねました。
+toeic-850-premises,toeic,toeic-850,premises,敷地,"The team reviewed ""premises"" before making a decision.",チームは決定前に「敷地」を確認しました。
+toeic-850-discrepancy,toeic,toeic-850,discrepancy,不一致,"The manager used ""discrepancy"" in the monthly report.",マネージャーは月次報告で「不一致」を使いました。
+toeic-850-acquisition,toeic,toeic-850,acquisition,買収,"Employees should understand ""acquisition"" in business documents.",従業員は業務文書で「買収」を理解する必要があります。
+toeic-850-affiliate,toeic,toeic-850,affiliate,関連会社,"The notice mentioned ""affiliate"" for all staff members.",その通知は全スタッフ向けに「関連会社」に触れていました。
+toeic-850-asset,toeic,toeic-850,asset,資産,"The client asked about ""asset"" after the meeting.",顧客は会議後に「資産」について尋ねました。
+toeic-850-liability,toeic,toeic-850,liability,負債,"The team reviewed ""liability"" before making a decision.",チームは決定前に「負債」を確認しました。
+toeic-850-logistics,toeic,toeic-850,logistics,物流,"The manager used ""logistics"" in the monthly report.",マネージャーは月次報告で「物流」を使いました。
+toeic-850-memorandum,toeic,toeic-850,memorandum,覚書,"Employees should understand ""memorandum"" in business documents.",従業員は業務文書で「覚書」を理解する必要があります。
+toeic-850-objective,toeic,toeic-850,objective,目的,"The notice mentioned ""objective"" for all staff members.",その通知は全スタッフ向けに「目的」に触れていました。
+toeic-850-obligation,toeic,toeic-850,obligation,義務,"The client asked about ""obligation"" after the meeting.",顧客は会議後に「義務」について尋ねました。
+toeic-850-outcome,toeic,toeic-850,outcome,結果,"The team reviewed ""outcome"" before making a decision.",チームは決定前に「結果」を確認しました。
+toeic-850-productivity,toeic,toeic-850,productivity,生産性,"The manager used ""productivity"" in the monthly report.",マネージャーは月次報告で「生産性」を使いました。
+toeic-850-quota,toeic,toeic-850,quota,割り当て,"Employees should understand ""quota"" in business documents.",従業員は業務文書で「割り当て」を理解する必要があります。
+toeic-850-retailer,toeic,toeic-850,retailer,小売業者,"The notice mentioned ""retailer"" for all staff members.",その通知は全スタッフ向けに「小売業者」に触れていました。
+toeic-850-vendor,toeic,toeic-850,vendor,販売業者,"The client asked about ""vendor"" after the meeting.",顧客は会議後に「販売業者」について尋ねました。
+toeic-850-wholesale,toeic,toeic-850,wholesale,卸売,"The team reviewed ""wholesale"" before making a decision.",チームは決定前に「卸売」を確認しました。
+toeic-850-depreciation,toeic,toeic-850,depreciation,減価償却,"The manager used ""depreciation"" in the monthly report.",マネージャーは月次報告で「減価償却」を使いました。
+toeic-850-deduction,toeic,toeic-850,deduction,控除,"Employees should understand ""deduction"" in business documents.",従業員は業務文書で「控除」を理解する必要があります。
+toeic-850-merger,toeic,toeic-850,merger,合併,"The notice mentioned ""merger"" for all staff members.",その通知は全スタッフ向けに「合併」に触れていました。
+toeic-850-patent,toeic,toeic-850,patent,特許,"The client asked about ""patent"" after the meeting.",顧客は会議後に「特許」について尋ねました。
+toeic-850-projection,toeic,toeic-850,projection,予測,"The team reviewed ""projection"" before making a decision.",チームは決定前に「予測」を確認しました。
+toeic-850-relocation,toeic,toeic-850,relocation,移転,"The manager used ""relocation"" in the monthly report.",マネージャーは月次報告で「移転」を使いました。
+toeic-850-subsidiary,toeic,toeic-850,subsidiary,子会社,"Employees should understand ""subsidiary"" in business documents.",従業員は業務文書で「子会社」を理解する必要があります。
+toeic-850-surplus,toeic,toeic-850,surplus,余剰,"The notice mentioned ""surplus"" for all staff members.",その通知は全スタッフ向けに「余剰」に触れていました。
+toeic-850-profitability,toeic,toeic-850,profitability,収益性,"The client asked about ""profitability"" after the meeting.",顧客は会議後に「収益性」について尋ねました。
+toeic-850-compliance,toeic,toeic-850,compliance,法令遵守,"The team reviewed ""compliance"" before making a decision.",チームは決定前に「法令遵守」を確認しました。
+toeic-850-certification,toeic,toeic-850,certification,認証,"The manager used ""certification"" in the monthly report.",マネージャーは月次報告で「認証」を使いました。
+toeic-850-database,toeic,toeic-850,database,データベース,"Employees should understand ""database"" in business documents.",従業員は業務文書で「データベース」を理解する必要があります。
+toeic-850-evaluation,toeic,toeic-850,evaluation,評価,"The notice mentioned ""evaluation"" for all staff members.",その通知は全スタッフ向けに「評価」に触れていました。
+toeic-850-delegation,toeic,toeic-850,delegation,委任,"The client asked about ""delegation"" after the meeting.",顧客は会議後に「委任」について尋ねました。
+toeic-850-implementation,toeic,toeic-850,implementation,実施,"The team reviewed ""implementation"" before making a decision.",チームは決定前に「実施」を確認しました。
+toeic-850-facilitate,toeic,toeic-850,facilitate,促進する,"The manager used ""facilitate"" in the monthly report.",マネージャーは月次報告で「促進する」を使いました。
+toeic-850-delegate,toeic,toeic-850,delegate,委任する,"Employees should understand ""delegate"" in business documents.",従業員は業務文書で「委任する」を理解する必要があります。
+toeic-850-implement,toeic,toeic-850,implement,実施する,"The notice mentioned ""implement"" for all staff members.",その通知は全スタッフ向けに「実施する」に触れていました。
+toeic-850-forecast,toeic,toeic-850,forecast,予測する,"The client asked about ""forecast"" after the meeting.",顧客は会議後に「予測する」について尋ねました。
+toeic-850-outsource,toeic,toeic-850,outsource,外部委託する,"The team reviewed ""outsource"" before making a decision.",チームは決定前に「外部委託する」を確認しました。
+toeic-850-diversify,toeic,toeic-850,diversify,多角化する,"The manager used ""diversify"" in the monthly report.",マネージャーは月次報告で「多角化する」を使いました。
+toeic-850-expedite,toeic,toeic-850,expedite,迅速化する,"Employees should understand ""expedite"" in business documents.",従業員は業務文書で「迅速化する」を理解する必要があります。
+toeic-850-audit,toeic,toeic-850,audit,監査する,"The notice mentioned ""audit"" for all staff members.",その通知は全スタッフ向けに「監査する」に触れていました。
+toeic-850-approve,toeic,toeic-850,approve,承認する,"The client asked about ""approve"" after the meeting.",顧客は会議後に「承認する」について尋ねました。
+toeic-850-restructure,toeic,toeic-850,restructure,再編する,"The team reviewed ""restructure"" before making a decision.",チームは決定前に「再編する」を確認しました。
+toeic-850-coordinate,toeic,toeic-850,coordinate,調整する,"The manager used ""coordinate"" in the monthly report.",マネージャーは月次報告で「調整する」を使いました。
+toeic-850-verify,toeic,toeic-850,verify,検証する,"Employees should understand ""verify"" in business documents.",従業員は業務文書で「検証する」を理解する必要があります。
+toeic-850-revise,toeic,toeic-850,revise,改訂する,"The notice mentioned ""revise"" for all staff members.",その通知は全スタッフ向けに「改訂する」に触れていました。
+toeic-850-specialize,toeic,toeic-850,specialize,専門化する,"The client asked about ""specialize"" after the meeting.",顧客は会議後に「専門化する」について尋ねました。
+toeic-850-confidential,toeic,toeic-850,confidential,機密の,"The team reviewed ""confidential"" before making a decision.",チームは決定前に「機密の」を確認しました。
+toeic-850-considerable,toeic,toeic-850,considerable,かなりの,"The manager used ""considerable"" in the monthly report.",マネージャーは月次報告で「かなりの」を使いました。
+toeic-850-mandatory,toeic,toeic-850,mandatory,必須の,"Employees should understand ""mandatory"" in business documents.",従業員は業務文書で「必須の」を理解する必要があります。
+toeic-850-preliminary,toeic,toeic-850,preliminary,予備的な,"The notice mentioned ""preliminary"" for all staff members.",その通知は全スタッフ向けに「予備的な」に触れていました。
+toeic-850-strategic,toeic,toeic-850,strategic,戦略的な,"The client asked about ""strategic"" after the meeting.",顧客は会議後に「戦略的な」について尋ねました。
+toeic-850-sustainable,toeic,toeic-850,sustainable,持続可能な,"The team reviewed ""sustainable"" before making a decision.",チームは決定前に「持続可能な」を確認しました。
+toeic-850-technical,toeic,toeic-850,technical,技術的な,"The manager used ""technical"" in the monthly report.",マネージャーは月次報告で「技術的な」を使いました。
+toeic-850-valid,toeic,toeic-850,valid,有効な,"Employees should understand ""valid"" in business documents.",従業員は業務文書で「有効な」を理解する必要があります。
+toeic-850-versatile,toeic,toeic-850,versatile,多用途の,"The notice mentioned ""versatile"" for all staff members.",その通知は全スタッフ向けに「多用途の」に触れていました。
+toeic-850-comprehensive,toeic,toeic-850,comprehensive,包括的な,"The client asked about ""comprehensive"" after the meeting.",顧客は会議後に「包括的な」について尋ねました。
+toeic-850-compatible,toeic,toeic-850,compatible,互換性のある,"The team reviewed ""compatible"" before making a decision.",チームは決定前に「互換性のある」を確認しました。
+toeic-850-insufficient,toeic,toeic-850,insufficient,不十分な,"The manager used ""insufficient"" in the monthly report.",マネージャーは月次報告で「不十分な」を使いました。
+toeic-850-outstanding,toeic,toeic-850,outstanding,未払いの,"Employees should understand ""outstanding"" in business documents.",従業員は業務文書で「未払いの」を理解する必要があります。
+toeic-850-prospective,toeic,toeic-850,prospective,見込みのある,"The notice mentioned ""prospective"" for all staff members.",その通知は全スタッフ向けに「見込みのある」に触れていました。
+toeic-850-recurrent,toeic,toeic-850,recurrent,再発する,"The client asked about ""recurrent"" after the meeting.",顧客は会議後に「再発する」について尋ねました。
+toeic-850-stable,toeic,toeic-850,stable,安定した,"The team reviewed ""stable"" before making a decision.",チームは決定前に「安定した」を確認しました。
+toeic-850-tentative,toeic,toeic-850,tentative,仮の,"The manager used ""tentative"" in the monthly report.",マネージャーは月次報告で「仮の」を使いました。
+toeic-850-thorough,toeic,toeic-850,thorough,徹底的な,"Employees should understand ""thorough"" in business documents.",従業員は業務文書で「徹底的な」を理解する必要があります。
+toeic-850-annually,toeic,toeic-850,annually,毎年,"The notice mentioned ""annually"" for all staff members.",その通知は全スタッフ向けに「毎年」に触れていました。
+toeic-850-approximately,toeic,toeic-850,approximately,およそ,"The client asked about ""approximately"" after the meeting.",顧客は会議後に「およそ」について尋ねました。
+toeic-850-accordingly,toeic,toeic-850,accordingly,それに応じて,"The team reviewed ""accordingly"" before making a decision.",チームは決定前に「それに応じて」を確認しました。
+toeic-850-mutually,toeic,toeic-850,mutually,相互に,"The manager used ""mutually"" in the monthly report.",マネージャーは月次報告で「相互に」を使いました。
+toeic-850-promptly,toeic,toeic-850,promptly,迅速に,"Employees should understand ""promptly"" in business documents.",従業員は業務文書で「迅速に」を理解する必要があります。
+toeic-850-efficiently,toeic,toeic-850,efficiently,効率的に,"The notice mentioned ""efficiently"" for all staff members.",その通知は全スタッフ向けに「効率的に」に触れていました。
+toeic-850-substantially,toeic,toeic-850,substantially,大幅に,"The client asked about ""substantially"" after the meeting.",顧客は会議後に「大幅に」について尋ねました。
+toeic-850-receipt,toeic,toeic-850,receipt,領収書,"The team reviewed ""receipt"" before making a decision.",チームは決定前に「領収書」を確認しました。
+toeic-850-traveler,toeic,toeic-850,traveler,"旅行者,旅人","The manager used ""traveler"" in the monthly report.","マネージャーは月次報告で「旅行者,旅人」を使いました。"
+toeic-850-syndicate,toeic,toeic-850,syndicate,"企業合同,シンジケート","Employees should understand ""syndicate"" in business documents.","従業員は業務文書で「企業合同,シンジケート」を理解する必要があります。"
+toeic-850-banker,toeic,toeic-850,banker,"銀行家,銀行経営者","The notice mentioned ""banker"" for all staff members.","その通知は全スタッフ向けに「銀行家,銀行経営者」に触れていました。"
+toeic-850-compensate,toeic,toeic-850,compensate,に補償する,"The client asked about ""compensate"" after the meeting.",顧客は会議後に「に補償する」について尋ねました。
+toeic-850-conductor,toeic,toeic-850,conductor,"指導者,案内者","The team reviewed ""conductor"" before making a decision.","チームは決定前に「指導者,案内者」を確認しました。"
+toeic-850-prohibition,toeic,toeic-850,prohibition,禁止すること,"The manager used ""prohibition"" in the monthly report.",マネージャーは月次報告で「禁止すること」を使いました。
+toeic-850-monopoly,toeic,toeic-850,monopoly,"独占,専売","Employees should understand ""monopoly"" in business documents.","従業員は業務文書で「独占,専売」を理解する必要があります。"
+toeic-850-undertaking,toeic,toeic-850,undertaking,"事業,企業,仕事","The notice mentioned ""undertaking"" for all staff members.","その通知は全スタッフ向けに「事業,企業,仕事」に触れていました。"
+toeic-850-discharge,toeic,toeic-850,discharge,の荷を降ろす,"The client asked about ""discharge"" after the meeting.",顧客は会議後に「の荷を降ろす」について尋ねました。
+toeic-850-distributor,toeic,toeic-850,distributor,"分配する人,配分者","The team reviewed ""distributor"" before making a decision.","チームは決定前に「分配する人,配分者」を確認しました。"
+toeic-850-manufacture,toeic,toeic-850,manufacture,"製造,製作","The manager used ""manufacture"" in the monthly report.","マネージャーは月次報告で「製造,製作」を使いました。"
+toeic-850-subscribe,toeic,toeic-850,subscribe,予約する,"Employees should understand ""subscribe"" in business documents.",従業員は業務文書で「予約する」を理解する必要があります。
+toeic-850-sponsor,toeic,toeic-850,sponsor,保証人,"The notice mentioned ""sponsor"" for all staff members.",その通知は全スタッフ向けに「保証人」に触れていました。
+toeic-850-receiver,toeic,toeic-850,receiver,受取人,"The client asked about ""receiver"" after the meeting.",顧客は会議後に「受取人」について尋ねました。
+toeic-850-dairy,toeic,toeic-850,dairy,"酪農場,バター・チーズ・クリーム製造所","The team reviewed ""dairy"" before making a decision.","チームは決定前に「酪農場,バター・チーズ・クリーム製造所」を確認しました。"
+toeic-850-controller,toeic,toeic-850,controller,"管理する人,監督者,取締人","The manager used ""controller"" in the monthly report.","マネージャーは月次報告で「管理する人,監督者,取締人」を使いました。"
+toeic-850-expense,toeic,toeic-850,expense,"支出,出費","Employees should understand ""expense"" in business documents.","従業員は業務文書で「支出,出費」を理解する必要があります。"
+toeic-850-distribute,toeic,toeic-850,distribute,"分配する,配る","The notice mentioned ""distribute"" for all staff members.","その通知は全スタッフ向けに「分配する,配る」に触れていました。"
+toeic-850-forge,toeic,toeic-850,forge,炉,"The client asked about ""forge"" after the meeting.",顧客は会議後に「炉」について尋ねました。
+toeic-850-supermarket,toeic,toeic-850,supermarket,スーパーマーケット,"The team reviewed ""supermarket"" before making a decision.",チームは決定前に「スーパーマーケット」を確認しました。
+toeic-850-taxation,toeic,toeic-850,taxation,"課税,徴税","The manager used ""taxation"" in the monthly report.","マネージャーは月次報告で「課税,徴税」を使いました。"
+toeic-850-accountant,toeic,toeic-850,accountant,"会計係,会計士,計理士","Employees should understand ""accountant"" in business documents.","従業員は業務文書で「会計係,会計士,計理士」を理解する必要があります。"
+toeic-850-marketplace,toeic,toeic-850,marketplace,市の開かれる広場,"The notice mentioned ""marketplace"" for all staff members.",その通知は全スタッフ向けに「市の開かれる広場」に触れていました。
+toeic-850-supplier,toeic,toeic-850,supplier,"供給者,補充者","The client asked about ""supplier"" after the meeting.","顧客は会議後に「供給者,補充者」について尋ねました。"
+toeic-850-paperwork,toeic,toeic-850,paperwork,"書類仕事,文書仕事","The team reviewed ""paperwork"" before making a decision.","チームは決定前に「書類仕事,文書仕事」を確認しました。"
+toeic-850-proposition,toeic,toeic-850,proposition,"提案,申し出","The manager used ""proposition"" in the monthly report.","マネージャーは月次報告で「提案,申し出」を使いました。"
+toeic-850-incorporate,toeic,toeic-850,incorporate,を法人にする,"Employees should understand ""incorporate"" in business documents.",従業員は業務文書で「を法人にする」を理解する必要があります。
+toeic-850-bankrupt,toeic,toeic-850,bankrupt,"破産者,支払い不能債務者","The notice mentioned ""bankrupt"" for all staff members.","その通知は全スタッフ向けに「破産者,支払い不能債務者」に触れていました。"
+toeic-850-yahoo,toeic,toeic-850,yahoo,"乱暴者,粗野な人,無教養の人 に登場する「ヤフー族」が語源)","The client asked about ""yahoo"" after the meeting.","顧客は会議後に「乱暴者,粗野な人,無教養の人 に登場する「ヤフー族」が語源)」について尋ねました。"
+toeic-850-patron,toeic,toeic-850,patron,"後援者,保護者,パトロール","The team reviewed ""patron"" before making a decision.","チームは決定前に「後援者,保護者,パトロール」を確認しました。"
+toeic-850-bilateral,toeic,toeic-850,bilateral,"両側のある,左右同形の","The manager used ""bilateral"" in the monthly report.","マネージャーは月次報告で「両側のある,左右同形の」を使いました。"
+toeic-850-booking,toeic,toeic-850,booking,予約,"Employees should understand ""booking"" in business documents.",従業員は業務文書で「予約」を理解する必要があります。
+toeic-850-disadvantage,toeic,toeic-850,disadvantage,不利な立場,"The notice mentioned ""disadvantage"" for all staff members.",その通知は全スタッフ向けに「不利な立場」に触れていました。
+toeic-850-accountable,toeic,toeic-850,accountable,"説明責任のある,責任を問える","The client asked about ""accountable"" after the meeting.","顧客は会議後に「説明責任のある,責任を問える」について尋ねました。"
+toeic-850-insured,toeic,toeic-850,insured,保険をかけている,"The team reviewed ""insured"" before making a decision.",チームは決定前に「保険をかけている」を確認しました。
+toeic-850-takeover,toeic,toeic-850,takeover,"奪取,接収","The manager used ""takeover"" in the monthly report.","マネージャーは月次報告で「奪取,接収」を使いました。"
+toeic-850-consortium,toeic,toeic-850,consortium,"資本連合,企業連合","Employees should understand ""consortium"" in business documents.","従業員は業務文書で「資本連合,企業連合」を理解する必要があります。"
+toeic-850-freelance,toeic,toeic-850,freelance,自由契約者,"The notice mentioned ""freelance"" for all staff members.",その通知は全スタッフ向けに「自由契約者」に触れていました。
+toeic-850-merchandise,toeic,toeic-850,merchandise,商品,"The client asked about ""merchandise"" after the meeting.",顧客は会議後に「商品」について尋ねました。
+toeic-850-fixture,toeic,toeic-850,fixture,付属設備,"The team reviewed ""fixture"" before making a decision.",チームは決定前に「付属設備」を確認しました。
+toeic-850-advertise,toeic,toeic-850,advertise,"広告する,宣伝する","The manager used ""advertise"" in the monthly report.","マネージャーは月次報告で「広告する,宣伝する」を使いました。"
+toeic-850-execute,toeic,toeic-850,execute,"を実行する,遂行する","Employees should understand ""execute"" in business documents.","従業員は業務文書で「を実行する,遂行する」を理解する必要があります。"
+toeic-850-bargain,toeic,toeic-850,bargain,"契約,売買契約,取引き","The notice mentioned ""bargain"" for all staff members.","その通知は全スタッフ向けに「契約,売買契約,取引き」に触れていました。"
+toeic-850-employ,toeic,toeic-850,employ,を雇う,"The client asked about ""employ"" after the meeting.",顧客は会議後に「を雇う」について尋ねました。
+toeic-850-incompetent,toeic,toeic-850,incompetent,"無能な,無力な","The team reviewed ""incompetent"" before making a decision.","チームは決定前に「無能な,無力な」を確認しました。"
+toeic-850-superintendent,toeic,toeic-850,superintendent,"監督者,長官,所長","The manager used ""superintendent"" in the monthly report.","マネージャーは月次報告で「監督者,長官,所長」を使いました。"
+toeic-850-travelled,toeic,toeic-850,travelled,旅行の経験が多い,"Employees should understand ""travelled"" in business documents.",従業員は業務文書で「旅行の経験が多い」を理解する必要があります。
+toeic-850-organize,toeic,toeic-850,organize,"を系統だてる,組織的にまとめる","The notice mentioned ""organize"" for all staff members.","その通知は全スタッフ向けに「を系統だてる,組織的にまとめる」に触れていました。"
+toeic-850-mileage,toeic,toeic-850,mileage,総マイル数,"The client asked about ""mileage"" after the meeting.",顧客は会議後に「総マイル数」について尋ねました。
+toeic-850-colleague,toeic,toeic-850,colleague,"同僚,仲間,同業者","The team reviewed ""colleague"" before making a decision.","チームは決定前に「同僚,仲間,同業者」を確認しました。"
+toeic-850-salesman,toeic,toeic-850,salesman,"男子店員,販売係","The manager used ""salesman"" in the monthly report.","マネージャーは月次報告で「男子店員,販売係」を使いました。"
+toeic-850-clerk,toeic,toeic-850,clerk,"行員,社員","Employees should understand ""clerk"" in business documents.","従業員は業務文書で「行員,社員」を理解する必要があります。"
+toeic-850-keeper,toeic,toeic-850,keeper,"守る人,管理人,番人","The notice mentioned ""keeper"" for all staff members.","その通知は全スタッフ向けに「守る人,管理人,番人」に触れていました。"
+toeic-850-profitable,toeic,toeic-850,profitable,利益の上がる,"The client asked about ""profitable"" after the meeting.",顧客は会議後に「利益の上がる」について尋ねました。
+toeic-850-attendant,toeic,toeic-850,attendant,付き添いの,"The team reviewed ""attendant"" before making a decision.",チームは決定前に「付き添いの」を確認しました。
+toeic-850-traveled,toeic,toeic-850,traveled,旅行の経験が多い,"The manager used ""traveled"" in the monthly report.",マネージャーは月次報告で「旅行の経験が多い」を使いました。
+toeic-850-subscription,toeic,toeic-850,subscription,予約,"Employees should understand ""subscription"" in business documents.",従業員は業務文書で「予約」を理解する必要があります。
+toeic-850-observe,toeic,toeic-850,observe,"観察する,注意して見る","The notice mentioned ""observe"" for all staff members.","その通知は全スタッフ向けに「観察する,注意して見る」に触れていました。"
+toeic-850-overhaul,toeic,toeic-850,overhaul,"分解検査する,精密検査する,オーバーホールする","The client asked about ""overhaul"" after the meeting.","顧客は会議後に「分解検査する,精密検査する,オーバーホールする」について尋ねました。"
+toeic-850-assess,toeic,toeic-850,assess,"を評価する,査定する","The team reviewed ""assess"" before making a decision.","チームは決定前に「を評価する,査定する」を確認しました。"
+toeic-850-merchant,toeic,toeic-850,merchant,商人,"The manager used ""merchant"" in the monthly report.",マネージャーは月次報告で「商人」を使いました。
+toeic-850-contractor,toeic,toeic-850,contractor,"契約人,請負人","Employees should understand ""contractor"" in business documents.","従業員は業務文書で「契約人,請負人」を理解する必要があります。"
+toeic-850-managerial,toeic,toeic-850,managerial,経営上の,"The notice mentioned ""managerial"" for all staff members.",その通知は全スタッフ向けに「経営上の」に触れていました。
+toeic-850-multinational,toeic,toeic-850,multinational,多国籍企業・多国籍の,"The client asked about ""multinational"" after the meeting.",顧客は会議後に「多国籍企業・多国籍の」について尋ねました。
+toeic-850-breach,toeic,toeic-850,breach,"破ること,破棄,違反,不履行","The team reviewed ""breach"" before making a decision.","チームは決定前に「破ること,破棄,違反,不履行」を確認しました。"
+toeic-850-provision,toeic,toeic-850,provision,"供給,支給","The manager used ""provision"" in the monthly report.","マネージャーは月次報告で「供給,支給」を使いました。"
+toeic-850-immune,toeic,toeic-850,immune,免疫の,"Employees should understand ""immune"" in business documents.",従業員は業務文書で「免疫の」を理解する必要があります。
+toeic-850-violation,toeic,toeic-850,violation,"違反,無視","The notice mentioned ""violation"" for all staff members.","その通知は全スタッフ向けに「違反,無視」に触れていました。"
+toeic-850-admission,toeic,toeic-850,admission,"入ることを許すこと,入場許可,入る権利","The client asked about ""admission"" after the meeting.","顧客は会議後に「入ることを許すこと,入場許可,入る権利」について尋ねました。"
+toeic-850-travelling,toeic,toeic-850,travelling,旅行すること,"The team reviewed ""travelling"" before making a decision.",チームは決定前に「旅行すること」を確認しました。
+toeic-850-exhibit,toeic,toeic-850,exhibit,"を表す,示す","The manager used ""exhibit"" in the monthly report.","マネージャーは月次報告で「を表す,示す」を使いました。"
+toeic-850-licensed,toeic,toeic-850,licensed,"公に許可された,免許をとった","Employees should understand ""licensed"" in business documents.","従業員は業務文書で「公に許可された,免許をとった」を理解する必要があります。"
+toeic-850-prosecute,toeic,toeic-850,prosecute,"を起訴する,告訴する","The notice mentioned ""prosecute"" for all staff members.","その通知は全スタッフ向けに「を起訴する,告訴する」に触れていました。"
+toeic-850-reserved,toeic,toeic-850,reserved,"予約の,貸し切りの","The client asked about ""reserved"" after the meeting.","顧客は会議後に「予約の,貸し切りの」について尋ねました。"
+toeic-850-insurer,toeic,toeic-850,insurer,"保険業者,保険会社","The team reviewed ""insurer"" before making a decision.","チームは決定前に「保険業者,保険会社」を確認しました。"
+toeic-850-transaction,toeic,toeic-850,transaction,"処理,処置","The manager used ""transaction"" in the monthly report.","マネージャーは月次報告で「処理,処置」を使いました。"
+toeic-850-manufacturer,toeic,toeic-850,manufacturer,"製造業者,工場主","Employees should understand ""manufacturer"" in business documents.","従業員は業務文書で「製造業者,工場主」を理解する必要があります。"
+toeic-850-outfit,toeic,toeic-850,outfit,"装備一式,道具一式","The notice mentioned ""outfit"" for all staff members.","その通知は全スタッフ向けに「装備一式,道具一式」に触れていました。"
+toeic-850-subscriber,toeic,toeic-850,subscriber,"予約者,定期講読者","The client asked about ""subscriber"" after the meeting.","顧客は会議後に「予約者,定期講読者」について尋ねました。"
+toeic-850-charter,toeic,toeic-850,charter,"特許状,免許状,憲章","The team reviewed ""charter"" before making a decision.","チームは決定前に「特許状,免許状,憲章」を確認しました。"
+toeic-850-treasury,toeic,toeic-850,treasury,"国庫,基金,資金","The manager used ""treasury"" in the monthly report.","マネージャーは月次報告で「国庫,基金,資金」を使いました。"
+toeic-850-venue,toeic,toeic-850,venue,行為地 ・現場,"Employees should understand ""venue"" in business documents.",従業員は業務文書で「行為地 ・現場」を理解する必要があります。
+toeic-850-annex,toeic,toeic-850,annex,"を付け加える,添える","The notice mentioned ""annex"" for all staff members.","その通知は全スタッフ向けに「を付け加える,添える」に触れていました。"
+toeic-850-fiscal,toeic,toeic-850,fiscal,国庫の,"The client asked about ""fiscal"" after the meeting.",顧客は会議後に「国庫の」について尋ねました。
+toeic-850-equality,toeic,toeic-850,equality,"等しいこと,均等","The team reviewed ""equality"" before making a decision.","チームは決定前に「等しいこと,均等」を確認しました。"
+toeic-850-organise,toeic,toeic-850,organise,"を系統だてる,組織的にまとめる","The manager used ""organise"" in the monthly report.","マネージャーは月次報告で「を系統だてる,組織的にまとめる」を使いました。"
+toeic-850-overdue,toeic,toeic-850,overdue,"支払いの期限が過ぎた,未払いの","Employees should understand ""overdue"" in business documents.","従業員は業務文書で「支払いの期限が過ぎた,未払いの」を理解する必要があります。"
+toeic-850-traveling,toeic,toeic-850,traveling,旅行すること,"The notice mentioned ""traveling"" for all staff members.",その通知は全スタッフ向けに「旅行すること」に触れていました。
+toeic-850-passage,toeic,toeic-850,passage,"節,句","The client asked about ""passage"" after the meeting.","顧客は会議後に「節,句」について尋ねました。"
+toeic-850-margin,toeic,toeic-850,margin,"へり,縁,端","The team reviewed ""margin"" before making a decision.","チームは決定前に「へり,縁,端」を確認しました。"
+toeic-850-earnings,toeic,toeic-850,earnings,"収入,所得","The manager used ""earnings"" in the monthly report.","マネージャーは月次報告で「収入,所得」を使いました。"
+toeic-850-tariff,toeic,toeic-850,tariff,関税,"Employees should understand ""tariff"" in business documents.",従業員は業務文書で「関税」を理解する必要があります。
+toeic-850-vested,toeic,toeic-850,vested,"既得の,所有権の定まった","The notice mentioned ""vested"" for all staff members.","その通知は全スタッフ向けに「既得の,所有権の定まった」に触れていました。"
+toeic-850-contractual,toeic,toeic-850,contractual,契約の,"The client asked about ""contractual"" after the meeting.",顧客は会議後に「契約の」について尋ねました。
+toeic-850-sanction,toeic,toeic-850,sanction,"認可,許可,裁可","The team reviewed ""sanction"" before making a decision.","チームは決定前に「認可,許可,裁可」を確認しました。"
+toeic-850-dealership,toeic,toeic-850,dealership,商品販売権,"The manager used ""dealership"" in the monthly report.",マネージャーは月次報告で「商品販売権」を使いました。
+toeic-850-obligatory,toeic,toeic-850,obligatory,"義務のある,強制的な","Employees should understand ""obligatory"" in business documents.","従業員は業務文書で「義務のある,強制的な」を理解する必要があります。"
+toeic-850-advertiser,toeic,toeic-850,advertiser,"広告者,広告主","The notice mentioned ""advertiser"" for all staff members.","その通知は全スタッフ向けに「広告者,広告主」に触れていました。"
+toeic-850-beneficiary,toeic,toeic-850,beneficiary,利益を受ける人,"The client asked about ""beneficiary"" after the meeting.",顧客は会議後に「利益を受ける人」について尋ねました。
+toeic-850-excursion,toeic,toeic-850,excursion,"小旅行,遠足","The team reviewed ""excursion"" before making a decision.","チームは決定前に「小旅行,遠足」を確認しました。"
+toeic-850-supervise,toeic,toeic-850,supervise,"を監督する,管理する","The manager used ""supervise"" in the monthly report.","マネージャーは月次報告で「を監督する,管理する」を使いました。"
+toeic-850-prepaid,toeic,toeic-850,prepaid,prepayの過去・過去分詞,"Employees should understand ""prepaid"" in business documents.",従業員は業務文書で「prepayの過去・過去分詞」を理解する必要があります。
+toeic-850-departmental,toeic,toeic-850,departmental,部門の,"The notice mentioned ""departmental"" for all staff members.",その通知は全スタッフ向けに「部門の」に触れていました。
+toeic-850-invoice,toeic,toeic-850,invoice,送り状,"The client asked about ""invoice"" after the meeting.",顧客は会議後に「送り状」について尋ねました。
+toeic-850-dodger,toeic,toeic-850,dodger,"責任逃れをする人,ずるい人","The team reviewed ""dodger"" before making a decision.","チームは決定前に「責任逃れをする人,ずるい人」を確認しました。"
+toeic-850-clientele,toeic,toeic-850,clientele,常連客,"The manager used ""clientele"" in the monthly report.",マネージャーは月次報告で「常連客」を使いました。
+toeic-850-prospectus,toeic,toeic-850,prospectus,設立趣意書,"Employees should understand ""prospectus"" in business documents.",従業員は業務文書で「設立趣意書」を理解する必要があります。
+toeic-850-stewardship,toeic,toeic-850,stewardship,stewardの職,"The notice mentioned ""stewardship"" for all staff members.",その通知は全スタッフ向けに「stewardの職」に触れていました。
+toeic-850-prejudice,toeic,toeic-850,prejudice,"先入観,偏見","The client asked about ""prejudice"" after the meeting.","顧客は会議後に「先入観,偏見」について尋ねました。"
+toeic-850-reproduction,toeic,toeic-850,reproduction,"繁殖,生殖","The team reviewed ""reproduction"" before making a decision.","チームは決定前に「繁殖,生殖」を確認しました。"
+toeic-850-backpack,toeic,toeic-850,backpack,背のう,"The manager used ""backpack"" in the monthly report.",マネージャーは月次報告で「背のう」を使いました。
+toeic-850-destined,toeic,toeic-850,destined,行きの,"Employees should understand ""destined"" in business documents.",従業員は業務文書で「行きの」を理解する必要があります。
+toeic-850-exempt,toeic,toeic-850,exempt,を免れさせる,"The notice mentioned ""exempt"" for all staff members.",その通知は全スタッフ向けに「を免れさせる」に触れていました。
+toeic-850-reproductive,toeic,toeic-850,reproductive,"生殖の,繁殖の","The client asked about ""reproductive"" after the meeting.","顧客は会議後に「生殖の,繁殖の」について尋ねました。"
+toeic-850-picnic,toeic,toeic-850,picnic,"ピクニック,遠足","The team reviewed ""picnic"" before making a decision.","チームは決定前に「ピクニック,遠足」を確認しました。"
+toeic-850-microwave,toeic,toeic-850,microwave,"極超短波,マイクロウェーブ","The manager used ""microwave"" in the monthly report.","マネージャーは月次報告で「極超短波,マイクロウェーブ」を使いました。"
+toeic-850-luggage,toeic,toeic-850,luggage,"手荷物,小荷物,トランク・スーツケースなどの旅行かばん類","Employees should understand ""luggage"" in business documents.","従業員は業務文書で「手荷物,小荷物,トランク・スーツケースなどの旅行かばん類」を理解する必要があります。"
+toeic-850-audition,toeic,toeic-850,audition,"視聴テスト,オーディション","The notice mentioned ""audition"" for all staff members.","その通知は全スタッフ向けに「視聴テスト,オーディション」に触れていました。"
+toeic-850-crawl,toeic,toeic-850,crawl,"はう,はって進む","The client asked about ""crawl"" after the meeting.","顧客は会議後に「はう,はって進む」について尋ねました。"
+toeic-850-undergo,toeic,toeic-850,undergo,"を受ける,経験する","The team reviewed ""undergo"" before making a decision.","チームは決定前に「を受ける,経験する」を確認しました。"
+toeic-850-incumbent,toeic,toeic-850,incumbent,"義務として掛かる,責務がある","The manager used ""incumbent"" in the monthly report.","マネージャーは月次報告で「義務として掛かる,責務がある」を使いました。"
+toeic-850-assurance,toeic,toeic-850,assurance,"保証,請け合い","Employees should understand ""assurance"" in business documents.","従業員は業務文書で「保証,請け合い」を理解する必要があります。"
+toeic-850-accord,toeic,toeic-850,accord,"一致する,調和する","The notice mentioned ""accord"" for all staff members.","その通知は全スタッフ向けに「一致する,調和する」に触れていました。"
+toeic-850-accompany,toeic,toeic-850,accompany,"に同行する,随行する,ついて行く","The client asked about ""accompany"" after the meeting.","顧客は会議後に「に同行する,随行する,ついて行く」について尋ねました。"
+toeic-850-slate,toeic,toeic-850,slate,板岩,"The team reviewed ""slate"" before making a decision.",チームは決定前に「板岩」を確認しました。
+toeic-850-newsletter,toeic,toeic-850,newsletter,時事通信,"The manager used ""newsletter"" in the monthly report.",マネージャーは月次報告で「時事通信」を使いました。
+toeic-850-payroll,toeic,toeic-850,payroll,給料支払い簿,"Employees should understand ""payroll"" in business documents.",従業員は業務文書で「給料支払い簿」を理解する必要があります。
+toeic-850-professionally,toeic,toeic-850,professionally,"職業的に,専門的に","The notice mentioned ""professionally"" for all staff members.","その通知は全スタッフ向けに「職業的に,専門的に」に触れていました。"
+toeic-850-shipment,toeic,toeic-850,shipment,"船積み,積み込み,荷送り","The client asked about ""shipment"" after the meeting.","顧客は会議後に「船積み,積み込み,荷送り」について尋ねました。"
+toeic-850-attach,toeic,toeic-850,attach,"つける,取りつける,はりつける","The team reviewed ""attach"" before making a decision.","チームは決定前に「つける,取りつける,はりつける」を確認しました。"
+toeic-850-straightforward,toeic,toeic-850,straightforward,"正直な,率直な","The manager used ""straightforward"" in the monthly report.","マネージャーは月次報告で「正直な,率直な」を使いました。"
+toeic-850-endorsement,toeic,toeic-850,endorsement,裏書き,"Employees should understand ""endorsement"" in business documents.",従業員は業務文書で「裏書き」を理解する必要があります。
+toeic-850-merge,toeic,toeic-850,merge,"合併する,合体する","The notice mentioned ""merge"" for all staff members.","その通知は全スタッフ向けに「合併する,合体する」に触れていました。"
+toeic-850-swamp,toeic,toeic-850,swamp,"沼沢地,沼地,湿地","The client asked about ""swamp"" after the meeting.","顧客は会議後に「沼沢地,沼地,湿地」について尋ねました。"
+toeic-850-authorization,toeic,toeic-850,authorization,"権限を与えること,委任","The team reviewed ""authorization"" before making a decision.","チームは決定前に「権限を与えること,委任」を確認しました。"
+toeic-850-briefing,toeic,toeic-850,briefing,"戦闘慨況説明,簡潔な指令","The manager used ""briefing"" in the monthly report.","マネージャーは月次報告で「戦闘慨況説明,簡潔な指令」を使いました。"
+toeic-850-expenditure,toeic,toeic-850,expenditure,"消費,支出","Employees should understand ""expenditure"" in business documents.","従業員は業務文書で「消費,支出」を理解する必要があります。"
+toeic-850-folder,toeic,toeic-850,folder,紙ばさみ,"The notice mentioned ""folder"" for all staff members.",その通知は全スタッフ向けに「紙ばさみ」に触れていました。
+toeic-850-medicaid,toeic,toeic-850,medicaid,医療扶助,"The client asked about ""medicaid"" after the meeting.",顧客は会議後に「医療扶助」について尋ねました。
+toeic-850-tempo,toeic,toeic-850,tempo,"速さ,調子","The team reviewed ""tempo"" before making a decision.","チームは決定前に「速さ,調子」を確認しました。"
+toeic-850-niche,toeic,toeic-850,niche,壁がん,"The manager used ""niche"" in the monthly report.",マネージャーは月次報告で「壁がん」を使いました。
+toeic-850-worthwhile,toeic,toeic-850,worthwhile,"時間をかけるだけの価値がある,やりがいのある","Employees should understand ""worthwhile"" in business documents.","従業員は業務文書で「時間をかけるだけの価値がある,やりがいのある」を理解する必要があります。"
+toeic-850-manipulation,toeic,toeic-850,manipulation,"巧妙な扱い,操作","The notice mentioned ""manipulation"" for all staff members.","その通知は全スタッフ向けに「巧妙な扱い,操作」に触れていました。"
+toeic-850-contention,toeic,toeic-850,contention,競争,"The client asked about ""contention"" after the meeting.",顧客は会議後に「競争」について尋ねました。
+toeic-850-correspondence,toeic,toeic-850,correspondence,"一致,調和類似","The team reviewed ""correspondence"" before making a decision.","チームは決定前に「一致,調和類似」を確認しました。"
+toeic-850-carriage,toeic,toeic-850,carriage,四輪馬車,"The manager used ""carriage"" in the monthly report.",マネージャーは月次報告で「四輪馬車」を使いました。
+toeic-850-taxpayer,toeic,toeic-850,taxpayer,"納税者,被課税者","Employees should understand ""taxpayer"" in business documents.","従業員は業務文書で「納税者,被課税者」を理解する必要があります。"
+toeic-850-owing,toeic,toeic-850,owing,"未払いの,支払うべき","The notice mentioned ""owing"" for all staff members.","その通知は全スタッフ向けに「未払いの,支払うべき」に触れていました。"
+toeic-850-relay,toeic,toeic-850,relay,"替え馬,継ぎ馬","The client asked about ""relay"" after the meeting.","顧客は会議後に「替え馬,継ぎ馬」について尋ねました。"
+toeic-850-renew,toeic,toeic-850,renew,新しくする,"The team reviewed ""renew"" before making a decision.",チームは決定前に「新しくする」を確認しました。
+toeic-850-pickup,toeic,toeic-850,pickup,pick upすること,"The manager used ""pickup"" in the monthly report.",マネージャーは月次報告で「pick upすること」を使いました。
+toeic-850-operative,toeic,toeic-850,operative,"働く,運転する","Employees should understand ""operative"" in business documents.","従業員は業務文書で「働く,運転する」を理解する必要があります。"
+toeic-850-nonprofit,toeic,toeic-850,nonprofit,非営利的な,"The notice mentioned ""nonprofit"" for all staff members.",その通知は全スタッフ向けに「非営利的な」に触れていました。
+toeic-850-undertake,toeic,toeic-850,undertake,に着手する,"The client asked about ""undertake"" after the meeting.",顧客は会議後に「に着手する」について尋ねました。
+toeic-850-handbook,toeic,toeic-850,handbook,"手引き,便覧,学習書","The team reviewed ""handbook"" before making a decision.","チームは決定前に「手引き,便覧,学習書」を確認しました。"
+toeic-850-fulfill,toeic,toeic-850,fulfill,"を果たす,実行する","The manager used ""fulfill"" in the monthly report.","マネージャーは月次報告で「を果たす,実行する」を使いました。"
+toeic-850-coupon,toeic,toeic-850,coupon,クーポン,"Employees should understand ""coupon"" in business documents.",従業員は業務文書で「クーポン」を理解する必要があります。
+toeic-850-correspondent,toeic,toeic-850,correspondent,"文通する人,手紙を書く人","The notice mentioned ""correspondent"" for all staff members.","その通知は全スタッフ向けに「文通する人,手紙を書く人」に触れていました。"
+toeic-850-congressman,toeic,toeic-850,congressman,"国会議員,下院議員","The client asked about ""congressman"" after the meeting.","顧客は会議後に「国会議員,下院議員」について尋ねました。"
+toeic-850-reuters,toeic,toeic-850,reuters,ロイター通信社,"The team reviewed ""reuters"" before making a decision.",チームは決定前に「ロイター通信社」を確認しました。
+toeic-850-repeal,toeic,toeic-850,repeal,"を公式に無効にする,廃止する","The manager used ""repeal"" in the monthly report.","マネージャーは月次報告で「を公式に無効にする,廃止する」を使いました。"
+toeic-850-occupational,toeic,toeic-850,occupational,職業の,"Employees should understand ""occupational"" in business documents.",従業員は業務文書で「職業の」を理解する必要があります。
+toeic-850-specimen,toeic,toeic-850,specimen,"見本,標本,実例","The notice mentioned ""specimen"" for all staff members.","その通知は全スタッフ向けに「見本,標本,実例」に触れていました。"
+toeic-850-sponsorship,toeic,toeic-850,sponsorship,保証人であること,"The client asked about ""sponsorship"" after the meeting.",顧客は会議後に「保証人であること」について尋ねました。
+toeic-850-consult,toeic,toeic-850,consult,"頼る,求める,相談する","The team reviewed ""consult"" before making a decision.","チームは決定前に「頼る,求める,相談する」を確認しました。"
+toeic-850-billboard,toeic,toeic-850,billboard,"掲示板,広告板","The manager used ""billboard"" in the monthly report.","マネージャーは月次報告で「掲示板,広告板」を使いました。"
+toeic-850-interfere,toeic,toeic-850,interfere,"干渉する,口出しをする","Employees should understand ""interfere"" in business documents.","従業員は業務文書で「干渉する,口出しをする」を理解する必要があります。"
+toeic-850-attachment,toeic,toeic-850,attachment,"付くこと,付着,付属","The notice mentioned ""attachment"" for all staff members.","その通知は全スタッフ向けに「付くこと,付着,付属」に触れていました。"
+toeic-850-recorder,toeic,toeic-850,recorder,"記録係,記録者","The client asked about ""recorder"" after the meeting.","顧客は会議後に「記録係,記録者」について尋ねました。"
+toeic-850-voyage,toeic,toeic-850,voyage,"航海,航行","The team reviewed ""voyage"" before making a decision.","チームは決定前に「航海,航行」を確認しました。"
+toeic-850-specialty,toeic,toeic-850,specialty,"専門,専攻","The manager used ""specialty"" in the monthly report.","マネージャーは月次報告で「専門,専攻」を使いました。"
+toeic-850-appoint,toeic,toeic-850,appoint,を決める,"Employees should understand ""appoint"" in business documents.",従業員は業務文書で「を決める」を理解する必要があります。
+toeic-850-apprentice,toeic,toeic-850,apprentice,"徒弟,年季奉公人","The notice mentioned ""apprentice"" for all staff members.","その通知は全スタッフ向けに「徒弟,年季奉公人」に触れていました。"
+toeic-850-compulsory,toeic,toeic-850,compulsory,"強制的な,無理じいの","The client asked about ""compulsory"" after the meeting.","顧客は会議後に「強制的な,無理じいの」について尋ねました。"
+toeic-850-contracted,toeic,toeic-850,contracted,"縮めた,収縮した","The team reviewed ""contracted"" before making a decision.","チームは決定前に「縮めた,収縮した」を確認しました。"
+toeic-850-wagon,toeic,toeic-850,wagon,馬車,"The manager used ""wagon"" in the monthly report.",マネージャーは月次報告で「馬車」を使いました。
+toeic-850-unemployed,toeic,toeic-850,unemployed,"仕事のない,失業した","Employees should understand ""unemployed"" in business documents.","従業員は業務文書で「仕事のない,失業した」を理解する必要があります。"
+toeic-850-offender,toeic,toeic-850,offender,違反者,"The notice mentioned ""offender"" for all staff members.",その通知は全スタッフ向けに「違反者」に触れていました。
+toeic-850-pottery,toeic,toeic-850,pottery,"製陶術,陶器製造","The client asked about ""pottery"" after the meeting.","顧客は会議後に「製陶術,陶器製造」について尋ねました。"
+toeic-850-residency,toeic,toeic-850,residency,専門医学実習生の実習期間・ 公邸 ・ 会場と定期契約したバンドや劇団...,"The team reviewed ""residency"" before making a decision.",チームは決定前に「専門医学実習生の実習期間・ 公邸 ・ 会場と定期契約したバンドや劇団...」を確認しました。
+toeic-850-technician,toeic,toeic-850,technician,"専門家,専門技術者","The manager used ""technician"" in the monthly report.","マネージャーは月次報告で「専門家,専門技術者」を使いました。"
+toeic-850-validity,toeic,toeic-850,validity,"妥当性,正当性","Employees should understand ""validity"" in business documents.","従業員は業務文書で「妥当性,正当性」を理解する必要があります。"
+toeic-850-forestry,toeic,toeic-850,forestry,林学,"The notice mentioned ""forestry"" for all staff members.",その通知は全スタッフ向けに「林学」に触れていました。
+toeic-850-manipulate,toeic,toeic-850,manipulate,"を巧みに扱う,をうまく使う","The client asked about ""manipulate"" after the meeting.","顧客は会議後に「を巧みに扱う,をうまく使う」について尋ねました。"
+toeic-850-observer,toeic,toeic-850,observer,"観察する人,見守る人","The team reviewed ""observer"" before making a decision.","チームは決定前に「観察する人,見守る人」を確認しました。"
+toeic-850-sewing,toeic,toeic-850,sewing,"裁縫,針仕事","The manager used ""sewing"" in the monthly report.","マネージャーは月次報告で「裁縫,針仕事」を使いました。"
+toeic-850-solicitor,toeic,toeic-850,solicitor,嘆願者,"Employees should understand ""solicitor"" in business documents.",従業員は業務文書で「嘆願者」を理解する必要があります。
+toeic-850-collector,toeic,toeic-850,collector,"収集家,採集者","The notice mentioned ""collector"" for all staff members.","その通知は全スタッフ向けに「収集家,採集者」に触れていました。"
+toeic-850-willow,toeic,toeic-850,willow,ヤナギ,"The client asked about ""willow"" after the meeting.",顧客は会議後に「ヤナギ」について尋ねました。
+toeic-850-recognise,toeic,toeic-850,recognise,確かに認める,"The team reviewed ""recognise"" before making a decision.",チームは決定前に「確かに認める」を確認しました。
+toeic-850-courier,toeic,toeic-850,courier,"急使,特使","The manager used ""courier"" in the monthly report.","マネージャーは月次報告で「急使,特使」を使いました。"
+toeic-850-drown,toeic,toeic-850,drown,溺死させる,"Employees should understand ""drown"" in business documents.",従業員は業務文書で「溺死させる」を理解する必要があります。
+toeic-850-leisure,toeic,toeic-850,leisure,"暇,余暇","The notice mentioned ""leisure"" for all staff members.","その通知は全スタッフ向けに「暇,余暇」に触れていました。"
+toeic-850-impose,toeic,toeic-850,impose,"を課する,負わせる","The client asked about ""impose"" after the meeting.","顧客は会議後に「を課する,負わせる」について尋ねました。"
+toeic-850-honeymoon,toeic,toeic-850,honeymoon,"新婚旅行,ハネムーン","The team reviewed ""honeymoon"" before making a decision.","チームは決定前に「新婚旅行,ハネムーン」を確認しました。"
+toeic-850-manifest,toeic,toeic-850,manifest,"明白な,はっきりした","The manager used ""manifest"" in the monthly report.","マネージャーは月次報告で「明白な,はっきりした」を使いました。"
+toeic-850-ransom,toeic,toeic-850,ransom,身のしろ金,"Employees should understand ""ransom"" in business documents.",従業員は業務文書で「身のしろ金」を理解する必要があります。
+toeic-850-treasurer,toeic,toeic-850,treasurer,会計係,"The notice mentioned ""treasurer"" for all staff members.",その通知は全スタッフ向けに「会計係」に触れていました。
+toeic-850-staple,toeic,toeic-850,staple,つぼくぎ,"The client asked about ""staple"" after the meeting.",顧客は会議後に「つぼくぎ」について尋ねました。
+toeic-850-suspend,toeic,toeic-850,suspend,"つるす,ぶら下げる","The team reviewed ""suspend"" before making a decision.","チームは決定前に「つるす,ぶら下げる」を確認しました。"
+toeic-850-turnout,toeic,toeic-850,turnout,出席,"The manager used ""turnout"" in the monthly report.",マネージャーは月次報告で「出席」を使いました。
+toeic-850-bakery,toeic,toeic-850,bakery,"パン製造所,パン屋","Employees should understand ""bakery"" in business documents.","従業員は業務文書で「パン製造所,パン屋」を理解する必要があります。"
+toeic-850-commercially,toeic,toeic-850,commercially,"商業上,商業的見地から見て","The notice mentioned ""commercially"" for all staff members.","その通知は全スタッフ向けに「商業上,商業的見地から見て」に触れていました。"
+toeic-850-disappoint,toeic,toeic-850,disappoint,"を失望させる,がっかりさせる","The client asked about ""disappoint"" after the meeting.","顧客は会議後に「を失望させる,がっかりさせる」について尋ねました。"
+toeic-850-costly,toeic,toeic-850,costly,高価な,"The team reviewed ""costly"" before making a decision.",チームは決定前に「高価な」を確認しました。
+toeic-850-govern,toeic,toeic-850,govern,"を治める,統治する","The manager used ""govern"" in the monthly report.","マネージャーは月次報告で「を治める,統治する」を使いました。"
+toeic-850-bundle,toeic,toeic-850,bundle,"束,包み,巻いたもの","Employees should understand ""bundle"" in business documents.","従業員は業務文書で「束,包み,巻いたもの」を理解する必要があります。"
+toeic-850-harness,toeic,toeic-850,harness,"馬具,引き具","The notice mentioned ""harness"" for all staff members.","その通知は全スタッフ向けに「馬具,引き具」に触れていました。"
+toeic-850-intern,toeic,toeic-850,intern,インターン,"The client asked about ""intern"" after the meeting.",顧客は会議後に「インターン」について尋ねました。
+toeic-850-irresponsible,toeic,toeic-850,irresponsible,無責任な,"The team reviewed ""irresponsible"" before making a decision.",チームは決定前に「無責任な」を確認しました。
+toeic-850-supervision,toeic,toeic-850,supervision,"監督,管理,指揮","The manager used ""supervision"" in the monthly report.","マネージャーは月次報告で「監督,管理,指揮」を使いました。"
+toeic-850-refund,toeic,toeic-850,refund,"を返済する,払い戻す","Employees should understand ""refund"" in business documents.","従業員は業務文書で「を返済する,払い戻す」を理解する必要があります。"
+toeic-850-reside,toeic,toeic-850,reside,"住む,居住する","The notice mentioned ""reside"" for all staff members.","その通知は全スタッフ向けに「住む,居住する」に触れていました。"
+toeic-850-grind,toeic,toeic-850,grind,"をひく,細かく砕く","The client asked about ""grind"" after the meeting.","顧客は会議後に「をひく,細かく砕く」について尋ねました。"
+toeic-850-float,toeic,toeic-850,float,"浮く,浮かぶ","The team reviewed ""float"" before making a decision.","チームは決定前に「浮く,浮かぶ」を確認しました。"
+toeic-850-assign,toeic,toeic-850,assign,"を割り当てる,あてがう,与える","The manager used ""assign"" in the monthly report.","マネージャーは月次報告で「を割り当てる,あてがう,与える」を使いました。"
+toeic-850-brewery,toeic,toeic-850,brewery,"ビール醸造所,ビール工場","Employees should understand ""brewery"" in business documents.","従業員は業務文書で「ビール醸造所,ビール工場」を理解する必要があります。"
+toeic-850-supervisor,toeic,toeic-850,supervisor,"監督者,管理人","The notice mentioned ""supervisor"" for all staff members.","その通知は全スタッフ向けに「監督者,管理人」に触れていました。"
+toeic-850-elevator,toeic,toeic-850,elevator,"エレベーター,昇降機","The client asked about ""elevator"" after the meeting.","顧客は会議後に「エレベーター,昇降機」について尋ねました。"
+toeic-850-documentation,toeic,toeic-850,documentation,"文書調べ,文書による証拠固め","The team reviewed ""documentation"" before making a decision.","チームは決定前に「文書調べ,文書による証拠固め」を確認しました。"
+toeic-850-businessman,toeic,toeic-850,businessman,実業家,"The manager used ""businessman"" in the monthly report.",マネージャーは月次報告で「実業家」を使いました。
+toeic-850-proceeding,toeic,toeic-850,proceeding,"進行,続行","Employees should understand ""proceeding"" in business documents.","従業員は業務文書で「進行,続行」を理解する必要があります。"
+toeic-850-ambitious,toeic,toeic-850,ambitious,"大望を抱いた,野心のある,大志を抱いた","The notice mentioned ""ambitious"" for all staff members.","その通知は全スタッフ向けに「大望を抱いた,野心のある,大志を抱いた」に触れていました。"
+toeic-850-tricky,toeic,toeic-850,tricky,"こうかつな,ずるい","The client asked about ""tricky"" after the meeting.","顧客は会議後に「こうかつな,ずるい」について尋ねました。"
+toeic-850-artery,toeic,toeic-850,artery,動脈,"The team reviewed ""artery"" before making a decision.",チームは決定前に「動脈」を確認しました。
+toeic-850-offence,toeic,toeic-850,offence,罪,"The manager used ""offence"" in the monthly report.",マネージャーは月次報告で「罪」を使いました。
+toeic-850-enforce,toeic,toeic-850,enforce,"を実施する,施行する","Employees should understand ""enforce"" in business documents.","従業員は業務文書で「を実施する,施行する」を理解する必要があります。"
+toeic-850-exemption,toeic,toeic-850,exemption,免除,"The notice mentioned ""exemption"" for all staff members.",その通知は全スタッフ向けに「免除」に触れていました。
+toeic-850-clearance,toeic,toeic-850,clearance,"取り片付け,除去,掃除","The client asked about ""clearance"" after the meeting.","顧客は会議後に「取り片付け,除去,掃除」について尋ねました。"
+toeic-850-circular,toeic,toeic-850,circular,"円形の,丸い","The team reviewed ""circular"" before making a decision.","チームは決定前に「円形の,丸い」を確認しました。"
+toeic-850-negligence,toeic,toeic-850,negligence,"怠慢,不注意,落ち度","The manager used ""negligence"" in the monthly report.","マネージャーは月次報告で「怠慢,不注意,落ち度」を使いました。"
+toeic-850-vocational,toeic,toeic-850,vocational,"職業の,職業上の","Employees should understand ""vocational"" in business documents.","従業員は業務文書で「職業の,職業上の」を理解する必要があります。"
+toeic-850-porter,toeic,toeic-850,porter,運搬人,"The notice mentioned ""porter"" for all staff members.",その通知は全スタッフ向けに「運搬人」に触れていました。
+toeic-850-propose,toeic,toeic-850,propose,"提案する,申し出る","The client asked about ""propose"" after the meeting.","顧客は会議後に「提案する,申し出る」について尋ねました。"
+toeic-850-accessory,toeic,toeic-850,accessory,"付属品,アクセサリー","The team reviewed ""accessory"" before making a decision.","チームは決定前に「付属品,アクセサリー」を確認しました。"
+toeic-850-entrepreneur,toeic,toeic-850,entrepreneur,企業家,"The manager used ""entrepreneur"" in the monthly report.",マネージャーは月次報告で「企業家」を使いました。
+toeic-850-clause,toeic,toeic-850,clause,節,"Employees should understand ""clause"" in business documents.",従業員は業務文書で「節」を理解する必要があります。
+toeic-850-endorse,toeic,toeic-850,endorse,に裏書きをする,"The notice mentioned ""endorse"" for all staff members.",その通知は全スタッフ向けに「に裏書きをする」に触れていました。
+toeic-850-prescription,toeic,toeic-850,prescription,指示すること,"The client asked about ""prescription"" after the meeting.",顧客は会議後に「指示すること」について尋ねました。
+toeic-850-outlet,toeic,toeic-850,outlet,"出口,はけ口","The team reviewed ""outlet"" before making a decision.","チームは決定前に「出口,はけ口」を確認しました。"
+toeic-850-inspect,toeic,toeic-850,inspect,"検査する,念入りに調べる","The manager used ""inspect"" in the monthly report.","マネージャーは月次報告で「検査する,念入りに調べる」を使いました。"
+toeic-850-crude,toeic,toeic-850,crude,"天然のままの,未加工の","Employees should understand ""crude"" in business documents.","従業員は業務文書で「天然のままの,未加工の」を理解する必要があります。"
+toeic-850-safari,toeic,toeic-850,safari,"遠征旅行,サファリ","The notice mentioned ""safari"" for all staff members.","その通知は全スタッフ向けに「遠征旅行,サファリ」に触れていました。"
+toeic-850-warden,toeic,toeic-850,warden,管理人,"The client asked about ""warden"" after the meeting.",顧客は会議後に「管理人」について尋ねました。
+toeic-850-caravan,toeic,toeic-850,caravan,"隊商,旅人隊","The team reviewed ""caravan"" before making a decision.","チームは決定前に「隊商,旅人隊」を確認しました。"
+toeic-850-disappointment,toeic,toeic-850,disappointment,"失望,落胆,期待はずれ","The manager used ""disappointment"" in the monthly report.","マネージャーは月次報告で「失望,落胆,期待はずれ」を使いました。"
+toeic-850-lawful,toeic,toeic-850,lawful,"合法の,法定の","Employees should understand ""lawful"" in business documents.","従業員は業務文書で「合法の,法定の」を理解する必要があります。"
+toeic-850-rider,toeic,toeic-850,rider,"乗る人,乗り手","The notice mentioned ""rider"" for all staff members.","その通知は全スタッフ向けに「乗る人,乗り手」に触れていました。"
+toeic-850-shutdown,toeic,toeic-850,shutdown,"閉鎖,操業停止","The client asked about ""shutdown"" after the meeting.","顧客は会議後に「閉鎖,操業停止」について尋ねました。"
+toeic-850-ferry,toeic,toeic-850,ferry,"渡し船,連絡船,連絡船の便","The team reviewed ""ferry"" before making a decision.","チームは決定前に「渡し船,連絡船,連絡船の便」を確認しました。"
+toeic-850-disappointing,toeic,toeic-850,disappointing,"失望させるような,意外につまらない","The manager used ""disappointing"" in the monthly report.","マネージャーは月次報告で「失望させるような,意外につまらない」を使いました。"
+toeic-850-convenience,toeic,toeic-850,convenience,"都合のよいこと,便利,便宜・便利なもの","Employees should understand ""convenience"" in business documents.","従業員は業務文書で「都合のよいこと,便利,便宜・便利なもの」を理解する必要があります。"
+toeic-850-consultation,toeic,toeic-850,consultation,"相談,協議","The notice mentioned ""consultation"" for all staff members.","その通知は全スタッフ向けに「相談,協議」に触れていました。"
+toeic-850-dissolution,toeic,toeic-850,dissolution,分解,"The client asked about ""dissolution"" after the meeting.",顧客は会議後に「分解」について尋ねました。
+toeic-850-ranch,toeic,toeic-850,ranch,大牧場,"The team reviewed ""ranch"" before making a decision.",チームは決定前に「大牧場」を確認しました。
+toeic-850-linen,toeic,toeic-850,linen,"リネン,亜麻布","The manager used ""linen"" in the monthly report.","マネージャーは月次報告で「リネン,亜麻布」を使いました。"
+toeic-850-harvest,toeic,toeic-850,harvest,"収穫,取り入れ","Employees should understand ""harvest"" in business documents.","従業員は業務文書で「収穫,取り入れ」を理解する必要があります。"
+toeic-850-motel,toeic,toeic-850,motel,モーテル,"The notice mentioned ""motel"" for all staff members.",その通知は全スタッフ向けに「モーテル」に触れていました。
+toeic-850-container,toeic,toeic-850,container,"容器,入れ物","The client asked about ""container"" after the meeting.","顧客は会議後に「容器,入れ物」について尋ねました。"
+toeic-850-payday,toeic,toeic-850,payday,給料日,"The team reviewed ""payday"" before making a decision.",チームは決定前に「給料日」を確認しました。
+toeic-850-buyer,toeic,toeic-850,buyer,"買い手,購入者","The manager used ""buyer"" in the monthly report.","マネージャーは月次報告で「買い手,購入者」を使いました。"
+toeic-850-yorkshire,toeic,toeic-850,yorkshire,ヨークシャー,"Employees should understand ""yorkshire"" in business documents.",従業員は業務文書で「ヨークシャー」を理解する必要があります。
+toeic-850-resin,toeic,toeic-850,resin,"樹脂,松やに","The notice mentioned ""resin"" for all staff members.","その通知は全スタッフ向けに「樹脂,松やに」に触れていました。"
+toeic-850-stint,toeic,toeic-850,stint,"惜しむ,切り詰める","The client asked about ""stint"" after the meeting.","顧客は会議後に「惜しむ,切り詰める」について尋ねました。"
+toeic-850-storey,toeic,toeic-850,storey,階,"The team reviewed ""storey"" before making a decision.",チームは決定前に「階」を確認しました。
+toeic-850-placement,toeic,toeic-850,placement,"置くこと,配置","The manager used ""placement"" in the monthly report.","マネージャーは月次報告で「置くこと,配置」を使いました。"
+toeic-850-pipeline,toeic,toeic-850,pipeline,輸送パイプ,"Employees should understand ""pipeline"" in business documents.",従業員は業務文書で「輸送パイプ」を理解する必要があります。
+toeic-850-lineup,toeic,toeic-850,lineup,選手の陣容,"The notice mentioned ""lineup"" for all staff members.",その通知は全スタッフ向けに「選手の陣容」に触れていました。
+toeic-850-careless,toeic,toeic-850,careless,"不注意な,軽率な","The client asked about ""careless"" after the meeting.","顧客は会議後に「不注意な,軽率な」について尋ねました。"
+toeic-850-airline,toeic,toeic-850,airline,航空会社,"The team reviewed ""airline"" before making a decision.",チームは決定前に「航空会社」を確認しました。
+toeic-850-intercourse,toeic,toeic-850,intercourse,"交際,交流,連絡,取引","The manager used ""intercourse"" in the monthly report.","マネージャーは月次報告で「交際,交流,連絡,取引」を使いました。"
+toeic-850-filing,toeic,toeic-850,filing,"とじ込み,書類整理","Employees should understand ""filing"" in business documents.","従業員は業務文書で「とじ込み,書類整理」を理解する必要があります。"
+toeic-850-declare,toeic,toeic-850,declare,"宣言する,告示する,公表する","The notice mentioned ""declare"" for all staff members.","その通知は全スタッフ向けに「宣言する,告示する,公表する」に触れていました。"
+toeic-850-accomplish,toeic,toeic-850,accomplish,"を成し遂げる,仕上げる","The client asked about ""accomplish"" after the meeting.","顧客は会議後に「を成し遂げる,仕上げる」について尋ねました。"
+toeic-850-ventilation,toeic,toeic-850,ventilation,"換気,通風","The team reviewed ""ventilation"" before making a decision.","チームは決定前に「換気,通風」を確認しました。"
+toeic-850-avail,toeic,toeic-850,avail,"役に立つ,用が足りる","The manager used ""avail"" in the monthly report.","マネージャーは月次報告で「役に立つ,用が足りる」を使いました。"
+toeic-850-chamberlain,toeic,toeic-850,chamberlain,"侍従,執事","Employees should understand ""chamberlain"" in business documents.","従業員は業務文書で「侍従,執事」を理解する必要があります。"
+toeic-850-grocery,toeic,toeic-850,grocery,食料品店,"The notice mentioned ""grocery"" for all staff members.",その通知は全スタッフ向けに「食料品店」に触れていました。
+toeic-850-expertise,toeic,toeic-850,expertise,専門技術,"The client asked about ""expertise"" after the meeting.",顧客は会議後に「専門技術」について尋ねました。
+toeic-850-compact,toeic,toeic-850,compact,"ぎっしり詰まった,目詰んだ,緊密な","The team reviewed ""compact"" before making a decision.","チームは決定前に「ぎっしり詰まった,目詰んだ,緊密な」を確認しました。"
+toeic-850-assure,toeic,toeic-850,assure,"に確信させる,保証する,分からせて安心させる","The manager used ""assure"" in the monthly report.","マネージャーは月次報告で「に確信させる,保証する,分からせて安心させる」を使いました。"
+toeic-850-accommodation,toeic,toeic-850,accommodation,宿泊,"Employees should understand ""accommodation"" in business documents.",従業員は業務文書で「宿泊」を理解する必要があります。
+toeic-850-submission,toeic,toeic-850,submission,"服従,屈服,降伏","The notice mentioned ""submission"" for all staff members.","その通知は全スタッフ向けに「服従,屈服,降伏」に触れていました。"
+toeic-850-ethical,toeic,toeic-850,ethical,"倫理の,道徳の","The client asked about ""ethical"" after the meeting.","顧客は会議後に「倫理の,道徳の」について尋ねました。"
+toeic-850-drain,toeic,toeic-850,drain,から排出する,"The team reviewed ""drain"" before making a decision.",チームは決定前に「から排出する」を確認しました。
+toeic-850-transmitter,toeic,toeic-850,transmitter,送る人,"The manager used ""transmitter"" in the monthly report.",マネージャーは月次報告で「送る人」を使いました。
+toeic-850-assured,toeic,toeic-850,assured,"保証された,確実な","Employees should understand ""assured"" in business documents.","従業員は業務文書で「保証された,確実な」を理解する必要があります。"
+toeic-850-assumption,toeic,toeic-850,assumption,引き受けること,"The notice mentioned ""assumption"" for all staff members.",その通知は全スタッフ向けに「引き受けること」に触れていました。
+toeic-850-wicket,toeic,toeic-850,wicket,"小門,くぐり","The client asked about ""wicket"" after the meeting.","顧客は会議後に「小門,くぐり」について尋ねました。"
+toeic-850-administrator,toeic,toeic-850,administrator,"為政者,行政官","The team reviewed ""administrator"" before making a decision.","チームは決定前に「為政者,行政官」を確認しました。"
+toeic-850-cartel,toeic,toeic-850,cartel,"カルテル,企業連合","The manager used ""cartel"" in the monthly report.","マネージャーは月次報告で「カルテル,企業連合」を使いました。"
+toeic-850-caucus,toeic,toeic-850,caucus,幹部会議,"Employees should understand ""caucus"" in business documents.",従業員は業務文書で「幹部会議」を理解する必要があります。
+toeic-850-foreman,toeic,toeic-850,foreman,"職長,監督","The notice mentioned ""foreman"" for all staff members.","その通知は全スタッフ向けに「職長,監督」に触れていました。"
+toeic-850-confirmation,toeic,toeic-850,confirmation,確認,"The client asked about ""confirmation"" after the meeting.",顧客は会議後に「確認」について尋ねました。
+toeic-850-architect,toeic,toeic-850,architect,"建築家,建築技師","The team reviewed ""architect"" before making a decision.","チームは決定前に「建築家,建築技師」を確認しました。"
+toeic-850-plastics,toeic,toeic-850,plastics,プラスチック素材,"The manager used ""plastics"" in the monthly report.",マネージャーは月次報告で「プラスチック素材」を使いました。
+toeic-850-priceless,toeic,toeic-850,priceless,非常に貴重な,"Employees should understand ""priceless"" in business documents.",従業員は業務文書で「非常に貴重な」を理解する必要があります。
+toeic-850-tender,toeic,toeic-850,tender,"世話をする人,看護人","The notice mentioned ""tender"" for all staff members.","その通知は全スタッフ向けに「世話をする人,看護人」に触れていました。"
+toeic-850-surrender,toeic,toeic-850,surrender,"引き渡す,明け渡す","The client asked about ""surrender"" after the meeting.","顧客は会議後に「引き渡す,明け渡す」について尋ねました。"
+toeic-850-advise,toeic,toeic-850,advise,"にを忠告する,助言する,すすめる","The team reviewed ""advise"" before making a decision.","チームは決定前に「にを忠告する,助言する,すすめる」を確認しました。"
+toeic-850-disposable,toeic,toeic-850,disposable,使い捨てにできる,"The manager used ""disposable"" in the monthly report.",マネージャーは月次報告で「使い捨てにできる」を使いました。
+toeic-850-provider,toeic,toeic-850,provider,供給者,"Employees should understand ""provider"" in business documents.",従業員は業務文書で「供給者」を理解する必要があります。
+toeic-850-hassle,toeic,toeic-850,hassle,激論,"The notice mentioned ""hassle"" for all staff members.",その通知は全スタッフ向けに「激論」に触れていました。
+toeic-850-inexpensive,toeic,toeic-850,inexpensive,"安い,費用のかからない","The client asked about ""inexpensive"" after the meeting.","顧客は会議後に「安い,費用のかからない」について尋ねました。"
+toeic-850-fitting,toeic,toeic-850,fitting,適切な,"The team reviewed ""fitting"" before making a decision.",チームは決定前に「適切な」を確認しました。
+toeic-850-offend,toeic,toeic-850,offend,"の感情を傷つける,を恐らせる","The manager used ""offend"" in the monthly report.","マネージャーは月次報告で「の感情を傷つける,を恐らせる」を使いました。"
+toeic-850-sanitation,toeic,toeic-850,sanitation,衛生,"Employees should understand ""sanitation"" in business documents.",従業員は業務文書で「衛生」を理解する必要があります。
+toeic-850-preference,toeic,toeic-850,preference,好み,"The notice mentioned ""preference"" for all staff members.",その通知は全スタッフ向けに「好み」に触れていました。
+toeic-850-satisfactory,toeic,toeic-850,satisfactory,"満足を与える,満足な,申し分のない","The client asked about ""satisfactory"" after the meeting.","顧客は会議後に「満足を与える,満足な,申し分のない」について尋ねました。"
+toeic-850-bankruptcy,toeic,toeic-850,bankruptcy,"破産,倒産","The team reviewed ""bankruptcy"" before making a decision.","チームは決定前に「破産,倒産」を確認しました。"
+toeic-850-pursuit,toeic,toeic-850,pursuit,"追うこと,追跡","The manager used ""pursuit"" in the monthly report.","マネージャーは月次報告で「追うこと,追跡」を使いました。"
+toeic-850-governing,toeic,toeic-850,governing,"統治する,管理する","Employees should understand ""governing"" in business documents.","従業員は業務文書で「統治する,管理する」を理解する必要があります。"
+toeic-850-appreciation,toeic,toeic-850,appreciation,"正しく認識すること,識別,評価","The notice mentioned ""appreciation"" for all staff members.","その通知は全スタッフ向けに「正しく認識すること,識別,評価」に触れていました。"
+toeic-850-lucrative,toeic,toeic-850,lucrative,"利益が上がる,もうかる","The client asked about ""lucrative"" after the meeting.","顧客は会議後に「利益が上がる,もうかる」について尋ねました。"
+toeic-850-sterling,toeic,toeic-850,sterling,"英貨の,ポンドの","The team reviewed ""sterling"" before making a decision.","チームは決定前に「英貨の,ポンドの」を確認しました。"
+toeic-850-skilled,toeic,toeic-850,skilled,"熟練した,特殊技術を持った","The manager used ""skilled"" in the monthly report.","マネージャーは月次報告で「熟練した,特殊技術を持った」を使いました。"
+toeic-850-reportedly,toeic,toeic-850,reportedly,伝えられるところによれば…とのこと,"Employees should understand ""reportedly"" in business documents.",従業員は業務文書で「伝えられるところによれば…とのこと」を理解する必要があります。
+toeic-850-prospect,toeic,toeic-850,prospect,"光景,眺め","The notice mentioned ""prospect"" for all staff members.","その通知は全スタッフ向けに「光景,眺め」に触れていました。"
+toeic-850-profession,toeic,toeic-850,profession,専門職,"The client asked about ""profession"" after the meeting.",顧客は会議後に「専門職」について尋ねました。
+toeic-850-porcelain,toeic,toeic-850,porcelain,磁器,"The team reviewed ""porcelain"" before making a decision.",チームは決定前に「磁器」を確認しました。
+toeic-850-promoter,toeic,toeic-850,promoter,"推進者,奨励者","The manager used ""promoter"" in the monthly report.","マネージャーは月次報告で「推進者,奨励者」を使いました。"
+toeic-850-homework,toeic,toeic-850,homework,"宿題,学庭学習","Employees should understand ""homework"" in business documents.","従業員は業務文書で「宿題,学庭学習」を理解する必要があります。"
+toeic-850-combine,toeic,toeic-850,combine,"結合する,合同する","The notice mentioned ""combine"" for all staff members.","その通知は全スタッフ向けに「結合する,合同する」に触れていました。"
+toeic-850-cheers,toeic,toeic-850,cheers,乾杯,"The client asked about ""cheers"" after the meeting.",顧客は会議後に「乾杯」について尋ねました。
+toeic-850-acquire,toeic,toeic-850,acquire,"習得する,身につける","The team reviewed ""acquire"" before making a decision.","チームは決定前に「習得する,身につける」を確認しました。"
+toeic-850-tragedy,toeic,toeic-850,tragedy,悲劇,"The manager used ""tragedy"" in the monthly report.",マネージャーは月次報告で「悲劇」を使いました。
+toeic-850-curator,toeic,toeic-850,curator,"管理者,館長","Employees should understand ""curator"" in business documents.","従業員は業務文書で「管理者,館長」を理解する必要があります。"
+toeic-850-inventory,toeic,toeic-850,inventory,目録,"The notice mentioned ""inventory"" for all staff members.",その通知は全スタッフ向けに「目録」に触れていました。
+toeic-850-install,toeic,toeic-850,install,"を取り付ける,設備する","The client asked about ""install"" after the meeting.","顧客は会議後に「を取り付ける,設備する」について尋ねました。"
+toeic-850-inspection,toeic,toeic-850,inspection,"検査,点検","The team reviewed ""inspection"" before making a decision.","チームは決定前に「検査,点検」を確認しました。"
+toeic-850-fulfil,toeic,toeic-850,fulfil,"を果たす,実行する","The manager used ""fulfil"" in the monthly report.","マネージャーは月次報告で「を果たす,実行する」を使いました。"
+toeic-850-binding,toeic,toeic-850,binding,"義務的な,拘束力ある","Employees should understand ""binding"" in business documents.","従業員は業務文書で「義務的な,拘束力ある」を理解する必要があります。"
+toeic-850-workshop,toeic,toeic-850,workshop,"仕事場,工作場","The notice mentioned ""workshop"" for all staff members.","その通知は全スタッフ向けに「仕事場,工作場」に触れていました。"
+toeic-850-tackle,toeic,toeic-850,tackle,"道具,装具","The client asked about ""tackle"" after the meeting.","顧客は会議後に「道具,装具」について尋ねました。"
+toeic-850-protocol,toeic,toeic-850,protocol,外交儀礼,"The team reviewed ""protocol"" before making a decision.",チームは決定前に「外交儀礼」を確認しました。
+toeic-850-portfolio,toeic,toeic-850,portfolio,"折りかばん,書類かばん","The manager used ""portfolio"" in the monthly report.","マネージャーは月次報告で「折りかばん,書類かばん」を使いました。"
+toeic-850-farmer,toeic,toeic-850,farmer,"農場経営者,農場主","Employees should understand ""farmer"" in business documents.","従業員は業務文書で「農場経営者,農場主」を理解する必要があります。"
+toeic-850-suitcase,toeic,toeic-850,suitcase,"スーツケース,小型旅行かばん","The notice mentioned ""suitcase"" for all staff members.","その通知は全スタッフ向けに「スーツケース,小型旅行かばん」に触れていました。"
+toeic-850-yield,toeic,toeic-850,yield,"産出する,生ずる","The client asked about ""yield"" after the meeting.","顧客は会議後に「産出する,生ずる」について尋ねました。"
+toeic-850-sheriff,toeic,toeic-850,sheriff,または都市の)長官,"The team reviewed ""sheriff"" before making a decision.",チームは決定前に「または都市の)長官」を確認しました。
+toeic-850-satisfaction,toeic,toeic-850,satisfaction,満足させること,"The manager used ""satisfaction"" in the monthly report.",マネージャーは月次報告で「満足させること」を使いました。
+toeic-850-administer,toeic,toeic-850,administer,管理する,"Employees should understand ""administer"" in business documents.",従業員は業務文書で「管理する」を理解する必要があります。
+toeic-850-boutique,toeic,toeic-850,boutique,"流行服飾品専門店,ブティック","The notice mentioned ""boutique"" for all staff members.","その通知は全スタッフ向けに「流行服飾品専門店,ブティック」に触れていました。"
+toeic-850-manhattan,toeic,toeic-850,manhattan,マンハッタン区,"The client asked about ""manhattan"" after the meeting.",顧客は会議後に「マンハッタン区」について尋ねました。
+toeic-850-determination,toeic,toeic-850,determination,"決心,決意,決断力","The team reviewed ""determination"" before making a decision.","チームは決定前に「決心,決意,決断力」を確認しました。"
+toeic-850-expire,toeic,toeic-850,expire,"満了する,切れる","The manager used ""expire"" in the monthly report.","マネージャーは月次報告で「満了する,切れる」を使いました。"
+toeic-850-unfair,toeic,toeic-850,unfair,"不公平な,不当な,かたよった","Employees should understand ""unfair"" in business documents.","従業員は業務文書で「不公平な,不当な,かたよった」を理解する必要があります。"
+toeic-850-lease,toeic,toeic-850,lease,"借地契約,借地権","The notice mentioned ""lease"" for all staff members.","その通知は全スタッフ向けに「借地契約,借地権」に触れていました。"
+toeic-850-cinema,toeic,toeic-850,cinema,映画館,"The client asked about ""cinema"" after the meeting.",顧客は会議後に「映画館」について尋ねました。
+toeic-850-aviation,toeic,toeic-850,aviation,"飛行,航空","The team reviewed ""aviation"" before making a decision.","チームは決定前に「飛行,航空」を確認しました。"
+toeic-850-attendance,toeic,toeic-850,attendance,"出席,参列","The manager used ""attendance"" in the monthly report.","マネージャーは月次報告で「出席,参列」を使いました。"
+toeic-850-restore,toeic,toeic-850,restore,"復活させる,回復させる,復帰させる","Employees should understand ""restore"" in business documents.","従業員は業務文書で「復活させる,回復させる,復帰させる」を理解する必要があります。"
+toeic-850-collapse,toeic,toeic-850,collapse,"つぶれる,陥没する","The notice mentioned ""collapse"" for all staff members.","その通知は全スタッフ向けに「つぶれる,陥没する」に触れていました。"
+toeic-850-ceiling,toeic,toeic-850,ceiling,天井,"The client asked about ""ceiling"" after the meeting.",顧客は会議後に「天井」について尋ねました。
+toeic-850-cancel,toeic,toeic-850,cancel,"を取り消す,無効にする","The team reviewed ""cancel"" before making a decision.","チームは決定前に「を取り消す,無効にする」を確認しました。"
+toeic-850-assignment,toeic,toeic-850,assignment,割り当てられた仕事,"The manager used ""assignment"" in the monthly report.",マネージャーは月次報告で「割り当てられた仕事」を使いました。
+toeic-850-acknowledge,toeic,toeic-850,acknowledge,"認める,承認する","Employees should understand ""acknowledge"" in business documents.","従業員は業務文書で「認める,承認する」を理解する必要があります。"
+toeic-850-tobacco,toeic,toeic-850,tobacco,タバコの木,"The notice mentioned ""tobacco"" for all staff members.",その通知は全スタッフ向けに「タバコの木」に触れていました。
+toeic-850-overnight,toeic,toeic-850,overnight,"一晩じゅう,夜通し","The client asked about ""overnight"" after the meeting.","顧客は会議後に「一晩じゅう,夜通し」について尋ねました。"
+toeic-850-redeem,toeic,toeic-850,redeem,を買い戻す,"The team reviewed ""redeem"" before making a decision.",チームは決定前に「を買い戻す」を確認しました。
+toeic-850-adopt,toeic,toeic-850,adopt,"を取り入れる,採用する","The manager used ""adopt"" in the monthly report.","マネージャーは月次報告で「を取り入れる,採用する」を使いました。"
+toeic-850-wireless,toeic,toeic-850,wireless,"無線,無線電信","Employees should understand ""wireless"" in business documents.","従業員は業務文書で「無線,無線電信」を理解する必要があります。"
+toeic-850-transit,toeic,toeic-850,transit,"通過,通行","The notice mentioned ""transit"" for all staff members.","その通知は全スタッフ向けに「通過,通行」に触れていました。"
+toeic-850-tourist,toeic,toeic-850,tourist,"旅行者,観光客","The client asked about ""tourist"" after the meeting.","顧客は会議後に「旅行者,観光客」について尋ねました。"
+toeic-850-syntax,toeic,toeic-850,syntax,"文章論,統語論,文章構成法,シンタックス","The team reviewed ""syntax"" before making a decision.","チームは決定前に「文章論,統語論,文章構成法,シンタックス」を確認しました。"
+toeic-850-privilege,toeic,toeic-850,privilege,"特権,特典,恩典,恩恵","The manager used ""privilege"" in the monthly report.","マネージャーは月次報告で「特権,特典,恩典,恩恵」を使いました。"
+toeic-850-waiver,toeic,toeic-850,waiver,権利放棄,"Employees should understand ""waiver"" in business documents.",従業員は業務文書で「権利放棄」を理解する必要があります。
+toeic-850-jerusalem,toeic,toeic-850,jerusalem,エルサレム,"The notice mentioned ""jerusalem"" for all staff members.",その通知は全スタッフ向けに「エルサレム」に触れていました。
+toeic-850-bonded,toeic,toeic-850,bonded,合板の,"The client asked about ""bonded"" after the meeting.",顧客は会議後に「合板の」について尋ねました。
+toeic-850-slavery,toeic,toeic-850,slavery,奴隷制度,"The team reviewed ""slavery"" before making a decision.",チームは決定前に「奴隷制度」を確認しました。
+toeic-850-examiner,toeic,toeic-850,examiner,試験官,"The manager used ""examiner"" in the monthly report.",マネージャーは月次報告で「試験官」を使いました。
+toeic-850-legally,toeic,toeic-850,legally,"法律上,法律的に","Employees should understand ""legally"" in business documents.","従業員は業務文書で「法律上,法律的に」を理解する必要があります。"
+toeic-850-holder,toeic,toeic-850,holder,"保持者,所持者","The notice mentioned ""holder"" for all staff members.","その通知は全スタッフ向けに「保持者,所持者」に触れていました。"
+toeic-850-inherit,toeic,toeic-850,inherit,を相続する,"The client asked about ""inherit"" after the meeting.",顧客は会議後に「を相続する」について尋ねました。
+toeic-850-clinic,toeic,toeic-850,clinic,臨床講義,"The team reviewed ""clinic"" before making a decision.",チームは決定前に「臨床講義」を確認しました。
+toeic-850-productive,toeic,toeic-850,productive,"生産的な,好ましい結果を生み出す","The manager used ""productive"" in the monthly report.","マネージャーは月次報告で「生産的な,好ましい結果を生み出す」を使いました。"
+toeic-850-permit,toeic,toeic-850,permit,許可する,"Employees should understand ""permit"" in business documents.",従業員は業務文書で「許可する」を理解する必要があります。
+toeic-850-sexism,toeic,toeic-850,sexism,"女性差別主義,男女差別","The notice mentioned ""sexism"" for all staff members.","その通知は全スタッフ向けに「女性差別主義,男女差別」に触れていました。"
+toeic-850-employer,toeic,toeic-850,employer,"雇い主,雇用者","The client asked about ""employer"" after the meeting.","顧客は会議後に「雇い主,雇用者」について尋ねました。"
+toeic-850-custody,toeic,toeic-850,custody,"管理,保管,保護","The team reviewed ""custody"" before making a decision.","チームは決定前に「管理,保管,保護」を確認しました。"
+toeic-850-auditorium,toeic,toeic-850,auditorium,"聴衆席,観客席","The manager used ""auditorium"" in the monthly report.","マネージャーは月次報告で「聴衆席,観客席」を使いました。"
+toeic-850-suggestion,toeic,toeic-850,suggestion,"提案,提案すること","Employees should understand ""suggestion"" in business documents.","従業員は業務文書で「提案,提案すること」を理解する必要があります。"
+toeic-850-suspension,toeic,toeic-850,suspension,"つるすこと,つるされた状態","The notice mentioned ""suspension"" for all staff members.","その通知は全スタッフ向けに「つるすこと,つるされた状態」に触れていました。"
+toeic-850-outlaw,toeic,toeic-850,outlaw,常習犯,"The client asked about ""outlaw"" after the meeting.",顧客は会議後に「常習犯」について尋ねました。
+toeic-850-oversee,toeic,toeic-850,oversee,を監督する,"The team reviewed ""oversee"" before making a decision.",チームは決定前に「を監督する」を確認しました。
+toeic-850-postage,toeic,toeic-850,postage,"郵便料金,郵送料","The manager used ""postage"" in the monthly report.","マネージャーは月次報告で「郵便料金,郵送料」を使いました。"
+toeic-850-prohibit,toeic,toeic-850,prohibit,"禁止する,禁ずる","Employees should understand ""prohibit"" in business documents.","従業員は業務文書で「禁止する,禁ずる」を理解する必要があります。"
+toeic-850-destination,toeic,toeic-850,destination,"目的地,行き先","The notice mentioned ""destination"" for all staff members.","その通知は全スタッフ向けに「目的地,行き先」に触れていました。"
+toeic-850-deposit,toeic,toeic-850,deposit,"を預ける,を預金する","The client asked about ""deposit"" after the meeting.","顧客は会議後に「を預ける,を預金する」について尋ねました。"
+toeic-850-tribute,toeic,toeic-850,tribute,感謝の印,"The team reviewed ""tribute"" before making a decision.",チームは決定前に「感謝の印」を確認しました。
+toeic-850-garage,toeic,toeic-850,garage,車庫,"The manager used ""garage"" in the monthly report.",マネージャーは月次報告で「車庫」を使いました。
+toeic-850-correspond,toeic,toeic-850,correspond,"一致する,符合する,調和する","Employees should understand ""correspond"" in business documents.","従業員は業務文書で「一致する,符合する,調和する」を理解する必要があります。"
+toeic-850-cradle,toeic,toeic-850,cradle,揺りかご,"The notice mentioned ""cradle"" for all staff members.",その通知は全スタッフ向けに「揺りかご」に触れていました。
+toeic-850-forgive,toeic,toeic-850,forgive,"を許す,大目に見る","The client asked about ""forgive"" after the meeting.","顧客は会議後に「を許す,大目に見る」について尋ねました。"
+toeic-850-pursue,toeic,toeic-850,pursue,"を追う,追跡する","The team reviewed ""pursue"" before making a decision.","チームは決定前に「を追う,追跡する」を確認しました。"
+toeic-850-offense,toeic,toeic-850,offense,罪,"The manager used ""offense"" in the monthly report.",マネージャーは月次報告で「罪」を使いました。
+toeic-850-instrument,toeic,toeic-850,instrument,"器具,器械,計器・楽器)","Employees should understand ""instrument"" in business documents.","従業員は業務文書で「器具,器械,計器・楽器)」を理解する必要があります。"
+toeic-850-guardian,toeic,toeic-850,guardian,"保護者,監視人,管理者","The notice mentioned ""guardian"" for all staff members.","その通知は全スタッフ向けに「保護者,監視人,管理者」に触れていました。"
+toeic-850-payable,toeic,toeic-850,payable,採算のとれる,"The client asked about ""payable"" after the meeting.",顧客は会議後に「採算のとれる」について尋ねました。
+toeic-850-paycheck,toeic,toeic-850,paycheck,給料支払い小切手,"The team reviewed ""paycheck"" before making a decision.",チームは決定前に「給料支払い小切手」を確認しました。
+toeic-850-announce,toeic,toeic-850,announce,"発表する,公表する","The manager used ""announce"" in the monthly report.","マネージャーは月次報告で「発表する,公表する」を使いました。"
+toeic-850-utility,toeic,toeic-850,utility,役に立つこと,"Employees should understand ""utility"" in business documents.",従業員は業務文書で「役に立つこと」を理解する必要があります。
+toeic-850-concentration,toeic,toeic-850,concentration,集中,"The notice mentioned ""concentration"" for all staff members.",その通知は全スタッフ向けに「集中」に触れていました。
+toeic-850-plunge,toeic,toeic-850,plunge,"突っ込む,押し込む","The client asked about ""plunge"" after the meeting.","顧客は会議後に「突っ込む,押し込む」について尋ねました。"
+toeic-850-shuffle,toeic,toeic-850,shuffle,"を引きずる,引きずって歩く","The team reviewed ""shuffle"" before making a decision.","チームは決定前に「を引きずる,引きずって歩く」を確認しました。"
+toeic-850-teller,toeic,toeic-850,teller,"話し手,語り手","The manager used ""teller"" in the monthly report.","マネージャーは月次報告で「話し手,語り手」を使いました。"
+toeic-850-concede,toeic,toeic-850,concede,真実と認める,"Employees should understand ""concede"" in business documents.",従業員は業務文書で「真実と認める」を理解する必要があります。
+toeic-850-expiration,toeic,toeic-850,expiration,"満了,終結","The notice mentioned ""expiration"" for all staff members.","その通知は全スタッフ向けに「満了,終結」に触れていました。"
+toeic-850-retrospective,toeic,toeic-850,retrospective,"回顧的な,回想の","The client asked about ""retrospective"" after the meeting.","顧客は会議後に「回顧的な,回想の」について尋ねました。"
+toeic-850-connector,toeic,toeic-850,connector,"接続子,接続器","The team reviewed ""connector"" before making a decision.","チームは決定前に「接続子,接続器」を確認しました。"
+toeic-850-rewrite,toeic,toeic-850,rewrite,書き直す,"The manager used ""rewrite"" in the monthly report.",マネージャーは月次報告で「書き直す」を使いました。
+toeic-850-voucher,toeic,toeic-850,voucher,"証書,受領証・証拠物件","Employees should understand ""voucher"" in business documents.","従業員は業務文書で「証書,受領証・証拠物件」を理解する必要があります。"
+toeic-850-consultancy,toeic,toeic-850,consultancy,コンサルタント業務,"The notice mentioned ""consultancy"" for all staff members.",その通知は全スタッフ向けに「コンサルタント業務」に触れていました。
+toeic-850-contraction,toeic,toeic-850,contraction,"収縮,短縮","The client asked about ""contraction"" after the meeting.","顧客は会議後に「収縮,短縮」について尋ねました。"
+toeic-850-disconnect,toeic,toeic-850,disconnect,の関係を絶つ,"The team reviewed ""disconnect"" before making a decision.",チームは決定前に「の関係を絶つ」を確認しました。
+toeic-850-estimation,toeic,toeic-850,estimation,判断,"The manager used ""estimation"" in the monthly report.",マネージャーは月次報告で「判断」を使いました。
+toeic-850-instrumentation,toeic,toeic-850,instrumentation,器楽編法,"Employees should understand ""instrumentation"" in business documents.",従業員は業務文書で「器楽編法」を理解する必要があります。
+toeic-850-caretaker,toeic,toeic-850,caretaker,管理人,"The notice mentioned ""caretaker"" for all staff members.",その通知は全スタッフ向けに「管理人」に触れていました。
+toeic-850-mayhem,toeic,toeic-850,mayhem,身体傷害,"The client asked about ""mayhem"" after the meeting.",顧客は会議後に「身体傷害」について尋ねました。

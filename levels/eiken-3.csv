@@ -1,81 +1,501 @@
 id,axis,level_id,spelling,translation,example,example_translation
-eiken-3-abroad,eiken,eiken-3,abroad,海外へ,She answered abroad during the interview.,彼女は面接で海外へ答えました。
-eiken-3-culture,eiken,eiken-3,culture,文化,Students discussed the culture in class.,生徒たちは授業で文化について話し合いました。
-eiken-3-environment,eiken,eiken-3,environment,環境,Students discussed the environment in class.,生徒たちは授業で環境について話し合いました。
-eiken-3-habit,eiken,eiken-3,habit,習慣,Students discussed the habit in class.,生徒たちは授業で習慣について話し合いました。
-eiken-3-invite,eiken,eiken-3,invite,招待する,People can invite the problem through careful action.,人々は慎重な行動でその問題を招待することができます。
-eiken-3-neighbor,eiken,eiken-3,neighbor,隣人,Students discussed the neighbor in class.,生徒たちは授業で隣人について話し合いました。
-eiken-3-practice,eiken,eiken-3,practice,練習する,People can practice the problem through careful action.,人々は慎重な行動でその問題を練習することができます。
-eiken-3-promise,eiken,eiken-3,promise,約束する,People can promise the problem through careful action.,人々は慎重な行動でその問題を約束することができます。
-eiken-3-suddenly,eiken,eiken-3,suddenly,突然,She answered suddenly during the interview.,彼女は面接で突然答えました。
-eiken-3-traffic,eiken,eiken-3,traffic,交通,Students discussed the traffic in class.,生徒たちは授業で交通について話し合いました。
-eiken-3-accident,eiken,eiken-3,accident,事故,Students discussed the accident in class.,生徒たちは授業で事故について話し合いました。
-eiken-3-advice,eiken,eiken-3,advice,助言,Students discussed the advice in class.,生徒たちは授業で助言について話し合いました。
-eiken-3-airport,eiken,eiken-3,airport,空港,Students discussed the airport in class.,生徒たちは授業で空港について話し合いました。
-eiken-3-answer,eiken,eiken-3,answer,答え,Students discussed the answer in class.,生徒たちは授業で答えについて話し合いました。
-eiken-3-birthday,eiken,eiken-3,birthday,誕生日,Students discussed the birthday in class.,生徒たちは授業で誕生日について話し合いました。
-eiken-3-bridge,eiken,eiken-3,bridge,橋,Students discussed the bridge in class.,生徒たちは授業で橋について話し合いました。
-eiken-3-camera,eiken,eiken-3,camera,カメラ,Students discussed the camera in class.,生徒たちは授業でカメラについて話し合いました。
-eiken-3-chance,eiken,eiken-3,chance,機会,Students discussed the chance in class.,生徒たちは授業で機会について話し合いました。
-eiken-3-classroom,eiken,eiken-3,classroom,教室,Students discussed the classroom in class.,生徒たちは授業で教室について話し合いました。
-eiken-3-club,eiken,eiken-3,club,部活動,Students discussed the club in class.,生徒たちは授業で部活動について話し合いました。
-eiken-3-college,eiken,eiken-3,college,大学,Students discussed the college in class.,生徒たちは授業で大学について話し合いました。
-eiken-3-country,eiken,eiken-3,country,国,Students discussed the country in class.,生徒たちは授業で国について話し合いました。
-eiken-3-doctor,eiken,eiken-3,doctor,医師,Students discussed the doctor in class.,生徒たちは授業で医師について話し合いました。
-eiken-3-dream,eiken,eiken-3,dream,夢,Students discussed the dream in class.,生徒たちは授業で夢について話し合いました。
-eiken-3-event,eiken,eiken-3,event,行事,Students discussed the event in class.,生徒たちは授業で行事について話し合いました。
-eiken-3-festival,eiken,eiken-3,festival,祭り,Students discussed the festival in class.,生徒たちは授業で祭りについて話し合いました。
-eiken-3-future,eiken,eiken-3,future,将来,Students discussed the future in class.,生徒たちは授業で将来について話し合いました。
-eiken-3-garbage,eiken,eiken-3,garbage,ごみ,Students discussed the garbage in class.,生徒たちは授業でごみについて話し合いました。
-eiken-3-garden,eiken,eiken-3,garden,庭,Students discussed the garden in class.,生徒たちは授業で庭について話し合いました。
-eiken-3-health,eiken,eiken-3,health,健康,Students discussed the health in class.,生徒たちは授業で健康について話し合いました。
-eiken-3-hobby,eiken,eiken-3,hobby,趣味,Students discussed the hobby in class.,生徒たちは授業で趣味について話し合いました。
-eiken-3-holiday,eiken,eiken-3,holiday,休日,Students discussed the holiday in class.,生徒たちは授業で休日について話し合いました。
-eiken-3-hospital,eiken,eiken-3,hospital,病院,Students discussed the hospital in class.,生徒たちは授業で病院について話し合いました。
-eiken-3-island,eiken,eiken-3,island,島,Students discussed the island in class.,生徒たちは授業で島について話し合いました。
-eiken-3-kitchen,eiken,eiken-3,kitchen,台所,Students discussed the kitchen in class.,生徒たちは授業で台所について話し合いました。
-eiken-3-library,eiken,eiken-3,library,図書館,Students discussed the library in class.,生徒たちは授業で図書館について話し合いました。
-eiken-3-message,eiken,eiken-3,message,伝言,Students discussed the message in class.,生徒たちは授業で伝言について話し合いました。
-eiken-3-museum,eiken,eiken-3,museum,博物館,Students discussed the museum in class.,生徒たちは授業で博物館について話し合いました。
-eiken-3-nature,eiken,eiken-3,nature,自然,Students discussed the nature in class.,生徒たちは授業で自然について話し合いました。
-eiken-3-noise,eiken,eiken-3,noise,騒音,Students discussed the noise in class.,生徒たちは授業で騒音について話し合いました。
-eiken-3-opinion,eiken,eiken-3,opinion,意見,Students discussed the opinion in class.,生徒たちは授業で意見について話し合いました。
-eiken-3-picnic,eiken,eiken-3,picnic,ピクニック,Students discussed the picnic in class.,生徒たちは授業でピクニックについて話し合いました。
-eiken-3-plan,eiken,eiken-3,plan,計画,Students discussed the plan in class.,生徒たちは授業で計画について話し合いました。
-eiken-3-problem,eiken,eiken-3,problem,問題,Students discussed the problem in class.,生徒たちは授業で問題について話し合いました。
-eiken-3-question,eiken,eiken-3,question,質問,Students discussed the question in class.,生徒たちは授業で質問について話し合いました。
-eiken-3-reason,eiken,eiken-3,reason,理由,Students discussed the reason in class.,生徒たちは授業で理由について話し合いました。
-eiken-3-restaurant,eiken,eiken-3,restaurant,レストラン,Students discussed the restaurant in class.,生徒たちは授業でレストランについて話し合いました。
-eiken-3-rule,eiken,eiken-3,rule,規則,Students discussed the rule in class.,生徒たちは授業で規則について話し合いました。
-eiken-3-season,eiken,eiken-3,season,季節,Students discussed the season in class.,生徒たちは授業で季節について話し合いました。
-eiken-3-station,eiken,eiken-3,station,駅,Students discussed the station in class.,生徒たちは授業で駅について話し合いました。
-eiken-3-ticket,eiken,eiken-3,ticket,切符,Students discussed the ticket in class.,生徒たちは授業で切符について話し合いました。
-eiken-3-trip,eiken,eiken-3,trip,旅行,Students discussed the trip in class.,生徒たちは授業で旅行について話し合いました。
-eiken-3-village,eiken,eiken-3,village,村,Students discussed the village in class.,生徒たちは授業で村について話し合いました。
-eiken-3-volunteer,eiken,eiken-3,volunteer,ボランティア,Students discussed the volunteer in class.,生徒たちは授業でボランティアについて話し合いました。
-eiken-3-weather,eiken,eiken-3,weather,天気,Students discussed the weather in class.,生徒たちは授業で天気について話し合いました。
-eiken-3-weekend,eiken,eiken-3,weekend,週末,Students discussed the weekend in class.,生徒たちは授業で週末について話し合いました。
-eiken-3-activity,eiken,eiken-3,activity,活動,Students discussed the activity in class.,生徒たちは授業で活動について話し合いました。
-eiken-3-beautiful,eiken,eiken-3,beautiful,美しい,The topic was beautiful for many students.,その話題は多くの生徒にとって美しいでした。
-eiken-3-careful,eiken,eiken-3,careful,注意深い,The topic was careful for many students.,その話題は多くの生徒にとって注意深いでした。
-eiken-3-clean,eiken,eiken-3,clean,清潔な,The topic was clean for many students.,その話題は多くの生徒にとって清潔なでした。
-eiken-3-famous,eiken,eiken-3,famous,有名な,The topic was famous for many students.,その話題は多くの生徒にとって有名なでした。
-eiken-3-favorite,eiken,eiken-3,favorite,お気に入りの,The topic was favorite for many students.,その話題は多くの生徒にとってお気に入りのでした。
-eiken-3-friendly,eiken,eiken-3,friendly,親しみやすい,The topic was friendly for many students.,その話題は多くの生徒にとって親しみやすいでした。
-eiken-3-important,eiken,eiken-3,important,重要な,The topic was important for many students.,その話題は多くの生徒にとって重要なでした。
-eiken-3-interested,eiken,eiken-3,interested,興味がある,The topic was interested for many students.,その話題は多くの生徒にとって興味があるでした。
-eiken-3-kind,eiken,eiken-3,kind,親切な,The topic was kind for many students.,その話題は多くの生徒にとって親切なでした。
-eiken-3-popular,eiken,eiken-3,popular,人気のある,The topic was popular for many students.,その話題は多くの生徒にとって人気のあるでした。
-eiken-3-quiet,eiken,eiken-3,quiet,静かな,The topic was quiet for many students.,その話題は多くの生徒にとって静かなでした。
-eiken-3-simple,eiken,eiken-3,simple,簡単な,The topic was simple for many students.,その話題は多くの生徒にとって簡単なでした。
-eiken-3-useful,eiken,eiken-3,useful,役に立つ,The topic was useful for many students.,その話題は多くの生徒にとって役に立つでした。
-eiken-3-visit,eiken,eiken-3,visit,訪れる,People can visit the problem through careful action.,人々は慎重な行動でその問題を訪れることができます。
-eiken-3-borrow,eiken,eiken-3,borrow,借りる,People can borrow the problem through careful action.,人々は慎重な行動でその問題を借りることができます。
-eiken-3-choose,eiken,eiken-3,choose,選ぶ,People can choose the problem through careful action.,人々は慎重な行動でその問題を選ぶことができます。
-eiken-3-collect,eiken,eiken-3,collect,集める,People can collect the problem through careful action.,人々は慎重な行動でその問題を集めることができます。
-eiken-3-decide,eiken,eiken-3,decide,決める,People can decide the problem through careful action.,人々は慎重な行動でその問題を決めることができます。
-eiken-3-enjoy,eiken,eiken-3,enjoy,楽しむ,People can enjoy the problem through careful action.,人々は慎重な行動でその問題を楽しむことができます。
-eiken-3-explain,eiken,eiken-3,explain,説明する,People can explain the problem through careful action.,人々は慎重な行動でその問題を説明することができます。
-eiken-3-join,eiken,eiken-3,join,参加する,People can join the problem through careful action.,人々は慎重な行動でその問題を参加することができます。
-eiken-3-learn,eiken,eiken-3,learn,学ぶ,People can learn the problem through careful action.,人々は慎重な行動でその問題を学ぶことができます。
-eiken-3-protect,eiken,eiken-3,protect,守る,People can protect the problem through careful action.,人々は慎重な行動でその問題を守ることができます。
+eiken-3-abroad,eiken,eiken-3,abroad,海外へ,"Students learned ""abroad"" while reading the article.",生徒たちは記事を読みながら「海外へ」を学びました。
+eiken-3-culture,eiken,eiken-3,culture,文化,"The speaker used ""culture"" to explain the idea.",話し手は考えを説明するために「文化」を使いました。
+eiken-3-environment,eiken,eiken-3,environment,環境,"This passage includes ""environment"" as an important word.",この文章には重要語として「環境」が含まれています。
+eiken-3-habit,eiken,eiken-3,habit,習慣,"The class discussed ""habit"" during the lesson.",その授業では「習慣」について話し合いました。
+eiken-3-invite,eiken,eiken-3,invite,招待する,"Learners should understand ""invite"" in context.",学習者は文脈の中で「招待する」を理解する必要があります。
+eiken-3-neighbor,eiken,eiken-3,neighbor,隣人,"Students learned ""neighbor"" while reading the article.",生徒たちは記事を読みながら「隣人」を学びました。
+eiken-3-practice,eiken,eiken-3,practice,練習する,"The speaker used ""practice"" to explain the idea.",話し手は考えを説明するために「練習する」を使いました。
+eiken-3-promise,eiken,eiken-3,promise,約束する,"This passage includes ""promise"" as an important word.",この文章には重要語として「約束する」が含まれています。
+eiken-3-suddenly,eiken,eiken-3,suddenly,突然,"The class discussed ""suddenly"" during the lesson.",その授業では「突然」について話し合いました。
+eiken-3-traffic,eiken,eiken-3,traffic,交通,"Learners should understand ""traffic"" in context.",学習者は文脈の中で「交通」を理解する必要があります。
+eiken-3-accident,eiken,eiken-3,accident,事故,"Students learned ""accident"" while reading the article.",生徒たちは記事を読みながら「事故」を学びました。
+eiken-3-advice,eiken,eiken-3,advice,助言,"The speaker used ""advice"" to explain the idea.",話し手は考えを説明するために「助言」を使いました。
+eiken-3-airport,eiken,eiken-3,airport,空港,"This passage includes ""airport"" as an important word.",この文章には重要語として「空港」が含まれています。
+eiken-3-answer,eiken,eiken-3,answer,答え,"The class discussed ""answer"" during the lesson.",その授業では「答え」について話し合いました。
+eiken-3-birthday,eiken,eiken-3,birthday,誕生日,"Learners should understand ""birthday"" in context.",学習者は文脈の中で「誕生日」を理解する必要があります。
+eiken-3-bridge,eiken,eiken-3,bridge,橋,"Students learned ""bridge"" while reading the article.",生徒たちは記事を読みながら「橋」を学びました。
+eiken-3-camera,eiken,eiken-3,camera,カメラ,"The speaker used ""camera"" to explain the idea.",話し手は考えを説明するために「カメラ」を使いました。
+eiken-3-chance,eiken,eiken-3,chance,機会,"This passage includes ""chance"" as an important word.",この文章には重要語として「機会」が含まれています。
+eiken-3-classroom,eiken,eiken-3,classroom,教室,"The class discussed ""classroom"" during the lesson.",その授業では「教室」について話し合いました。
+eiken-3-club,eiken,eiken-3,club,部活動,"Learners should understand ""club"" in context.",学習者は文脈の中で「部活動」を理解する必要があります。
+eiken-3-college,eiken,eiken-3,college,大学,"Students learned ""college"" while reading the article.",生徒たちは記事を読みながら「大学」を学びました。
+eiken-3-country,eiken,eiken-3,country,国,"The speaker used ""country"" to explain the idea.",話し手は考えを説明するために「国」を使いました。
+eiken-3-doctor,eiken,eiken-3,doctor,医師,"This passage includes ""doctor"" as an important word.",この文章には重要語として「医師」が含まれています。
+eiken-3-dream,eiken,eiken-3,dream,夢,"The class discussed ""dream"" during the lesson.",その授業では「夢」について話し合いました。
+eiken-3-event,eiken,eiken-3,event,行事,"Learners should understand ""event"" in context.",学習者は文脈の中で「行事」を理解する必要があります。
+eiken-3-festival,eiken,eiken-3,festival,祭り,"Students learned ""festival"" while reading the article.",生徒たちは記事を読みながら「祭り」を学びました。
+eiken-3-future,eiken,eiken-3,future,将来,"The speaker used ""future"" to explain the idea.",話し手は考えを説明するために「将来」を使いました。
+eiken-3-garbage,eiken,eiken-3,garbage,ごみ,"This passage includes ""garbage"" as an important word.",この文章には重要語として「ごみ」が含まれています。
+eiken-3-garden,eiken,eiken-3,garden,庭,"The class discussed ""garden"" during the lesson.",その授業では「庭」について話し合いました。
+eiken-3-health,eiken,eiken-3,health,健康,"Learners should understand ""health"" in context.",学習者は文脈の中で「健康」を理解する必要があります。
+eiken-3-hobby,eiken,eiken-3,hobby,趣味,"Students learned ""hobby"" while reading the article.",生徒たちは記事を読みながら「趣味」を学びました。
+eiken-3-holiday,eiken,eiken-3,holiday,休日,"The speaker used ""holiday"" to explain the idea.",話し手は考えを説明するために「休日」を使いました。
+eiken-3-hospital,eiken,eiken-3,hospital,病院,"This passage includes ""hospital"" as an important word.",この文章には重要語として「病院」が含まれています。
+eiken-3-island,eiken,eiken-3,island,島,"The class discussed ""island"" during the lesson.",その授業では「島」について話し合いました。
+eiken-3-kitchen,eiken,eiken-3,kitchen,台所,"Learners should understand ""kitchen"" in context.",学習者は文脈の中で「台所」を理解する必要があります。
+eiken-3-library,eiken,eiken-3,library,図書館,"Students learned ""library"" while reading the article.",生徒たちは記事を読みながら「図書館」を学びました。
+eiken-3-message,eiken,eiken-3,message,伝言,"The speaker used ""message"" to explain the idea.",話し手は考えを説明するために「伝言」を使いました。
+eiken-3-museum,eiken,eiken-3,museum,博物館,"This passage includes ""museum"" as an important word.",この文章には重要語として「博物館」が含まれています。
+eiken-3-nature,eiken,eiken-3,nature,自然,"The class discussed ""nature"" during the lesson.",その授業では「自然」について話し合いました。
+eiken-3-noise,eiken,eiken-3,noise,騒音,"Learners should understand ""noise"" in context.",学習者は文脈の中で「騒音」を理解する必要があります。
+eiken-3-opinion,eiken,eiken-3,opinion,意見,"Students learned ""opinion"" while reading the article.",生徒たちは記事を読みながら「意見」を学びました。
+eiken-3-picnic,eiken,eiken-3,picnic,ピクニック,"The speaker used ""picnic"" to explain the idea.",話し手は考えを説明するために「ピクニック」を使いました。
+eiken-3-plan,eiken,eiken-3,plan,計画,"This passage includes ""plan"" as an important word.",この文章には重要語として「計画」が含まれています。
+eiken-3-problem,eiken,eiken-3,problem,問題,"The class discussed ""problem"" during the lesson.",その授業では「問題」について話し合いました。
+eiken-3-question,eiken,eiken-3,question,質問,"Learners should understand ""question"" in context.",学習者は文脈の中で「質問」を理解する必要があります。
+eiken-3-reason,eiken,eiken-3,reason,理由,"Students learned ""reason"" while reading the article.",生徒たちは記事を読みながら「理由」を学びました。
+eiken-3-restaurant,eiken,eiken-3,restaurant,レストラン,"The speaker used ""restaurant"" to explain the idea.",話し手は考えを説明するために「レストラン」を使いました。
+eiken-3-rule,eiken,eiken-3,rule,規則,"This passage includes ""rule"" as an important word.",この文章には重要語として「規則」が含まれています。
+eiken-3-season,eiken,eiken-3,season,季節,"The class discussed ""season"" during the lesson.",その授業では「季節」について話し合いました。
+eiken-3-station,eiken,eiken-3,station,駅,"Learners should understand ""station"" in context.",学習者は文脈の中で「駅」を理解する必要があります。
+eiken-3-ticket,eiken,eiken-3,ticket,切符,"Students learned ""ticket"" while reading the article.",生徒たちは記事を読みながら「切符」を学びました。
+eiken-3-trip,eiken,eiken-3,trip,旅行,"The speaker used ""trip"" to explain the idea.",話し手は考えを説明するために「旅行」を使いました。
+eiken-3-village,eiken,eiken-3,village,村,"This passage includes ""village"" as an important word.",この文章には重要語として「村」が含まれています。
+eiken-3-volunteer,eiken,eiken-3,volunteer,ボランティア,"The class discussed ""volunteer"" during the lesson.",その授業では「ボランティア」について話し合いました。
+eiken-3-weather,eiken,eiken-3,weather,天気,"Learners should understand ""weather"" in context.",学習者は文脈の中で「天気」を理解する必要があります。
+eiken-3-weekend,eiken,eiken-3,weekend,週末,"Students learned ""weekend"" while reading the article.",生徒たちは記事を読みながら「週末」を学びました。
+eiken-3-activity,eiken,eiken-3,activity,活動,"The speaker used ""activity"" to explain the idea.",話し手は考えを説明するために「活動」を使いました。
+eiken-3-beautiful,eiken,eiken-3,beautiful,美しい,"This passage includes ""beautiful"" as an important word.",この文章には重要語として「美しい」が含まれています。
+eiken-3-careful,eiken,eiken-3,careful,注意深い,"The class discussed ""careful"" during the lesson.",その授業では「注意深い」について話し合いました。
+eiken-3-clean,eiken,eiken-3,clean,清潔な,"Learners should understand ""clean"" in context.",学習者は文脈の中で「清潔な」を理解する必要があります。
+eiken-3-famous,eiken,eiken-3,famous,有名な,"Students learned ""famous"" while reading the article.",生徒たちは記事を読みながら「有名な」を学びました。
+eiken-3-favorite,eiken,eiken-3,favorite,お気に入りの,"The speaker used ""favorite"" to explain the idea.",話し手は考えを説明するために「お気に入りの」を使いました。
+eiken-3-friendly,eiken,eiken-3,friendly,親しみやすい,"This passage includes ""friendly"" as an important word.",この文章には重要語として「親しみやすい」が含まれています。
+eiken-3-important,eiken,eiken-3,important,重要な,"The class discussed ""important"" during the lesson.",その授業では「重要な」について話し合いました。
+eiken-3-interested,eiken,eiken-3,interested,興味がある,"Learners should understand ""interested"" in context.",学習者は文脈の中で「興味がある」を理解する必要があります。
+eiken-3-kind,eiken,eiken-3,kind,親切な,"Students learned ""kind"" while reading the article.",生徒たちは記事を読みながら「親切な」を学びました。
+eiken-3-popular,eiken,eiken-3,popular,人気のある,"The speaker used ""popular"" to explain the idea.",話し手は考えを説明するために「人気のある」を使いました。
+eiken-3-quiet,eiken,eiken-3,quiet,静かな,"This passage includes ""quiet"" as an important word.",この文章には重要語として「静かな」が含まれています。
+eiken-3-simple,eiken,eiken-3,simple,簡単な,"The class discussed ""simple"" during the lesson.",その授業では「簡単な」について話し合いました。
+eiken-3-useful,eiken,eiken-3,useful,役に立つ,"Learners should understand ""useful"" in context.",学習者は文脈の中で「役に立つ」を理解する必要があります。
+eiken-3-visit,eiken,eiken-3,visit,訪れる,"Students learned ""visit"" while reading the article.",生徒たちは記事を読みながら「訪れる」を学びました。
+eiken-3-borrow,eiken,eiken-3,borrow,借りる,"The speaker used ""borrow"" to explain the idea.",話し手は考えを説明するために「借りる」を使いました。
+eiken-3-choose,eiken,eiken-3,choose,選ぶ,"This passage includes ""choose"" as an important word.",この文章には重要語として「選ぶ」が含まれています。
+eiken-3-collect,eiken,eiken-3,collect,集める,"The class discussed ""collect"" during the lesson.",その授業では「集める」について話し合いました。
+eiken-3-decide,eiken,eiken-3,decide,決める,"Learners should understand ""decide"" in context.",学習者は文脈の中で「決める」を理解する必要があります。
+eiken-3-enjoy,eiken,eiken-3,enjoy,楽しむ,"Students learned ""enjoy"" while reading the article.",生徒たちは記事を読みながら「楽しむ」を学びました。
+eiken-3-explain,eiken,eiken-3,explain,説明する,"The speaker used ""explain"" to explain the idea.",話し手は考えを説明するために「説明する」を使いました。
+eiken-3-join,eiken,eiken-3,join,参加する,"This passage includes ""join"" as an important word.",この文章には重要語として「参加する」が含まれています。
+eiken-3-learn,eiken,eiken-3,learn,学ぶ,"The class discussed ""learn"" during the lesson.",その授業では「学ぶ」について話し合いました。
+eiken-3-protect,eiken,eiken-3,protect,守る,"Learners should understand ""protect"" in context.",学習者は文脈の中で「守る」を理解する必要があります。
+eiken-3-feedback,eiken,eiken-3,feedback,フィードバック,"Students learned ""feedback"" while reading the article.",生徒たちは記事を読みながら「フィードバック」を学びました。
+eiken-3-science,eiken,eiken-3,science,科学,"The speaker used ""science"" to explain the idea.",話し手は考えを説明するために「科学」を使いました。
+eiken-3-community,eiken,eiken-3,community,"共同会社,地域会社・共同体","This passage includes ""community"" as an important word.","この文章には重要語として「共同会社,地域会社・共同体」が含まれています。"
+eiken-3-concept,eiken,eiken-3,concept,"概念,観念,概念","The class discussed ""concept"" during the lesson.","その授業では「概念,観念,概念」について話し合いました。"
+eiken-3-analysis,eiken,eiken-3,analysis,"分析,分解","Learners should understand ""analysis"" in context.","学習者は文脈の中で「分析,分解」を理解する必要があります。"
+eiken-3-democracy,eiken,eiken-3,democracy,"民主政治,民主主義,民主政体,民主社会","Students learned ""democracy"" while reading the article.","生徒たちは記事を読みながら「民主政治,民主主義,民主政体,民主社会」を学びました。"
+eiken-3-technology,eiken,eiken-3,technology,"科学技術,工業技術・科学技術的な方法・文明の環境利用・応用科学","The speaker used ""technology"" to explain the idea.","話し手は考えを説明するために「科学技術,工業技術・科学技術的な方法・文明の環境利用・応用科学」を使いました。"
+eiken-3-society,eiken,eiken-3,society,"社会,世間,すべての人々","This passage includes ""society"" as an important word.","この文章には重要語として「社会,世間,すべての人々」が含まれています。"
+eiken-3-art,eiken,eiken-3,art,芸術,"The class discussed ""art"" during the lesson.",その授業では「芸術」について話し合いました。
+eiken-3-reaction,eiken,eiken-3,reaction,反応,"Learners should understand ""reaction"" in context.",学習者は文脈の中で「反応」を理解する必要があります。
+eiken-3-evidence,eiken,eiken-3,evidence,"証拠,証拠物件","Students learned ""evidence"" while reading the article.","生徒たちは記事を読みながら「証拠,証拠物件」を学びました。"
+eiken-3-education,eiken,eiken-3,education,教育,"The speaker used ""education"" to explain the idea.",話し手は考えを説明するために「教育」を使いました。
+eiken-3-van,eiken,eiken-3,van,"有蓋トラック,ほろつきトラック","This passage includes ""van"" as an important word.","この文章には重要語として「有蓋トラック,ほろつきトラック」が含まれています。"
+eiken-3-marketing,eiken,eiken-3,marketing,市場での売買,"The class discussed ""marketing"" during the lesson.",その授業では「市場での売買」について話し合いました。
+eiken-3-trouble,eiken,eiken-3,trouble,"苦難,心配,悩み","Learners should understand ""trouble"" in context.","学習者は文脈の中で「苦難,心配,悩み」を理解する必要があります。"
+eiken-3-institute,eiken,eiken-3,institute,"を設ける,設立する,制定する","Students learned ""institute"" while reading the article.","生徒たちは記事を読みながら「を設ける,設立する,制定する」を学びました。"
+eiken-3-liberal,eiken,eiken-3,liberal,自由主義の,"The speaker used ""liberal"" to explain the idea.",話し手は考えを説明するために「自由主義の」を使いました。
+eiken-3-finding,eiken,eiken-3,finding,発見すること・発見物,"This passage includes ""finding"" as an important word.",この文章には重要語として「発見すること・発見物」が含まれています。
+eiken-3-economy,eiken,eiken-3,economy,"経済,財政","The class discussed ""economy"" during the lesson.","その授業では「経済,財政」について話し合いました。"
+eiken-3-crisis,eiken,eiken-3,crisis,"重大な事態,難局,危機","Learners should understand ""crisis"" in context.","学習者は文脈の中で「重大な事態,難局,危機」を理解する必要があります。"
+eiken-3-theory,eiken,eiken-3,theory,"理論,学説","Students learned ""theory"" while reading the article.","生徒たちは記事を読みながら「理論,学説」を学びました。"
+eiken-3-educational,eiken,eiken-3,educational,"教育の,教育に関する","The speaker used ""educational"" to explain the idea.","話し手は考えを説明するために「教育の,教育に関する」を使いました。"
+eiken-3-affect,eiken,eiken-3,affect,影響する,"This passage includes ""affect"" as an important word.",この文章には重要語として「影響する」が含まれています。
+eiken-3-material,eiken,eiken-3,material,"材料,原料","The class discussed ""material"" during the lesson.","その授業では「材料,原料」について話し合いました。"
+eiken-3-academic,eiken,eiken-3,academic,"学問の,学術的な,教育の","Learners should understand ""academic"" in context.","学習者は文脈の中で「学問の,学術的な,教育の」を理解する必要があります。"
+eiken-3-ban,eiken,eiken-3,ban,"禁止,禁制","Students learned ""ban"" while reading the article.","生徒たちは記事を読みながら「禁止,禁制」を学びました。"
+eiken-3-campaign,eiken,eiken-3,campaign,"軍事行動,作戦,戦闘","The speaker used ""campaign"" to explain the idea.","話し手は考えを説明するために「軍事行動,作戦,戦闘」を使いました。"
+eiken-3-effect,eiken,eiken-3,effect,結果,"This passage includes ""effect"" as an important word.",この文章には重要語として「結果」が含まれています。
+eiken-3-empire,eiken,eiken-3,empire,帝国,"The class discussed ""empire"" during the lesson.",その授業では「帝国」について話し合いました。
+eiken-3-standard,eiken,eiken-3,standard,"標準,基準,水準,規範","Learners should understand ""standard"" in context.","学習者は文脈の中で「標準,基準,水準,規範」を理解する必要があります。"
+eiken-3-reform,eiken,eiken-3,reform,"編成し直す,再び作る","Students learned ""reform"" while reading the article.","生徒たちは記事を読みながら「編成し直す,再び作る」を学びました。"
+eiken-3-legal,eiken,eiken-3,legal,"法律の,法律上","The speaker used ""legal"" to explain the idea.","話し手は考えを説明するために「法律の,法律上」を使いました。"
+eiken-3-economic,eiken,eiken-3,economic,経済の,"This passage includes ""economic"" as an important word.",この文章には重要語として「経済の」が含まれています。
+eiken-3-ground,eiken,eiken-3,ground,"地面,地表","The class discussed ""ground"" during the lesson.","その授業では「地面,地表」について話し合いました。"
+eiken-3-philosophy,eiken,eiken-3,philosophy,哲学,"Learners should understand ""philosophy"" in context.",学習者は文脈の中で「哲学」を理解する必要があります。
+eiken-3-policy,eiken,eiken-3,policy,"方針,方策,政策","Students learned ""policy"" while reading the article.","生徒たちは記事を読みながら「方針,方策,政策」を学びました。"
+eiken-3-technique,eiken,eiken-3,technique,"技巧,技術","The speaker used ""technique"" to explain the idea.","話し手は考えを説明するために「技巧,技術」を使いました。"
+eiken-3-force,eiken,eiken-3,force,"力,勢い","This passage includes ""force"" as an important word.","この文章には重要語として「力,勢い」が含まれています。"
+eiken-3-economics,eiken,eiken-3,economics,経済学,"The class discussed ""economics"" during the lesson.",その授業では「経済学」について話し合いました。
+eiken-3-resource,eiken,eiken-3,resource,"資源,物資,資産,財源","Learners should understand ""resource"" in context.","学習者は文脈の中で「資源,物資,資産,財源」を理解する必要があります。"
+eiken-3-valid,eiken,eiken-3,valid,"妥当な,しっかりした根拠のある","Students learned ""valid"" while reading the article.","生徒たちは記事を読みながら「妥当な,しっかりした根拠のある」を学びました。"
+eiken-3-engage,eiken,eiken-3,engage,雇う,"The speaker used ""engage"" to explain the idea.",話し手は考えを説明するために「雇う」を使いました。
+eiken-3-terrorist,eiken,eiken-3,terrorist,"テロリスト,暴力主義者,恐怖政治家","This passage includes ""terrorist"" as an important word.","この文章には重要語として「テロリスト,暴力主義者,恐怖政治家」が含まれています。"
+eiken-3-ethnic,eiken,eiken-3,ethnic,民族の,"The class discussed ""ethnic"" during the lesson.",その授業では「民族の」について話し合いました。
+eiken-3-genius,eiken,eiken-3,genius,天才,"Learners should understand ""genius"" in context.",学習者は文脈の中で「天才」を理解する必要があります。
+eiken-3-disorder,eiken,eiken-3,disorder,"無秩序,混乱,乱雑","Students learned ""disorder"" while reading the article.","生徒たちは記事を読みながら「無秩序,混乱,乱雑」を学びました。"
+eiken-3-psychology,eiken,eiken-3,psychology,心理学,"The speaker used ""psychology"" to explain the idea.",話し手は考えを説明するために「心理学」を使いました。
+eiken-3-vietnam,eiken,eiken-3,vietnam,ベトナム = Viet Nam,"This passage includes ""vietnam"" as an important word.",この文章には重要語として「ベトナム = Viet Nam」が含まれています。
+eiken-3-regime,eiken,eiken-3,regime,政治体制,"The class discussed ""regime"" during the lesson.",その授業では「政治体制」について話し合いました。
+eiken-3-nazi,eiken,eiken-3,nazi,ナチ党員,"Learners should understand ""nazi"" in context.",学習者は文脈の中で「ナチ党員」を理解する必要があります。
+eiken-3-influence,eiken,eiken-3,influence,"影響,感化,効力","Students learned ""influence"" while reading the article.","生徒たちは記事を読みながら「影響,感化,効力」を学びました。"
+eiken-3-option,eiken,eiken-3,option,"選択すること,選択の権利","The speaker used ""option"" to explain the idea.","話し手は考えを説明するために「選択すること,選択の権利」を使いました。"
+eiken-3-finance,eiken,eiken-3,finance,"財政,財務,財政学","This passage includes ""finance"" as an important word.","この文章には重要語として「財政,財務,財政学」が含まれています。"
+eiken-3-condition,eiken,eiken-3,condition,状態,"The class discussed ""condition"" during the lesson.",その授業では「状態」について話し合いました。
+eiken-3-operation,eiken,eiken-3,operation,"作用,働き","Learners should understand ""operation"" in context.","学習者は文脈の中で「作用,働き」を理解する必要があります。"
+eiken-3-resolution,eiken,eiken-3,resolution,決心すること,"Students learned ""resolution"" while reading the article.",生徒たちは記事を読みながら「決心すること」を学びました。
+eiken-3-constitution,eiken,eiken-3,constitution,"構成,構造","The speaker used ""constitution"" to explain the idea.","話し手は考えを説明するために「構成,構造」を使いました。"
+eiken-3-construction,eiken,eiken-3,construction,"組立て,建築,建造","This passage includes ""construction"" as an important word.","この文章には重要語として「組立て,建築,建造」が含まれています。"
+eiken-3-revolution,eiken,eiken-3,revolution,革命,"The class discussed ""revolution"" during the lesson.",その授業では「革命」について話し合いました。
+eiken-3-legislation,eiken,eiken-3,legislation,"立法,法律制定","Learners should understand ""legislation"" in context.","学習者は文脈の中で「立法,法律制定」を理解する必要があります。"
+eiken-3-situation,eiken,eiken-3,situation,"立場,状態,境遇","Students learned ""situation"" while reading the article.","生徒たちは記事を読みながら「立場,状態,境遇」を学びました。"
+eiken-3-convention,eiken,eiken-3,convention,"会議,協議会","The speaker used ""convention"" to explain the idea.","話し手は考えを説明するために「会議,協議会」を使いました。"
+eiken-3-document,eiken,eiken-3,document,"文書,書類","This passage includes ""document"" as an important word.","この文章には重要語として「文書,書類」が含まれています。"
+eiken-3-tradition,eiken,eiken-3,tradition,"しきたり,伝統・ 伝説・慣例,文化遺産","The class discussed ""tradition"" during the lesson.","その授業では「しきたり,伝統・ 伝説・慣例,文化遺産」について話し合いました。"
+eiken-3-position,eiken,eiken-3,position,位置,"Learners should understand ""position"" in context.",学習者は文脈の中で「位置」を理解する必要があります。
+eiken-3-assessment,eiken,eiken-3,assessment,"評価,査定","Students learned ""assessment"" while reading the article.","生徒たちは記事を読みながら「評価,査定」を学びました。"
+eiken-3-enforcement,eiken,eiken-3,enforcement,"実施,施行","The speaker used ""enforcement"" to explain the idea.","話し手は考えを説明するために「実施,施行」を使いました。"
+eiken-3-development,eiken,eiken-3,development,"発達,発展,発育,成長","This passage includes ""development"" as an important word.","この文章には重要語として「発達,発展,発育,成長」が含まれています。"
+eiken-3-institution,eiken,eiken-3,institution,"設立,制定,開始","The class discussed ""institution"" during the lesson.","その授業では「設立,制定,開始」について話し合いました。"
+eiken-3-minority,eiken,eiken-3,minority,"少数,半数以下","Learners should understand ""minority"" in context.","学習者は文脈の中で「少数,半数以下」を理解する必要があります。"
+eiken-3-entrance,eiken,eiken-3,entrance,"入り口,玄関","Students learned ""entrance"" while reading the article.","生徒たちは記事を読みながら「入り口,玄関」を学びました。"
+eiken-3-sequence,eiken,eiken-3,sequence,"連続,続き","The speaker used ""sequence"" to explain the idea.","話し手は考えを説明するために「連続,続き」を使いました。"
+eiken-3-conservation,eiken,eiken-3,conservation,"保存,保護","This passage includes ""conservation"" as an important word.","この文章には重要語として「保存,保護」が含まれています。"
+eiken-3-innovation,eiken,eiken-3,innovation,"革新,刷新","The class discussed ""innovation"" during the lesson.","その授業では「革新,刷新」について話し合いました。"
+eiken-3-equity,eiken,eiken-3,equity,"公平,公正,無私","Learners should understand ""equity"" in context.","学習者は文脈の中で「公平,公正,無私」を理解する必要があります。"
+eiken-3-democratic,eiken,eiken-3,democratic,"民主主義の,民主政体の","Students learned ""democratic"" while reading the article.","生徒たちは記事を読みながら「民主主義の,民主政体の」を学びました。"
+eiken-3-religion,eiken,eiken-3,religion,宗教,"The speaker used ""religion"" to explain the idea.",話し手は考えを説明するために「宗教」を使いました。
+eiken-3-mail,eiken,eiken-3,mail,"鎖かたびら,よろい","This passage includes ""mail"" as an important word.","この文章には重要語として「鎖かたびら,よろい」が含まれています。"
+eiken-3-technical,eiken,eiken-3,technical,"専門の,専門的な","The class discussed ""technical"" during the lesson.","その授業では「専門の,専門的な」について話し合いました。"
+eiken-3-transfer,eiken,eiken-3,transfer,"を移す,移転させる,乗り換えさせる","Learners should understand ""transfer"" in context.","学習者は文脈の中で「を移す,移転させる,乗り換えさせる」を理解する必要があります。"
+eiken-3-develop,eiken,eiken-3,develop,"生じさせる,を現す","Students learned ""develop"" while reading the article.","生徒たちは記事を読みながら「生じさせる,を現す」を学びました。"
+eiken-3-cultural,eiken,eiken-3,cultural,文化的な,"The speaker used ""cultural"" to explain the idea.",話し手は考えを説明するために「文化的な」を使いました。
+eiken-3-alternative,eiken,eiken-3,alternative,"どちらかを選ぶべき,二者択一の","This passage includes ""alternative"" as an important word.","この文章には重要語として「どちらかを選ぶべき,二者択一の」が含まれています。"
+eiken-3-fellow,eiken,eiken-3,fellow,"男,やつ","The class discussed ""fellow"" during the lesson.","その授業では「男,やつ」について話し合いました。"
+eiken-3-setting,eiken,eiken-3,setting,はめこみ台,"Learners should understand ""setting"" in context.",学習者は文脈の中で「はめこみ台」を理解する必要があります。
+eiken-3-proof,eiken,eiken-3,proof,"証拠,証明","Students learned ""proof"" while reading the article.","生徒たちは記事を読みながら「証拠,証明」を学びました。"
+eiken-3-historical,eiken,eiken-3,historical,"歴史の,史学の","The speaker used ""historical"" to explain the idea.","話し手は考えを説明するために「歴史の,史学の」を使いました。"
+eiken-3-till,eiken,eiken-3,till,まで,"This passage includes ""till"" as an important word.",この文章には重要語として「まで」が含まれています。
+eiken-3-negative,eiken,eiken-3,negative,"否定の,反対の","The class discussed ""negative"" during the lesson.","その授業では「否定の,反対の」について話し合いました。"
+eiken-3-illegal,eiken,eiken-3,illegal,"不法の,違法の","Learners should understand ""illegal"" in context.","学習者は文脈の中で「不法の,違法の」を理解する必要があります。"
+eiken-3-soul,eiken,eiken-3,soul,"魂,霊魂","Students learned ""soul"" while reading the article.","生徒たちは記事を読みながら「魂,霊魂」を学びました。"
+eiken-3-grant,eiken,eiken-3,grant,"をかなえる,聞き入れる","The speaker used ""grant"" to explain the idea.","話し手は考えを説明するために「をかなえる,聞き入れる」を使いました。"
+eiken-3-lawyer,eiken,eiken-3,lawyer,弁護士,"This passage includes ""lawyer"" as an important word.",この文章には重要語として「弁護士」が含まれています。
+eiken-3-platform,eiken,eiken-3,platform,"壇,教壇,演壇","The class discussed ""platform"" during the lesson.","その授業では「壇,教壇,演壇」について話し合いました。"
+eiken-3-scientific,eiken,eiken-3,scientific,"科学の,学術的な","Learners should understand ""scientific"" in context.","学習者は文脈の中で「科学の,学術的な」を理解する必要があります。"
+eiken-3-profile,eiken,eiken-3,profile,"横顔,ゲロフィール","Students learned ""profile"" while reading the article.","生徒たちは記事を読みながら「横顔,ゲロフィール」を学びました。"
+eiken-3-abuse,eiken,eiken-3,abuse,"乱用,悪用","The speaker used ""abuse"" to explain the idea.","話し手は考えを説明するために「乱用,悪用」を使いました。"
+eiken-3-concern,eiken,eiken-3,concern,"関係する,かかわる,影響する","This passage includes ""concern"" as an important word.","この文章には重要語として「関係する,かかわる,影響する」が含まれています。"
+eiken-3-fund,eiken,eiken-3,fund,"資金,基金","The class discussed ""fund"" during the lesson.","その授業では「資金,基金」について話し合いました。"
+eiken-3-estate,eiken,eiken-3,estate,地所,"Learners should understand ""estate"" in context.",学習者は文脈の中で「地所」を理解する必要があります。
+eiken-3-smart,eiken,eiken-3,smart,"機敏な,気のきいた,抜け目のない","Students learned ""smart"" while reading the article.","生徒たちは記事を読みながら「機敏な,気のきいた,抜け目のない」を学びました。"
+eiken-3-demand,eiken,eiken-3,demand,"求める,せがむ","The speaker used ""demand"" to explain the idea.","話し手は考えを説明するために「求める,せがむ」を使いました。"
+eiken-3-affected,eiken,eiken-3,affected,"影響された,作用を受けた","This passage includes ""affected"" as an important word.","この文章には重要語として「影響された,作用を受けた」が含まれています。"
+eiken-3-species,eiken,eiken-3,species,"種,種族の下の単位)","The class discussed ""species"" during the lesson.","その授業では「種,種族の下の単位)」について話し合いました。"
+eiken-3-serve,eiken,eiken-3,serve,"に仕える,の役に立つ","Learners should understand ""serve"" in context.","学習者は文脈の中で「に仕える,の役に立つ」を理解する必要があります。"
+eiken-3-pure,eiken,eiken-3,pure,"混じりけのない,純粋の","Students learned ""pure"" while reading the article.","生徒たちは記事を読みながら「混じりけのない,純粋の」を学びました。"
+eiken-3-secure,eiken,eiken-3,secure,"安定した,確実性のある,保証されている","The speaker used ""secure"" to explain the idea.","話し手は考えを説明するために「安定した,確実性のある,保証されている」を使いました。"
+eiken-3-attempt,eiken,eiken-3,attempt,"企てる,試みる","This passage includes ""attempt"" as an important word.","この文章には重要語として「企てる,試みる」が含まれています。"
+eiken-3-accept,eiken,eiken-3,accept,"を受け取る,を受け入れる","The class discussed ""accept"" during the lesson.","その授業では「を受け取る,を受け入れる」について話し合いました。"
+eiken-3-freedom,eiken,eiken-3,freedom,自由,"Learners should understand ""freedom"" in context.",学習者は文脈の中で「自由」を理解する必要があります。
+eiken-3-therefore,eiken,eiken-3,therefore,"それゆえ,それで","Students learned ""therefore"" while reading the article.","生徒たちは記事を読みながら「それゆえ,それで」を学びました。"
+eiken-3-champion,eiken,eiken-3,champion,優勝者,"The speaker used ""champion"" to explain the idea.",話し手は考えを説明するために「優勝者」を使いました。
+eiken-3-avoid,eiken,eiken-3,avoid,"を避ける,回避する","This passage includes ""avoid"" as an important word.","この文章には重要語として「を避ける,回避する」が含まれています。"
+eiken-3-sick,eiken,eiken-3,sick,病気の,"The class discussed ""sick"" during the lesson.",その授業では「病気の」について話し合いました。
+eiken-3-responsible,eiken,eiken-3,responsible,"責任を伴う,責任の重い","Learners should understand ""responsible"" in context.","学習者は文脈の中で「責任を伴う,責任の重い」を理解する必要があります。"
+eiken-3-conservative,eiken,eiken-3,conservative,保守的な・保守主義の,"Students learned ""conservative"" while reading the article.",生徒たちは記事を読みながら「保守的な・保守主義の」を学びました。
+eiken-3-effective,eiken,eiken-3,effective,"効果的な,効きめのある","The speaker used ""effective"" to explain the idea.","話し手は考えを説明するために「効果的な,効きめのある」を使いました。"
+eiken-3-carry,eiken,eiken-3,carry,"運ぶ,運搬する,持って行く","This passage includes ""carry"" as an important word.","この文章には重要語として「運ぶ,運搬する,持って行く」が含まれています。"
+eiken-3-medium,eiken,eiken-3,medium,"中間にあるもの,中庸","The class discussed ""medium"" during the lesson.","その授業では「中間にあるもの,中庸」について話し合いました。"
+eiken-3-reserve,eiken,eiken-3,reserve,"別にしておく,取っておく","Learners should understand ""reserve"" in context.","学習者は文脈の中で「別にしておく,取っておく」を理解する必要があります。"
+eiken-3-impact,eiken,eiken-3,impact,"衝突,衝撃","Students learned ""impact"" while reading the article.","生徒たちは記事を読みながら「衝突,衝撃」を学びました。"
+eiken-3-commercial,eiken,eiken-3,commercial,"商業上の,通商上の,貿易上の","The speaker used ""commercial"" to explain the idea.","話し手は考えを説明するために「商業上の,通商上の,貿易上の」を使いました。"
+eiken-3-independent,eiken,eiken-3,independent,"頼らない,依存しない","This passage includes ""independent"" as an important word.","この文章には重要語として「頼らない,依存しない」が含まれています。"
+eiken-3-approach,eiken,eiken-3,approach,"に近づく,接近する","The class discussed ""approach"" during the lesson.","その授業では「に近づく,接近する」について話し合いました。"
+eiken-3-successful,eiken,eiken-3,successful,"成功した,好結果の,上首尾の","Learners should understand ""successful"" in context.","学習者は文脈の中で「成功した,好結果の,上首尾の」を理解する必要があります。"
+eiken-3-universe,eiken,eiken-3,universe,宇宙,"Students learned ""universe"" while reading the article.",生徒たちは記事を読みながら「宇宙」を学びました。
+eiken-3-physical,eiken,eiken-3,physical,"身体の,肉体の","The speaker used ""physical"" to explain the idea.","話し手は考えを説明するために「身体の,肉体の」を使いました。"
+eiken-3-product,eiken,eiken-3,product,産物,"This passage includes ""product"" as an important word.",この文章には重要語として「産物」が含まれています。
+eiken-3-letter,eiken,eiken-3,letter,"文字,字","The class discussed ""letter"" during the lesson.","その授業では「文字,字」について話し合いました。"
+eiken-3-academy,eiken,eiken-3,academy,"学士院,芸術院","Learners should understand ""academy"" in context.","学習者は文脈の中で「学士院,芸術院」を理解する必要があります。"
+eiken-3-assume,eiken,eiken-3,assume,"当然のことと思う,仮定する,推測する","Students learned ""assume"" while reading the article.","生徒たちは記事を読みながら「当然のことと思う,仮定する,推測する」を学びました。"
+eiken-3-global,eiken,eiken-3,global,"球の,球形の","The speaker used ""global"" to explain the idea.","話し手は考えを説明するために「球の,球形の」を使いました。"
+eiken-3-category,eiken,eiken-3,category,範疇,"This passage includes ""category"" as an important word.",この文章には重要語として「範疇」が含まれています。
+eiken-3-claim,eiken,eiken-3,claim,"要求する,請求する,を自分の物だと主張する","The class discussed ""claim"" during the lesson.","その授業では「要求する,請求する,を自分の物だと主張する」について話し合いました。"
+eiken-3-train,eiken,eiken-3,train,"列車,汽車,電車","Learners should understand ""train"" in context.","学習者は文脈の中で「列車,汽車,電車」を理解する必要があります。"
+eiken-3-subject,eiken,eiken-3,subject,"主題,問題,議題,話題","Students learned ""subject"" while reading the article.","生徒たちは記事を読みながら「主題,問題,議題,話題」を学びました。"
+eiken-3-fruit,eiken,eiken-3,fruit,"果物,実,果実","The speaker used ""fruit"" to explain the idea.","話し手は考えを説明するために「果物,実,果実」を使いました。"
+eiken-3-parent,eiken,eiken-3,parent,親,"This passage includes ""parent"" as an important word.",この文章には重要語として「親」が含まれています。
+eiken-3-programme,eiken,eiken-3,programme,"プログラム,番組表","The class discussed ""programme"" during the lesson.","その授業では「プログラム,番組表」について話し合いました。"
+eiken-3-expert,eiken,eiken-3,expert,"専門家,熟練者,大家","Learners should understand ""expert"" in context.","学習者は文脈の中で「専門家,熟練者,大家」を理解する必要があります。"
+eiken-3-severe,eiken,eiken-3,severe,"厳しい,厳格な","Students learned ""severe"" while reading the article.","生徒たちは記事を読みながら「厳しい,厳格な」を学びました。"
+eiken-3-attend,eiken,eiken-3,attend,"出席する,参列する,に通う","The speaker used ""attend"" to explain the idea.","話し手は考えを説明するために「出席する,参列する,に通う」を使いました。"
+eiken-3-credit,eiken,eiken-3,credit,信用,"This passage includes ""credit"" as an important word.",この文章には重要語として「信用」が含まれています。
+eiken-3-anti,eiken,eiken-3,anti,反対する人,"The class discussed ""anti"" during the lesson.",その授業では「反対する人」について話し合いました。
+eiken-3-student,eiken,eiken-3,student,"学生,生徒","Learners should understand ""student"" in context.","学習者は文脈の中で「学生,生徒」を理解する必要があります。"
+eiken-3-peace,eiken,eiken-3,peace,平和,"Students learned ""peace"" while reading the article.",生徒たちは記事を読みながら「平和」を学びました。
+eiken-3-championship,eiken,eiken-3,championship,優勝者の地位,"The speaker used ""championship"" to explain the idea.",話し手は考えを説明するために「優勝者の地位」を使いました。
+eiken-3-constant,eiken,eiken-3,constant,"不変の,一定の","This passage includes ""constant"" as an important word.","この文章には重要語として「不変の,一定の」が含まれています。"
+eiken-3-access,eiken,eiken-3,access,接近,"The class discussed ""access"" during the lesson.",その授業では「接近」について話し合いました。
+eiken-3-secondary,eiken,eiken-3,secondary,"第2の,2番目の","Learners should understand ""secondary"" in context.","学習者は文脈の中で「第2の,2番目の」を理解する必要があります。"
+eiken-3-success,eiken,eiken-3,success,"成功,好結果,上首尾","Students learned ""success"" while reading the article.","生徒たちは記事を読みながら「成功,好結果,上首尾」を学びました。"
+eiken-3-battery,eiken,eiken-3,battery,砲兵中隊,"The speaker used ""battery"" to explain the idea.",話し手は考えを説明するために「砲兵中隊」を使いました。
+eiken-3-army,eiken,eiken-3,army,陸軍,"This passage includes ""army"" as an important word.",この文章には重要語として「陸軍」が含まれています。
+eiken-3-paper,eiken,eiken-3,paper,紙,"The class discussed ""paper"" during the lesson.",その授業では「紙」について話し合いました。
+eiken-3-pick,eiken,eiken-3,pick,"選ぶ,選び取る","Learners should understand ""pick"" in context.","学習者は文脈の中で「選ぶ,選び取る」を理解する必要があります。"
+eiken-3-lose,eiken,eiken-3,lose,"を失う,なくす,を見失う,を失う","Students learned ""lose"" while reading the article.","生徒たちは記事を読みながら「を失う,なくす,を見失う,を失う」を学びました。"
+eiken-3-witness,eiken,eiken-3,witness,目撃者,"The speaker used ""witness"" to explain the idea.",話し手は考えを説明するために「目撃者」を使いました。
+eiken-3-code,eiken,eiken-3,code,法典,"This passage includes ""code"" as an important word.",この文章には重要語として「法典」が含まれています。
+eiken-3-release,eiken,eiken-3,release,"を自由にする,解放する","The class discussed ""release"" during the lesson.","その授業では「を自由にする,解放する」について話し合いました。"
+eiken-3-title,eiken,eiken-3,title,"題名,題目,題","Learners should understand ""title"" in context.","学習者は文脈の中で「題名,題目,題」を理解する必要があります。"
+eiken-3-engineer,eiken,eiken-3,engineer,"技師,技術家","Students learned ""engineer"" while reading the article.","生徒たちは記事を読みながら「技師,技術家」を学びました。"
+eiken-3-neighborhood,eiken,eiken-3,neighborhood,"近所,近隣","The speaker used ""neighborhood"" to explain the idea.","話し手は考えを説明するために「近所,近隣」を使いました。"
+eiken-3-operate,eiken,eiken-3,operate,"動く,作動する","This passage includes ""operate"" as an important word.","この文章には重要語として「動く,作動する」が含まれています。"
+eiken-3-drive,eiken,eiken-3,drive,"を追い立てる,追い払う,追い出す","The class discussed ""drive"" during the lesson.","その授業では「を追い立てる,追い払う,追い出す」について話し合いました。"
+eiken-3-follow,eiken,eiken-3,follow,の後について行く,"Learners should understand ""follow"" in context.",学習者は文脈の中で「の後について行く」を理解する必要があります。
+eiken-3-value,eiken,eiken-3,value,"価値,値打ち,有用性,重要性","Students learned ""value"" while reading the article.","生徒たちは記事を読みながら「価値,値打ち,有用性,重要性」を学びました。"
+eiken-3-source,eiken,eiken-3,source,"水源,源","The speaker used ""source"" to explain the idea.","話し手は考えを説明するために「水源,源」を使いました。"
+eiken-3-provide,eiken,eiken-3,provide,"供給する,提供する,与える","This passage includes ""provide"" as an important word.","この文章には重要語として「供給する,提供する,与える」が含まれています。"
+eiken-3-historic,eiken,eiken-3,historic,"歴史に残る,歴史的,歴史上有名な","The class discussed ""historic"" during the lesson.","その授業では「歴史に残る,歴史的,歴史上有名な」について話し合いました。"
+eiken-3-consistent,eiken,eiken-3,consistent,矛盾のない,"Learners should understand ""consistent"" in context.",学習者は文脈の中で「矛盾のない」を理解する必要があります。
+eiken-3-interest,eiken,eiken-3,interest,"興味,関心","Students learned ""interest"" while reading the article.","生徒たちは記事を読みながら「興味,関心」を学びました。"
+eiken-3-training,eiken,eiken-3,training,"訓練,専門教育,調教,トレーニング,養成","The speaker used ""training"" to explain the idea.","話し手は考えを説明するために「訓練,専門教育,調教,トレーニング,養成」を使いました。"
+eiken-3-result,eiken,eiken-3,result,"結果,結末","This passage includes ""result"" as an important word.","この文章には重要語として「結果,結末」が含まれています。"
+eiken-3-break,eiken,eiken-3,break,"壊す,割る,砕く","The class discussed ""break"" during the lesson.","その授業では「壊す,割る,砕く」について話し合いました。"
+eiken-3-test,eiken,eiken-3,test,"試験,考査,テスト","Learners should understand ""test"" in context.","学習者は文脈の中で「試験,考査,テスト」を理解する必要があります。"
+eiken-3-project,eiken,eiken-3,project,"計画する,企画する","Students learned ""project"" while reading the article.","生徒たちは記事を読みながら「計画する,企画する」を学びました。"
+eiken-3-rest,eiken,eiken-3,rest,"休息,休憩,休養","The speaker used ""rest"" to explain the idea.","話し手は考えを説明するために「休息,休憩,休養」を使いました。"
+eiken-3-mother,eiken,eiken-3,mother,母,"This passage includes ""mother"" as an important word.",この文章には重要語として「母」が含まれています。
+eiken-3-field,eiken,eiken-3,field,"野原,草地","The class discussed ""field"" during the lesson.","その授業では「野原,草地」について話し合いました。"
+eiken-3-establish,eiken,eiken-3,establish,"設立する,創設する","Learners should understand ""establish"" in context.","学習者は文脈の中で「設立する,創設する」を理解する必要があります。"
+eiken-3-study,eiken,eiken-3,study,"勉強,学習すること","Students learned ""study"" while reading the article.","生徒たちは記事を読みながら「勉強,学習すること」を学びました。"
+eiken-3-process,eiken,eiken-3,process,"作用,過程","The speaker used ""process"" to explain the idea.","話し手は考えを説明するために「作用,過程」を使いました。"
+eiken-3-program,eiken,eiken-3,program,"プログラム,番組表","This passage includes ""program"" as an important word.","この文章には重要語として「プログラム,番組表」が含まれています。"
+eiken-3-soldier,eiken,eiken-3,soldier,"軍人,下士官,兵士","The class discussed ""soldier"" during the lesson.","その授業では「軍人,下士官,兵士」について話し合いました。"
+eiken-3-bring,eiken,eiken-3,bring,を持ってくる,"Learners should understand ""bring"" in context.",学習者は文脈の中で「を持ってくる」を理解する必要があります。
+eiken-3-son,eiken,eiken-3,son,"息子・子孫・子,後継者・・お前さん・イエスキリスト","Students learned ""son"" while reading the article.","生徒たちは記事を読みながら「息子・子孫・子,後継者・・お前さん・イエスキリスト」を学びました。"
+eiken-3-available,eiken,eiken-3,available,"利用できる,役に立つ","The speaker used ""available"" to explain the idea.","話し手は考えを説明するために「利用できる,役に立つ」を使いました。"
+eiken-3-red,eiken,eiken-3,red,"赤,赤色","This passage includes ""red"" as an important word.","この文章には重要語として「赤,赤色」が含まれています。"
+eiken-3-deal,eiken,eiken-3,deal,"分配する,分ける","The class discussed ""deal"" during the lesson.","その授業では「分配する,分ける」について話し合いました。"
+eiken-3-rating,eiken,eiken-3,rating,"格づけ,評価","Learners should understand ""rating"" in context.","学習者は文脈の中で「格づけ,評価」を理解する必要があります。"
+eiken-3-assault,eiken,eiken-3,assault,"的な意で)襲うこと,強襲,攻撃","Students learned ""assault"" while reading the article.","生徒たちは記事を読みながら「的な意で)襲うこと,強襲,攻撃」を学びました。"
+eiken-3-procedure,eiken,eiken-3,procedure,"進行,進展","The speaker used ""procedure"" to explain the idea.","話し手は考えを説明するために「進行,進展」を使いました。"
+eiken-3-custom,eiken,eiken-3,custom,"習慣,風習,慣例","This passage includes ""custom"" as an important word.","この文章には重要語として「習慣,風習,慣例」が含まれています。"
+eiken-3-romantic,eiken,eiken-3,romantic,"ロマンチックな,伝奇物語的な,小説にありそうな","The class discussed ""romantic"" during the lesson.","その授業では「ロマンチックな,伝奇物語的な,小説にありそうな」について話し合いました。"
+eiken-3-racist,eiken,eiken-3,racist,民族主義者,"Learners should understand ""racist"" in context.",学習者は文脈の中で「民族主義者」を理解する必要があります。
+eiken-3-skill,eiken,eiken-3,skill,"熟練,技量,腕","Students learned ""skill"" while reading the article.","生徒たちは記事を読みながら「熟練,技量,腕」を学びました。"
+eiken-3-mexican,eiken,eiken-3,mexican,メキシコの,"The speaker used ""mexican"" to explain the idea.",話し手は考えを説明するために「メキシコの」を使いました。
+eiken-3-decent,eiken,eiken-3,decent,"きちんとした,ふさわしい","This passage includes ""decent"" as an important word.","この文章には重要語として「きちんとした,ふさわしい」が含まれています。"
+eiken-3-obtain,eiken,eiken-3,obtain,"得る,手に入れる","The class discussed ""obtain"" during the lesson.","その授業では「得る,手に入れる」について話し合いました。"
+eiken-3-bench,eiken,eiken-3,bench,"ベンチ,長いす","Learners should understand ""bench"" in context.","学習者は文脈の中で「ベンチ,長いす」を理解する必要があります。"
+eiken-3-subsequent,eiken,eiken-3,subsequent,"後の,次の,続いて起こる","Students learned ""subsequent"" while reading the article.","生徒たちは記事を読みながら「後の,次の,続いて起こる」を学びました。"
+eiken-3-pen,eiken,eiken-3,pen,International Association of Poets...,"The speaker used ""pen"" to explain the idea.",話し手は考えを説明するために「International Association of Poets...」を使いました。
+eiken-3-agriculture,eiken,eiken-3,agriculture,"農業,農学","This passage includes ""agriculture"" as an important word.","この文章には重要語として「農業,農学」が含まれています。"
+eiken-3-seed,eiken,eiken-3,seed,"種,種子","The class discussed ""seed"" during the lesson.","その授業では「種,種子」について話し合いました。"
+eiken-3-spell,eiken,eiken-3,spell,"をつづる,のつづりを言う ・のつづりである・ ・…を招く,意味する・...","Learners should understand ""spell"" in context.","学習者は文脈の中で「をつづる,のつづりを言う ・のつづりである・ ・…を招く,意味する・...」を理解する必要があります。"
+eiken-3-privacy,eiken,eiken-3,privacy,"他人から干渉されない状態,プライバシー","Students learned ""privacy"" while reading the article.","生徒たちは記事を読みながら「他人から干渉されない状態,プライバシー」を学びました。"
+eiken-3-strip,eiken,eiken-3,strip,裸にする,"The speaker used ""strip"" to explain the idea.",話し手は考えを説明するために「裸にする」を使いました。
+eiken-3-fancy,eiken,eiken-3,fancy,"空想,想像","This passage includes ""fancy"" as an important word.","この文章には重要語として「空想,想像」が含まれています。"
+eiken-3-ought,eiken,eiken-3,ought,"すべきである,するのが当然である","The class discussed ""ought"" during the lesson.","その授業では「すべきである,するのが当然である」について話し合いました。"
+eiken-3-outcome,eiken,eiken-3,outcome,"結果,成り行き","Learners should understand ""outcome"" in context.","学習者は文脈の中で「結果,成り行き」を理解する必要があります。"
+eiken-3-stretch,eiken,eiken-3,stretch,をいっぱいに伸ばす,"Students learned ""stretch"" while reading the article.",生徒たちは記事を読みながら「をいっぱいに伸ばす」を学びました。
+eiken-3-liberty,eiken,eiken-3,liberty,"自由,独立,解放","The speaker used ""liberty"" to explain the idea.","話し手は考えを説明するために「自由,独立,解放」を使いました。"
+eiken-3-principle,eiken,eiken-3,principle,"原理,原則","This passage includes ""principle"" as an important word.","この文章には重要語として「原理,原則」が含まれています。"
+eiken-3-progressive,eiken,eiken-3,progressive,"前進する,進んで行く","The class discussed ""progressive"" during the lesson.","その授業では「前進する,進んで行く」について話し合いました。"
+eiken-3-pretend,eiken,eiken-3,pretend,"のふりをする,に見せかける","Learners should understand ""pretend"" in context.","学習者は文脈の中で「のふりをする,に見せかける」を理解する必要があります。"
+eiken-3-russell,eiken,eiken-3,russell,ラッセル,"Students learned ""russell"" while reading the article.",生徒たちは記事を読みながら「ラッセル」を学びました。
+eiken-3-communist,eiken,eiken-3,communist,共産主義者,"The speaker used ""communist"" to explain the idea.",話し手は考えを説明するために「共産主義者」を使いました。
+eiken-3-eve,eiken,eiken-3,eve,"イブ,エバ","This passage includes ""eve"" as an important word.","この文章には重要語として「イブ,エバ」が含まれています。"
+eiken-3-investigate,eiken,eiken-3,investigate,"を調べる,研究する","The class discussed ""investigate"" during the lesson.","その授業では「を調べる,研究する」について話し合いました。"
+eiken-3-laboratory,eiken,eiken-3,laboratory,"実験室,研究室,試験室","Learners should understand ""laboratory"" in context.","学習者は文脈の中で「実験室,研究室,試験室」を理解する必要があります。"
+eiken-3-ruin,eiken,eiken-3,ruin,"破滅,崩壊,没落","Students learned ""ruin"" while reading the article.","生徒たちは記事を読みながら「破滅,崩壊,没落」を学びました。"
+eiken-3-collective,eiken,eiken-3,collective,"集めた,収集された","The speaker used ""collective"" to explain the idea.","話し手は考えを説明するために「集めた,収集された」を使いました。"
+eiken-3-craft,eiken,eiken-3,craft,"技能,技巧","This passage includes ""craft"" as an important word.","この文章には重要語として「技能,技巧」が含まれています。"
+eiken-3-seal,eiken,eiken-3,seal,アザラシ,"The class discussed ""seal"" during the lesson.",その授業では「アザラシ」について話し合いました。
+eiken-3-educated,eiken,eiken-3,educated,教育のある,"Learners should understand ""educated"" in context.",学習者は文脈の中で「教育のある」を理解する必要があります。
+eiken-3-loop,eiken,eiken-3,loop,輪・輪状のもの,"Students learned ""loop"" while reading the article.",生徒たちは記事を読みながら「輪・輪状のもの」を学びました。
+eiken-3-intent,eiken,eiken-3,intent,"意図,目的","The speaker used ""intent"" to explain the idea.","話し手は考えを説明するために「意図,目的」を使いました。"
+eiken-3-description,eiken,eiken-3,description,"記述,描写","This passage includes ""description"" as an important word.","この文章には重要語として「記述,描写」が含まれています。"
+eiken-3-mention,eiken,eiken-3,mention,簡潔に述べる,"The class discussed ""mention"" during the lesson.",その授業では「簡潔に述べる」について話し合いました。
+eiken-3-audience,eiken,eiken-3,audience,"聴衆,観衆,観客,見物人","Learners should understand ""audience"" in context.","学習者は文脈の中で「聴衆,観衆,観客,見物人」を理解する必要があります。"
+eiken-3-presence,eiken,eiken-3,presence,"居ること,あること","Students learned ""presence"" while reading the article.","生徒たちは記事を読みながら「居ること,あること」を学びました。"
+eiken-3-reference,eiken,eiken-3,reference,"言及すること,話に触れること","The speaker used ""reference"" to explain the idea.","話し手は考えを説明するために「言及すること,話に触れること」を使いました。"
+eiken-3-parliament,eiken,eiken-3,parliament,"議会,国会","This passage includes ""parliament"" as an important word.","この文章には重要語として「議会,国会」が含まれています。"
+eiken-3-violence,eiken,eiken-3,violence,"暴力,乱暴","The class discussed ""violence"" during the lesson.","その授業では「暴力,乱暴」について話し合いました。"
+eiken-3-conversation,eiken,eiken-3,conversation,"会話,談話,座談","Learners should understand ""conversation"" in context.","学習者は文脈の中で「会話,談話,座談」を理解する必要があります。"
+eiken-3-capacity,eiken,eiken-3,capacity,"収容力,容量,容積","Students learned ""capacity"" while reading the article.","生徒たちは記事を読みながら「収容力,容量,容積」を学びました。"
+eiken-3-connection,eiken,eiken-3,connection,"関係,つながり,関係","The speaker used ""connection"" to explain the idea.","話し手は考えを説明するために「関係,つながり,関係」を使いました。"
+eiken-3-balance,eiken,eiken-3,balance,"天びん,はかり","This passage includes ""balance"" as an important word.","この文章には重要語として「天びん,はかり」が含まれています。"
+eiken-3-intelligence,eiken,eiken-3,intelligence,"知能,知力,理解力","The class discussed ""intelligence"" during the lesson.","その授業では「知能,知力,理解力」について話し合いました。"
+eiken-3-appearance,eiken,eiken-3,appearance,"現れること,出現","Learners should understand ""appearance"" in context.","学習者は文脈の中で「現れること,出現」を理解する必要があります。"
+eiken-3-function,eiken,eiken-3,function,"働き,機能,役目","Students learned ""function"" while reading the article.","生徒たちは記事を読みながら「働き,機能,役目」を学びました。"
+eiken-3-edition,eiken,eiken-3,edition,版,"The speaker used ""edition"" to explain the idea.",話し手は考えを説明するために「版」を使いました。
+eiken-3-foundation,eiken,eiken-3,foundation,"設立すること,創立","This passage includes ""foundation"" as an important word.","この文章には重要語として「設立すること,創立」が含まれています。"
+eiken-3-authority,eiken,eiken-3,authority,"権威,権力,権限,権能","The class discussed ""authority"" during the lesson.","その授業では「権威,権力,権限,権能」について話し合いました。"
+eiken-3-generation,eiken,eiken-3,generation,"同時代の人人,世代","Learners should understand ""generation"" in context.","学習者は文脈の中で「同時代の人人,世代」を理解する必要があります。"
+eiken-3-payment,eiken,eiken-3,payment,"支払い,納入","Students learned ""payment"" while reading the article.","生徒たちは記事を読みながら「支払い,納入」を学びました。"
+eiken-3-advance,eiken,eiken-3,advance,"前進させる,前に出す","The speaker used ""advance"" to explain the idea.","話し手は考えを説明するために「前進させる,前に出す」を使いました。"
+eiken-3-apartment,eiken,eiken-3,apartment,"アパート,1家族分の部屋","This passage includes ""apartment"" as an important word.","この文章には重要語として「アパート,1家族分の部屋」が含まれています。"
+eiken-3-confidence,eiken,eiken-3,confidence,"信頼,信用,信任","The class discussed ""confidence"" during the lesson.","その授業では「信頼,信用,信任」について話し合いました。"
+eiken-3-identity,eiken,eiken-3,identity,同一であること,"Learners should understand ""identity"" in context.",学習者は文脈の中で「同一であること」を理解する必要があります。
+eiken-3-solution,eiken,eiken-3,solution,"解くこと,解明,解決法","Students learned ""solution"" while reading the article.","生徒たちは記事を読みながら「解くこと,解明,解決法」を学びました。"
+eiken-3-investment,eiken,eiken-3,investment,"投資すること,出資","The speaker used ""investment"" to explain the idea.","話し手は考えを説明するために「投資すること,出資」を使いました。"
+eiken-3-argument,eiken,eiken-3,argument,"論争,口論","This passage includes ""argument"" as an important word.","この文章には重要語として「論争,口論」が含まれています。"
+eiken-3-distribution,eiken,eiken-3,distribution,"配分,分配,配布,配達","The class discussed ""distribution"" during the lesson.","その授業では「配分,分配,配布,配達」について話し合いました。"
+eiken-3-protection,eiken,eiken-3,protection,"保護すること,守ること","Learners should understand ""protection"" in context.","学習者は文脈の中で「保護すること,守ること」を理解する必要があります。"
+eiken-3-distance,eiken,eiken-3,distance,"距離,間隔","Students learned ""distance"" while reading the article.","生徒たちは記事を読みながら「距離,間隔」を学びました。"
+eiken-3-location,eiken,eiken-3,location,位置を捜し出すこと,"The speaker used ""location"" to explain the idea.",話し手は考えを説明するために「位置を捜し出すこと」を使いました。
+eiken-3-application,eiken,eiken-3,application,"適用,応用","This passage includes ""application"" as an important word.","この文章には重要語として「適用,応用」が含まれています。"
+eiken-3-nation,eiken,eiken-3,nation,国民,"The class discussed ""nation"" during the lesson.",その授業では「国民」について話し合いました。
+eiken-3-selection,eiken,eiken-3,selection,"選ぶこと,選抜,選出","Learners should understand ""selection"" in context.","学習者は文脈の中で「選ぶこと,選抜,選出」を理解する必要があります。"
+eiken-3-equipment,eiken,eiken-3,equipment,備品,"Students learned ""equipment"" while reading the article.",生徒たちは記事を読みながら「備品」を学びました。
+eiken-3-comment,eiken,eiken-3,comment,"論評,解説,注釈,意見","The speaker used ""comment"" to explain the idea.","話し手は考えを説明するために「論評,解説,注釈,意見」を使いました。"
+eiken-3-agreement,eiken,eiken-3,agreement,"一致,調和,同意","This passage includes ""agreement"" as an important word.","この文章には重要語として「一致,調和,同意」が含まれています。"
+eiken-3-reality,eiken,eiken-3,reality,"現実,実在","The class discussed ""reality"" during the lesson.","その授業では「現実,実在」について話し合いました。"
+eiken-3-combination,eiken,eiken-3,combination,"結合,組み合わせ","Learners should understand ""combination"" in context.","学習者は文脈の中で「結合,組み合わせ」を理解する必要があります。"
+eiken-3-facility,eiken,eiken-3,facility,"容易さ,便利さ","Students learned ""facility"" while reading the article.","生徒たちは記事を読みながら「容易さ,便利さ」を学びました。"
+eiken-3-competition,eiken,eiken-3,competition,競争,"The speaker used ""competition"" to explain the idea.",話し手は考えを説明するために「競争」を使いました。
+eiken-3-assistance,eiken,eiken-3,assistance,"手伝い,助力","This passage includes ""assistance"" as an important word.","この文章には重要語として「手伝い,助力」が含まれています。"
+eiken-3-organization,eiken,eiken-3,organization,"組織化,編成","The class discussed ""organization"" during the lesson.","その授業では「組織化,編成」について話し合いました。"
+eiken-3-instance,eiken,eiken-3,instance,"例,実例","Learners should understand ""instance"" in context.","学習者は文脈の中で「例,実例」を理解する必要があります。"
+eiken-3-motion,eiken,eiken-3,motion,"動くこと,運動,運行,移動","Students learned ""motion"" while reading the article.","生徒たちは記事を読みながら「動くこと,運動,運行,移動」を学びました。"
+eiken-3-direction,eiken,eiken-3,direction,"方向,方角","The speaker used ""direction"" to explain the idea.","話し手は考えを説明するために「方向,方角」を使いました。"
+eiken-3-dance,eiken,eiken-3,dance,"踊る,舞う,ダンスをする","This passage includes ""dance"" as an important word.","この文章には重要語として「踊る,舞う,ダンスをする」が含まれています。"
+eiken-3-majority,eiken,eiken-3,majority,"大多数,過半数","The class discussed ""majority"" during the lesson.","その授業では「大多数,過半数」について話し合いました。"
+eiken-3-insurance,eiken,eiken-3,insurance,"保険, 保険契約","Learners should understand ""insurance"" in context.","学習者は文脈の中で「保険, 保険契約」を理解する必要があります。"
+eiken-3-definition,eiken,eiken-3,definition,"定義,語義の記述","Students learned ""definition"" while reading the article.","生徒たちは記事を読みながら「定義,語義の記述」を学びました。"
+eiken-3-independence,eiken,eiken-3,independence,"独立,自立,独立心","The speaker used ""independence"" to explain the idea.","話し手は考えを説明するために「独立,自立,独立心」を使いました。"
+eiken-3-possibility,eiken,eiken-3,possibility,"可能性,実現性","This passage includes ""possibility"" as an important word.","この文章には重要語として「可能性,実現性」が含まれています。"
+eiken-3-opportunity,eiken,eiken-3,opportunity,"機会,好機","The class discussed ""opportunity"" during the lesson.","その授業では「機会,好機」について話し合いました。"
+eiken-3-sentence,eiken,eiken-3,sentence,"文,文章","Learners should understand ""sentence"" in context.","学習者は文脈の中で「文,文章」を理解する必要があります。"
+eiken-3-opposition,eiken,eiken-3,opposition,"反対すること,反対,対立,抵抗,敵対","Students learned ""opposition"" while reading the article.","生徒たちは記事を読みながら「反対すること,反対,対立,抵抗,敵対」を学びました。"
+eiken-3-collection,eiken,eiken-3,collection,"集めること,収集,採集","The speaker used ""collection"" to explain the idea.","話し手は考えを説明するために「集めること,収集,採集」を使いました。"
+eiken-3-ability,eiken,eiken-3,ability,"能力,力量","This passage includes ""ability"" as an important word.","この文章には重要語として「能力,力量」が含まれています。"
+eiken-3-statement,eiken,eiken-3,statement,声明すること,"The class discussed ""statement"" during the lesson.",その授業では「声明すること」について話し合いました。
+eiken-3-movement,eiken,eiken-3,movement,"運動,動き","Learners should understand ""movement"" in context.","学習者は文脈の中で「運動,動き」を理解する必要があります。"
+eiken-3-creation,eiken,eiken-3,creation,"創造,創作,創設","Students learned ""creation"" while reading the article.","生徒たちは記事を読みながら「創造,創作,創設」を学びました。"
+eiken-3-employment,eiken,eiken-3,employment,雇用,"The speaker used ""employment"" to explain the idea.",話し手は考えを説明するために「雇用」を使いました。
+eiken-3-importance,eiken,eiken-3,importance,"重要性,重大さ","This passage includes ""importance"" as an important word.","この文章には重要語として「重要性,重大さ」が含まれています。"
+eiken-3-section,eiken,eiken-3,section,"部分,部品","The class discussed ""section"" during the lesson.","その授業では「部分,部品」について話し合いました。"
+eiken-3-tournament,eiken,eiken-3,tournament,トーナメント,"Learners should understand ""tournament"" in context.",学習者は文脈の中で「トーナメント」を理解する必要があります。
+eiken-3-existence,eiken,eiken-3,existence,"存在,実在","Students learned ""existence"" while reading the article.","生徒たちは記事を読みながら「存在,実在」を学びました。"
+eiken-3-treatment,eiken,eiken-3,treatment,"取り扱い,扱い方","The speaker used ""treatment"" to explain the idea.","話し手は考えを説明するために「取り扱い,扱い方」を使いました。"
+eiken-3-maintenance,eiken,eiken-3,maintenance,"維持,持続,保全,保守","This passage includes ""maintenance"" as an important word.","この文章には重要語として「維持,持続,保全,保守」が含まれています。"
+eiken-3-population,eiken,eiken-3,population,"人口,住民の数","The class discussed ""population"" during the lesson.","その授業では「人口,住民の数」について話し合いました。"
+eiken-3-personality,eiken,eiken-3,personality,"個性,性格","Learners should understand ""personality"" in context.","学習者は文脈の中で「個性,性格」を理解する必要があります。"
+eiken-3-difference,eiken,eiken-3,difference,"違い,相違点,意見などの食い違い","Students learned ""difference"" while reading the article.","生徒たちは記事を読みながら「違い,相違点,意見などの食い違い」を学びました。"
+eiken-3-conference,eiken,eiken-3,conference,"会議,協議会","The speaker used ""conference"" to explain the idea.","話し手は考えを説明するために「会議,協議会」を使いました。"
+eiken-3-resistance,eiken,eiken-3,resistance,抵抗すること,"This passage includes ""resistance"" as an important word.",この文章には重要語として「抵抗すること」が含まれています。
+eiken-3-association,eiken,eiken-3,association,"交際,付き合い","The class discussed ""association"" during the lesson.","その授業では「交際,付き合い」について話し合いました。"
+eiken-3-addition,eiken,eiken-3,addition,"付け加えること,追加","Learners should understand ""addition"" in context.","学習者は文脈の中で「付け加えること,追加」を理解する必要があります。"
+eiken-3-portion,eiken,eiken-3,portion,"部分,一部分","Students learned ""portion"" while reading the article.","生徒たちは記事を読みながら「部分,一部分」を学びました。"
+eiken-3-retirement,eiken,eiken-3,retirement,"引退,退職","The speaker used ""retirement"" to explain the idea.","話し手は考えを説明するために「引退,退職」を使いました。"
+eiken-3-introduction,eiken,eiken-3,introduction,紹介すること,"This passage includes ""introduction"" as an important word.",この文章には重要語として「紹介すること」が含まれています。
+eiken-3-election,eiken,eiken-3,election,選挙,"The class discussed ""election"" during the lesson.",その授業では「選挙」について話し合いました。
+eiken-3-defence,eiken,eiken-3,defence,"防御,守備,防衛","Learners should understand ""defence"" in context.","学習者は文脈の中で「防御,守備,防衛」を理解する必要があります。"
+eiken-3-quality,eiken,eiken-3,quality,"特質,特性","Students learned ""quality"" while reading the article.","生徒たちは記事を読みながら「特質,特性」を学びました。"
+eiken-3-attention,eiken,eiken-3,attention,"注意,注意力","The speaker used ""attention"" to explain the idea.","話し手は考えを説明するために「注意,注意力」を使いました。"
+eiken-3-management,eiken,eiken-3,management,"管理,運営","This passage includes ""management"" as an important word.","この文章には重要語として「管理,運営」が含まれています。"
+eiken-3-appointment,eiken,eiken-3,appointment,約束,"The class discussed ""appointment"" during the lesson.",その授業では「約束」について話し合いました。
+eiken-3-production,eiken,eiken-3,production,"生み出すこと,生産,産出,製造","Learners should understand ""production"" in context.","学習者は文脈の中で「生み出すこと,生産,産出,製造」を理解する必要があります。"
+eiken-3-criticism,eiken,eiken-3,criticism,批評,"Students learned ""criticism"" while reading the article.",生徒たちは記事を読みながら「批評」を学びました。
+eiken-3-formation,eiken,eiken-3,formation,"形成,構成,育成","The speaker used ""formation"" to explain the idea.","話し手は考えを説明するために「形成,構成,育成」を使いました。"
+eiken-3-improvement,eiken,eiken-3,improvement,"改良,改善,進歩,上達","This passage includes ""improvement"" as an important word.","この文章には重要語として「改良,改善,進歩,上達」が含まれています。"
+eiken-3-performance,eiken,eiken-3,performance,"遂行,実行,履行","The class discussed ""performance"" during the lesson.","その授業では「遂行,実行,履行」について話し合いました。"
+eiken-3-security,eiken,eiken-3,security,"安全,無事","Learners should understand ""security"" in context.","学習者は文脈の中で「安全,無事」を理解する必要があります。"
+eiken-3-immigration,eiken,eiken-3,immigration,"移住,入植","Students learned ""immigration"" while reading the article.","生徒たちは記事を読みながら「移住,入植」を学びました。"
+eiken-3-recognition,eiken,eiken-3,recognition,"見て気がつくこと,見覚え","The speaker used ""recognition"" to explain the idea.","話し手は考えを説明するために「見て気がつくこと,見覚え」を使いました。"
+eiken-3-reputation,eiken,eiken-3,reputation,"評判,世評","This passage includes ""reputation"" as an important word.","この文章には重要語として「評判,世評」が含まれています。"
+eiken-3-department,eiken,eiken-3,department,"部門,部,課","The class discussed ""department"" during the lesson.","その授業では「部門,部,課」について話し合いました。"
+eiken-3-moment,eiken,eiken-3,moment,"瞬間,瞬時","Learners should understand ""moment"" in context.","学習者は文脈の中で「瞬間,瞬時」を理解する必要があります。"
+eiken-3-action,eiken,eiken-3,action,"行動,活動","Students learned ""action"" while reading the article.","生徒たちは記事を読みながら「行動,活動」を学びました。"
+eiken-3-experience,eiken,eiken-3,experience,"経験,体験","The speaker used ""experience"" to explain the idea.","話し手は考えを説明するために「経験,体験」を使いました。"
+eiken-3-silence,eiken,eiken-3,silence,"静けさ,音がしないこと","This passage includes ""silence"" as an important word.","この文章には重要語として「静けさ,音がしないこと」が含まれています。"
+eiken-3-transition,eiken,eiken-3,transition,"移り変わること,変遷","The class discussed ""transition"" during the lesson.","その授業では「移り変わること,変遷」について話し合いました。"
+eiken-3-charity,eiken,eiken-3,charity,"博愛,慈愛,思いやり","Learners should understand ""charity"" in context.","学習者は文脈の中で「博愛,慈愛,思いやり」を理解する必要があります。"
+eiken-3-publication,eiken,eiken-3,publication,"出版,発行","Students learned ""publication"" while reading the article.","生徒たちは記事を読みながら「出版,発行」を学びました。"
+eiken-3-explanation,eiken,eiken-3,explanation,"説明,解説,弁明","The speaker used ""explanation"" to explain the idea.","話し手は考えを説明するために「説明,解説,弁明」を使いました。"
+eiken-3-fiction,eiken,eiken-3,fiction,"作り話,作り事,虚構","This passage includes ""fiction"" as an important word.","この文章には重要語として「作り話,作り事,虚構」が含まれています。"
+eiken-3-replacement,eiken,eiken-3,replacement,"置き換わること,取り替えること,元へ戻すこと","The class discussed ""replacement"" during the lesson.","その授業では「置き換わること,取り替えること,元へ戻すこと」について話し合いました。"
+eiken-3-commitment,eiken,eiken-3,commitment,約束,"Learners should understand ""commitment"" in context.",学習者は文脈の中で「約束」を理解する必要があります。
+eiken-3-electricity,eiken,eiken-3,electricity,電気,"Students learned ""electricity"" while reading the article.",生徒たちは記事を読みながら「電気」を学びました。
+eiken-3-evolution,eiken,eiken-3,evolution,"発展,進展,展開","The speaker used ""evolution"" to explain the idea.","話し手は考えを説明するために「発展,進展,展開」を使いました。"
+eiken-3-inspiration,eiken,eiken-3,inspiration,"霊感,インスピレーション","This passage includes ""inspiration"" as an important word.","この文章には重要語として「霊感,インスピレーション」が含まれています。"
+eiken-3-priority,eiken,eiken-3,priority,先であること,"The class discussed ""priority"" during the lesson.",その授業では「先であること」について話し合いました。
+eiken-3-promotion,eiken,eiken-3,promotion,"昇進,進級","Learners should understand ""promotion"" in context.","学習者は文脈の中で「昇進,進級」を理解する必要があります。"
+eiken-3-alliance,eiken,eiken-3,alliance,"同盟,協定","Students learned ""alliance"" while reading the article.","生徒たちは記事を読みながら「同盟,協定」を学びました。"
+eiken-3-vacation,eiken,eiken-3,vacation,"休暇,休み","The speaker used ""vacation"" to explain the idea.","話し手は考えを説明するために「休暇,休み」を使いました。"
+eiken-3-reduction,eiken,eiken-3,reduction,"減らすこと,減少,縮小,格下げ,割り引き","This passage includes ""reduction"" as an important word.","この文章には重要語として「減らすこと,減少,縮小,格下げ,割り引き」が含まれています。"
+eiken-3-translation,eiken,eiken-3,translation,"訳すこと,翻訳","The class discussed ""translation"" during the lesson.","その授業では「訳すこと,翻訳」について話し合いました。"
+eiken-3-amendment,eiken,eiken-3,amendment,"修正,改正","Learners should understand ""amendment"" in context.","学習者は文脈の中で「修正,改正」を理解する必要があります。"
+eiken-3-experiment,eiken,eiken-3,experiment,"実験,試み","Students learned ""experiment"" while reading the article.","生徒たちは記事を読みながら「実験,試み」を学びました。"
+eiken-3-regulation,eiken,eiken-3,regulation,"規則,規定","The speaker used ""regulation"" to explain the idea.","話し手は考えを説明するために「規則,規定」を使いました。"
+eiken-3-exhibition,eiken,eiken-3,exhibition,"表すこと,示すこと,発揮","This passage includes ""exhibition"" as an important word.","この文章には重要語として「表すこと,示すこと,発揮」が含まれています。"
+eiken-3-achievement,eiken,eiken-3,achievement,"成就,達成","The class discussed ""achievement"" during the lesson.","その授業では「成就,達成」について話し合いました。"
+eiken-3-destruction,eiken,eiken-3,destruction,破壊,"Learners should understand ""destruction"" in context.",学習者は文脈の中で「破壊」を理解する必要があります。
+eiken-3-organisation,eiken,eiken-3,organisation,"組織化,編成","Students learned ""organisation"" while reading the article.","生徒たちは記事を読みながら「組織化,編成」を学びました。"
+eiken-3-residence,eiken,eiken-3,residence,"住宅,邸宅","The speaker used ""residence"" to explain the idea.","話し手は考えを説明するために「住宅,邸宅」を使いました。"
+eiken-3-corruption,eiken,eiken-3,corruption,"不正行為,汚職","This passage includes ""corruption"" as an important word.","この文章には重要語として「不正行為,汚職」が含まれています。"
+eiken-3-exception,eiken,eiken-3,exception,除外すること除外,"The class discussed ""exception"" during the lesson.",その授業では「除外すること除外」について話し合いました。
+eiken-3-absence,eiken,eiken-3,absence,"留守,不在","Learners should understand ""absence"" in context.","学習者は文脈の中で「留守,不在」を理解する必要があります。"
+eiken-3-contribution,eiken,eiken-3,contribution,寄付すること,"Students learned ""contribution"" while reading the article.",生徒たちは記事を読みながら「寄付すること」を学びました。
+eiken-3-punishment,eiken,eiken-3,punishment,罰を,"The speaker used ""punishment"" to explain the idea.",話し手は考えを説明するために「罰を」を使いました。
+eiken-3-compensation,eiken,eiken-3,compensation,"償い,代償,埋め合わせ","This passage includes ""compensation"" as an important word.","この文章には重要語として「償い,代償,埋め合わせ」が含まれています。"
+eiken-3-composition,eiken,eiken-3,composition,"創作,制作","The class discussed ""composition"" during the lesson.","その授業では「創作,制作」について話し合いました。"
+eiken-3-density,eiken,eiken-3,density,密集,"Learners should understand ""density"" in context.",学習者は文脈の中で「密集」を理解する必要があります。
+eiken-3-guidance,eiken,eiken-3,guidance,指導,"Students learned ""guidance"" while reading the article.",生徒たちは記事を読みながら「指導」を学びました。
+eiken-3-infection,eiken,eiken-3,infection,伝染,"The speaker used ""infection"" to explain the idea.",話し手は考えを説明するために「伝染」を使いました。
+eiken-3-intention,eiken,eiken-3,intention,"意図,考え,目的","This passage includes ""intention"" as an important word.","この文章には重要語として「意図,考え,目的」が含まれています。"
+eiken-3-diversity,eiken,eiken-3,diversity,"相違,差違","The class discussed ""diversity"" during the lesson.","その授業では「相違,差違」について話し合いました。"
+eiken-3-preparation,eiken,eiken-3,preparation,用意,"Learners should understand ""preparation"" in context.",学習者は文脈の中で「用意」を理解する必要があります。
+eiken-3-registration,eiken,eiken-3,registration,"登録すること,登録","Students learned ""registration"" while reading the article.","生徒たちは記事を読みながら「登録すること,登録」を学びました。"
+eiken-3-romance,eiken,eiken-3,romance,"伝奇物語,冒険物語","The speaker used ""romance"" to explain the idea.","話し手は考えを説明するために「伝奇物語,冒険物語」を使いました。"
+eiken-3-announcement,eiken,eiken-3,announcement,"発表,公表","This passage includes ""announcement"" as an important word.","この文章には重要語として「発表,公表」が含まれています。"
+eiken-3-engagement,eiken,eiken-3,engagement,"約束,契約,取り決め","The class discussed ""engagement"" during the lesson.","その授業では「約束,契約,取り決め」について話し合いました。"
+eiken-3-presentation,eiken,eiken-3,presentation,"贈呈,贈与","Learners should understand ""presentation"" in context.","学習者は文脈の中で「贈呈,贈与」を理解する必要があります。"
+eiken-3-relation,eiken,eiken-3,relation,"関係,関連","Students learned ""relation"" while reading the article.","生徒たちは記事を読みながら「関係,関連」を学びました。"
+eiken-3-stability,eiken,eiken-3,stability,"安定,確固,不動","The speaker used ""stability"" to explain the idea.","話し手は考えを説明するために「安定,確固,不動」を使いました。"
+eiken-3-cooperation,eiken,eiken-3,cooperation,"協力,協同","This passage includes ""cooperation"" as an important word.","この文章には重要語として「協力,協同」が含まれています。"
+eiken-3-involvement,eiken,eiken-3,involvement,"関連,関与,かかわり合い","The class discussed ""involvement"" during the lesson.","その授業では「関連,関与,かかわり合い」について話し合いました。"
+eiken-3-petition,eiken,eiken-3,petition,"請願書,陳情書","Learners should understand ""petition"" in context.","学習者は文脈の中で「請願書,陳情書」を理解する必要があります。"
+eiken-3-celebration,eiken,eiken-3,celebration,"祝賀,祝典の挙行","Students learned ""celebration"" while reading the article.","生徒たちは記事を読みながら「祝賀,祝典の挙行」を学びました。"
+eiken-3-celebrity,eiken,eiken-3,celebrity,有名人,"The speaker used ""celebrity"" to explain the idea.",話し手は考えを説明するために「有名人」を使いました。
+eiken-3-execution,eiken,eiken-3,execution,"実行,遂行","This passage includes ""execution"" as an important word.","この文章には重要語として「実行,遂行」が含まれています。"
+eiken-3-interaction,eiken,eiken-3,interaction,相互作用,"The class discussed ""interaction"" during the lesson.",その授業では「相互作用」について話し合いました。
+eiken-3-judgment,eiken,eiken-3,judgment,"判断力,思慮,分別","Learners should understand ""judgment"" in context.","学習者は文脈の中で「判断力,思慮,分別」を理解する必要があります。"
+eiken-3-prevention,eiken,eiken-3,prevention,予防すること,"Students learned ""prevention"" while reading the article.",生徒たちは記事を読みながら「予防すること」を学びました。
+eiken-3-tourism,eiken,eiken-3,tourism,観光旅行,"The speaker used ""tourism"" to explain the idea.",話し手は考えを説明するために「観光旅行」を使いました。
+eiken-3-guard,eiken,eiken-3,guard,"見張り,番人","This passage includes ""guard"" as an important word.","この文章には重要語として「見張り,番人」が含まれています。"
+eiken-3-honest,eiken,eiken-3,honest,"正直な,信頼できる","The class discussed ""honest"" during the lesson.","その授業では「正直な,信頼できる」について話し合いました。"
+eiken-3-exist,eiken,eiken-3,exist,"存在する,実在する","Learners should understand ""exist"" in context.","学習者は文脈の中で「存在する,実在する」を理解する必要があります。"
+eiken-3-excellent,eiken,eiken-3,excellent,"すぐれた,優秀な","Students learned ""excellent"" while reading the article.","生徒たちは記事を読みながら「すぐれた,優秀な」を学びました。"
+eiken-3-lee,eiken,eiken-3,lee,"物陰,風下","The speaker used ""lee"" to explain the idea.","話し手は考えを説明するために「物陰,風下」を使いました。"
+eiken-3-core,eiken,eiken-3,core,しん,"This passage includes ""core"" as an important word.",この文章には重要語として「しん」が含まれています。
+eiken-3-medicine,eiken,eiken-3,medicine,"医学,医術","The class discussed ""medicine"" during the lesson.","その授業では「医学,医術」について話し合いました。"
+eiken-3-mountain,eiken,eiken-3,mountain,山,"Learners should understand ""mountain"" in context.",学習者は文脈の中で「山」を理解する必要があります。
+eiken-3-bay,eiken,eiken-3,bay,"湾,入り江","Students learned ""bay"" while reading the article.","生徒たちは記事を読みながら「湾,入り江」を学びました。"
+eiken-3-nuclear,eiken,eiken-3,nuclear,"核の,細胞核の","The speaker used ""nuclear"" to explain the idea.","話し手は考えを説明するために「核の,細胞核の」を使いました。"
+eiken-3-arm,eiken,eiken-3,arm,腕,"This passage includes ""arm"" as an important word.",この文章には重要語として「腕」が含まれています。
+eiken-3-port,eiken,eiken-3,port,港,"The class discussed ""port"" during the lesson.",その授業では「港」について話し合いました。
+eiken-3-wine,eiken,eiken-3,wine,"ワイン,ぶどう酒","Learners should understand ""wine"" in context.","学習者は文脈の中で「ワイン,ぶどう酒」を理解する必要があります。"
+eiken-3-reduce,eiken,eiken-3,reduce,"を減らす,小さくする","Students learned ""reduce"" while reading the article.","生徒たちは記事を読みながら「を減らす,小さくする」を学びました。"
+eiken-3-web,eiken,eiken-3,web,巣,"The speaker used ""web"" to explain the idea.",話し手は考えを説明するために「巣」を使いました。
+eiken-3-shoot,eiken,eiken-3,shoot,"を撃つ,発射する,を射る,を放つ・を撃つ,射る・を矢つぎばやに出す,...","This passage includes ""shoot"" as an important word.","この文章には重要語として「を撃つ,発射する,を射る,を放つ・を撃つ,射る・を矢つぎばやに出す,...」が含まれています。"
+eiken-3-solid,eiken,eiken-3,solid,"固体の,固形の","The class discussed ""solid"" during the lesson.","その授業では「固体の,固形の」について話し合いました。"
+eiken-3-stated,eiken,eiken-3,stated,"決まった,規定の","Learners should understand ""stated"" in context.","学習者は文脈の中で「決まった,規定の」を理解する必要があります。"
+eiken-3-spanish,eiken,eiken-3,spanish,スペイン人,"Students learned ""spanish"" while reading the article.",生徒たちは記事を読みながら「スペイン人」を学びました。
+eiken-3-somewhere,eiken,eiken-3,somewhere,"どこかに,どこかへ","The speaker used ""somewhere"" to explain the idea.","話し手は考えを説明するために「どこかに,どこかへ」を使いました。"
+eiken-3-sport,eiken,eiken-3,sport,"スポーツ,運動競技","This passage includes ""sport"" as an important word.","この文章には重要語として「スポーツ,運動競技」が含まれています。"
+eiken-3-taste,eiken,eiken-3,taste,味覚,"The class discussed ""taste"" during the lesson.",その授業では「味覚」について話し合いました。
+eiken-3-prepared,eiken,eiken-3,prepared,"用意のできた,準備された","Learners should understand ""prepared"" in context.","学習者は文脈の中で「用意のできた,準備された」を理解する必要があります。"
+eiken-3-tea,eiken,eiken-3,tea,"茶,紅茶","Students learned ""tea"" while reading the article.","生徒たちは記事を読みながら「茶,紅茶」を学びました。"
+eiken-3-victory,eiken,eiken-3,victory,"勝利,戦勝","The speaker used ""victory"" to explain the idea.","話し手は考えを説明するために「勝利,戦勝」を使いました。"
+eiken-3-ordered,eiken,eiken-3,ordered,"整然とした,規則正しい","This passage includes ""ordered"" as an important word.","この文章には重要語として「整然とした,規則正しい」が含まれています。"
+eiken-3-afternoon,eiken,eiken-3,afternoon,午後,"The class discussed ""afternoon"" during the lesson.",その授業では「午後」について話し合いました。
+eiken-3-assistant,eiken,eiken-3,assistant,"助手,補佐役","Learners should understand ""assistant"" in context.","学習者は文脈の中で「助手,補佐役」を理解する必要があります。"
+eiken-3-martin,eiken,eiken-3,martin,イワツバメ,"Students learned ""martin"" while reading the article.",生徒たちは記事を読みながら「イワツバメ」を学びました。
+eiken-3-magazine,eiken,eiken-3,magazine,雑誌,"The speaker used ""magazine"" to explain the idea.",話し手は考えを説明するために「雑誌」を使いました。
+eiken-3-mad,eiken,eiken-3,mad,"気が狂った,気違いの","This passage includes ""mad"" as an important word.","この文章には重要語として「気が狂った,気違いの」が含まれています。"
+eiken-3-clothes,eiken,eiken-3,clothes,"衣服,着物","The class discussed ""clothes"" during the lesson.","その授業では「衣服,着物」について話し合いました。"
+eiken-3-lovely,eiken,eiken-3,lovely,"美しい,ほれぼれするような,かわいらしい","Learners should understand ""lovely"" in context.","学習者は文脈の中で「美しい,ほれぼれするような,かわいらしい」を理解する必要があります。"
+eiken-3-iron,eiken,eiken-3,iron,鉄,"Students learned ""iron"" while reading the article.",生徒たちは記事を読みながら「鉄」を学びました。
+eiken-3-electric,eiken,eiken-3,electric,電気の,"The speaker used ""electric"" to explain the idea.",話し手は考えを説明するために「電気の」を使いました。
+eiken-3-injury,eiken,eiken-3,injury,"負傷,損害,損傷","This passage includes ""injury"" as an important word.","この文章には重要語として「負傷,損害,損傷」が含まれています。"
+eiken-3-emergency,eiken,eiken-3,emergency,"非常の場合,緊急の場合","The class discussed ""emergency"" during the lesson.","その授業では「非常の場合,緊急の場合」について話し合いました。"
+eiken-3-entirely,eiken,eiken-3,entirely,"全く,すっかり,完全に","Learners should understand ""entirely"" in context.","学習者は文脈の中で「全く,すっかり,完全に」を理解する必要があります。"
+eiken-3-forever,eiken,eiken-3,forever,"永久に,永遠に","Students learned ""forever"" while reading the article.","生徒たちは記事を読みながら「永久に,永遠に」を学びました。"
+eiken-3-failure,eiken,eiken-3,failure,"失敗,不成功","The speaker used ""failure"" to explain the idea.","話し手は考えを説明するために「失敗,不成功」を使いました。"
+eiken-3-excited,eiken,eiken-3,excited,興奮した,"This passage includes ""excited"" as an important word.",この文章には重要語として「興奮した」が含まれています。
+eiken-3-evil,eiken,eiken-3,evil,"邪悪な,罪深い","The class discussed ""evil"" during the lesson.","その授業では「邪悪な,罪深い」について話し合いました。"
+eiken-3-edge,eiken,eiken-3,edge,"縁,端","Learners should understand ""edge"" in context.","学習者は文脈の中で「縁,端」を理解する必要があります。"
